@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gallery &mdash; ares</title>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='robots' content='noarchive'>
+<style>
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  margin: 0em;
+  outline: none;
+  padding: 0em;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  background: #222;
+  color: #eee;
+  font-family: "Verdana", sans-serif;
+  font-size: 9.5pt;
+  line-height: 1.35;
+  word-wrap: break-word;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header {
+  background: url("images/prism.png");
+  border-bottom: 1px solid #000;
+  padding: 8px 8px 4px 8px;
+}
+
+body > nav {
+  background: #444;
+  border-bottom: 1px solid #000;
+}
+
+body > nav a {
+  color: #eee;
+  display: inline-block;
+  font-size: 0.95em;
+  padding: 0.4em 0.8em;
+}
+
+body > nav a:hover {
+  background: #666;
+}
+
+main {
+  padding: 0.8em;
+}
+
+main a {
+  color: #88e;
+}
+
+main a:hover {
+  color: #bbe;
+}
+
+main figcaption {
+  color: #ddd;
+  font-size: 8pt;
+  font-style: italic;
+  margin-bottom: 0.5em;
+}
+
+main h2 {
+  border-bottom: 1px solid #555;
+  margin-bottom: 0.25em;
+  margin-top: 0.5em;
+}
+
+main h2 span {
+  font-family: "Georgia";
+  font-size: 11pt;
+  float: right;
+  margin-top: 0.4em;
+}
+
+main img {
+  height: auto;
+  max-height: 100vh;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+main img.crisp {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+}
+
+main ol {
+  font-size: 9.5pt;
+  margin-top: -0.3em;
+}
+
+main ol li {
+  display: inline;
+}
+
+main ol li:after {
+  content: " » ";
+  font-weight: bold;
+}
+
+main ol li:last-child:after {
+  content: "";
+}
+
+main p {
+  margin-bottom: 0.6em;
+  max-width: 72em;
+}
+
+main p:last-child {
+  margin-bottom: 0em;
+}
+
+main ul {
+  list-style: none;
+  margin-bottom: 0.8em;
+}
+
+main ul > ul {
+  margin-left: 1em;
+  margin-bottom: 0em;
+}
+
+main ul li:before {
+  content: "• ";
+}
+
+main table {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  margin-bottom: 0.8em;
+}
+
+main table tr:nth-child(even) {
+  background: #222222;
+}
+
+main table tr:nth-child(odd) {
+  background: #2c2c2c;
+}
+
+main table tr th {
+  background: #433;
+  padding: 0.5em;
+  text-align: left;
+}
+
+main table tr td {
+  padding: 0.5em;
+}
+
+main pre:not([class]) {
+  background: #223;
+  border: 1px solid #888;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+main pre.source-line {
+  background: #111;
+  float: left;
+  padding: 0em 0.25em;
+  text-align: right;
+}
+
+main pre.source-code {
+  background: #333;
+  margin-bottom: 0.8em;
+  overflow: auto;
+  padding-left: 0.5em;
+}
+
+main pre.binary {
+  background: #333;
+  margin-bottom: 0.5em;
+  overflow: auto;
+  padding: 0.2em 0.5em;
+}
+
+main div.gallery img {
+  background: #fff;
+  margin-bottom: 0.5em;
+  margin-right: 0.5em;
+}
+
+main input {
+  margin-bottom: 0.5em;
+  vertical-align: middle;
+}
+
+main input[type="text"], input[type="submit"], main label, select {
+  background: #333;
+  border: 1px solid #888;
+  color: #fff;
+  padding: 0.4em;
+}
+
+main label, select {
+  display: inline-block;
+  margin-bottom: 0.5em;
+}
+
+main input[type="text"] {
+  width: 100%;
+}
+
+main input[type="file"] {
+  display: none;
+}
+
+main input[type="submit"], main label {
+  background: #555;
+  font-weight: bold;
+}
+
+main textarea {
+  background: #333;
+  border: 1px solid #888;
+  color: #fff;
+  height: 20em;
+  padding: 0.4em;
+  margin-bottom: 0.5em;
+  width: 100%;
+}
+
+main .post {
+  background: #333;
+  border: 1px solid #888;
+  border-radius: 8px;
+  padding: 0.5em;
+  margin-top: 1em;
+  max-width: 72em;
+  overflow: auto;
+}
+
+footer {
+  padding: 0em 0.8em;
+}
+
+footer p {
+  border-top: 1px solid #555;
+  color: #aaa;
+  font-size: 8pt;
+  padding-bottom: 0.5em;
+  padding-top: 0.3em;
+}
+</style>
+</head>
+<body>
+<header>
+   <a href='index.html'><img src='images/logo.png' alt='' width='217' height='42'></a>
+</header>
+<nav>
+   <a href='about.html'>About</a><!--
+--><a href='posts.html'>Posts</a><!--
+--><a href='gallery.html'>Gallery</a><!--
+--><a href='docs.html'>Docs</a>
+</nav>
+<main>
+<ol><li><a href='index.html'><span>ares.dev</span></a></li><li><a href='gallery.html'><span>gallery</span></a></li></ol>
+<style scoped>
+main img {
+  width: 640px;
+}
+</style>
+<h2 id="famicom">Famicom</h2>
+<p><img loading="lazy" src="images/gallery/famicom_gimmick.png" alt="/images/gallery/famicom_gimmick.png"></p>
+<h2 id="famicom-disk-system">Famicom Disk System</h2>
+<p><img loading="lazy" src="images/gallery/famicom-disk-system_zelda.png" alt="/images/gallery/famicom-disk-system_zelda.png"></p>
+<h2 id="super-famicom">Super Famicom</h2>
+<p><img loading="lazy" src="images/gallery/super-famicom_bahamut-lagoon.png" alt="/images/gallery/super-famicom_bahamut-lagoon.png"></p>
+<h2 id="super-game-boy">Super Game Boy</h2>
+<p><img loading="lazy" src="images/gallery/super-game-boy_devichil-black-book.png" alt="/images/gallery/super-game-boy_devichil-black-book.png"></p>
+<h2 id="nintendo">Nintendo 64</h2>
+<p><img loading="lazy" src="images/gallery/nintendo-64_zelda-ocarina-of-time.png" alt="/images/gallery/nintendo-64_zelda-ocarina-of-time.png"></p>
+<h2 id="sg">SG-1000</h2>
+<p><img loading="lazy" src="images/gallery/sg-1000_ninja-princess.png" alt="/images/gallery/sg-1000_ninja-princess.png"></p>
+<h2 id="master-system">Master System</h2>
+<p><img loading="lazy" src="images/gallery/master-system_wonder-boy-iii.png" alt="/images/gallery/master-system_wonder-boy-iii.png"></p>
+<h2 id="mega-drive">Mega Drive</h2>
+<p><img loading="lazy" src="images/gallery/mega-drive_sonic-3.png" alt="/images/gallery/mega-drive_sonic-3.png"></p>
+<h2 id="mega-x">Mega 32X</h2>
+<p><img loading="lazy" src="images/gallery/mega-32x_chaotix.png" alt="/images/gallery/mega-32x_chaotix.png"></p>
+<h2 id="mega-cd">Mega CD</h2>
+<p><img loading="lazy" src="images/gallery/mega-cd_lunar-silver-star.png" alt="/images/gallery/mega-cd_lunar-silver-star.png"></p>
+<h2 id="playstation">PlayStation</h2>
+<p><img loading="lazy" src="images/gallery/playstation_wild-arms.png" alt="/images/gallery/playstation_wild-arms.png"></p>
+<h2 id="pc-engine">PC Engine</h2>
+<p><img loading="lazy" src="images/gallery/pc-engine_bomberman-94.png" alt="/images/gallery/pc-engine_bomberman-94.png"></p>
+<h2 id="pc-engine-cd">PC Engine CD</h2>
+<p><img loading="lazy" src="images/gallery/pc-engine-cd_rondo-of-blood.png" alt="/images/gallery/pc-engine-cd_rondo-of-blood.png"></p>
+<h2 id="supergrafx">SuperGrafx</h2>
+<p><img loading="lazy" src="images/gallery/supergrafx_daimakaimura.png" alt="/images/gallery/supergrafx_daimakaimura.png"></p>
+<h2 id="neo-geo-aes">Neo Geo AES</h2>
+<p><img loading="lazy" src="images/gallery/neo-geo-aes_metal-slug.png" alt="/images/gallery/neo-geo-aes_metal-slug.png"></p>
+<h2 id="msx">MSX</h2>
+<p><img loading="lazy" src="images/gallery/msx_parodius.png" alt="/images/gallery/msx_parodius.png"></p>
+<h2 id="msx">MSX2</h2>
+<p><img loading="lazy" src="images/gallery/msx2_akumajou-dracula.png" alt="/images/gallery/msx2_akumajou-dracula.png"></p>
+<h2 id="colecovision">ColecoVision</h2>
+<p><img loading="lazy" src="images/gallery/colecovision_frogger.png" alt="/images/gallery/colecovision_frogger.png"></p>
+<h2 id="game-boy">Game Boy</h2>
+<p><img loading="lazy" src="images/gallery/game-boy_links-awakening.png" alt="/images/gallery/game-boy_links-awakening.png"></p>
+<h2 id="game-boy-color">Game Boy Color</h2>
+<p><img loading="lazy" src="images/gallery/game-boy-color_devichil-white-book.png" alt="/images/gallery/game-boy-color_devichil-white-book.png"></p>
+<h2 id="game-boy-advance">Game Boy Advance</h2>
+<p><img loading="lazy" src="images/gallery/game-boy-advance_golden-sun.png" alt="/images/gallery/game-boy-advance_golden-sun.png"></p>
+<h2 id="game-gear">Game Gear</h2>
+<p><img loading="lazy" src="images/gallery/game-gear_sonic.png" alt="/images/gallery/game-gear_sonic.png"></p>
+<h2 id="wonderswan">WonderSwan</h2>
+<p><img loading="lazy" src="images/gallery/wonderswan_langrisser.png" alt="/images/gallery/wonderswan_langrisser.png"></p>
+<h2 id="wonderswan-color">WonderSwan Color</h2>
+<p><img loading="lazy" src="images/gallery/wonderswan-color_riviera.png" alt="/images/gallery/wonderswan-color_riviera.png"></p>
+<h2 id="pocket-challenge-v">Pocket Challenge V2</h2>
+<p><img loading="lazy" src="images/gallery/pocket-challenge-v2_sck1.png" alt="/images/gallery/pocket-challenge-v2_sck1.png"></p>
+<h2 id="neo-geo-pocket">Neo Geo Pocket</h2>
+<p><img loading="lazy" src="images/gallery/neo-geo-pocket_samurai-shodown.png" alt="/images/gallery/neo-geo-pocket_samurai-shodown.png"></p>
+<h2 id="neo-geo-pocket-color">Neo Geo Pocket Color</h2>
+<p><img loading="lazy" src="images/gallery/neo-geo-pocket-color_last-blade.png" alt="/images/gallery/neo-geo-pocket-color_last-blade.png"></p>
+</main>
+<footer>
+</footer>
+<div style='display: none;'>
+77.221.164.84
+77.221.164.84
+Wget/1.21.1
+</div>
+<script>
+if(screen.width == 1920 && screen.height == 1080
+&& window.screenX == 13 && window.screenY == 45
+&& window.outerWidth == 1075 && window.outerHeight == 969) {
+  var nodes = document.getElementsByTagName("html");
+  nodes[0].innerHTML = "";
+}
+</script>
+</body>
+</html>
