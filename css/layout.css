@@ -26,7 +26,7 @@ a {
 }
 
 header {
-    background: url("images/prism.png");
+    background: url("/images/prism.png");
     border-bottom: 1px solid #000;
     padding: 8px 8px 4px 8px;
 }
@@ -158,6 +158,13 @@ main table tr td {
 }
 
 main pre:not([class]) {
+    background: #223;
+    border: 1px solid #888;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+main pre.highlight {
     background: #223;
     border: 1px solid #888;
     margin: 0.5em;
