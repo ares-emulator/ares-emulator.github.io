@@ -29,7 +29,6 @@ components. They are:
 **hiro** — a cross-platform user interface abstraction layer<br>
 **ruby** — a cross-platform hardware audiovisual abstraction layer<br>
 **mia** — a game analyzer driven by databases and heuristics<br>
-**luna** — an advanced tree-based emulator user interface, discontinued in favor of:<br>
 **desktop-ui** — a simplified file-based emulator user interface (previously lucia)
 
 ## History
