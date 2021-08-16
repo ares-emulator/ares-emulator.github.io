@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<ol><li><a href='/'><span>ares</span></a></li><li><a href='/posts.html'><span>posts</span></a></li><li><a href='{{ page.url }}'><span>{{ page.date | date: "%Y%m%d%H%M" }}</span></a></li></ol>
+<div class='post'><p><a href='{{ page.url }}'>{{ page.date | date: "%F %R" }}</a><br><a style='color: inherit;' href='{{ page.url }}'>{{ page.title }}</a></p>
+  {{ content }}
+</div>
