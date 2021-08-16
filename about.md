@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ares - About"
+title: "About"
 ---
 
 <ol><li><a href='/index'><span>ares</span></a></li><li><a href='/about'><span>about</span></a></li></ol>

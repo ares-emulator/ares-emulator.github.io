@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ares - Docs"
+title: "Documentation"
 ---
 
 <ol><li><a href='/index'><span>ares</span></a></li><li><a href='/docs'><span>docs</span></a></li></ol>

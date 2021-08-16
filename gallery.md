@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ares - Gallery"
+title: "Gallery"
 ---
 
 <ol><li><a href='/index'><span>ares</span></a></li><li><a href='/gallery'><span>gallery</span></a></li></ol>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ares - Credits"
+title: "Credits"
 ---
 
 <ol><li><a href='/index'><span>ares</span></a></li><li><a href='/credits'><span>credits</span></a></li></ol>

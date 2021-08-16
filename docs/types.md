@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ares - Docs/Types"
+title: "Type Documentation"
 ---
 
 <ol>

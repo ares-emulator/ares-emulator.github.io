@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ares - Posts"
+title: "Posts"
 ---
 
 <ol><li><a href='/index'><span>ares</span></a></li><li><a href='/posts'><span>posts</span></a></li></ol>

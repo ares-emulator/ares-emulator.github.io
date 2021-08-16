@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ares - Docs/Node"
+title: "Node Documentation"
 ---
 
 <ol>
