@@ -23,7 +23,7 @@ ares is available under the terms of the [ISC](https://opensource.org/licenses/I
 
 ## Issues
 
-You may file issues via the [GitHub issue tracker](https://github.com/ares-emu/ares)
+You may file issues via the [GitHub issue tracker](https://github.com/higan-emu/ares)
 
 ## Features
  * Native multi-platform UI
