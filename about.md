@@ -11,7 +11,7 @@ ares is an open-source multi-system emulator with a focus on accuracy and
 preservation. Its source code is structured to be maximally readable and
 self-documenting.
 
-The ares name was chosen as an homage to the protagonist of my all-time favorite
+The ares name was chosen as an homage to the protagonist of Near's all-time favorite
 video game, Lunar: The Silver Star. In fact, most of the internal naming of ares
 falls in the same vein: hiro, nall, ruby, luna, lucia, mia and more are all from
 the Lunar universe, which is further reflected in ares' icon. Being able to play
@@ -55,15 +55,13 @@ multi-system emulator, as well as to begin adding more modern systems such as
 the Nintendo 64 and PlayStation, which simply cannot be emulated using the
 cycle-accurate model of higan.
 
+On July 5th, 2021 **ares** became a public open-source project with Luke Usher
+(known for Cxbx-Reloaded, Insignia, PolyBlast) as the new project lead.
+
 Presently, bsnes, higan, and ares are developed as public open-source projects 
 under group management bsnes runs as its own project, having diverged too far 
 from higan to share code any longer; whereas higan and ares continue to share
 code and bugfixes between the two projects.
-
-For now, this even extends to higan and ares sharing each others' differing user
-interfaces, but over time the intention is for the two projects to diverge and
-stand on their own as separate, unique emulators, though still attempting to
-share code improvements as much as possible between the two projects.
 
 ## Further Reading
 [Credits](/credits)
