@@ -21,6 +21,12 @@ and focuses on accuracy and preservation.
 
 ares is available under the terms of the [ISC](https://opensource.org/licenses/ISC) license.
 
+### Other Platforms
+
+These packages are maintained by third parties; they may not always be up-to-date.
+
+[ares (ArchLinux AUR)](https://aur.archlinux.org/packages/ares-emu/)
+
 ## Issues
 
 You may file issues via the [GitHub issue tracker](https://github.com/higan-emu/ares)
@@ -114,6 +120,7 @@ ares currently emulates the following 27 hardware devices:
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
     <td><a href='images/gallery/colecovision_frogger.png'>ColecoVision</a></td>
   </tr>
+
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''></td>
     <td><a href='images/gallery/neo-geo-pocket_samurai-shodown.png'>Neo Geo Pocket</a> + <a href='images/gallery/neo-geo-pocket-color_last-blade.png'>Neo Geo Pocket Color</a></td>

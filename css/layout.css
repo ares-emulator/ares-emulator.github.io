@@ -66,7 +66,7 @@ main figcaption {
     margin-bottom: 0.5em;
 }
 
-main h2 {
+main h2, h3 {
     border-bottom: 1px solid #555;
     margin-bottom: 0.25em;
     margin-top: 0.5em;
@@ -78,6 +78,14 @@ main h2 span {
     float: right;
     margin-top: 0.4em;
 }
+
+main h3 span {
+    font-family: "Georgia";
+    font-size: 11pt;
+    float: right;
+    margin-top: 0em;
+}
+
 
 main img {
     height: auto;
