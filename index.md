@@ -25,7 +25,7 @@ ares is available under the terms of the [ISC](https://opensource.org/licenses/I
 
 These packages are maintained by third parties; they may not always be up-to-date.
 
-[ares (ArchLinux AUR)](https://aur.archlinux.org/packages/ares-emu/)
+[ares-emu (ArchLinux AUR)](https://aur.archlinux.org/packages/ares-emu/)
 
 ## Issues
 
