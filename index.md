@@ -15,9 +15,9 @@ and focuses on accuracy and preservation.
 
 ## Downloads
 
-[ares v122 (Windows binary)](https://github.com/higan-emu/ares/releases/download/v122/ares-windows.zip) <br />
-[ares v122 (macOS binary)](https://github.com/higan-emu/ares/releases/download/v122/ares-macos.zip) <br />
-[ares v122 (ISC source code)](https://github.com/higan-emu/ares/archive/refs/tags/v122.zip)
+[ares v123 (Windows binary)](https://github.com/higan-emu/ares/releases/download/v123/ares-windows.zip) <br />
+[ares v123 (macOS binary)](https://github.com/higan-emu/ares/releases/download/v123/ares-macos.zip) <br />
+[ares v123 (ISC source code)](https://github.com/higan-emu/ares/archive/refs/tags/v123.zip)
 
 ares is available under the terms of the [ISC](https://opensource.org/licenses/ISC) license.
 
@@ -89,7 +89,7 @@ ares currently emulates the following 27 hardware devices:
     <td><a href='images/gallery/game-boy-advance_golden-sun.png'>Game Boy Advance</a></td>
   </tr>
   <tr>
-    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''></td>
     <td><a href='images/gallery/sg-1000_ninja-princess.png'>SG-1000</a></td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ ares currently emulates the following 27 hardware devices:
     <td><a href='images/gallery/msx_parodius.png'>MSX</a> + <a href='images/gallery/msx2_akumajou-dracula.png'>MSX2</a></td>
   </tr>
   <tr>
-    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''></td>
     <td><a href='images/gallery/colecovision_frogger.png'>ColecoVision</a></td>
   </tr>
 
