@@ -45,9 +45,7 @@ You may file issues via the [GitHub issue tracker](https://github.com/higan-emu/
  * Built-in games database
  * Debugger
 
-## Systems
-
-ares currently emulates the following 27 hardware devices:
+## Compatibility
 
 <style>
   main tr td:nth-child(1) {
@@ -58,10 +56,31 @@ ares currently emulates the following 27 hardware devices:
     height: 16px;
     width: 16px;
   }
-  main tr td:nth-child(2) {
-    font-weight: bold;
-  }
 </style>
+
+<table>
+  <tr>
+    <th colspan="2">Legend</th>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td>Limited compatibility/experimental <br /> <small>Don't expect many titles to work</small></td>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td>Average compatibility <br /> <small>At least half of commercially released titles should be playable</small></td>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td>Good compatibility <br /> <small>Most commercially released titles should be playable</small></td>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''></td>
+    <td>Excellent compatibility <br /> <small>All commercially released titles should be playable</small></td>
+  </tr>
+</table>
+
+ares currently emulates the following 27 hardware devices:
 
 <table>
   <tr>
@@ -74,7 +93,7 @@ ares currently emulates the following 27 hardware devices:
   </tr>
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''></td>
-    <td><a href='images/gallery/super-famicom_bahamut-lagoon.png'>Super Famicom</a> + <a href='images/gallery/super-game-boy_devichil-black-book.png'>Super Game Boy</a></td>
+    <td><a href='images/gallery/super-famicom_bahamut-lagoon.png'>Super Famicom</a></td>
   </tr>
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''></td>
@@ -82,7 +101,11 @@ ares currently emulates the following 27 hardware devices:
   </tr>
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
-    <td><a href='images/gallery/game-boy_links-awakening.png'>Game Boy</a> + <a href='images/gallery/game-boy-color_devichil-white-book.png'>Game Boy Color</a></td>
+    <td><a href='images/gallery/game-boy_links-awakening.png'>Game Boy</a> + <a href='images/gallery/super-game-boy_devichil-black-book.png'>Super Game Boy</a></td>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><a href='images/gallery/game-boy-color_devichil-white-book.png'>Game Boy Color</a></td>
   </tr>
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
@@ -94,11 +117,23 @@ ares currently emulates the following 27 hardware devices:
   </tr>
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''></td>
-    <td><a href='images/gallery/master-system_wonder-boy-iii.png'>Master System</a> + <a href='images/gallery/game-gear_sonic.png'>Game Gear</a></td>
+    <td><a href='images/gallery/master-system_wonder-boy-iii.png'>Master System</a></td>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><a href='images/gallery/game-gear_sonic.png'>Game Gear</a></td>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><a href='images/gallery/mega-drive_sonic-3.png'>Mega Drive</a></td>
+  </tr>
+  <tr>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><a href='images/gallery/mega-cd_lunar-silver-star.png'>Mega CD</a></td>
   </tr>
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''></td>
-    <td><a href='images/gallery/mega-drive_sonic-3.png'>Mega Drive</a> + <a href='images/gallery/mega-32x_chaotix.png'>Mega 32X</a> + <a href='images/gallery/mega-cd_lunar-silver-star.png'>Mega CD</a></td>
+    <td><a href='images/gallery/mega-32x_chaotix.png'>Mega 32X</a></td>
   </tr>
   <tr>
     <td><img src='images/star.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''></td>
