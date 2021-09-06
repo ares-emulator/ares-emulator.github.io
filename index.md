@@ -25,6 +25,7 @@ ares is available under the terms of the [ISC](https://opensource.org/licenses/I
 
 These packages are maintained by third parties; they may not always be up-to-date.
 
+[ares (Linux Flatpak)](https://flathub.org/apps/details/dev.ares.ares/) <br />
 [ares-emu (ArchLinux AUR)](https://aur.archlinux.org/packages/ares-emu/)
 
 ## Issues
