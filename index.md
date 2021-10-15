@@ -15,9 +15,9 @@ and focuses on accuracy and preservation.
 
 ## Downloads
 
-[ares v123 (Windows binary)](https://github.com/higan-emu/ares/releases/download/v123/ares-windows.zip) <br />
-[ares v123 (macOS binary)](https://github.com/higan-emu/ares/releases/download/v123/ares-macos.zip) <br />
-[ares v123 (ISC source code)](https://github.com/higan-emu/ares/archive/refs/tags/v123.zip)
+[ares v124 (Windows binary)](https://github.com/higan-emu/ares/releases/download/v124/ares-windows.zip) <br />
+[ares v124 (macOS binary)](https://github.com/higan-emu/ares/releases/download/v124/ares-macos.zip) <br />
+[ares v124 (ISC source code)](https://github.com/higan-emu/ares/archive/refs/tags/v124.zip)
 
 ares is available under the terms of the [ISC](https://opensource.org/licenses/ISC) license.
 
@@ -89,7 +89,7 @@ ares currently emulates the following 27 hardware devices:
     <th>Name</th>
   </tr>
   <tr>
-    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
     <td><a href='images/gallery/famicom_gimmick.png'>Famicom</a> + <a href='images/gallery/famicom-disk-system_zelda.png'>Famicom Disk System</a></td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@ ares currently emulates the following 27 hardware devices:
     <td><a href='images/gallery/super-famicom_bahamut-lagoon.png'>Super Famicom</a></td>
   </tr>
   <tr>
-    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''><img src='images/starless.png' alt=''></td>
+    <td><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/star.png' alt=''><img src='images/starless.png' alt=''></td>
     <td><a href='images/gallery/nintendo-64_zelda-ocarina-of-time.png'>Nintendo 64</a></td>
   </tr>
   <tr>

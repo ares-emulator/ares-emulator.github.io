@@ -10,7 +10,7 @@ SG-1000 and the Game Boy/Game Boy Color.
 This release brings the compatibility rating for ColecoVision and SG-1000 to 
 four stars. 
 
-This means that we have 100% compatiiblity with both of those libraries, with
+This means that we have 100% compatibility with both of those libraries, with
 the only exception being the few games that require additional peripherals 
 (driving controllers; touchpads, etc).
 
