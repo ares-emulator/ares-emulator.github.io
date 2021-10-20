@@ -97,11 +97,11 @@ main img {
 
 ![](images/gallery/game-gear_sonic.png)
 
-## WanderSwan
+## WonderSwan
 
 ![](images/gallery/wonderswan_langrisser.png)
 
-## WanderSwan Color
+## WonderSwan Color
 
 ![](images/gallery/wonderswan-color_riviera.png)
 
