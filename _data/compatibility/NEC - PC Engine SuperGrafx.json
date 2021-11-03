@@ -1,0 +1,29 @@
+{
+  "games": {
+    "1941 - Counter Attack (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aldynes - The Misson Code for Rage Crisis (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Battle Ace (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Daimakaimura (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madou King Granzort (Japan)": {
+      "status": "Working",
+      "notes": "Viewport expands below status bar... overscan?",
+      "version": "v124"
+    }
+  }
+}

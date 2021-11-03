@@ -1,0 +1,1583 @@
+{
+    "header": {
+        "name": "NEC - PC Engine - TurboGrafx 16",
+        "description": "NEC - PC Engine - TurboGrafx 16",
+        "version": "20211017-095137",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "1943 Kai (Japan)",
+            "description": "1943 Kai (Japan)"
+        },
+        {
+            "name": "21 Emon - Mezase Hotel Ou!! (Japan)",
+            "description": "21 Emon - Mezase Hotel Ou!! (Japan)"
+        },
+        {
+            "name": "Adventure Island (Japan)",
+            "description": "Adventure Island (Japan)"
+        },
+        {
+            "name": "Aero Blasters (Japan)",
+            "description": "Aero Blasters (Japan)"
+        },
+        {
+            "name": "Aero Blasters (USA)",
+            "description": "Aero Blasters (USA)"
+        },
+        {
+            "name": "After Burner II (Japan)",
+            "description": "After Burner II (Japan)"
+        },
+        {
+            "name": "Air Zonk (USA)",
+            "description": "Air Zonk (USA)"
+        },
+        {
+            "name": "Alien Crush (Japan)",
+            "description": "Alien Crush (Japan)"
+        },
+        {
+            "name": "Alien Crush (USA)",
+            "description": "Alien Crush (USA)"
+        },
+        {
+            "name": "All Star Power League (Japan)",
+            "description": "All Star Power League (Japan)"
+        },
+        {
+            "name": "Andre Panza Kick Boxing (USA)",
+            "description": "Andre Panza Kick Boxing (USA)"
+        },
+        {
+            "name": "Ankoku Densetsu (Japan)",
+            "description": "Ankoku Densetsu (Japan)"
+        },
+        {
+            "name": "Aoi Blink (Japan)",
+            "description": "Aoi Blink (Japan)"
+        },
+        {
+            "name": "Appare! Gateball (Japan)",
+            "description": "Appare! Gateball (Japan)"
+        },
+        {
+            "name": "Armed F (Japan)",
+            "description": "Armed F (Japan)"
+        },
+        {
+            "name": "Artist Tool (Japan)",
+            "description": "Artist Tool (Japan)"
+        },
+        {
+            "name": "Atomic Robo-Kid Special (Japan)",
+            "description": "Atomic Robo-Kid Special (Japan)"
+        },
+        {
+            "name": "Ballistix (Japan)",
+            "description": "Ballistix (Japan)"
+        },
+        {
+            "name": "Ballistix (USA)",
+            "description": "Ballistix (USA)"
+        },
+        {
+            "name": "Bari Bari Densetsu (Japan)",
+            "description": "Bari Bari Densetsu (Japan)"
+        },
+        {
+            "name": "Barunba (Japan)",
+            "description": "Barunba (Japan)"
+        },
+        {
+            "name": "Batman (Japan)",
+            "description": "Batman (Japan)"
+        },
+        {
+            "name": "Battle Lode Runner (Japan)",
+            "description": "Battle Lode Runner (Japan)"
+        },
+        {
+            "name": "Battle Royale (USA)",
+            "description": "Battle Royale (USA)"
+        },
+        {
+            "name": "Be Ball (Japan)",
+            "description": "Be Ball (Japan)"
+        },
+        {
+            "name": "Benkei Gaiden (Japan)",
+            "description": "Benkei Gaiden (Japan)"
+        },
+        {
+            "name": "Benkei Gaiden (Japan) (Virtual Console)",
+            "description": "Benkei Gaiden (Japan) (Virtual Console)"
+        },
+        {
+            "name": "Bikkuriman World (Japan)",
+            "description": "Bikkuriman World (Japan)"
+        },
+        {
+            "name": "Blazing Lazers (USA)",
+            "description": "Blazing Lazers (USA)"
+        },
+        {
+            "name": "Blodia (Japan)",
+            "description": "Blodia (Japan)"
+        },
+        {
+            "name": "Bloody Wolf (USA)",
+            "description": "Bloody Wolf (USA)"
+        },
+        {
+            "name": "Bomberman '93 (Japan)",
+            "description": "Bomberman '93 (Japan)"
+        },
+        {
+            "name": "Bomberman '93 (USA)",
+            "description": "Bomberman '93 (USA)"
+        },
+        {
+            "name": "Bomberman '93 (USA, Europe) (Virtual Console)",
+            "description": "Bomberman '93 (USA, Europe) (Virtual Console)"
+        },
+        {
+            "name": "Bomberman '93 - Special Version (Japan)",
+            "description": "Bomberman '93 - Special Version (Japan)"
+        },
+        {
+            "name": "Bomberman '94 (Japan)",
+            "description": "Bomberman '94 (Japan)"
+        },
+        {
+            "name": "Bomberman (Japan)",
+            "description": "Bomberman (Japan)"
+        },
+        {
+            "name": "Bomberman (USA)",
+            "description": "Bomberman (USA)"
+        },
+        {
+            "name": "Bomberman (USA) (Bomberman Collection)",
+            "description": "Bomberman (USA) (Bomberman Collection)"
+        },
+        {
+            "name": "Bomberman - Users Battle (Japan)",
+            "description": "Bomberman - Users Battle (Japan)"
+        },
+        {
+            "name": "Bonk 3 - Bonk's Big Adventure (USA)",
+            "description": "Bonk 3 - Bonk's Big Adventure (USA)"
+        },
+        {
+            "name": "Bonk's Adventure (USA)",
+            "description": "Bonk's Adventure (USA)"
+        },
+        {
+            "name": "Bonk's Revenge (USA)",
+            "description": "Bonk's Revenge (USA)"
+        },
+        {
+            "name": "Bonk's Revenge (USA, Europe) (Virtual Console)",
+            "description": "Bonk's Revenge (USA, Europe) (Virtual Console)"
+        },
+        {
+            "name": "Bouken Danshaku Don - The Lost Sunheart (Japan)",
+            "description": "Bouken Danshaku Don - The Lost Sunheart (Japan)"
+        },
+        {
+            "name": "Boxyboy (USA)",
+            "description": "Boxyboy (USA)"
+        },
+        {
+            "name": "Bravoman (USA)",
+            "description": "Bravoman (USA)"
+        },
+        {
+            "name": "Break In (Japan)",
+            "description": "Break In (Japan)"
+        },
+        {
+            "name": "Bubblegum Crash! - Knight Sabers 2034 (Japan)",
+            "description": "Bubblegum Crash! - Knight Sabers 2034 (Japan)"
+        },
+        {
+            "name": "Bull Fight - Ring no Hasha (Japan)",
+            "description": "Bull Fight - Ring no Hasha (Japan)"
+        },
+        {
+            "name": "Burning Angels (Japan)",
+            "description": "Burning Angels (Japan)"
+        },
+        {
+            "name": "Busou Keiji - Cyber Cross (Japan)",
+            "description": "Busou Keiji - Cyber Cross (Japan)"
+        },
+        {
+            "name": "Cadash (Japan)",
+            "description": "Cadash (Japan)"
+        },
+        {
+            "name": "Cadash (USA)",
+            "description": "Cadash (USA)"
+        },
+        {
+            "name": "Champion Wrestler (Japan)",
+            "description": "Champion Wrestler (Japan)"
+        },
+        {
+            "name": "Champions Forever Boxing (USA)",
+            "description": "Champions Forever Boxing (USA)"
+        },
+        {
+            "name": "Chase H.Q. (USA)",
+            "description": "Chase H.Q. (USA)"
+        },
+        {
+            "name": "Chew-Man-Fu (USA)",
+            "description": "Chew-Man-Fu (USA)"
+        },
+        {
+            "name": "Chibi Maruko-chan - Quiz de Piihyara (Japan)",
+            "description": "Chibi Maruko-chan - Quiz de Piihyara (Japan)"
+        },
+        {
+            "name": "Chikudenya Toubei - Kubikiri Yakata Yori (Japan)",
+            "description": "Chikudenya Toubei - Kubikiri Yakata Yori (Japan)"
+        },
+        {
+            "name": "China Warrior (USA)",
+            "description": "China Warrior (USA)"
+        },
+        {
+            "name": "Chouzetsurinjin Bravoman (Japan)",
+            "description": "Chouzetsurinjin Bravoman (Japan)"
+        },
+        {
+            "name": "Circus Lido (Japan)",
+            "description": "Circus Lido (Japan)"
+        },
+        {
+            "name": "City Hunter (Japan)",
+            "description": "City Hunter (Japan)"
+        },
+        {
+            "name": "Columns (Japan)",
+            "description": "Columns (Japan)"
+        },
+        {
+            "name": "Coryoon - Child of Dragon (Japan)",
+            "description": "Coryoon - Child of Dragon (Japan)"
+        },
+        {
+            "name": "Cratermaze (USA)",
+            "description": "Cratermaze (USA)"
+        },
+        {
+            "name": "Cross Wiber - Cyber Combat Police (Japan)",
+            "description": "Cross Wiber - Cyber Combat Police (Japan)"
+        },
+        {
+            "name": "Cyber Core (Japan)",
+            "description": "Cyber Core (Japan)"
+        },
+        {
+            "name": "Cyber Core (USA)",
+            "description": "Cyber Core (USA)"
+        },
+        {
+            "name": "Cyber Dodge (Japan)",
+            "description": "Cyber Dodge (Japan)"
+        },
+        {
+            "name": "Cyber Knight (Japan)",
+            "description": "Cyber Knight (Japan)"
+        },
+        {
+            "name": "Daichi-kun Crisis - Do Natural (Japan)",
+            "description": "Daichi-kun Crisis - Do Natural (Japan)"
+        },
+        {
+            "name": "Daisenpuu (Japan)",
+            "description": "Daisenpuu (Japan)"
+        },
+        {
+            "name": "Darius Alpha (Japan) (SG Enhanced)",
+            "description": "Darius Alpha (Japan) (SG Enhanced)"
+        },
+        {
+            "name": "Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)",
+            "description": "Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)"
+        },
+        {
+            "name": "Darius Plus (Japan) (SG Enhanced)",
+            "description": "Darius Plus (Japan) (SG Enhanced)"
+        },
+        {
+            "name": "Darkwing Duck (USA)",
+            "description": "Darkwing Duck (USA)"
+        },
+        {
+            "name": "Davis Cup Tennis (USA)",
+            "description": "Davis Cup Tennis (USA)"
+        },
+        {
+            "name": "Dead Moon (USA)",
+            "description": "Dead Moon (USA)"
+        },
+        {
+            "name": "Dead Moon - Getsu Sekai no Akumu (Japan)",
+            "description": "Dead Moon - Getsu Sekai no Akumu (Japan)"
+        },
+        {
+            "name": "Deep Blue (USA)",
+            "description": "Deep Blue (USA)"
+        },
+        {
+            "name": "Deep Blue - Kaitei Shinwa (Japan)",
+            "description": "Deep Blue - Kaitei Shinwa (Japan)"
+        },
+        {
+            "name": "Detana!! TwinBee (Japan)",
+            "description": "Detana!! TwinBee (Japan)"
+        },
+        {
+            "name": "Devil Crash - Naxat Pinball (Japan)",
+            "description": "Devil Crash - Naxat Pinball (Japan)"
+        },
+        {
+            "name": "Devil's Crush (USA)",
+            "description": "Devil's Crush (USA)"
+        },
+        {
+            "name": "Die Hard (Japan)",
+            "description": "Die Hard (Japan)"
+        },
+        {
+            "name": "Digital Champ (Japan)",
+            "description": "Digital Champ (Japan)"
+        },
+        {
+            "name": "Don Doko Don! (Japan)",
+            "description": "Don Doko Don! (Japan)"
+        },
+        {
+            "name": "Doraemon - Meikyuu Daisakusen (Japan)",
+            "description": "Doraemon - Meikyuu Daisakusen (Japan)"
+        },
+        {
+            "name": "Doraemon - Nobita no Dorabian Night (Japan)",
+            "description": "Doraemon - Nobita no Dorabian Night (Japan)"
+        },
+        {
+            "name": "Double Dungeons (Japan)",
+            "description": "Double Dungeons (Japan)"
+        },
+        {
+            "name": "Double Dungeons (USA)",
+            "description": "Double Dungeons (USA)"
+        },
+        {
+            "name": "Download (Japan)",
+            "description": "Download (Japan)"
+        },
+        {
+            "name": "Dragon Egg! (Japan)",
+            "description": "Dragon Egg! (Japan)"
+        },
+        {
+            "name": "Dragon Saber (Japan)",
+            "description": "Dragon Saber (Japan)"
+        },
+        {
+            "name": "Dragon Spirit (Japan)",
+            "description": "Dragon Spirit (Japan)"
+        },
+        {
+            "name": "Dragon Spirit (USA)",
+            "description": "Dragon Spirit (USA)"
+        },
+        {
+            "name": "Dragon's Curse (USA)",
+            "description": "Dragon's Curse (USA)"
+        },
+        {
+            "name": "Drop Off (USA)",
+            "description": "Drop Off (USA)"
+        },
+        {
+            "name": "Drop Rock Hora Hora (Japan)",
+            "description": "Drop Rock Hora Hora (Japan)"
+        },
+        {
+            "name": "Dungeon Explorer (Japan)",
+            "description": "Dungeon Explorer (Japan)"
+        },
+        {
+            "name": "Dungeon Explorer (USA)",
+            "description": "Dungeon Explorer (USA)"
+        },
+        {
+            "name": "Dungeons & Dragons - Order of the Griffon (USA)",
+            "description": "Dungeons & Dragons - Order of the Griffon (USA)"
+        },
+        {
+            "name": "Energy (Japan)",
+            "description": "Energy (Japan)"
+        },
+        {
+            "name": "Eternal City - Toshi Tensou Keikaku (Japan)",
+            "description": "Eternal City - Toshi Tensou Keikaku (Japan)"
+        },
+        {
+            "name": "F-1 Dream (Japan)",
+            "description": "F-1 Dream (Japan)"
+        },
+        {
+            "name": "F-1 Pilot - You're King of Kings (Japan)",
+            "description": "F-1 Pilot - You're King of Kings (Japan)"
+        },
+        {
+            "name": "F1 Circus '91 (Japan)",
+            "description": "F1 Circus '91 (Japan)"
+        },
+        {
+            "name": "F1 Circus '92 - The Speed of Sound (Japan)",
+            "description": "F1 Circus '92 - The Speed of Sound (Japan)"
+        },
+        {
+            "name": "F1 Circus (Japan)",
+            "description": "F1 Circus (Japan)"
+        },
+        {
+            "name": "F1 Triple Battle (Japan)",
+            "description": "F1 Triple Battle (Japan)"
+        },
+        {
+            "name": "Falcon (USA)",
+            "description": "Falcon (USA)"
+        },
+        {
+            "name": "Fantasy Zone (Japan)",
+            "description": "Fantasy Zone (Japan)"
+        },
+        {
+            "name": "Fantasy Zone (USA)",
+            "description": "Fantasy Zone (USA)"
+        },
+        {
+            "name": "Fighting Run (Japan)",
+            "description": "Fighting Run (Japan)"
+        },
+        {
+            "name": "Final Blaster (Japan)",
+            "description": "Final Blaster (Japan)"
+        },
+        {
+            "name": "Final Lap Twin (Japan)",
+            "description": "Final Lap Twin (Japan)"
+        },
+        {
+            "name": "Final Lap Twin (USA)",
+            "description": "Final Lap Twin (USA)"
+        },
+        {
+            "name": "Final Match Tennis (Japan)",
+            "description": "Final Match Tennis (Japan)"
+        },
+        {
+            "name": "Final Soldier (Japan) (En)",
+            "description": "Final Soldier (Japan) (En)"
+        },
+        {
+            "name": "Final Soldier - Special Version (Japan) (En)",
+            "description": "Final Soldier - Special Version (Japan) (En)"
+        },
+        {
+            "name": "Fire Pro Wrestling - Combination Tag (Japan)",
+            "description": "Fire Pro Wrestling - Combination Tag (Japan)"
+        },
+        {
+            "name": "Fire Pro Wrestling 2 - 2nd Bout (Japan)",
+            "description": "Fire Pro Wrestling 2 - 2nd Bout (Japan)"
+        },
+        {
+            "name": "Fire Pro Wrestling 3 - Legend Bout (Japan)",
+            "description": "Fire Pro Wrestling 3 - Legend Bout (Japan)"
+        },
+        {
+            "name": "Formation Soccer - Human Cup '90 (Japan)",
+            "description": "Formation Soccer - Human Cup '90 (Japan)"
+        },
+        {
+            "name": "Formation Soccer - On J League (Japan)",
+            "description": "Formation Soccer - On J League (Japan)"
+        },
+        {
+            "name": "Fushigi no Yume no Alice (Japan)",
+            "description": "Fushigi no Yume no Alice (Japan)"
+        },
+        {
+            "name": "Gai Flame (Japan)",
+            "description": "Gai Flame (Japan)"
+        },
+        {
+            "name": "Gaia no Monshou (Japan)",
+            "description": "Gaia no Monshou (Japan)"
+        },
+        {
+            "name": "Galaga '88 (Japan)",
+            "description": "Galaga '88 (Japan)"
+        },
+        {
+            "name": "Galaga '90 (USA)",
+            "description": "Galaga '90 (USA)"
+        },
+        {
+            "name": "Ganbare! Golf Boys (Japan)",
+            "description": "Ganbare! Golf Boys (Japan)"
+        },
+        {
+            "name": "Gekisha Boy (Japan)",
+            "description": "Gekisha Boy (Japan)"
+        },
+        {
+            "name": "Genji Tsuushin Agedama (Japan)",
+            "description": "Genji Tsuushin Agedama (Japan)"
+        },
+        {
+            "name": "Genpei Toumaden (Japan)",
+            "description": "Genpei Toumaden (Japan)"
+        },
+        {
+            "name": "Genpei Toumaden - Kan no Ni (Japan)",
+            "description": "Genpei Toumaden - Kan no Ni (Japan)"
+        },
+        {
+            "name": "Ghost Manor (USA)",
+            "description": "Ghost Manor (USA)"
+        },
+        {
+            "name": "Gokuraku! Chuuka Taisen (Japan)",
+            "description": "Gokuraku! Chuuka Taisen (Japan)"
+        },
+        {
+            "name": "Gomola Speed (Japan)",
+            "description": "Gomola Speed (Japan)"
+        },
+        {
+            "name": "Gradius (Japan)",
+            "description": "Gradius (Japan)"
+        },
+        {
+            "name": "Gunboat (USA)",
+            "description": "Gunboat (USA)"
+        },
+        {
+            "name": "Gunhed (Japan)",
+            "description": "Gunhed (Japan)"
+        },
+        {
+            "name": "Gunhed - Special Version (Japan)",
+            "description": "Gunhed - Special Version (Japan)"
+        },
+        {
+            "name": "Hana Taaka Daka! (Japan)",
+            "description": "Hana Taaka Daka! (Japan)"
+        },
+        {
+            "name": "Hanii in the Sky (Japan)",
+            "description": "Hanii in the Sky (Japan)"
+        },
+        {
+            "name": "Hanii on the Road (Japan)",
+            "description": "Hanii on the Road (Japan)"
+        },
+        {
+            "name": "Hatris (Japan)",
+            "description": "Hatris (Japan)"
+        },
+        {
+            "name": "Heavy Unit (Japan)",
+            "description": "Heavy Unit (Japan)"
+        },
+        {
+            "name": "Hisou Kihei X-Serd (Japan)",
+            "description": "Hisou Kihei X-Serd (Japan)"
+        },
+        {
+            "name": "Hit the Ice - VHL - The Official Video Hockey League (USA)",
+            "description": "Hit the Ice - VHL - The Official Video Hockey League (USA)"
+        },
+        {
+            "name": "Hit the Ice - VHL - The Video Hockey League (Japan)",
+            "description": "Hit the Ice - VHL - The Video Hockey League (Japan)"
+        },
+        {
+            "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)",
+            "description": "Honoo no Toukyuuji - Dodge Danpei (Japan)"
+        },
+        {
+            "name": "Image Fight (Japan)",
+            "description": "Image Fight (Japan)"
+        },
+        {
+            "name": "Impossamole (USA)",
+            "description": "Impossamole (USA)"
+        },
+        {
+            "name": "J.J. & Jeff (USA)",
+            "description": "J.J. & Jeff (USA)"
+        },
+        {
+            "name": "J.League Greatest Eleven (Japan)",
+            "description": "J.League Greatest Eleven (Japan)"
+        },
+        {
+            "name": "Jack Nicklaus - Championship Golf (Japan)",
+            "description": "Jack Nicklaus - Championship Golf (Japan)"
+        },
+        {
+            "name": "Jack Nicklaus' Turbo Golf (USA)",
+            "description": "Jack Nicklaus' Turbo Golf (USA)"
+        },
+        {
+            "name": "Jackie Chan (Japan)",
+            "description": "Jackie Chan (Japan)"
+        },
+        {
+            "name": "Jackie Chan's Action Kung Fu (USA)",
+            "description": "Jackie Chan's Action Kung Fu (USA)"
+        },
+        {
+            "name": "Jaseiken Necromancer (Japan)",
+            "description": "Jaseiken Necromancer (Japan)"
+        },
+        {
+            "name": "Jaseiken Necromancer (Japan) (Virtual Console)",
+            "description": "Jaseiken Necromancer (Japan) (Virtual Console)"
+        },
+        {
+            "name": "Jigoku Meguri (Japan)",
+            "description": "Jigoku Meguri (Japan)"
+        },
+        {
+            "name": "Jinmu Denshou (Japan)",
+            "description": "Jinmu Denshou (Japan)"
+        },
+        {
+            "name": "Juuouki (Japan)",
+            "description": "Juuouki (Japan)"
+        },
+        {
+            "name": "Kaizou Choujin Shubibinman (Japan)",
+            "description": "Kaizou Choujin Shubibinman (Japan)"
+        },
+        {
+            "name": "Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan)",
+            "description": "Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan)"
+        },
+        {
+            "name": "Kato-chan Ken-chan (Japan)",
+            "description": "Kato-chan Ken-chan (Japan)"
+        },
+        {
+            "name": "Kattobi! Takuhai-kun (Japan)",
+            "description": "Kattobi! Takuhai-kun (Japan)"
+        },
+        {
+            "name": "Keith Courage in Alpha Zones (USA)",
+            "description": "Keith Courage in Alpha Zones (USA)"
+        },
+        {
+            "name": "KickBall (Japan)",
+            "description": "KickBall (Japan)"
+        },
+        {
+            "name": "Kiki Kaikai (Japan)",
+            "description": "Kiki Kaikai (Japan)"
+        },
+        {
+            "name": "King of Casino (Japan)",
+            "description": "King of Casino (Japan)"
+        },
+        {
+            "name": "King of Casino (USA)",
+            "description": "King of Casino (USA)"
+        },
+        {
+            "name": "Klax (Japan)",
+            "description": "Klax (Japan)"
+        },
+        {
+            "name": "Klax (USA)",
+            "description": "Klax (USA)"
+        },
+        {
+            "name": "Knight Rider Special (Japan)",
+            "description": "Knight Rider Special (Japan)"
+        },
+        {
+            "name": "Kore ga Pro Yakyuu '89 (Japan)",
+            "description": "Kore ga Pro Yakyuu '89 (Japan)"
+        },
+        {
+            "name": "Kore ga Pro Yakyuu '90 (Japan)",
+            "description": "Kore ga Pro Yakyuu '90 (Japan)"
+        },
+        {
+            "name": "Kung Fu, The (Japan)",
+            "description": "Kung Fu, The (Japan)"
+        },
+        {
+            "name": "Kung Fu, The (Japan) (Virtual Console)",
+            "description": "Kung Fu, The (Japan) (Virtual Console)"
+        },
+        {
+            "name": "Kyuukyoku Tiger (Japan)",
+            "description": "Kyuukyoku Tiger (Japan)"
+        },
+        {
+            "name": "Legend of Hero Tonma (Japan)",
+            "description": "Legend of Hero Tonma (Japan)"
+        },
+        {
+            "name": "Legend of Hero Tonma (USA)",
+            "description": "Legend of Hero Tonma (USA)"
+        },
+        {
+            "name": "Legendary Axe II (USA)",
+            "description": "Legendary Axe II (USA)"
+        },
+        {
+            "name": "Legendary Axe, The (USA)",
+            "description": "Legendary Axe, The (USA)"
+        },
+        {
+            "name": "Lode Runner - Lost Labyrinth (Japan)",
+            "description": "Lode Runner - Lost Labyrinth (Japan)"
+        },
+        {
+            "name": "Maerchen Maze (Japan)",
+            "description": "Maerchen Maze (Japan)"
+        },
+        {
+            "name": "Magical Chase (Japan)",
+            "description": "Magical Chase (Japan)"
+        },
+        {
+            "name": "Magical Chase (USA)",
+            "description": "Magical Chase (USA)"
+        },
+        {
+            "name": "Mahjong Gakuen - Touma Soushirou Toujou (Japan)",
+            "description": "Mahjong Gakuen - Touma Soushirou Toujou (Japan)"
+        },
+        {
+            "name": "Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan)",
+            "description": "Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan)"
+        },
+        {
+            "name": "Mahjong Gokuu Special (Japan)",
+            "description": "Mahjong Gokuu Special (Japan)"
+        },
+        {
+            "name": "Mahjong Haouden - Kaiser's Quest (Japan)",
+            "description": "Mahjong Haouden - Kaiser's Quest (Japan)"
+        },
+        {
+            "name": "Mahjong Shikaku Retsuden - Mahjong Wars (Japan)",
+            "description": "Mahjong Shikaku Retsuden - Mahjong Wars (Japan)"
+        },
+        {
+            "name": "Maison Ikkoku (Japan)",
+            "description": "Maison Ikkoku (Japan)"
+        },
+        {
+            "name": "Makai Hakkenden Shada (Japan)",
+            "description": "Makai Hakkenden Shada (Japan)"
+        },
+        {
+            "name": "Makai Prince Dorabocchan (Japan)",
+            "description": "Makai Prince Dorabocchan (Japan)"
+        },
+        {
+            "name": "Makyou Densetsu (Japan)",
+            "description": "Makyou Densetsu (Japan)"
+        },
+        {
+            "name": "Maniac Pro Wres - Asu e no Tatakai (Japan)",
+            "description": "Maniac Pro Wres - Asu e no Tatakai (Japan)"
+        },
+        {
+            "name": "Mashin Eiyuuden Wataru (Japan)",
+            "description": "Mashin Eiyuuden Wataru (Japan)"
+        },
+        {
+            "name": "Mesopotamia (Japan)",
+            "description": "Mesopotamia (Japan)"
+        },
+        {
+            "name": "Metal Stoker (Japan)",
+            "description": "Metal Stoker (Japan)"
+        },
+        {
+            "name": "Military Madness (USA)",
+            "description": "Military Madness (USA)"
+        },
+        {
+            "name": "Mizubaku Daibouken (Japan)",
+            "description": "Mizubaku Daibouken (Japan)"
+        },
+        {
+            "name": "Momotarou Densetsu Gaiden - Dai-1-shuu (Japan)",
+            "description": "Momotarou Densetsu Gaiden - Dai-1-shuu (Japan)"
+        },
+        {
+            "name": "Momotarou Densetsu II (Japan)",
+            "description": "Momotarou Densetsu II (Japan)"
+        },
+        {
+            "name": "Momotarou Densetsu Turbo (Japan)",
+            "description": "Momotarou Densetsu Turbo (Japan)"
+        },
+        {
+            "name": "Momotarou Katsugeki (Japan)",
+            "description": "Momotarou Katsugeki (Japan)"
+        },
+        {
+            "name": "Monster Pro Wres (Japan)",
+            "description": "Monster Pro Wres (Japan)"
+        },
+        {
+            "name": "Morita Shougi PC (Japan)",
+            "description": "Morita Shougi PC (Japan)"
+        },
+        {
+            "name": "Moto Roader (Japan)",
+            "description": "Moto Roader (Japan)"
+        },
+        {
+            "name": "Moto Roader (USA)",
+            "description": "Moto Roader (USA)"
+        },
+        {
+            "name": "Moto Roader II (Japan)",
+            "description": "Moto Roader II (Japan)"
+        },
+        {
+            "name": "Mr. Heli no Daibouken (Japan)",
+            "description": "Mr. Heli no Daibouken (Japan)"
+        },
+        {
+            "name": "Narazumono Sentou Butai - Bloody Wolf (Japan)",
+            "description": "Narazumono Sentou Butai - Bloody Wolf (Japan)"
+        },
+        {
+            "name": "Naxat Open (Japan)",
+            "description": "Naxat Open (Japan)"
+        },
+        {
+            "name": "Naxat Stadium (Japan)",
+            "description": "Naxat Stadium (Japan)"
+        },
+        {
+            "name": "Nazo no Mascarade (Japan)",
+            "description": "Nazo no Mascarade (Japan)"
+        },
+        {
+            "name": "Necros no Yousai (Japan)",
+            "description": "Necros no Yousai (Japan)"
+        },
+        {
+            "name": "Nectaris (Japan)",
+            "description": "Nectaris (Japan)"
+        },
+        {
+            "name": "Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan)",
+            "description": "Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan)"
+        },
+        {
+            "name": "Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan)",
+            "description": "Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan)"
+        },
+        {
+            "name": "Neutopia (Japan)",
+            "description": "Neutopia (Japan)"
+        },
+        {
+            "name": "Neutopia (USA)",
+            "description": "Neutopia (USA)"
+        },
+        {
+            "name": "Neutopia II (Japan)",
+            "description": "Neutopia II (Japan)"
+        },
+        {
+            "name": "Neutopia II (USA)",
+            "description": "Neutopia II (USA)"
+        },
+        {
+            "name": "New Adventure Island (USA)",
+            "description": "New Adventure Island (USA)"
+        },
+        {
+            "name": "NewZealand Story, The (Japan)",
+            "description": "NewZealand Story, The (Japan)"
+        },
+        {
+            "name": "NHK Taiga Drama - Taiheiki (Japan)",
+            "description": "NHK Taiga Drama - Taiheiki (Japan)"
+        },
+        {
+            "name": "Night Creatures (USA)",
+            "description": "Night Creatures (USA)"
+        },
+        {
+            "name": "Niko Niko Pun (Japan)",
+            "description": "Niko Niko Pun (Japan)"
+        },
+        {
+            "name": "Ninja Ryuukenden (Japan) (En,Ja,Zh)",
+            "description": "Ninja Ryuukenden (Japan) (En,Ja,Zh)"
+        },
+        {
+            "name": "Ninja Spirit (USA)",
+            "description": "Ninja Spirit (USA)"
+        },
+        {
+            "name": "Ninja Warriors, The (Japan)",
+            "description": "Ninja Warriors, The (Japan)"
+        },
+        {
+            "name": "Obocchama-kun (Japan)",
+            "description": "Obocchama-kun (Japan)"
+        },
+        {
+            "name": "Operation Wolf (Japan)",
+            "description": "Operation Wolf (Japan)"
+        },
+        {
+            "name": "Ordyne (Japan)",
+            "description": "Ordyne (Japan)"
+        },
+        {
+            "name": "Ordyne (USA)",
+            "description": "Ordyne (USA)"
+        },
+        {
+            "name": "Out Live (Japan)",
+            "description": "Out Live (Japan)"
+        },
+        {
+            "name": "Out Run (Japan)",
+            "description": "Out Run (Japan)"
+        },
+        {
+            "name": "Override (Japan)",
+            "description": "Override (Japan)"
+        },
+        {
+            "name": "P-47 - The Freedom Fighter (Japan)",
+            "description": "P-47 - The Freedom Fighter (Japan)"
+        },
+        {
+            "name": "Pac-Land (Japan)",
+            "description": "Pac-Land (Japan)"
+        },
+        {
+            "name": "Pac-Land (USA)",
+            "description": "Pac-Land (USA)"
+        },
+        {
+            "name": "Pachio-kun - Juuban Shoubu (Japan)",
+            "description": "Pachio-kun - Juuban Shoubu (Japan)"
+        },
+        {
+            "name": "Paranoia (Japan)",
+            "description": "Paranoia (Japan)"
+        },
+        {
+            "name": "Parasol Stars - The Story of Bubble Bobble III (Japan)",
+            "description": "Parasol Stars - The Story of Bubble Bobble III (Japan)"
+        },
+        {
+            "name": "Parasol Stars - The Story of Bubble Bobble III (USA)",
+            "description": "Parasol Stars - The Story of Bubble Bobble III (USA)"
+        },
+        {
+            "name": "Parodius Da! - Shinwa kara Owarai e (Japan)",
+            "description": "Parodius Da! - Shinwa kara Owarai e (Japan)"
+        },
+        {
+            "name": "PC Denjin - Punkic Cyborgs (Japan)",
+            "description": "PC Denjin - Punkic Cyborgs (Japan)"
+        },
+        {
+            "name": "PC Genjin - Pithecanthropus Computerurus (Japan)",
+            "description": "PC Genjin - Pithecanthropus Computerurus (Japan)"
+        },
+        {
+            "name": "PC Genjin 2 - Pithecanthropus Computerurus (Japan)",
+            "description": "PC Genjin 2 - Pithecanthropus Computerurus (Japan)"
+        },
+        {
+            "name": "PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console)",
+            "description": "PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console)"
+        },
+        {
+            "name": "PC Genjin 3 - Pithecanthropus Computerurus (Japan)",
+            "description": "PC Genjin 3 - Pithecanthropus Computerurus (Japan)"
+        },
+        {
+            "name": "Populous (Japan)",
+            "description": "Populous (Japan)"
+        },
+        {
+            "name": "Power Drift (Japan)",
+            "description": "Power Drift (Japan)"
+        },
+        {
+            "name": "Power Eleven (Japan)",
+            "description": "Power Eleven (Japan)"
+        },
+        {
+            "name": "Power Gate (Japan)",
+            "description": "Power Gate (Japan)"
+        },
+        {
+            "name": "Power Golf (Japan)",
+            "description": "Power Golf (Japan)"
+        },
+        {
+            "name": "Power Golf (USA)",
+            "description": "Power Golf (USA)"
+        },
+        {
+            "name": "Power League '93 (Japan)",
+            "description": "Power League '93 (Japan)"
+        },
+        {
+            "name": "Power League (Japan)",
+            "description": "Power League (Japan)"
+        },
+        {
+            "name": "Power League 4 (Japan)",
+            "description": "Power League 4 (Japan)"
+        },
+        {
+            "name": "Power League 5 (Japan)",
+            "description": "Power League 5 (Japan)"
+        },
+        {
+            "name": "Power League II (Japan)",
+            "description": "Power League II (Japan)"
+        },
+        {
+            "name": "Power League III (Japan)",
+            "description": "Power League III (Japan)"
+        },
+        {
+            "name": "Power Sports (Japan)",
+            "description": "Power Sports (Japan)"
+        },
+        {
+            "name": "Power Tennis (Japan)",
+            "description": "Power Tennis (Japan)"
+        },
+        {
+            "name": "Pro Tennis - World Court (Japan)",
+            "description": "Pro Tennis - World Court (Japan)"
+        },
+        {
+            "name": "Pro Yakyuu World Stadium '91 (Japan)",
+            "description": "Pro Yakyuu World Stadium '91 (Japan)"
+        },
+        {
+            "name": "Pro Yakyuu World Stadium (Japan)",
+            "description": "Pro Yakyuu World Stadium (Japan)"
+        },
+        {
+            "name": "Psycho Chaser (Japan)",
+            "description": "Psycho Chaser (Japan)"
+        },
+        {
+            "name": "Psychosis (USA)",
+            "description": "Psychosis (USA)"
+        },
+        {
+            "name": "Puzzle Boy (Japan)",
+            "description": "Puzzle Boy (Japan)"
+        },
+        {
+            "name": "Puzznic (Japan)",
+            "description": "Puzznic (Japan)"
+        },
+        {
+            "name": "R-Type (USA)",
+            "description": "R-Type (USA)"
+        },
+        {
+            "name": "R-Type I (Japan)",
+            "description": "R-Type I (Japan)"
+        },
+        {
+            "name": "R-Type II (Japan)",
+            "description": "R-Type II (Japan)"
+        },
+        {
+            "name": "R-Type II (Japan) (v1.1)",
+            "description": "R-Type II (Japan) (v1.1)"
+        },
+        {
+            "name": "Rabio Lepus Special (Japan)",
+            "description": "Rabio Lepus Special (Japan)"
+        },
+        {
+            "name": "Racing Damashii (Japan)",
+            "description": "Racing Damashii (Japan)"
+        },
+        {
+            "name": "Raiden (Japan)",
+            "description": "Raiden (Japan)"
+        },
+        {
+            "name": "Raiden (USA)",
+            "description": "Raiden (USA)"
+        },
+        {
+            "name": "Rastan Saga II (Japan)",
+            "description": "Rastan Saga II (Japan)"
+        },
+        {
+            "name": "Rock-On (Japan)",
+            "description": "Rock-On (Japan)"
+        },
+        {
+            "name": "Ryuukyuu (Japan)",
+            "description": "Ryuukyuu (Japan)"
+        },
+        {
+            "name": "S.C.I. - Special Criminal Investigation (Japan)",
+            "description": "S.C.I. - Special Criminal Investigation (Japan)"
+        },
+        {
+            "name": "Sadakichi Seven - Hideyoshi no Ougon (Japan)",
+            "description": "Sadakichi Seven - Hideyoshi no Ougon (Japan)"
+        },
+        {
+            "name": "Saigo no Nindou - Ninja Spirit (Japan)",
+            "description": "Saigo no Nindou - Ninja Spirit (Japan)"
+        },
+        {
+            "name": "Salamander (Japan)",
+            "description": "Salamander (Japan)"
+        },
+        {
+            "name": "Samurai-Ghost (USA)",
+            "description": "Samurai-Ghost (USA)"
+        },
+        {
+            "name": "Sekigahara (Japan)",
+            "description": "Sekigahara (Japan)"
+        },
+        {
+            "name": "Sengoku Mahjong (Japan)",
+            "description": "Sengoku Mahjong (Japan)"
+        },
+        {
+            "name": "Shanghai (Japan)",
+            "description": "Shanghai (Japan)"
+        },
+        {
+            "name": "Shinobi (Japan)",
+            "description": "Shinobi (Japan)"
+        },
+        {
+            "name": "Shiryou Sensen - War of the Dead (Japan)",
+            "description": "Shiryou Sensen - War of the Dead (Japan)"
+        },
+        {
+            "name": "Shockman (USA)",
+            "description": "Shockman (USA)"
+        },
+        {
+            "name": "Shougi Shodan Icchokusen (Japan)",
+            "description": "Shougi Shodan Icchokusen (Japan)"
+        },
+        {
+            "name": "Shougi Shoshinsha Muyou (Japan)",
+            "description": "Shougi Shoshinsha Muyou (Japan)"
+        },
+        {
+            "name": "SideArms (USA)",
+            "description": "SideArms (USA)"
+        },
+        {
+            "name": "SideArms - Hyper Dyne (Japan)",
+            "description": "SideArms - Hyper Dyne (Japan)"
+        },
+        {
+            "name": "Silent Debuggers (Japan)",
+            "description": "Silent Debuggers (Japan)"
+        },
+        {
+            "name": "Silent Debuggers (USA)",
+            "description": "Silent Debuggers (USA)"
+        },
+        {
+            "name": "Sindibad - Chitei no Daimakyuu (Japan)",
+            "description": "Sindibad - Chitei no Daimakyuu (Japan)"
+        },
+        {
+            "name": "Sinistron (USA)",
+            "description": "Sinistron (USA)"
+        },
+        {
+            "name": "Skweek (Japan)",
+            "description": "Skweek (Japan)"
+        },
+        {
+            "name": "Soldier Blade (Japan)",
+            "description": "Soldier Blade (Japan)"
+        },
+        {
+            "name": "Soldier Blade (USA)",
+            "description": "Soldier Blade (USA)"
+        },
+        {
+            "name": "Soldier Blade - Special Version (Japan)",
+            "description": "Soldier Blade - Special Version (Japan)"
+        },
+        {
+            "name": "Somer Assault (USA)",
+            "description": "Somer Assault (USA)"
+        },
+        {
+            "name": "Son Son II (Japan)",
+            "description": "Son Son II (Japan)"
+        },
+        {
+            "name": "Sonic Spike - World Championship Beach Volleyball (USA)",
+            "description": "Sonic Spike - World Championship Beach Volleyball (USA)"
+        },
+        {
+            "name": "Soukoban World (Japan)",
+            "description": "Soukoban World (Japan)"
+        },
+        {
+            "name": "Space Harrier (Japan)",
+            "description": "Space Harrier (Japan)"
+        },
+        {
+            "name": "Space Harrier (USA)",
+            "description": "Space Harrier (USA)"
+        },
+        {
+            "name": "Space Invaders - Fukkatsu no Hi (Japan)",
+            "description": "Space Invaders - Fukkatsu no Hi (Japan)"
+        },
+        {
+            "name": "Spin Pair (Japan)",
+            "description": "Spin Pair (Japan)"
+        },
+        {
+            "name": "Spiral Wave (Japan)",
+            "description": "Spiral Wave (Japan)"
+        },
+        {
+            "name": "Splatterhouse (Japan) (En)",
+            "description": "Splatterhouse (Japan) (En)"
+        },
+        {
+            "name": "Splatterhouse (USA)",
+            "description": "Splatterhouse (USA)"
+        },
+        {
+            "name": "Stratego (Japan)",
+            "description": "Stratego (Japan)"
+        },
+        {
+            "name": "Street Fighter II' - Champion Edition (Japan)",
+            "description": "Street Fighter II' - Champion Edition (Japan)"
+        },
+        {
+            "name": "Super Metal Crusher (Japan)",
+            "description": "Super Metal Crusher (Japan)"
+        },
+        {
+            "name": "Super Momotarou Dentetsu (Japan)",
+            "description": "Super Momotarou Dentetsu (Japan)"
+        },
+        {
+            "name": "Super Momotarou Dentetsu (Japan) (Alt 1)",
+            "description": "Super Momotarou Dentetsu (Japan) (Alt 1)"
+        },
+        {
+            "name": "Super Momotarou Dentetsu II (Japan)",
+            "description": "Super Momotarou Dentetsu II (Japan)"
+        },
+        {
+            "name": "Super Star Soldier (Japan)",
+            "description": "Super Star Soldier (Japan)"
+        },
+        {
+            "name": "Super Star Soldier (USA)",
+            "description": "Super Star Soldier (USA)"
+        },
+        {
+            "name": "Super Volley Ball (Japan)",
+            "description": "Super Volley Ball (Japan)"
+        },
+        {
+            "name": "Super Volleyball (USA)",
+            "description": "Super Volleyball (USA)"
+        },
+        {
+            "name": "Susanoou Densetsu (Japan)",
+            "description": "Susanoou Densetsu (Japan)"
+        },
+        {
+            "name": "Taito Chase H.Q. (Japan)",
+            "description": "Taito Chase H.Q. (Japan)"
+        },
+        {
+            "name": "Takahashi Meijin no Shin Bouken-jima (Japan)",
+            "description": "Takahashi Meijin no Shin Bouken-jima (Japan)"
+        },
+        {
+            "name": "Takeda Shingen (Japan)",
+            "description": "Takeda Shingen (Japan)"
+        },
+        {
+            "name": "Takin' It to the Hoop (USA)",
+            "description": "Takin' It to the Hoop (USA)"
+        },
+        {
+            "name": "TaleSpin (USA)",
+            "description": "TaleSpin (USA)"
+        },
+        {
+            "name": "Tatsujin (Japan)",
+            "description": "Tatsujin (Japan)"
+        },
+        {
+            "name": "Tatsunoko Fighter (Japan)",
+            "description": "Tatsunoko Fighter (Japan)"
+        },
+        {
+            "name": "Ten no Koe Bank (Japan)",
+            "description": "Ten no Koe Bank (Japan)"
+        },
+        {
+            "name": "Tenseiryuu - Saint Dragon (Japan)",
+            "description": "Tenseiryuu - Saint Dragon (Japan)"
+        },
+        {
+            "name": "Terra Cresta II - Mandoler no Gyakushuu (Japan)",
+            "description": "Terra Cresta II - Mandoler no Gyakushuu (Japan)"
+        },
+        {
+            "name": "Thunder Blade (Japan)",
+            "description": "Thunder Blade (Japan)"
+        },
+        {
+            "name": "Tiger Road (USA)",
+            "description": "Tiger Road (USA)"
+        },
+        {
+            "name": "Time Cruise (USA)",
+            "description": "Time Cruise (USA)"
+        },
+        {
+            "name": "Time Cruise II (Japan)",
+            "description": "Time Cruise II (Japan)"
+        },
+        {
+            "name": "Timeball (USA)",
+            "description": "Timeball (USA)"
+        },
+        {
+            "name": "Titan (Japan)",
+            "description": "Titan (Japan)"
+        },
+        {
+            "name": "Toilet Kids (Japan)",
+            "description": "Toilet Kids (Japan)"
+        },
+        {
+            "name": "Tora e no Michi (Japan)",
+            "description": "Tora e no Michi (Japan)"
+        },
+        {
+            "name": "Tower of Druaga, The (Japan)",
+            "description": "Tower of Druaga, The (Japan)"
+        },
+        {
+            "name": "Toy Shop Boys (Japan)",
+            "description": "Toy Shop Boys (Japan)"
+        },
+        {
+            "name": "Tricky (Japan)",
+            "description": "Tricky (Japan)"
+        },
+        {
+            "name": "Tricky Kick (USA)",
+            "description": "Tricky Kick (USA)"
+        },
+        {
+            "name": "Tsuppari Oozumou - Heisei Ban (Japan)",
+            "description": "Tsuppari Oozumou - Heisei Ban (Japan)"
+        },
+        {
+            "name": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)",
+            "description": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)"
+        },
+        {
+            "name": "Turrican (USA)",
+            "description": "Turrican (USA)"
+        },
+        {
+            "name": "TV Sports Basketball (Japan)",
+            "description": "TV Sports Basketball (Japan)"
+        },
+        {
+            "name": "TV Sports Basketball (USA)",
+            "description": "TV Sports Basketball (USA)"
+        },
+        {
+            "name": "TV Sports Football (Japan)",
+            "description": "TV Sports Football (Japan)"
+        },
+        {
+            "name": "TV Sports Football (USA)",
+            "description": "TV Sports Football (USA)"
+        },
+        {
+            "name": "TV Sports Hockey (Japan)",
+            "description": "TV Sports Hockey (Japan)"
+        },
+        {
+            "name": "TV Sports Hockey (USA)",
+            "description": "TV Sports Hockey (USA)"
+        },
+        {
+            "name": "USA Pro Basketball (Japan)",
+            "description": "USA Pro Basketball (Japan)"
+        },
+        {
+            "name": "Valkyrie no Densetsu (Japan)",
+            "description": "Valkyrie no Densetsu (Japan)"
+        },
+        {
+            "name": "Veigues - Tactical Gladiator (Japan)",
+            "description": "Veigues - Tactical Gladiator (Japan)"
+        },
+        {
+            "name": "Veigues - Tactical Gladiator (USA)",
+            "description": "Veigues - Tactical Gladiator (USA)"
+        },
+        {
+            "name": "Victory Run (USA)",
+            "description": "Victory Run (USA)"
+        },
+        {
+            "name": "Victory Run - Eikou no 13,000km (Japan)",
+            "description": "Victory Run - Eikou no 13,000km (Japan)"
+        },
+        {
+            "name": "Vigilante (Japan)",
+            "description": "Vigilante (Japan)"
+        },
+        {
+            "name": "Vigilante (USA)",
+            "description": "Vigilante (USA)"
+        },
+        {
+            "name": "Violent Soldier (Japan)",
+            "description": "Violent Soldier (Japan)"
+        },
+        {
+            "name": "Volfied (Japan)",
+            "description": "Volfied (Japan)"
+        },
+        {
+            "name": "W-Ring - The Double Rings (Japan)",
+            "description": "W-Ring - The Double Rings (Japan)"
+        },
+        {
+            "name": "Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan)",
+            "description": "Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan)"
+        },
+        {
+            "name": "Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan)",
+            "description": "Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan)"
+        },
+        {
+            "name": "Winning Shot (Japan)",
+            "description": "Winning Shot (Japan)"
+        },
+        {
+            "name": "Wonder Momo (Japan)",
+            "description": "Wonder Momo (Japan)"
+        },
+        {
+            "name": "World Beach Volley (Japan)",
+            "description": "World Beach Volley (Japan)"
+        },
+        {
+            "name": "World Circuit (Japan)",
+            "description": "World Circuit (Japan)"
+        },
+        {
+            "name": "World Class Baseball (USA)",
+            "description": "World Class Baseball (USA)"
+        },
+        {
+            "name": "World Class Baseball (USA, Europe) (Virtual Console)",
+            "description": "World Class Baseball (USA, Europe) (Virtual Console)"
+        },
+        {
+            "name": "World Court Tennis (USA)",
+            "description": "World Court Tennis (USA)"
+        },
+        {
+            "name": "World Jockey (Japan)",
+            "description": "World Jockey (Japan)"
+        },
+        {
+            "name": "World Sports Competition (USA)",
+            "description": "World Sports Competition (USA)"
+        },
+        {
+            "name": "Xevious - Fardraut Saga (Japan)",
+            "description": "Xevious - Fardraut Saga (Japan)"
+        },
+        {
+            "name": "Yo, Bro (USA)",
+            "description": "Yo, Bro (USA)"
+        },
+        {
+            "name": "You-You Jinsei (Japan)",
+            "description": "You-You Jinsei (Japan)"
+        },
+        {
+            "name": "Youkai Douchuuki (Japan)",
+            "description": "Youkai Douchuuki (Japan)"
+        },
+        {
+            "name": "Zero4 Champ (Japan)",
+            "description": "Zero4 Champ (Japan)"
+        },
+        {
+            "name": "Zero4 Champ (Japan) (Alt 1)",
+            "description": "Zero4 Champ (Japan) (Alt 1)"
+        },
+        {
+            "name": "Zipang (Japan)",
+            "description": "Zipang (Japan)"
+        }
+    ]
+}

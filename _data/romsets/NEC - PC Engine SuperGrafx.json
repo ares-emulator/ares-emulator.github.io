@@ -1,0 +1,31 @@
+{
+    "header": {
+        "name": "NEC - PC Engine SuperGrafx",
+        "description": "NEC - PC Engine SuperGrafx",
+        "version": "20210905-042020",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "1941 - Counter Attack (Japan)",
+            "description": "1941 - Counter Attack (Japan)"
+        },
+        {
+            "name": "Aldynes - The Misson Code for Rage Crisis (Japan)",
+            "description": "Aldynes - The Misson Code for Rage Crisis (Japan)"
+        },
+        {
+            "name": "Battle Ace (Japan)",
+            "description": "Battle Ace (Japan)"
+        },
+        {
+            "name": "Daimakaimura (Japan)",
+            "description": "Daimakaimura (Japan)"
+        },
+        {
+            "name": "Madou King Granzort (Japan)",
+            "description": "Madou King Granzort (Japan)"
+        }
+    ]
+}

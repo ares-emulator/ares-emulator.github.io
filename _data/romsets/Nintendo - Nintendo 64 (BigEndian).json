@@ -1,0 +1,3879 @@
+{
+    "header": {
+        "name": "Nintendo - Nintendo 64 (BigEndian)",
+        "description": "Nintendo - Nintendo 64 (BigEndian)",
+        "version": "20211101-101330",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "007 - The World Is Not Enough (Europe) (En,Fr,De)",
+            "description": "007 - The World Is Not Enough (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "007 - The World Is Not Enough (USA)",
+            "description": "007 - The World Is Not Enough (USA)"
+        },
+        {
+            "name": "1080 Snowboarding (Europe) (En,Ja,Fr,De)",
+            "description": "1080 Snowboarding (Europe) (En,Ja,Fr,De)"
+        },
+        {
+            "name": "1080 Snowboarding (Japan, USA) (En,Ja)",
+            "description": "1080 Snowboarding (Japan, USA) (En,Ja)"
+        },
+        {
+            "name": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)",
+            "description": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)"
+        },
+        {
+            "name": "64 Hanafuda - Tenshi no Yakusoku (Japan)",
+            "description": "64 Hanafuda - Tenshi no Yakusoku (Japan)"
+        },
+        {
+            "name": "64 Oozumou (Japan)",
+            "description": "64 Oozumou (Japan)"
+        },
+        {
+            "name": "64 Oozumou 2 (Japan)",
+            "description": "64 Oozumou 2 (Japan)"
+        },
+        {
+            "name": "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)",
+            "description": "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)"
+        },
+        {
+            "name": "AeroFighters Assault (Europe) (En,Fr,De)",
+            "description": "AeroFighters Assault (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "AeroFighters Assault (USA)",
+            "description": "AeroFighters Assault (USA)"
+        },
+        {
+            "name": "AeroGauge (Europe) (En,Fr,De)",
+            "description": "AeroGauge (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "AeroGauge (Japan) (Rev 1)",
+            "description": "AeroGauge (Japan) (Rev 1)"
+        },
+        {
+            "name": "AeroGauge (USA)",
+            "description": "AeroGauge (USA)"
+        },
+        {
+            "name": "AI Shougi 3 (Japan)",
+            "description": "AI Shougi 3 (Japan)"
+        },
+        {
+            "name": "Aidyn Chronicles - The First Mage (Europe)",
+            "description": "Aidyn Chronicles - The First Mage (Europe)"
+        },
+        {
+            "name": "Aidyn Chronicles - The First Mage (USA)",
+            "description": "Aidyn Chronicles - The First Mage (USA)"
+        },
+        {
+            "name": "Aidyn Chronicles - The First Mage (USA) (Rev 1)",
+            "description": "Aidyn Chronicles - The First Mage (USA) (Rev 1)"
+        },
+        {
+            "name": "Air Boarder 64 (Japan)",
+            "description": "Air Boarder 64 (Japan)"
+        },
+        {
+            "name": "Airboarder 64 (Europe)",
+            "description": "Airboarder 64 (Europe)"
+        },
+        {
+            "name": "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)",
+            "description": "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)"
+        },
+        {
+            "name": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)",
+            "description": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)"
+        },
+        {
+            "name": "All Star Tennis '99 (Europe) (En,Fr,De,Es,It)",
+            "description": "All Star Tennis '99 (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "All Star Tennis 99 (USA)",
+            "description": "All Star Tennis 99 (USA)"
+        },
+        {
+            "name": "All-Star Baseball 2000 (Europe)",
+            "description": "All-Star Baseball 2000 (Europe)"
+        },
+        {
+            "name": "All-Star Baseball 2000 (USA)",
+            "description": "All-Star Baseball 2000 (USA)"
+        },
+        {
+            "name": "All-Star Baseball 2001 (USA)",
+            "description": "All-Star Baseball 2001 (USA)"
+        },
+        {
+            "name": "All-Star Baseball 99 (Europe)",
+            "description": "All-Star Baseball 99 (Europe)"
+        },
+        {
+            "name": "All-Star Baseball 99 (USA)",
+            "description": "All-Star Baseball 99 (USA)"
+        },
+        {
+            "name": "Armorines - Project S.W.A.R.M. (Europe)",
+            "description": "Armorines - Project S.W.A.R.M. (Europe)"
+        },
+        {
+            "name": "Armorines - Project S.W.A.R.M. (Germany)",
+            "description": "Armorines - Project S.W.A.R.M. (Germany)"
+        },
+        {
+            "name": "Armorines - Project S.W.A.R.M. (USA)",
+            "description": "Armorines - Project S.W.A.R.M. (USA)"
+        },
+        {
+            "name": "Army Men - Air Combat (USA)",
+            "description": "Army Men - Air Combat (USA)"
+        },
+        {
+            "name": "Army Men - Sarge's Heroes (Europe) (En,Fr,De)",
+            "description": "Army Men - Sarge's Heroes (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Army Men - Sarge's Heroes (USA)",
+            "description": "Army Men - Sarge's Heroes (USA)"
+        },
+        {
+            "name": "Army Men - Sarge's Heroes 2 (USA)",
+            "description": "Army Men - Sarge's Heroes 2 (USA)"
+        },
+        {
+            "name": "Asteroids Hyper 64 (USA)",
+            "description": "Asteroids Hyper 64 (USA)"
+        },
+        {
+            "name": "Automobili Lamborghini (Europe)",
+            "description": "Automobili Lamborghini (Europe)"
+        },
+        {
+            "name": "Automobili Lamborghini (USA)",
+            "description": "Automobili Lamborghini (USA)"
+        },
+        {
+            "name": "Baku Bomberman (Japan)",
+            "description": "Baku Bomberman (Japan)"
+        },
+        {
+            "name": "Baku Bomberman 2 (Japan)",
+            "description": "Baku Bomberman 2 (Japan)"
+        },
+        {
+            "name": "Bakuretsu Muteki Bangaioh (Japan)",
+            "description": "Bakuretsu Muteki Bangaioh (Japan)"
+        },
+        {
+            "name": "Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)",
+            "description": "Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)"
+        },
+        {
+            "name": "Banjo to Kazooie no Daibouken (Japan)",
+            "description": "Banjo to Kazooie no Daibouken (Japan)"
+        },
+        {
+            "name": "Banjo to Kazooie no Daibouken 2 (Japan)",
+            "description": "Banjo to Kazooie no Daibouken 2 (Japan)"
+        },
+        {
+            "name": "Banjo-Kazooie (Europe) (En,Fr,De)",
+            "description": "Banjo-Kazooie (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Banjo-Kazooie (USA)",
+            "description": "Banjo-Kazooie (USA)"
+        },
+        {
+            "name": "Banjo-Kazooie (USA) (Rev 1)",
+            "description": "Banjo-Kazooie (USA) (Rev 1)"
+        },
+        {
+            "name": "Banjo-Tooie (Australia)",
+            "description": "Banjo-Tooie (Australia)"
+        },
+        {
+            "name": "Banjo-Tooie (Europe) (En,Fr,De,Es)",
+            "description": "Banjo-Tooie (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Banjo-Tooie (USA)",
+            "description": "Banjo-Tooie (USA)"
+        },
+        {
+            "name": "Bass Rush - ECOGEAR PowerWorm Championship (Japan)",
+            "description": "Bass Rush - ECOGEAR PowerWorm Championship (Japan)"
+        },
+        {
+            "name": "Bassmasters 2000 (USA)",
+            "description": "Bassmasters 2000 (USA)"
+        },
+        {
+            "name": "Batman Beyond - Return of the Joker (USA)",
+            "description": "Batman Beyond - Return of the Joker (USA)"
+        },
+        {
+            "name": "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)",
+            "description": "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "BattleTanx (USA)",
+            "description": "BattleTanx (USA)"
+        },
+        {
+            "name": "BattleTanx - Global Assault (Europe) (En,Fr,De)",
+            "description": "BattleTanx - Global Assault (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "BattleTanx - Global Assault (USA)",
+            "description": "BattleTanx - Global Assault (USA)"
+        },
+        {
+            "name": "Battlezone - Rise of the Black Dogs (USA)",
+            "description": "Battlezone - Rise of the Black Dogs (USA)"
+        },
+        {
+            "name": "Beetle Adventure Racing! (Europe) (En,Fr,De)",
+            "description": "Beetle Adventure Racing! (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Beetle Adventure Racing! (Japan)",
+            "description": "Beetle Adventure Racing! (Japan)"
+        },
+        {
+            "name": "Beetle Adventure Racing! (USA) (En,Fr,De)",
+            "description": "Beetle Adventure Racing! (USA) (En,Fr,De)"
+        },
+        {
+            "name": "Big Mountain 2000 (USA)",
+            "description": "Big Mountain 2000 (USA)"
+        },
+        {
+            "name": "Bio F.R.E.A.K.S. (Europe)",
+            "description": "Bio F.R.E.A.K.S. (Europe)"
+        },
+        {
+            "name": "Bio F.R.E.A.K.S. (USA)",
+            "description": "Bio F.R.E.A.K.S. (USA)"
+        },
+        {
+            "name": "Biohazard 2 (Japan)",
+            "description": "Biohazard 2 (Japan)"
+        },
+        {
+            "name": "Blast Corps (Europe) (En,De)",
+            "description": "Blast Corps (Europe) (En,De)"
+        },
+        {
+            "name": "Blast Corps (USA)",
+            "description": "Blast Corps (USA)"
+        },
+        {
+            "name": "Blast Corps (USA) (Rev 1)",
+            "description": "Blast Corps (USA) (Rev 1)"
+        },
+        {
+            "name": "Blastdozer (Japan)",
+            "description": "Blastdozer (Japan)"
+        },
+        {
+            "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Blues Brothers 2000 (USA)",
+            "description": "Blues Brothers 2000 (USA)"
+        },
+        {
+            "name": "Body Harvest (Europe) (En,Fr,De)",
+            "description": "Body Harvest (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Body Harvest (USA)",
+            "description": "Body Harvest (USA)"
+        },
+        {
+            "name": "Bokujou Monogatari 2 (Japan)",
+            "description": "Bokujou Monogatari 2 (Japan)"
+        },
+        {
+            "name": "Bokujou Monogatari 2 (Japan) (Rev 1)",
+            "description": "Bokujou Monogatari 2 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Bokujou Monogatari 2 (Japan) (Rev 2)",
+            "description": "Bokujou Monogatari 2 (Japan) (Rev 2)"
+        },
+        {
+            "name": "Bomberman 64 (Europe)",
+            "description": "Bomberman 64 (Europe)"
+        },
+        {
+            "name": "Bomberman 64 (Japan)",
+            "description": "Bomberman 64 (Japan)"
+        },
+        {
+            "name": "Bomberman 64 (USA)",
+            "description": "Bomberman 64 (USA)"
+        },
+        {
+            "name": "Bomberman 64 - The Second Attack! (USA)",
+            "description": "Bomberman 64 - The Second Attack! (USA)"
+        },
+        {
+            "name": "Bomberman Hero (Europe)",
+            "description": "Bomberman Hero (Europe)"
+        },
+        {
+            "name": "Bomberman Hero (USA)",
+            "description": "Bomberman Hero (USA)"
+        },
+        {
+            "name": "Bomberman Hero - Mirian Oujo o Sukue! (Japan)",
+            "description": "Bomberman Hero - Mirian Oujo o Sukue! (Japan)"
+        },
+        {
+            "name": "Bottom of the 9th (USA)",
+            "description": "Bottom of the 9th (USA)"
+        },
+        {
+            "name": "Brunswick Circuit Pro Bowling (USA)",
+            "description": "Brunswick Circuit Pro Bowling (USA)"
+        },
+        {
+            "name": "Buck Bumble (Europe) (En,Fr,De,Es,It)",
+            "description": "Buck Bumble (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Buck Bumble (Japan)",
+            "description": "Buck Bumble (Japan)"
+        },
+        {
+            "name": "Buck Bumble (USA)",
+            "description": "Buck Bumble (USA)"
+        },
+        {
+            "name": "Bug's Life, A (Europe)",
+            "description": "Bug's Life, A (Europe)"
+        },
+        {
+            "name": "Bug's Life, A (France)",
+            "description": "Bug's Life, A (France)"
+        },
+        {
+            "name": "Bug's Life, A (Germany)",
+            "description": "Bug's Life, A (Germany)"
+        },
+        {
+            "name": "Bug's Life, A (Italy)",
+            "description": "Bug's Life, A (Italy)"
+        },
+        {
+            "name": "Bug's Life, A (USA)",
+            "description": "Bug's Life, A (USA)"
+        },
+        {
+            "name": "Bust-A-Move '99 (USA)",
+            "description": "Bust-A-Move '99 (USA)"
+        },
+        {
+            "name": "Bust-A-Move 2 - Arcade Edition (Europe)",
+            "description": "Bust-A-Move 2 - Arcade Edition (Europe)"
+        },
+        {
+            "name": "Bust-A-Move 2 - Arcade Edition (USA)",
+            "description": "Bust-A-Move 2 - Arcade Edition (USA)"
+        },
+        {
+            "name": "Bust-A-Move 3 DX (Europe)",
+            "description": "Bust-A-Move 3 DX (Europe)"
+        },
+        {
+            "name": "California Speed (USA)",
+            "description": "California Speed (USA)"
+        },
+        {
+            "name": "Carmageddon 64 (Europe) (En,Fr,De,Es)",
+            "description": "Carmageddon 64 (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Carmageddon 64 (Europe) (En,Fr,Es,It)",
+            "description": "Carmageddon 64 (Europe) (En,Fr,Es,It)"
+        },
+        {
+            "name": "Carmageddon 64 (USA)",
+            "description": "Carmageddon 64 (USA)"
+        },
+        {
+            "name": "Castlevania (Europe) (En,Fr,De)",
+            "description": "Castlevania (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Castlevania (USA)",
+            "description": "Castlevania (USA)"
+        },
+        {
+            "name": "Castlevania (USA) (Rev 1)",
+            "description": "Castlevania (USA) (Rev 1)"
+        },
+        {
+            "name": "Castlevania (USA) (Rev 2)",
+            "description": "Castlevania (USA) (Rev 2)"
+        },
+        {
+            "name": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",
+            "description": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Castlevania - Legacy of Darkness (USA)",
+            "description": "Castlevania - Legacy of Darkness (USA)"
+        },
+        {
+            "name": "Centre Court Tennis (Europe)",
+            "description": "Centre Court Tennis (Europe)"
+        },
+        {
+            "name": "Chameleon Twist (Europe)",
+            "description": "Chameleon Twist (Europe)"
+        },
+        {
+            "name": "Chameleon Twist (Japan)",
+            "description": "Chameleon Twist (Japan)"
+        },
+        {
+            "name": "Chameleon Twist (USA)",
+            "description": "Chameleon Twist (USA)"
+        },
+        {
+            "name": "Chameleon Twist (USA) (Rev 1)",
+            "description": "Chameleon Twist (USA) (Rev 1)"
+        },
+        {
+            "name": "Chameleon Twist 2 (Europe)",
+            "description": "Chameleon Twist 2 (Europe)"
+        },
+        {
+            "name": "Chameleon Twist 2 (Japan)",
+            "description": "Chameleon Twist 2 (Japan)"
+        },
+        {
+            "name": "Chameleon Twist 2 (USA)",
+            "description": "Chameleon Twist 2 (USA)"
+        },
+        {
+            "name": "Charlie Blast's Territory (Europe)",
+            "description": "Charlie Blast's Territory (Europe)"
+        },
+        {
+            "name": "Charlie Blast's Territory (USA)",
+            "description": "Charlie Blast's Territory (USA)"
+        },
+        {
+            "name": "Chopper Attack (Europe)",
+            "description": "Chopper Attack (Europe)"
+        },
+        {
+            "name": "Chopper Attack (USA)",
+            "description": "Chopper Attack (USA)"
+        },
+        {
+            "name": "Choro Q 64 (Japan)",
+            "description": "Choro Q 64 (Japan)"
+        },
+        {
+            "name": "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)",
+            "description": "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)"
+        },
+        {
+            "name": "Chou Kuukan Nighter Pro Yakyuu King (Japan)",
+            "description": "Chou Kuukan Nighter Pro Yakyuu King (Japan)"
+        },
+        {
+            "name": "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)",
+            "description": "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)"
+        },
+        {
+            "name": "Chou Snobo Kids (Japan)",
+            "description": "Chou Snobo Kids (Japan)"
+        },
+        {
+            "name": "City-Tour GP - Zen-Nihon GT Senshuken (Japan)",
+            "description": "City-Tour GP - Zen-Nihon GT Senshuken (Japan)"
+        },
+        {
+            "name": "Clay Fighter - Sculptor's Cut (USA)",
+            "description": "Clay Fighter - Sculptor's Cut (USA)"
+        },
+        {
+            "name": "Clay Fighter 63 1-3 (Europe)",
+            "description": "Clay Fighter 63 1-3 (Europe)"
+        },
+        {
+            "name": "Clay Fighter 63 1-3 (USA)",
+            "description": "Clay Fighter 63 1-3 (USA)"
+        },
+        {
+            "name": "Command & Conquer (Europe) (En,Fr)",
+            "description": "Command & Conquer (Europe) (En,Fr)"
+        },
+        {
+            "name": "Command & Conquer (Germany)",
+            "description": "Command & Conquer (Germany)"
+        },
+        {
+            "name": "Command & Conquer (USA)",
+            "description": "Command & Conquer (USA)"
+        },
+        {
+            "name": "Conker's Bad Fur Day (Europe)",
+            "description": "Conker's Bad Fur Day (Europe)"
+        },
+        {
+            "name": "Conker's Bad Fur Day (USA)",
+            "description": "Conker's Bad Fur Day (USA)"
+        },
+        {
+            "name": "Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)",
+            "description": "Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)"
+        },
+        {
+            "name": "Cruis'n Exotica (USA)",
+            "description": "Cruis'n Exotica (USA)"
+        },
+        {
+            "name": "Cruis'n USA (Europe)",
+            "description": "Cruis'n USA (Europe)"
+        },
+        {
+            "name": "Cruis'n USA (USA)",
+            "description": "Cruis'n USA (USA)"
+        },
+        {
+            "name": "Cruis'n USA (USA) (Rev 1)",
+            "description": "Cruis'n USA (USA) (Rev 1)"
+        },
+        {
+            "name": "Cruis'n USA (USA) (Rev 2)",
+            "description": "Cruis'n USA (USA) (Rev 2)"
+        },
+        {
+            "name": "Cruis'n USA (USA) (Wii Virtual Console)",
+            "description": "Cruis'n USA (USA) (Wii Virtual Console)"
+        },
+        {
+            "name": "Cruis'n World (Europe)",
+            "description": "Cruis'n World (Europe)"
+        },
+        {
+            "name": "Cruis'n World (Europe) (Rev 1)",
+            "description": "Cruis'n World (Europe) (Rev 1)"
+        },
+        {
+            "name": "Cruis'n World (USA)",
+            "description": "Cruis'n World (USA)"
+        },
+        {
+            "name": "Custom Robo (Japan)",
+            "description": "Custom Robo (Japan)"
+        },
+        {
+            "name": "Custom Robo V2 (Japan)",
+            "description": "Custom Robo V2 (Japan)"
+        },
+        {
+            "name": "CyberTiger (Europe)",
+            "description": "CyberTiger (Europe)"
+        },
+        {
+            "name": "CyberTiger (USA)",
+            "description": "CyberTiger (USA)"
+        },
+        {
+            "name": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Dance Dance Revolution - Disney Dancing Museum (Japan)",
+            "description": "Dance Dance Revolution - Disney Dancing Museum (Japan)"
+        },
+        {
+            "name": "Dark Rift (Europe)",
+            "description": "Dark Rift (Europe)"
+        },
+        {
+            "name": "Dark Rift (USA)",
+            "description": "Dark Rift (USA)"
+        },
+        {
+            "name": "Deadly Arts (USA)",
+            "description": "Deadly Arts (USA)"
+        },
+        {
+            "name": "Defi au Tetris Magique (France)",
+            "description": "Defi au Tetris Magique (France)"
+        },
+        {
+            "name": "Densha de Go! 64 (Japan)",
+            "description": "Densha de Go! 64 (Japan)"
+        },
+        {
+            "name": "Derby Stallion 64 (Japan)",
+            "description": "Derby Stallion 64 (Japan)"
+        },
+        {
+            "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
+            "description": "Destruction Derby 64 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Destruction Derby 64 (USA)",
+            "description": "Destruction Derby 64 (USA)"
+        },
+        {
+            "name": "Dezaemon 3D (Japan)",
+            "description": "Dezaemon 3D (Japan)"
+        },
+        {
+            "name": "Diddy Kong Racing (Europe) (En,Fr,De)",
+            "description": "Diddy Kong Racing (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)",
+            "description": "Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)"
+        },
+        {
+            "name": "Diddy Kong Racing (Japan)",
+            "description": "Diddy Kong Racing (Japan)"
+        },
+        {
+            "name": "Diddy Kong Racing (USA) (En,Fr)",
+            "description": "Diddy Kong Racing (USA) (En,Fr)"
+        },
+        {
+            "name": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
+            "description": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)"
+        },
+        {
+            "name": "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",
+            "description": "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
+            "description": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Dongwu Senlin (China) (iQue)",
+            "description": "Dongwu Senlin (China) (iQue)"
+        },
+        {
+            "name": "Donkey Kong 64 (Europe) (En,Fr,De,Es)",
+            "description": "Donkey Kong 64 (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Donkey Kong 64 (Japan)",
+            "description": "Donkey Kong 64 (Japan)"
+        },
+        {
+            "name": "Donkey Kong 64 (USA)",
+            "description": "Donkey Kong 64 (USA)"
+        },
+        {
+            "name": "Doom 64 (Europe)",
+            "description": "Doom 64 (Europe)"
+        },
+        {
+            "name": "Doom 64 (Japan)",
+            "description": "Doom 64 (Japan)"
+        },
+        {
+            "name": "Doom 64 (USA)",
+            "description": "Doom 64 (USA)"
+        },
+        {
+            "name": "Doom 64 (USA) (Rev 1)",
+            "description": "Doom 64 (USA) (Rev 1)"
+        },
+        {
+            "name": "Doraemon - Nobita to 3tsu no Seireiseki (Japan)",
+            "description": "Doraemon - Nobita to 3tsu no Seireiseki (Japan)"
+        },
+        {
+            "name": "Doraemon 2 - Nobita to Hikari no Shinden (Japan)",
+            "description": "Doraemon 2 - Nobita to Hikari no Shinden (Japan)"
+        },
+        {
+            "name": "Doraemon 3 - Nobita no Machi SOS! (Japan)",
+            "description": "Doraemon 3 - Nobita no Machi SOS! (Japan)"
+        },
+        {
+            "name": "Doubutsu no Mori (Japan)",
+            "description": "Doubutsu no Mori (Japan)"
+        },
+        {
+            "name": "Dr. Mario 64 (USA)",
+            "description": "Dr. Mario 64 (USA)"
+        },
+        {
+            "name": "Dual Heroes (Europe)",
+            "description": "Dual Heroes (Europe)"
+        },
+        {
+            "name": "Dual Heroes (Japan)",
+            "description": "Dual Heroes (Japan)"
+        },
+        {
+            "name": "Dual Heroes (USA)",
+            "description": "Dual Heroes (USA)"
+        },
+        {
+            "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",
+            "description": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)"
+        },
+        {
+            "name": "Duke Nukem - Zero Hour (Europe)",
+            "description": "Duke Nukem - Zero Hour (Europe)"
+        },
+        {
+            "name": "Duke Nukem - Zero Hour (France)",
+            "description": "Duke Nukem - Zero Hour (France)"
+        },
+        {
+            "name": "Duke Nukem - Zero Hour (USA)",
+            "description": "Duke Nukem - Zero Hour (USA)"
+        },
+        {
+            "name": "Duke Nukem 64 (Europe)",
+            "description": "Duke Nukem 64 (Europe)"
+        },
+        {
+            "name": "Duke Nukem 64 (France)",
+            "description": "Duke Nukem 64 (France)"
+        },
+        {
+            "name": "Duke Nukem 64 (USA)",
+            "description": "Duke Nukem 64 (USA)"
+        },
+        {
+            "name": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",
+            "description": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Earthworm Jim 3D (USA)",
+            "description": "Earthworm Jim 3D (USA)"
+        },
+        {
+            "name": "ECW Hardcore Revolution (Europe)",
+            "description": "ECW Hardcore Revolution (Europe)"
+        },
+        {
+            "name": "ECW Hardcore Revolution (Germany)",
+            "description": "ECW Hardcore Revolution (Germany)"
+        },
+        {
+            "name": "ECW Hardcore Revolution (USA)",
+            "description": "ECW Hardcore Revolution (USA)"
+        },
+        {
+            "name": "Eikou no Saint Andrews (Japan)",
+            "description": "Eikou no Saint Andrews (Japan)"
+        },
+        {
+            "name": "Eltale Monsters (Japan)",
+            "description": "Eltale Monsters (Japan)"
+        },
+        {
+            "name": "Excitebike 64 (Europe)",
+            "description": "Excitebike 64 (Europe)"
+        },
+        {
+            "name": "Excitebike 64 (Japan)",
+            "description": "Excitebike 64 (Japan)"
+        },
+        {
+            "name": "Excitebike 64 (USA)",
+            "description": "Excitebike 64 (USA)"
+        },
+        {
+            "name": "Excitebike 64 (USA) (Rev 1)",
+            "description": "Excitebike 64 (USA) (Rev 1)"
+        },
+        {
+            "name": "Extreme-G (Europe) (En,Fr,De,Es,It)",
+            "description": "Extreme-G (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Extreme-G (Japan)",
+            "description": "Extreme-G (Japan)"
+        },
+        {
+            "name": "Extreme-G (USA)",
+            "description": "Extreme-G (USA)"
+        },
+        {
+            "name": "Extreme-G XG2 (Europe) (En,Fr,De,Es,It)",
+            "description": "Extreme-G XG2 (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Extreme-G XG2 (Japan)",
+            "description": "Extreme-G XG2 (Japan)"
+        },
+        {
+            "name": "Extreme-G XG2 (USA)",
+            "description": "Extreme-G XG2 (USA)"
+        },
+        {
+            "name": "F-1 World Grand Prix (Europe)",
+            "description": "F-1 World Grand Prix (Europe)"
+        },
+        {
+            "name": "F-1 World Grand Prix (France)",
+            "description": "F-1 World Grand Prix (France)"
+        },
+        {
+            "name": "F-1 World Grand Prix (Germany)",
+            "description": "F-1 World Grand Prix (Germany)"
+        },
+        {
+            "name": "F-1 World Grand Prix (Japan)",
+            "description": "F-1 World Grand Prix (Japan)"
+        },
+        {
+            "name": "F-1 World Grand Prix (USA)",
+            "description": "F-1 World Grand Prix (USA)"
+        },
+        {
+            "name": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
+            "description": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "F-Zero X (Europe)",
+            "description": "F-Zero X (Europe)"
+        },
+        {
+            "name": "F-Zero X (Japan)",
+            "description": "F-Zero X (Japan)"
+        },
+        {
+            "name": "F-Zero X (USA)",
+            "description": "F-Zero X (USA)"
+        },
+        {
+            "name": "F-Zero X - Weilai Saiche (China) (iQue)",
+            "description": "F-Zero X - Weilai Saiche (China) (iQue)"
+        },
+        {
+            "name": "F-Zero X - Weilai Saiche (China) (v2) (iQue) (Manual)",
+            "description": "F-Zero X - Weilai Saiche (China) (v2) (iQue) (Manual)"
+        },
+        {
+            "name": "F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)",
+            "description": "F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)"
+        },
+        {
+            "name": "F1 Pole Position 64 (Europe) (En,Fr,De)",
+            "description": "F1 Pole Position 64 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "F1 Pole Position 64 (USA) (En,Fr,De)",
+            "description": "F1 Pole Position 64 (USA) (En,Fr,De)"
+        },
+        {
+            "name": "F1 Racing Championship (Brazil) (En,Fr)",
+            "description": "F1 Racing Championship (Brazil) (En,Fr)"
+        },
+        {
+            "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+            "description": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Famista 64 (Japan)",
+            "description": "Famista 64 (Japan)"
+        },
+        {
+            "name": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+            "description": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)"
+        },
+        {
+            "name": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",
+            "description": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)"
+        },
+        {
+            "name": "FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)",
+            "description": "FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)"
+        },
+        {
+            "name": "FIFA 64 (Europe) (En,Fr,De)",
+            "description": "FIFA 64 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+            "description": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+        },
+        {
+            "name": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+            "description": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+        },
+        {
+            "name": "FIFA Soccer 64 (USA) (En,Fr,De)",
+            "description": "FIFA Soccer 64 (USA) (En,Fr,De)"
+        },
+        {
+            "name": "Fighter Destiny 2 (USA)",
+            "description": "Fighter Destiny 2 (USA)"
+        },
+        {
+            "name": "Fighters Destiny (Europe)",
+            "description": "Fighters Destiny (Europe)"
+        },
+        {
+            "name": "Fighters Destiny (France)",
+            "description": "Fighters Destiny (France)"
+        },
+        {
+            "name": "Fighters Destiny (Germany)",
+            "description": "Fighters Destiny (Germany)"
+        },
+        {
+            "name": "Fighters Destiny (USA)",
+            "description": "Fighters Destiny (USA)"
+        },
+        {
+            "name": "Fighting Cup (Japan)",
+            "description": "Fighting Cup (Japan)"
+        },
+        {
+            "name": "Fighting Force 64 (Europe)",
+            "description": "Fighting Force 64 (Europe)"
+        },
+        {
+            "name": "Fighting Force 64 (USA)",
+            "description": "Fighting Force 64 (USA)"
+        },
+        {
+            "name": "Flying Dragon (Europe)",
+            "description": "Flying Dragon (Europe)"
+        },
+        {
+            "name": "Flying Dragon (USA)",
+            "description": "Flying Dragon (USA)"
+        },
+        {
+            "name": "Forsaken (Europe) (En,Fr,Es,It)",
+            "description": "Forsaken (Europe) (En,Fr,Es,It)"
+        },
+        {
+            "name": "Forsaken (Germany)",
+            "description": "Forsaken (Germany)"
+        },
+        {
+            "name": "Forsaken 64 (USA)",
+            "description": "Forsaken 64 (USA)"
+        },
+        {
+            "name": "Fox Sports College Hoops '99 (USA)",
+            "description": "Fox Sports College Hoops '99 (USA)"
+        },
+        {
+            "name": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)",
+            "description": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)"
+        },
+        {
+            "name": "G.A.S.P!! Fighters' NEXTream (Europe)",
+            "description": "G.A.S.P!! Fighters' NEXTream (Europe)"
+        },
+        {
+            "name": "G.A.S.P!! Fighters' NEXTream (Japan)",
+            "description": "G.A.S.P!! Fighters' NEXTream (Japan)"
+        },
+        {
+            "name": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)",
+            "description": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)"
+        },
+        {
+            "name": "Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)",
+            "description": "Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)"
+        },
+        {
+            "name": "Ganbare! Nippon! Olympics 2000 (Japan)",
+            "description": "Ganbare! Nippon! Olympics 2000 (Japan)"
+        },
+        {
+            "name": "Gauntlet Legends (Europe)",
+            "description": "Gauntlet Legends (Europe)"
+        },
+        {
+            "name": "Gauntlet Legends (Japan)",
+            "description": "Gauntlet Legends (Japan)"
+        },
+        {
+            "name": "Gauntlet Legends (USA)",
+            "description": "Gauntlet Legends (USA)"
+        },
+        {
+            "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan)",
+            "description": "Getter Love!! - Cho Renai Party Game Tanjou (Japan)"
+        },
+        {
+            "name": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)",
+            "description": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)"
+        },
+        {
+            "name": "Gex 3 - Deep Cover Gecko (Europe) (Fr,De)",
+            "description": "Gex 3 - Deep Cover Gecko (Europe) (Fr,De)"
+        },
+        {
+            "name": "Gex 3 - Deep Cover Gecko (USA)",
+            "description": "Gex 3 - Deep Cover Gecko (USA)"
+        },
+        {
+            "name": "Gex 64 - Enter the Gecko (Europe)",
+            "description": "Gex 64 - Enter the Gecko (Europe)"
+        },
+        {
+            "name": "Gex 64 - Enter the Gecko (USA)",
+            "description": "Gex 64 - Enter the Gecko (USA)"
+        },
+        {
+            "name": "Glover (Europe) (En,Fr,De)",
+            "description": "Glover (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Glover (USA)",
+            "description": "Glover (USA)"
+        },
+        {
+            "name": "Glover 2 (USA) (Unk Proto)",
+            "description": "Glover 2 (USA) (Unk Proto)"
+        },
+        {
+            "name": "Goemon - Mononoke Sugoroku (Japan)",
+            "description": "Goemon - Mononoke Sugoroku (Japan)"
+        },
+        {
+            "name": "Goemon's Great Adventure (USA)",
+            "description": "Goemon's Great Adventure (USA)"
+        },
+        {
+            "name": "Golden Nugget 64 (USA)",
+            "description": "Golden Nugget 64 (USA)"
+        },
+        {
+            "name": "GoldenEye 007 (Europe)",
+            "description": "GoldenEye 007 (Europe)"
+        },
+        {
+            "name": "GoldenEye 007 (Japan)",
+            "description": "GoldenEye 007 (Japan)"
+        },
+        {
+            "name": "GoldenEye 007 (USA)",
+            "description": "GoldenEye 007 (USA)"
+        },
+        {
+            "name": "GT 64 - Championship Edition (Europe) (En,Fr,De)",
+            "description": "GT 64 - Championship Edition (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "GT 64 - Championship Edition (USA)",
+            "description": "GT 64 - Championship Edition (USA)"
+        },
+        {
+            "name": "Hamster Monogatari 64 (Japan)",
+            "description": "Hamster Monogatari 64 (Japan)"
+        },
+        {
+            "name": "Harukanaru Augusta - Masters '98 (Japan)",
+            "description": "Harukanaru Augusta - Masters '98 (Japan)"
+        },
+        {
+            "name": "Harvest Moon 64 (USA)",
+            "description": "Harvest Moon 64 (USA)"
+        },
+        {
+            "name": "Heiwa Pachinko World 64 (Japan)",
+            "description": "Heiwa Pachinko World 64 (Japan)"
+        },
+        {
+            "name": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Hercules - The Legendary Journeys (USA)",
+            "description": "Hercules - The Legendary Journeys (USA)"
+        },
+        {
+            "name": "Hexen (Europe)",
+            "description": "Hexen (Europe)"
+        },
+        {
+            "name": "Hexen (France)",
+            "description": "Hexen (France)"
+        },
+        {
+            "name": "Hexen (Germany)",
+            "description": "Hexen (Germany)"
+        },
+        {
+            "name": "Hexen (Japan)",
+            "description": "Hexen (Japan)"
+        },
+        {
+            "name": "Hexen (USA)",
+            "description": "Hexen (USA)"
+        },
+        {
+            "name": "Hey You, Pikachu! (USA)",
+            "description": "Hey You, Pikachu! (USA)"
+        },
+        {
+            "name": "Hiryuu no Ken Twin (Japan)",
+            "description": "Hiryuu no Ken Twin (Japan)"
+        },
+        {
+            "name": "Holy Magic Century (Europe)",
+            "description": "Holy Magic Century (Europe)"
+        },
+        {
+            "name": "Holy Magic Century (France)",
+            "description": "Holy Magic Century (France)"
+        },
+        {
+            "name": "Holy Magic Century (Germany)",
+            "description": "Holy Magic Century (Germany)"
+        },
+        {
+            "name": "Hoshi no Kirby 64 (Japan)",
+            "description": "Hoshi no Kirby 64 (Japan)"
+        },
+        {
+            "name": "Hoshi no Kirby 64 (Japan) (Rev 1)",
+            "description": "Hoshi no Kirby 64 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Hoshi no Kirby 64 (Japan) (Rev 2)",
+            "description": "Hoshi no Kirby 64 (Japan) (Rev 2)"
+        },
+        {
+            "name": "Hoshi no Kirby 64 (Japan) (Rev 3)",
+            "description": "Hoshi no Kirby 64 (Japan) (Rev 3)"
+        },
+        {
+            "name": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)",
+            "description": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Hot Wheels - Turbo Racing (USA)",
+            "description": "Hot Wheels - Turbo Racing (USA)"
+        },
+        {
+            "name": "HSV Adventure Racing! (Australia)",
+            "description": "HSV Adventure Racing! (Australia)"
+        },
+        {
+            "name": "Human Grand Prix - The New Generation (Japan)",
+            "description": "Human Grand Prix - The New Generation (Japan)"
+        },
+        {
+            "name": "Hybrid Heaven (Europe) (En,Fr,De)",
+            "description": "Hybrid Heaven (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Hybrid Heaven (Japan)",
+            "description": "Hybrid Heaven (Japan)"
+        },
+        {
+            "name": "Hybrid Heaven (USA)",
+            "description": "Hybrid Heaven (USA)"
+        },
+        {
+            "name": "Hydro Thunder (Europe)",
+            "description": "Hydro Thunder (Europe)"
+        },
+        {
+            "name": "Hydro Thunder (France)",
+            "description": "Hydro Thunder (France)"
+        },
+        {
+            "name": "Hydro Thunder (USA)",
+            "description": "Hydro Thunder (USA)"
+        },
+        {
+            "name": "Hyper Olympics in Nagano 64 (Japan)",
+            "description": "Hyper Olympics in Nagano 64 (Japan)"
+        },
+        {
+            "name": "Ide Yosuke no Mahjong Juku (Japan)",
+            "description": "Ide Yosuke no Mahjong Juku (Japan)"
+        },
+        {
+            "name": "Iggy's Reckin' Balls (Europe)",
+            "description": "Iggy's Reckin' Balls (Europe)"
+        },
+        {
+            "name": "Iggy's Reckin' Balls (USA)",
+            "description": "Iggy's Reckin' Balls (USA)"
+        },
+        {
+            "name": "Iggy-kun no Bura Bura Poyon (Japan)",
+            "description": "Iggy-kun no Bura Bura Poyon (Japan)"
+        },
+        {
+            "name": "In-Fisherman - Bass Hunter 64 (Europe)",
+            "description": "In-Fisherman - Bass Hunter 64 (Europe)"
+        },
+        {
+            "name": "In-Fisherman - Bass Hunter 64 (USA)",
+            "description": "In-Fisherman - Bass Hunter 64 (USA)"
+        },
+        {
+            "name": "Indiana Jones and the Infernal Machine (USA)",
+            "description": "Indiana Jones and the Infernal Machine (USA)"
+        },
+        {
+            "name": "Indy Racing 2000 (USA)",
+            "description": "Indy Racing 2000 (USA)"
+        },
+        {
+            "name": "International Superstar Soccer '98 (Europe)",
+            "description": "International Superstar Soccer '98 (Europe)"
+        },
+        {
+            "name": "International Superstar Soccer '98 (USA)",
+            "description": "International Superstar Soccer '98 (USA)"
+        },
+        {
+            "name": "International Superstar Soccer 2000 (Europe) (En,De)",
+            "description": "International Superstar Soccer 2000 (Europe) (En,De)"
+        },
+        {
+            "name": "International Superstar Soccer 2000 (Europe) (Fr,It)",
+            "description": "International Superstar Soccer 2000 (Europe) (Fr,It)"
+        },
+        {
+            "name": "International Superstar Soccer 2000 (USA) (En,Es)",
+            "description": "International Superstar Soccer 2000 (USA) (En,Es)"
+        },
+        {
+            "name": "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)",
+            "description": "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)"
+        },
+        {
+            "name": "International Superstar Soccer 64 (Europe)",
+            "description": "International Superstar Soccer 64 (Europe)"
+        },
+        {
+            "name": "International Superstar Soccer 64 (USA)",
+            "description": "International Superstar Soccer 64 (USA)"
+        },
+        {
+            "name": "International Track & Field - Summer Games (Europe) (En,Fr,De)",
+            "description": "International Track & Field - Summer Games (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "International Track & Field 2000 (USA)",
+            "description": "International Track & Field 2000 (USA)"
+        },
+        {
+            "name": "iQue Club (China) (v3) (iQue)",
+            "description": "iQue Club (China) (v3) (iQue)"
+        },
+        {
+            "name": "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)",
+            "description": "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)"
+        },
+        {
+            "name": "J.League Dynamite Soccer 64 (Japan)",
+            "description": "J.League Dynamite Soccer 64 (Japan)"
+        },
+        {
+            "name": "J.League Eleven Beat 1997 (Japan)",
+            "description": "J.League Eleven Beat 1997 (Japan)"
+        },
+        {
+            "name": "J.League Live 64 (Japan)",
+            "description": "J.League Live 64 (Japan)"
+        },
+        {
+            "name": "J.League Tactics Soccer (Japan)",
+            "description": "J.League Tactics Soccer (Japan)"
+        },
+        {
+            "name": "J.League Tactics Soccer (Japan) (Rev 1)",
+            "description": "J.League Tactics Soccer (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jangou Simulation Mahjong Dou 64 (Japan)",
+            "description": "Jangou Simulation Mahjong Dou 64 (Japan)"
+        },
+        {
+            "name": "Jeopardy! (USA)",
+            "description": "Jeopardy! (USA)"
+        },
+        {
+            "name": "Jeremy McGrath Supercross 2000 (Europe)",
+            "description": "Jeremy McGrath Supercross 2000 (Europe)"
+        },
+        {
+            "name": "Jeremy McGrath Supercross 2000 (USA)",
+            "description": "Jeremy McGrath Supercross 2000 (USA)"
+        },
+        {
+            "name": "Jet Force Gemini (Europe) (En,Fr,De,Es)",
+            "description": "Jet Force Gemini (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Jet Force Gemini (USA)",
+            "description": "Jet Force Gemini (USA)"
+        },
+        {
+            "name": "Jikkyou G1 Stable (Japan)",
+            "description": "Jikkyou G1 Stable (Japan)"
+        },
+        {
+            "name": "Jikkyou G1 Stable (Japan) (Rev 1)",
+            "description": "Jikkyou G1 Stable (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)",
+            "description": "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)"
+        },
+        {
+            "name": "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)",
+            "description": "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou J.League Perfect Striker (Japan)",
+            "description": "Jikkyou J.League Perfect Striker (Japan)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)",
+            "description": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)",
+            "description": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 2000 (Japan)",
+            "description": "Jikkyou Powerful Pro Yakyuu 2000 (Japan)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)",
+            "description": "Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 4 (Japan)",
+            "description": "Jikkyou Powerful Pro Yakyuu 4 (Japan)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)",
+            "description": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan)",
+            "description": "Jikkyou Powerful Pro Yakyuu 5 (Japan)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)",
+            "description": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2)",
+            "description": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan)",
+            "description": "Jikkyou Powerful Pro Yakyuu 6 (Japan)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1)",
+            "description": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)",
+            "description": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)"
+        },
+        {
+            "name": "Jikkyou World Soccer - World Cup France '98 (Japan)",
+            "description": "Jikkyou World Soccer - World Cup France '98 (Japan)"
+        },
+        {
+            "name": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)",
+            "description": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)",
+            "description": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)"
+        },
+        {
+            "name": "Jikkyou World Soccer 3 (Japan)",
+            "description": "Jikkyou World Soccer 3 (Japan)"
+        },
+        {
+            "name": "Jikuu Senshi Turok (Japan)",
+            "description": "Jikuu Senshi Turok (Japan)"
+        },
+        {
+            "name": "Jinsei Game 64 (Japan)",
+            "description": "Jinsei Game 64 (Japan)"
+        },
+        {
+            "name": "John Romero's Daikatana (Europe) (En,Fr,De)",
+            "description": "John Romero's Daikatana (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "John Romero's Daikatana (Japan)",
+            "description": "John Romero's Daikatana (Japan)"
+        },
+        {
+            "name": "John Romero's Daikatana (USA)",
+            "description": "John Romero's Daikatana (USA)"
+        },
+        {
+            "name": "Kakutou Denshou - F-Cup Maniax (Japan)",
+            "description": "Kakutou Denshou - F-Cup Maniax (Japan)"
+        },
+        {
+            "name": "Ken Griffey Jr.'s Slugfest (USA)",
+            "description": "Ken Griffey Jr.'s Slugfest (USA)"
+        },
+        {
+            "name": "Killer Instinct Gold (Europe)",
+            "description": "Killer Instinct Gold (Europe)"
+        },
+        {
+            "name": "Killer Instinct Gold (USA)",
+            "description": "Killer Instinct Gold (USA)"
+        },
+        {
+            "name": "Killer Instinct Gold (USA) (Rev 1)",
+            "description": "Killer Instinct Gold (USA) (Rev 1)"
+        },
+        {
+            "name": "Killer Instinct Gold (USA) (Rev 2)",
+            "description": "Killer Instinct Gold (USA) (Rev 2)"
+        },
+        {
+            "name": "King Hill 64 - Extreme Snowboarding (Japan)",
+            "description": "King Hill 64 - Extreme Snowboarding (Japan)"
+        },
+        {
+            "name": "Kiratto Kaiketsu! 64 Tanteidan (Japan)",
+            "description": "Kiratto Kaiketsu! 64 Tanteidan (Japan)"
+        },
+        {
+            "name": "Kirby 64 - The Crystal Shards (Europe)",
+            "description": "Kirby 64 - The Crystal Shards (Europe)"
+        },
+        {
+            "name": "Kirby 64 - The Crystal Shards (USA)",
+            "description": "Kirby 64 - The Crystal Shards (USA)"
+        },
+        {
+            "name": "Knife Edge - Nose Gunner (Europe)",
+            "description": "Knife Edge - Nose Gunner (Europe)"
+        },
+        {
+            "name": "Knife Edge - Nose Gunner (Japan)",
+            "description": "Knife Edge - Nose Gunner (Japan)"
+        },
+        {
+            "name": "Knife Edge - Nose Gunner (USA)",
+            "description": "Knife Edge - Nose Gunner (USA)"
+        },
+        {
+            "name": "Knockout Kings 2000 (Europe)",
+            "description": "Knockout Kings 2000 (Europe)"
+        },
+        {
+            "name": "Knockout Kings 2000 (USA)",
+            "description": "Knockout Kings 2000 (USA)"
+        },
+        {
+            "name": "Kobe Bryant in NBA Courtside (Europe)",
+            "description": "Kobe Bryant in NBA Courtside (Europe)"
+        },
+        {
+            "name": "Kobe Bryant in NBA Courtside (USA)",
+            "description": "Kobe Bryant in NBA Courtside (USA)"
+        },
+        {
+            "name": "Last Legion UX (Japan)",
+            "description": "Last Legion UX (Japan)"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)",
+            "description": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)",
+            "description": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)",
+            "description": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)",
+            "description": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)",
+            "description": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (USA)",
+            "description": "Legend of Zelda, The - Majora's Mask (USA)"
+        },
+        {
+            "name": "Legend of Zelda, The - Majora's Mask (USA) (GameCube)",
+            "description": "Legend of Zelda, The - Majora's Mask (USA) (GameCube)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)",
+            "description": "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)",
+            "description": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)",
+            "description": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)",
+            "description": "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (USA)",
+            "description": "Legend of Zelda, The - Ocarina of Time (USA)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)",
+            "description": "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)",
+            "description": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+            "description": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)",
+            "description": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug) (GameCube)",
+            "description": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug) (GameCube)"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)",
+            "description": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)"
+        },
+        {
+            "name": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+            "description": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"
+        },
+        {
+            "name": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+            "description": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"
+        },
+        {
+            "name": "Let's Smash (Japan)",
+            "description": "Let's Smash (Japan)"
+        },
+        {
+            "name": "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)",
+            "description": "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Lode Runner 3-D (Japan)",
+            "description": "Lode Runner 3-D (Japan)"
+        },
+        {
+            "name": "Lode Runner 3-D (USA)",
+            "description": "Lode Runner 3-D (USA)"
+        },
+        {
+            "name": "Lylat Wars (Australia) (En,Fr,De)",
+            "description": "Lylat Wars (Australia) (En,Fr,De)"
+        },
+        {
+            "name": "Lylatwars (Europe) (En,Fr,De)",
+            "description": "Lylatwars (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Mace - The Dark Age (Europe)",
+            "description": "Mace - The Dark Age (Europe)"
+        },
+        {
+            "name": "Mace - The Dark Age (USA)",
+            "description": "Mace - The Dark Age (USA)"
+        },
+        {
+            "name": "Madden Football 64 (Europe)",
+            "description": "Madden Football 64 (Europe)"
+        },
+        {
+            "name": "Madden Football 64 (USA)",
+            "description": "Madden Football 64 (USA)"
+        },
+        {
+            "name": "Madden NFL 2000 (USA)",
+            "description": "Madden NFL 2000 (USA)"
+        },
+        {
+            "name": "Madden NFL 2001 (USA)",
+            "description": "Madden NFL 2001 (USA)"
+        },
+        {
+            "name": "Madden NFL 2002 (USA)",
+            "description": "Madden NFL 2002 (USA)"
+        },
+        {
+            "name": "Madden NFL 99 (Europe)",
+            "description": "Madden NFL 99 (Europe)"
+        },
+        {
+            "name": "Madden NFL 99 (USA)",
+            "description": "Madden NFL 99 (USA)"
+        },
+        {
+            "name": "Madden NFL 99 (USA) (Rev 1)",
+            "description": "Madden NFL 99 (USA) (Rev 1)"
+        },
+        {
+            "name": "Magical Tetris Challenge (Europe)",
+            "description": "Magical Tetris Challenge (Europe)"
+        },
+        {
+            "name": "Magical Tetris Challenge (Germany)",
+            "description": "Magical Tetris Challenge (Germany)"
+        },
+        {
+            "name": "Magical Tetris Challenge (USA)",
+            "description": "Magical Tetris Challenge (USA)"
+        },
+        {
+            "name": "Magical Tetris Challenge featuring Mickey (Japan)",
+            "description": "Magical Tetris Challenge featuring Mickey (Japan)"
+        },
+        {
+            "name": "Mahjong 64 (Japan)",
+            "description": "Mahjong 64 (Japan)"
+        },
+        {
+            "name": "Mahjong Hourouki Classic (Japan)",
+            "description": "Mahjong Hourouki Classic (Japan)"
+        },
+        {
+            "name": "Mahjong Master (Japan)",
+            "description": "Mahjong Master (Japan)"
+        },
+        {
+            "name": "Major League Baseball Featuring Ken Griffey Jr. (Australia)",
+            "description": "Major League Baseball Featuring Ken Griffey Jr. (Australia)"
+        },
+        {
+            "name": "Major League Baseball Featuring Ken Griffey Jr. (USA)",
+            "description": "Major League Baseball Featuring Ken Griffey Jr. (USA)"
+        },
+        {
+            "name": "Mario Golf (Europe)",
+            "description": "Mario Golf (Europe)"
+        },
+        {
+            "name": "Mario Golf (USA)",
+            "description": "Mario Golf (USA)"
+        },
+        {
+            "name": "Mario Golf 64 (Japan)",
+            "description": "Mario Golf 64 (Japan)"
+        },
+        {
+            "name": "Mario Golf 64 (Japan) (Rev 1)",
+            "description": "Mario Golf 64 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Mario Kadingche (China) (v2) (iQue) (Manual)",
+            "description": "Mario Kadingche (China) (v2) (iQue) (Manual)"
+        },
+        {
+            "name": "Mario Kadingche (China) (v4) (iQue)",
+            "description": "Mario Kadingche (China) (v4) (iQue)"
+        },
+        {
+            "name": "Mario Kadingche (China) (v5) (iQue)",
+            "description": "Mario Kadingche (China) (v5) (iQue)"
+        },
+        {
+            "name": "Mario Kadingche (China) (v6) (iQue) (Manual)",
+            "description": "Mario Kadingche (China) (v6) (iQue) (Manual)"
+        },
+        {
+            "name": "Mario Kart 64 (Europe)",
+            "description": "Mario Kart 64 (Europe)"
+        },
+        {
+            "name": "Mario Kart 64 (Europe) (Rev 1)",
+            "description": "Mario Kart 64 (Europe) (Rev 1)"
+        },
+        {
+            "name": "Mario Kart 64 (Japan)",
+            "description": "Mario Kart 64 (Japan)"
+        },
+        {
+            "name": "Mario Kart 64 (Japan) (Rev 1)",
+            "description": "Mario Kart 64 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Mario Kart 64 (USA)",
+            "description": "Mario Kart 64 (USA)"
+        },
+        {
+            "name": "Mario no Photopie (Japan)",
+            "description": "Mario no Photopie (Japan)"
+        },
+        {
+            "name": "Mario Party (Europe) (En,Fr,De)",
+            "description": "Mario Party (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Mario Party (Japan)",
+            "description": "Mario Party (Japan)"
+        },
+        {
+            "name": "Mario Party (USA)",
+            "description": "Mario Party (USA)"
+        },
+        {
+            "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It)",
+            "description": "Mario Party 2 (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)",
+            "description": "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)"
+        },
+        {
+            "name": "Mario Party 2 (Japan)",
+            "description": "Mario Party 2 (Japan)"
+        },
+        {
+            "name": "Mario Party 2 (Japan) (Wii Virtual Console)",
+            "description": "Mario Party 2 (Japan) (Wii Virtual Console)"
+        },
+        {
+            "name": "Mario Party 2 (USA)",
+            "description": "Mario Party 2 (USA)"
+        },
+        {
+            "name": "Mario Party 2 (USA) (Wii Virtual Console)",
+            "description": "Mario Party 2 (USA) (Wii Virtual Console)"
+        },
+        {
+            "name": "Mario Party 3 (Europe) (En,Fr,De,Es)",
+            "description": "Mario Party 3 (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Mario Party 3 (Japan)",
+            "description": "Mario Party 3 (Japan)"
+        },
+        {
+            "name": "Mario Party 3 (USA)",
+            "description": "Mario Party 3 (USA)"
+        },
+        {
+            "name": "Mario Story (Japan)",
+            "description": "Mario Story (Japan)"
+        },
+        {
+            "name": "Mario Tennis (Europe)",
+            "description": "Mario Tennis (Europe)"
+        },
+        {
+            "name": "Mario Tennis (Europe) (Wii Virtual Console)",
+            "description": "Mario Tennis (Europe) (Wii Virtual Console)"
+        },
+        {
+            "name": "Mario Tennis (USA)",
+            "description": "Mario Tennis (USA)"
+        },
+        {
+            "name": "Mario Tennis (USA) (Wii Virtual Console)",
+            "description": "Mario Tennis (USA) (Wii Virtual Console)"
+        },
+        {
+            "name": "Mario Tennis 64 (Japan)",
+            "description": "Mario Tennis 64 (Japan)"
+        },
+        {
+            "name": "Mario Tennis 64 (Japan) (Wii Virtual Console)",
+            "description": "Mario Tennis 64 (Japan) (Wii Virtual Console)"
+        },
+        {
+            "name": "Mario Yisheng (China) (iQue)",
+            "description": "Mario Yisheng (China) (iQue)"
+        },
+        {
+            "name": "Mario Yisheng (China) (v2) (iQue) (Manual)",
+            "description": "Mario Yisheng (China) (v2) (iQue) (Manual)"
+        },
+        {
+            "name": "Mario Yisheng (China) (v4) (iQue) (Manual)",
+            "description": "Mario Yisheng (China) (v4) (iQue) (Manual)"
+        },
+        {
+            "name": "Mega Man 64 (USA)",
+            "description": "Mega Man 64 (USA)"
+        },
+        {
+            "name": "Mia Hamm Soccer 64 (USA) (En,Es)",
+            "description": "Mia Hamm Soccer 64 (USA) (En,Es)"
+        },
+        {
+            "name": "Michael Owen's WLS 2000 (Europe)",
+            "description": "Michael Owen's WLS 2000 (Europe)"
+        },
+        {
+            "name": "Mickey no Racing Challenge USA (Japan)",
+            "description": "Mickey no Racing Challenge USA (Japan)"
+        },
+        {
+            "name": "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)",
+            "description": "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Mickey's Speedway USA (USA)",
+            "description": "Mickey's Speedway USA (USA)"
+        },
+        {
+            "name": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)",
+            "description": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Micro Machines 64 Turbo (USA)",
+            "description": "Micro Machines 64 Turbo (USA)"
+        },
+        {
+            "name": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+            "description": "Midway's Greatest Arcade Hits - Volume 1 (USA)"
+        },
+        {
+            "name": "Mike Piazza's Strike Zone (USA)",
+            "description": "Mike Piazza's Strike Zone (USA)"
+        },
+        {
+            "name": "Milo's Astro Lanes (Europe)",
+            "description": "Milo's Astro Lanes (Europe)"
+        },
+        {
+            "name": "Milo's Astro Lanes (USA)",
+            "description": "Milo's Astro Lanes (USA)"
+        },
+        {
+            "name": "Mischief Makers (Europe)",
+            "description": "Mischief Makers (Europe)"
+        },
+        {
+            "name": "Mischief Makers (USA)",
+            "description": "Mischief Makers (USA)"
+        },
+        {
+            "name": "Mischief Makers (USA) (Rev 1)",
+            "description": "Mischief Makers (USA) (Rev 1)"
+        },
+        {
+            "name": "Mission - Impossible (Europe)",
+            "description": "Mission - Impossible (Europe)"
+        },
+        {
+            "name": "Mission - Impossible (France)",
+            "description": "Mission - Impossible (France)"
+        },
+        {
+            "name": "Mission - Impossible (Germany)",
+            "description": "Mission - Impossible (Germany)"
+        },
+        {
+            "name": "Mission - Impossible (Italy)",
+            "description": "Mission - Impossible (Italy)"
+        },
+        {
+            "name": "Mission - Impossible (Spain)",
+            "description": "Mission - Impossible (Spain)"
+        },
+        {
+            "name": "Mission - Impossible (Spain) (Rev 1)",
+            "description": "Mission - Impossible (Spain) (Rev 1)"
+        },
+        {
+            "name": "Mission - Impossible (USA)",
+            "description": "Mission - Impossible (USA)"
+        },
+        {
+            "name": "Monaco Grand Prix (USA)",
+            "description": "Monaco Grand Prix (USA)"
+        },
+        {
+            "name": "Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)",
+            "description": "Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)"
+        },
+        {
+            "name": "Monopoly (USA)",
+            "description": "Monopoly (USA)"
+        },
+        {
+            "name": "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)",
+            "description": "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Monster Truck Madness 64 (USA)",
+            "description": "Monster Truck Madness 64 (USA)"
+        },
+        {
+            "name": "Morita Shougi 64 (Japan)",
+            "description": "Morita Shougi 64 (Japan)"
+        },
+        {
+            "name": "Mortal Kombat 4 (Europe)",
+            "description": "Mortal Kombat 4 (Europe)"
+        },
+        {
+            "name": "Mortal Kombat 4 (USA)",
+            "description": "Mortal Kombat 4 (USA)"
+        },
+        {
+            "name": "Mortal Kombat Mythologies - Sub-Zero (Europe)",
+            "description": "Mortal Kombat Mythologies - Sub-Zero (Europe)"
+        },
+        {
+            "name": "Mortal Kombat Mythologies - Sub-Zero (USA)",
+            "description": "Mortal Kombat Mythologies - Sub-Zero (USA)"
+        },
+        {
+            "name": "Mortal Kombat Trilogy (Europe)",
+            "description": "Mortal Kombat Trilogy (Europe)"
+        },
+        {
+            "name": "Mortal Kombat Trilogy (USA)",
+            "description": "Mortal Kombat Trilogy (USA)"
+        },
+        {
+            "name": "Mortal Kombat Trilogy (USA) (Rev 1)",
+            "description": "Mortal Kombat Trilogy (USA) (Rev 1)"
+        },
+        {
+            "name": "Mortal Kombat Trilogy (USA) (Rev 2)",
+            "description": "Mortal Kombat Trilogy (USA) (Rev 2)"
+        },
+        {
+            "name": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)",
+            "description": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "MRC - Multi-Racing Championship (Japan)",
+            "description": "MRC - Multi-Racing Championship (Japan)"
+        },
+        {
+            "name": "MRC - Multi-Racing Championship (USA)",
+            "description": "MRC - Multi-Racing Championship (USA)"
+        },
+        {
+            "name": "Ms. Pac-Man - Maze Madness (USA)",
+            "description": "Ms. Pac-Man - Maze Madness (USA)"
+        },
+        {
+            "name": "Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)",
+            "description": "Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Mystical Ninja Starring Goemon (Europe)",
+            "description": "Mystical Ninja Starring Goemon (Europe)"
+        },
+        {
+            "name": "Mystical Ninja Starring Goemon (USA)",
+            "description": "Mystical Ninja Starring Goemon (USA)"
+        },
+        {
+            "name": "Nagano Winter Olympics '98 (Europe)",
+            "description": "Nagano Winter Olympics '98 (Europe)"
+        },
+        {
+            "name": "Nagano Winter Olympics '98 (USA)",
+            "description": "Nagano Winter Olympics '98 (USA)"
+        },
+        {
+            "name": "Namco Museum 64 (USA)",
+            "description": "Namco Museum 64 (USA)"
+        },
+        {
+            "name": "NASCAR 2000 (USA)",
+            "description": "NASCAR 2000 (USA)"
+        },
+        {
+            "name": "NASCAR 99 (Europe) (En,Fr,De)",
+            "description": "NASCAR 99 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "NASCAR 99 (USA)",
+            "description": "NASCAR 99 (USA)"
+        },
+        {
+            "name": "NBA Courtside 2 featuring Kobe Bryant (USA)",
+            "description": "NBA Courtside 2 featuring Kobe Bryant (USA)"
+        },
+        {
+            "name": "NBA Hangtime (Europe)",
+            "description": "NBA Hangtime (Europe)"
+        },
+        {
+            "name": "NBA Hangtime (USA)",
+            "description": "NBA Hangtime (USA)"
+        },
+        {
+            "name": "NBA in the Zone '98 (Japan)",
+            "description": "NBA in the Zone '98 (Japan)"
+        },
+        {
+            "name": "NBA in the Zone '98 (USA)",
+            "description": "NBA in the Zone '98 (USA)"
+        },
+        {
+            "name": "NBA in the Zone '99 (USA)",
+            "description": "NBA in the Zone '99 (USA)"
+        },
+        {
+            "name": "NBA in the Zone 2 (Japan)",
+            "description": "NBA in the Zone 2 (Japan)"
+        },
+        {
+            "name": "NBA in the Zone 2000 (Europe)",
+            "description": "NBA in the Zone 2000 (Europe)"
+        },
+        {
+            "name": "NBA in the Zone 2000 (USA)",
+            "description": "NBA in the Zone 2000 (USA)"
+        },
+        {
+            "name": "NBA Jam 2000 (Europe)",
+            "description": "NBA Jam 2000 (Europe)"
+        },
+        {
+            "name": "NBA Jam 2000 (USA)",
+            "description": "NBA Jam 2000 (USA)"
+        },
+        {
+            "name": "NBA Jam 99 (Europe)",
+            "description": "NBA Jam 99 (Europe)"
+        },
+        {
+            "name": "NBA Jam 99 (USA)",
+            "description": "NBA Jam 99 (USA)"
+        },
+        {
+            "name": "NBA Live 2000 (Europe) (En,Fr,De,Es)",
+            "description": "NBA Live 2000 (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "NBA Live 2000 (USA) (En,Fr,De,Es)",
+            "description": "NBA Live 2000 (USA) (En,Fr,De,Es)"
+        },
+        {
+            "name": "NBA Live 99 (Europe) (En,Fr,De,Es,It)",
+            "description": "NBA Live 99 (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "NBA Live 99 (USA) (En,Fr,De,Es,It)",
+            "description": "NBA Live 99 (USA) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "NBA Pro 98 (Europe)",
+            "description": "NBA Pro 98 (Europe)"
+        },
+        {
+            "name": "NBA Pro 99 (Europe)",
+            "description": "NBA Pro 99 (Europe)"
+        },
+        {
+            "name": "NBA Showtime - NBA on NBC (USA)",
+            "description": "NBA Showtime - NBA on NBC (USA)"
+        },
+        {
+            "name": "Neon Genesis Evangelion (Japan)",
+            "description": "Neon Genesis Evangelion (Japan)"
+        },
+        {
+            "name": "New Tetris, The (Europe)",
+            "description": "New Tetris, The (Europe)"
+        },
+        {
+            "name": "New Tetris, The (USA)",
+            "description": "New Tetris, The (USA)"
+        },
+        {
+            "name": "NFL Blitz (USA)",
+            "description": "NFL Blitz (USA)"
+        },
+        {
+            "name": "NFL Blitz - Special Edition (USA)",
+            "description": "NFL Blitz - Special Edition (USA)"
+        },
+        {
+            "name": "NFL Blitz 2000 (USA)",
+            "description": "NFL Blitz 2000 (USA)"
+        },
+        {
+            "name": "NFL Blitz 2000 (USA) (Rev 1)",
+            "description": "NFL Blitz 2000 (USA) (Rev 1)"
+        },
+        {
+            "name": "NFL Blitz 2001 (USA)",
+            "description": "NFL Blitz 2001 (USA)"
+        },
+        {
+            "name": "NFL QB Club 2001 (USA)",
+            "description": "NFL QB Club 2001 (USA)"
+        },
+        {
+            "name": "NFL Quarterback Club 2000 (Europe)",
+            "description": "NFL Quarterback Club 2000 (Europe)"
+        },
+        {
+            "name": "NFL Quarterback Club 2000 (USA)",
+            "description": "NFL Quarterback Club 2000 (USA)"
+        },
+        {
+            "name": "NFL Quarterback Club 98 (Europe)",
+            "description": "NFL Quarterback Club 98 (Europe)"
+        },
+        {
+            "name": "NFL Quarterback Club 98 (USA)",
+            "description": "NFL Quarterback Club 98 (USA)"
+        },
+        {
+            "name": "NFL Quarterback Club 99 (Europe)",
+            "description": "NFL Quarterback Club 99 (Europe)"
+        },
+        {
+            "name": "NFL Quarterback Club 99 (USA)",
+            "description": "NFL Quarterback Club 99 (USA)"
+        },
+        {
+            "name": "NHL 99 (Europe) (En,De,Sv,Fi)",
+            "description": "NHL 99 (Europe) (En,De,Sv,Fi)"
+        },
+        {
+            "name": "NHL 99 (USA)",
+            "description": "NHL 99 (USA)"
+        },
+        {
+            "name": "NHL Blades of Steel '99 (USA)",
+            "description": "NHL Blades of Steel '99 (USA)"
+        },
+        {
+            "name": "NHL Breakaway 98 (Europe)",
+            "description": "NHL Breakaway 98 (Europe)"
+        },
+        {
+            "name": "NHL Breakaway 98 (USA)",
+            "description": "NHL Breakaway 98 (USA)"
+        },
+        {
+            "name": "NHL Breakaway 99 (Europe)",
+            "description": "NHL Breakaway 99 (Europe)"
+        },
+        {
+            "name": "NHL Breakaway 99 (USA)",
+            "description": "NHL Breakaway 99 (USA)"
+        },
+        {
+            "name": "NHL Pro 99 (Europe)",
+            "description": "NHL Pro 99 (Europe)"
+        },
+        {
+            "name": "Nightmare Creatures (USA)",
+            "description": "Nightmare Creatures (USA)"
+        },
+        {
+            "name": "Nintama Rantarou 64 Game Gallery (Japan)",
+            "description": "Nintama Rantarou 64 Game Gallery (Japan)"
+        },
+        {
+            "name": "Nintendo All-Star! Dairantou Smash Brothers (Japan)",
+            "description": "Nintendo All-Star! Dairantou Smash Brothers (Japan)"
+        },
+        {
+            "name": "Nuclear Strike 64 (Europe) (En,Fr)",
+            "description": "Nuclear Strike 64 (Europe) (En,Fr)"
+        },
+        {
+            "name": "Nuclear Strike 64 (Germany)",
+            "description": "Nuclear Strike 64 (Germany)"
+        },
+        {
+            "name": "Nuclear Strike 64 (USA)",
+            "description": "Nuclear Strike 64 (USA)"
+        },
+        {
+            "name": "Nushi Zuri 64 (Japan)",
+            "description": "Nushi Zuri 64 (Japan)"
+        },
+        {
+            "name": "Nushi Zuri 64 (Japan) (Rev 1)",
+            "description": "Nushi Zuri 64 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Nushi Zuri 64 - Shiokaze ni Notte (Japan)",
+            "description": "Nushi Zuri 64 - Shiokaze ni Notte (Japan)"
+        },
+        {
+            "name": "Off Road Challenge (Europe)",
+            "description": "Off Road Challenge (Europe)"
+        },
+        {
+            "name": "Off Road Challenge (USA)",
+            "description": "Off Road Challenge (USA)"
+        },
+        {
+            "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)",
+            "description": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)"
+        },
+        {
+            "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)",
+            "description": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)"
+        },
+        {
+            "name": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+            "description": "Ogre Battle 64 - Person of Lordly Caliber (USA)"
+        },
+        {
+            "name": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)",
+            "description": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)"
+        },
+        {
+            "name": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)",
+            "description": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)"
+        },
+        {
+            "name": "Olympic Hockey 98 (Europe) (En,Fr,De,Es)",
+            "description": "Olympic Hockey 98 (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Olympic Hockey 98 (Japan)",
+            "description": "Olympic Hockey 98 (Japan)"
+        },
+        {
+            "name": "Olympic Hockey 98 (USA)",
+            "description": "Olympic Hockey 98 (USA)"
+        },
+        {
+            "name": "Onegai Monsters (Japan)",
+            "description": "Onegai Monsters (Japan)"
+        },
+        {
+            "name": "Operation WinBack (Europe) (En,Fr,De,Es,It)",
+            "description": "Operation WinBack (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Pachinko 365 Nichi (Japan)",
+            "description": "Pachinko 365 Nichi (Japan)"
+        },
+        {
+            "name": "Paper Mario (Europe) (En,Fr,De,Es)",
+            "description": "Paper Mario (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Paper Mario (USA)",
+            "description": "Paper Mario (USA)"
+        },
+        {
+            "name": "Paperboy (Europe)",
+            "description": "Paperboy (Europe)"
+        },
+        {
+            "name": "Paperboy (USA)",
+            "description": "Paperboy (USA)"
+        },
+        {
+            "name": "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)",
+            "description": "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)"
+        },
+        {
+            "name": "PD Ultraman Battle Collection 64 (Japan)",
+            "description": "PD Ultraman Battle Collection 64 (Japan)"
+        },
+        {
+            "name": "Penny Racers (Europe)",
+            "description": "Penny Racers (Europe)"
+        },
+        {
+            "name": "Penny Racers (USA)",
+            "description": "Penny Racers (USA)"
+        },
+        {
+            "name": "Perfect Dark (Europe) (Debug Version) (2000-04-26)",
+            "description": "Perfect Dark (Europe) (Debug Version) (2000-04-26)"
+        },
+        {
+            "name": "Perfect Dark (Europe) (En,Fr,De,Es,It)",
+            "description": "Perfect Dark (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Perfect Dark (Japan)",
+            "description": "Perfect Dark (Japan)"
+        },
+        {
+            "name": "Perfect Dark (USA)",
+            "description": "Perfect Dark (USA)"
+        },
+        {
+            "name": "Perfect Dark (USA) (Debug Version) (2000-03-22)",
+            "description": "Perfect Dark (USA) (Debug Version) (2000-03-22)"
+        },
+        {
+            "name": "Perfect Dark (USA) (Rev 1)",
+            "description": "Perfect Dark (USA) (Rev 1)"
+        },
+        {
+            "name": "PGA European Tour (USA)",
+            "description": "PGA European Tour (USA)"
+        },
+        {
+            "name": "PGA European Tour Golf (Europe) (En,Fr,De,Es,It)",
+            "description": "PGA European Tour Golf (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Pikachuu Genki de Chuu (Japan)",
+            "description": "Pikachuu Genki de Chuu (Japan)"
+        },
+        {
+            "name": "Pilotwings 64 (Europe) (En,Fr,De)",
+            "description": "Pilotwings 64 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Pilotwings 64 (Japan)",
+            "description": "Pilotwings 64 (Japan)"
+        },
+        {
+            "name": "Pilotwings 64 (USA)",
+            "description": "Pilotwings 64 (USA)"
+        },
+        {
+            "name": "Pokemon Puzzle League (Europe)",
+            "description": "Pokemon Puzzle League (Europe)"
+        },
+        {
+            "name": "Pokemon Puzzle League (Europe) (Wii Virtual Console)",
+            "description": "Pokemon Puzzle League (Europe) (Wii Virtual Console)"
+        },
+        {
+            "name": "Pokemon Puzzle League (France)",
+            "description": "Pokemon Puzzle League (France)"
+        },
+        {
+            "name": "Pokemon Puzzle League (France) (Wii Virtual Console)",
+            "description": "Pokemon Puzzle League (France) (Wii Virtual Console)"
+        },
+        {
+            "name": "Pokemon Puzzle League (Germany)",
+            "description": "Pokemon Puzzle League (Germany)"
+        },
+        {
+            "name": "Pokemon Puzzle League (Germany) (Wii Virtual Console)",
+            "description": "Pokemon Puzzle League (Germany) (Wii Virtual Console)"
+        },
+        {
+            "name": "Pokemon Puzzle League (USA)",
+            "description": "Pokemon Puzzle League (USA)"
+        },
+        {
+            "name": "Pokemon Puzzle League (USA) (Wii Virtual Console)",
+            "description": "Pokemon Puzzle League (USA) (Wii Virtual Console)"
+        },
+        {
+            "name": "Pokemon Snap (Australia)",
+            "description": "Pokemon Snap (Australia)"
+        },
+        {
+            "name": "Pokemon Snap (Europe)",
+            "description": "Pokemon Snap (Europe)"
+        },
+        {
+            "name": "Pokemon Snap (France)",
+            "description": "Pokemon Snap (France)"
+        },
+        {
+            "name": "Pokemon Snap (Germany)",
+            "description": "Pokemon Snap (Germany)"
+        },
+        {
+            "name": "Pokemon Snap (Italy)",
+            "description": "Pokemon Snap (Italy)"
+        },
+        {
+            "name": "Pokemon Snap (Japan)",
+            "description": "Pokemon Snap (Japan)"
+        },
+        {
+            "name": "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)",
+            "description": "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)"
+        },
+        {
+            "name": "Pokemon Snap (Spain)",
+            "description": "Pokemon Snap (Spain)"
+        },
+        {
+            "name": "Pokemon Snap (USA)",
+            "description": "Pokemon Snap (USA)"
+        },
+        {
+            "name": "Pokemon Stadium (Europe)",
+            "description": "Pokemon Stadium (Europe)"
+        },
+        {
+            "name": "Pokemon Stadium (Europe) (Rev 1)",
+            "description": "Pokemon Stadium (Europe) (Rev 1)"
+        },
+        {
+            "name": "Pokemon Stadium (France)",
+            "description": "Pokemon Stadium (France)"
+        },
+        {
+            "name": "Pokemon Stadium (Germany)",
+            "description": "Pokemon Stadium (Germany)"
+        },
+        {
+            "name": "Pokemon Stadium (Italy)",
+            "description": "Pokemon Stadium (Italy)"
+        },
+        {
+            "name": "Pokemon Stadium (Japan)",
+            "description": "Pokemon Stadium (Japan)"
+        },
+        {
+            "name": "Pokemon Stadium (Spain)",
+            "description": "Pokemon Stadium (Spain)"
+        },
+        {
+            "name": "Pokemon Stadium (USA)",
+            "description": "Pokemon Stadium (USA)"
+        },
+        {
+            "name": "Pokemon Stadium (USA) (Rev 1)",
+            "description": "Pokemon Stadium (USA) (Rev 1)"
+        },
+        {
+            "name": "Pokemon Stadium (USA) (Rev 2)",
+            "description": "Pokemon Stadium (USA) (Rev 2)"
+        },
+        {
+            "name": "Pokemon Stadium 2 (Europe)",
+            "description": "Pokemon Stadium 2 (Europe)"
+        },
+        {
+            "name": "Pokemon Stadium 2 (France)",
+            "description": "Pokemon Stadium 2 (France)"
+        },
+        {
+            "name": "Pokemon Stadium 2 (Germany)",
+            "description": "Pokemon Stadium 2 (Germany)"
+        },
+        {
+            "name": "Pokemon Stadium 2 (Italy)",
+            "description": "Pokemon Stadium 2 (Italy)"
+        },
+        {
+            "name": "Pokemon Stadium 2 (Japan)",
+            "description": "Pokemon Stadium 2 (Japan)"
+        },
+        {
+            "name": "Pokemon Stadium 2 (Spain)",
+            "description": "Pokemon Stadium 2 (Spain)"
+        },
+        {
+            "name": "Pokemon Stadium 2 (USA)",
+            "description": "Pokemon Stadium 2 (USA)"
+        },
+        {
+            "name": "Pokemon Stadium Kin Gin (Japan)",
+            "description": "Pokemon Stadium Kin Gin (Japan)"
+        },
+        {
+            "name": "Polaris SnoCross (USA)",
+            "description": "Polaris SnoCross (USA)"
+        },
+        {
+            "name": "Power League 64 (Japan)",
+            "description": "Power League 64 (Japan)"
+        },
+        {
+            "name": "Power Rangers - Lightspeed Rescue (Europe)",
+            "description": "Power Rangers - Lightspeed Rescue (Europe)"
+        },
+        {
+            "name": "Power Rangers - Lightspeed Rescue (USA)",
+            "description": "Power Rangers - Lightspeed Rescue (USA)"
+        },
+        {
+            "name": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+            "description": "Powerpuff Girls, The - Chemical X-Traction (USA)"
+        },
+        {
+            "name": "Premier Manager 64 (Europe)",
+            "description": "Premier Manager 64 (Europe)"
+        },
+        {
+            "name": "Pro Mahjong Kiwame 64 (Japan)",
+            "description": "Pro Mahjong Kiwame 64 (Japan)"
+        },
+        {
+            "name": "Pro Mahjong Kiwame 64 (Japan) (Rev 1)",
+            "description": "Pro Mahjong Kiwame 64 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)",
+            "description": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)"
+        },
+        {
+            "name": "Puyo Puyo Sun 64 (Japan)",
+            "description": "Puyo Puyo Sun 64 (Japan)"
+        },
+        {
+            "name": "Puyo Puyoon Party (Japan)",
+            "description": "Puyo Puyoon Party (Japan)"
+        },
+        {
+            "name": "Puzzle Bobble 64 (Japan)",
+            "description": "Puzzle Bobble 64 (Japan)"
+        },
+        {
+            "name": "Quake (Europe)",
+            "description": "Quake (Europe)"
+        },
+        {
+            "name": "Quake (USA)",
+            "description": "Quake (USA)"
+        },
+        {
+            "name": "Quake II (Europe)",
+            "description": "Quake II (Europe)"
+        },
+        {
+            "name": "Quake II (USA)",
+            "description": "Quake II (USA)"
+        },
+        {
+            "name": "Quest 64 (USA)",
+            "description": "Quest 64 (USA)"
+        },
+        {
+            "name": "Racing Simulation 2 (Germany)",
+            "description": "Racing Simulation 2 (Germany)"
+        },
+        {
+            "name": "Rakugakids (Europe)",
+            "description": "Rakugakids (Europe)"
+        },
+        {
+            "name": "Rakugakids (Japan)",
+            "description": "Rakugakids (Japan)"
+        },
+        {
+            "name": "Rally '99 (Japan)",
+            "description": "Rally '99 (Japan)"
+        },
+        {
+            "name": "Rally Challenge 2000 (USA)",
+            "description": "Rally Challenge 2000 (USA)"
+        },
+        {
+            "name": "Rampage - World Tour (Europe)",
+            "description": "Rampage - World Tour (Europe)"
+        },
+        {
+            "name": "Rampage - World Tour (USA)",
+            "description": "Rampage - World Tour (USA)"
+        },
+        {
+            "name": "Rampage 2 - Universal Tour (Europe)",
+            "description": "Rampage 2 - Universal Tour (Europe)"
+        },
+        {
+            "name": "Rampage 2 - Universal Tour (USA)",
+            "description": "Rampage 2 - Universal Tour (USA)"
+        },
+        {
+            "name": "Rat Attack (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Rat Attack (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)",
+            "description": "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",
+            "description": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+            "description": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Razmoket, Les - La Chasse aux Tresors (France)",
+            "description": "Razmoket, Les - La Chasse aux Tresors (France)"
+        },
+        {
+            "name": "Razor Freestyle Scooter (USA)",
+            "description": "Razor Freestyle Scooter (USA)"
+        },
+        {
+            "name": "Re-Volt (Europe) (En,Fr,De,Es)",
+            "description": "Re-Volt (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Re-Volt (USA)",
+            "description": "Re-Volt (USA)"
+        },
+        {
+            "name": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)",
+            "description": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Ready 2 Rumble Boxing (USA)",
+            "description": "Ready 2 Rumble Boxing (USA)"
+        },
+        {
+            "name": "Ready 2 Rumble Boxing - Round 2 (USA)",
+            "description": "Ready 2 Rumble Boxing - Round 2 (USA)"
+        },
+        {
+            "name": "Rentiantang Mingxing - Daluan Dou (China) (iQue)",
+            "description": "Rentiantang Mingxing - Daluan Dou (China) (iQue)"
+        },
+        {
+            "name": "Rentiantang Mingxing - Daluan Dou (China) (iQue) (Manual)",
+            "description": "Rentiantang Mingxing - Daluan Dou (China) (iQue) (Manual)"
+        },
+        {
+            "name": "Resident Evil 2 (Europe) (En,Fr)",
+            "description": "Resident Evil 2 (Europe) (En,Fr)"
+        },
+        {
+            "name": "Resident Evil 2 (USA)",
+            "description": "Resident Evil 2 (USA)"
+        },
+        {
+            "name": "Resident Evil 2 (USA) (Rev 1)",
+            "description": "Resident Evil 2 (USA) (Rev 1)"
+        },
+        {
+            "name": "Road Rash 64 (Europe)",
+            "description": "Road Rash 64 (Europe)"
+        },
+        {
+            "name": "Road Rash 64 (USA)",
+            "description": "Road Rash 64 (USA)"
+        },
+        {
+            "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Roadsters (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Roadsters (USA) (En,Fr,Es)",
+            "description": "Roadsters (USA) (En,Fr,Es)"
+        },
+        {
+            "name": "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)",
+            "description": "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)"
+        },
+        {
+            "name": "Robotron 64 (Europe)",
+            "description": "Robotron 64 (Europe)"
+        },
+        {
+            "name": "Robotron 64 (USA)",
+            "description": "Robotron 64 (USA)"
+        },
+        {
+            "name": "Rocket - Robot on Wheels (Europe) (En,Fr,De)",
+            "description": "Rocket - Robot on Wheels (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Rocket - Robot on Wheels (USA)",
+            "description": "Rocket - Robot on Wheels (USA)"
+        },
+        {
+            "name": "Rockman Dash - Hagane no Boukenshin (Japan)",
+            "description": "Rockman Dash - Hagane no Boukenshin (Japan)"
+        },
+        {
+            "name": "RR64 - Ridge Racer 64 (Europe)",
+            "description": "RR64 - Ridge Racer 64 (Europe)"
+        },
+        {
+            "name": "RR64 - Ridge Racer 64 (USA)",
+            "description": "RR64 - Ridge Racer 64 (USA)"
+        },
+        {
+            "name": "RTL World League Soccer 2000 (Germany)",
+            "description": "RTL World League Soccer 2000 (Germany)"
+        },
+        {
+            "name": "Rugrats - Die grosse Schatzsuche (Germany)",
+            "description": "Rugrats - Die grosse Schatzsuche (Germany)"
+        },
+        {
+            "name": "Rugrats - Scavenger Hunt (USA)",
+            "description": "Rugrats - Scavenger Hunt (USA)"
+        },
+        {
+            "name": "Rugrats - Treasure Hunt (Europe)",
+            "description": "Rugrats - Treasure Hunt (Europe)"
+        },
+        {
+            "name": "Rugrats in Paris - The Movie (Europe)",
+            "description": "Rugrats in Paris - The Movie (Europe)"
+        },
+        {
+            "name": "Rugrats in Paris - The Movie (USA)",
+            "description": "Rugrats in Paris - The Movie (USA)"
+        },
+        {
+            "name": "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Rush 2 - Extreme Racing USA (USA)",
+            "description": "Rush 2 - Extreme Racing USA (USA)"
+        },
+        {
+            "name": "S.C.A.R.S. (Europe) (En,Fr,De)",
+            "description": "S.C.A.R.S. (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "S.C.A.R.S. (USA)",
+            "description": "S.C.A.R.S. (USA)"
+        },
+        {
+            "name": "Saikyou Habu Shougi (Japan)",
+            "description": "Saikyou Habu Shougi (Japan)"
+        },
+        {
+            "name": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)",
+            "description": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",
+            "description": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)"
+        },
+        {
+            "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)",
+            "description": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)"
+        },
+        {
+            "name": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "San Francisco Rush 2049 (USA)",
+            "description": "San Francisco Rush 2049 (USA)"
+        },
+        {
+            "name": "Scooby-Doo! - Classic Creep Capers (Europe)",
+            "description": "Scooby-Doo! - Classic Creep Capers (Europe)"
+        },
+        {
+            "name": "Scooby-Doo! - Classic Creep Capers (USA)",
+            "description": "Scooby-Doo! - Classic Creep Capers (USA)"
+        },
+        {
+            "name": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)",
+            "description": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)"
+        },
+        {
+            "name": "SD Hiryuu no Ken Densetsu (Japan)",
+            "description": "SD Hiryuu no Ken Densetsu (Japan)"
+        },
+        {
+            "name": "Sesame Street - Elmo's Letter Adventure (USA)",
+            "description": "Sesame Street - Elmo's Letter Adventure (USA)"
+        },
+        {
+            "name": "Sesame Street - Elmo's Number Journey (USA)",
+            "description": "Sesame Street - Elmo's Number Journey (USA)"
+        },
+        {
+            "name": "Shadow Man (Brazil)",
+            "description": "Shadow Man (Brazil)"
+        },
+        {
+            "name": "Shadow Man (Europe) (En,Es,It)",
+            "description": "Shadow Man (Europe) (En,Es,It)"
+        },
+        {
+            "name": "Shadow Man (France)",
+            "description": "Shadow Man (France)"
+        },
+        {
+            "name": "Shadow Man (Germany)",
+            "description": "Shadow Man (Germany)"
+        },
+        {
+            "name": "Shadow Man (USA)",
+            "description": "Shadow Man (USA)"
+        },
+        {
+            "name": "Shadowgate 64 - Trials of the Four Towers (Europe)",
+            "description": "Shadowgate 64 - Trials of the Four Towers (Europe)"
+        },
+        {
+            "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)",
+            "description": "Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)"
+        },
+        {
+            "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)",
+            "description": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)"
+        },
+        {
+            "name": "Shadowgate 64 - Trials of the Four Towers (Japan)",
+            "description": "Shadowgate 64 - Trials of the Four Towers (Japan)"
+        },
+        {
+            "name": "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",
+            "description": "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)"
+        },
+        {
+            "name": "Shen You Mario (China) (iQue)",
+            "description": "Shen You Mario (China) (iQue)"
+        },
+        {
+            "name": "Shen You Mario (China) (v6) (iQue) (Manual)",
+            "description": "Shen You Mario (China) (v6) (iQue) (Manual)"
+        },
+        {
+            "name": "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)",
+            "description": "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)"
+        },
+        {
+            "name": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)",
+            "description": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)"
+        },
+        {
+            "name": "Shuishang Motuo (China) (iQue)",
+            "description": "Shuishang Motuo (China) (iQue)"
+        },
+        {
+            "name": "Shuishang Motuo (China) (v2) (iQue) (Manual)",
+            "description": "Shuishang Motuo (China) (v2) (iQue) (Manual)"
+        },
+        {
+            "name": "Shuishang Motuo (China) (v4) (iQue) (Manual)",
+            "description": "Shuishang Motuo (China) (v4) (iQue) (Manual)"
+        },
+        {
+            "name": "SimCity 2000 (Japan)",
+            "description": "SimCity 2000 (Japan)"
+        },
+        {
+            "name": "Snobo Kids (Japan)",
+            "description": "Snobo Kids (Japan)"
+        },
+        {
+            "name": "Snow Speeder (Japan)",
+            "description": "Snow Speeder (Japan)"
+        },
+        {
+            "name": "Snowboard Kids (Europe, Australia)",
+            "description": "Snowboard Kids (Europe, Australia)"
+        },
+        {
+            "name": "Snowboard Kids (USA)",
+            "description": "Snowboard Kids (USA)"
+        },
+        {
+            "name": "Snowboard Kids 2 (Australia)",
+            "description": "Snowboard Kids 2 (Australia)"
+        },
+        {
+            "name": "Snowboard Kids 2 (USA)",
+            "description": "Snowboard Kids 2 (USA)"
+        },
+        {
+            "name": "Sonic Wings Assault (Japan)",
+            "description": "Sonic Wings Assault (Japan)"
+        },
+        {
+            "name": "South Park (Brazil)",
+            "description": "South Park (Brazil)"
+        },
+        {
+            "name": "South Park (Europe) (En,Fr,Es)",
+            "description": "South Park (Europe) (En,Fr,Es)"
+        },
+        {
+            "name": "South Park (Germany)",
+            "description": "South Park (Germany)"
+        },
+        {
+            "name": "South Park (USA)",
+            "description": "South Park (USA)"
+        },
+        {
+            "name": "South Park - Chef's Luv Shack (Europe)",
+            "description": "South Park - Chef's Luv Shack (Europe)"
+        },
+        {
+            "name": "South Park - Chef's Luv Shack (USA)",
+            "description": "South Park - Chef's Luv Shack (USA)"
+        },
+        {
+            "name": "South Park Rally (Europe)",
+            "description": "South Park Rally (Europe)"
+        },
+        {
+            "name": "South Park Rally (USA)",
+            "description": "South Park Rally (USA)"
+        },
+        {
+            "name": "Space Dynamites (Japan)",
+            "description": "Space Dynamites (Japan)"
+        },
+        {
+            "name": "Space Invaders (USA)",
+            "description": "Space Invaders (USA)"
+        },
+        {
+            "name": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+            "description": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)"
+        },
+        {
+            "name": "SpaceStation Silicon Valley (USA)",
+            "description": "SpaceStation Silicon Valley (USA)"
+        },
+        {
+            "name": "SpaceStation Silicon Valley (USA) (Rev 1)",
+            "description": "SpaceStation Silicon Valley (USA) (Rev 1)"
+        },
+        {
+            "name": "Spider-Man (USA)",
+            "description": "Spider-Man (USA)"
+        },
+        {
+            "name": "Star Fox 64 (Japan)",
+            "description": "Star Fox 64 (Japan)"
+        },
+        {
+            "name": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)",
+            "description": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)"
+        },
+        {
+            "name": "Star Fox 64 (USA)",
+            "description": "Star Fox 64 (USA)"
+        },
+        {
+            "name": "Star Fox 64 (USA) (Rev 1)",
+            "description": "Star Fox 64 (USA) (Rev 1)"
+        },
+        {
+            "name": "Star Soldier - Vanishing Earth (Japan)",
+            "description": "Star Soldier - Vanishing Earth (Japan)"
+        },
+        {
+            "name": "Star Soldier - Vanishing Earth (USA)",
+            "description": "Star Soldier - Vanishing Earth (USA)"
+        },
+        {
+            "name": "Star Twins (Japan)",
+            "description": "Star Twins (Japan)"
+        },
+        {
+            "name": "Star Wars - Rogue Squadron (Europe) (En,Fr,De)",
+            "description": "Star Wars - Rogue Squadron (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)",
+            "description": "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)"
+        },
+        {
+            "name": "Star Wars - Rogue Squadron (USA)",
+            "description": "Star Wars - Rogue Squadron (USA)"
+        },
+        {
+            "name": "Star Wars - Rogue Squadron (USA) (Rev 1)",
+            "description": "Star Wars - Rogue Squadron (USA) (Rev 1)"
+        },
+        {
+            "name": "Star Wars - Shadows of the Empire (Europe)",
+            "description": "Star Wars - Shadows of the Empire (Europe)"
+        },
+        {
+            "name": "Star Wars - Shadows of the Empire (USA)",
+            "description": "Star Wars - Shadows of the Empire (USA)"
+        },
+        {
+            "name": "Star Wars - Shadows of the Empire (USA) (Rev 1)",
+            "description": "Star Wars - Shadows of the Empire (USA) (Rev 1)"
+        },
+        {
+            "name": "Star Wars - Shadows of the Empire (USA) (Rev 2)",
+            "description": "Star Wars - Shadows of the Empire (USA) (Rev 2)"
+        },
+        {
+            "name": "Star Wars - Shutsugeki! Rogue Chuutai (Japan)",
+            "description": "Star Wars - Shutsugeki! Rogue Chuutai (Japan)"
+        },
+        {
+            "name": "Star Wars - Teikoku no Kage (Japan)",
+            "description": "Star Wars - Teikoku no Kage (Japan)"
+        },
+        {
+            "name": "Star Wars Episode I - Battle for Naboo (Europe)",
+            "description": "Star Wars Episode I - Battle for Naboo (Europe)"
+        },
+        {
+            "name": "Star Wars Episode I - Battle for Naboo (USA)",
+            "description": "Star Wars Episode I - Battle for Naboo (USA)"
+        },
+        {
+            "name": "Star Wars Episode I - Racer (Europe) (En,Fr,De)",
+            "description": "Star Wars Episode I - Racer (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Star Wars Episode I - Racer (Japan)",
+            "description": "Star Wars Episode I - Racer (Japan)"
+        },
+        {
+            "name": "Star Wars Episode I - Racer (USA)",
+            "description": "Star Wars Episode I - Racer (USA)"
+        },
+        {
+            "name": "StarCraft 64 (Australia)",
+            "description": "StarCraft 64 (Australia)"
+        },
+        {
+            "name": "StarCraft 64 (USA)",
+            "description": "StarCraft 64 (USA)"
+        },
+        {
+            "name": "Starshot - Space Circus Fever (Europe) (En,Fr,De)",
+            "description": "Starshot - Space Circus Fever (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
+            "description": "Starshot - Space Circus Fever (USA) (En,Fr,Es)"
+        },
+        {
+            "name": "Stunt Racer 64 (USA)",
+            "description": "Stunt Racer 64 (USA)"
+        },
+        {
+            "name": "Super B-Daman - Battle Phoenix 64 (Japan)",
+            "description": "Super B-Daman - Battle Phoenix 64 (Japan)"
+        },
+        {
+            "name": "Super Bowling (Japan)",
+            "description": "Super Bowling (Japan)"
+        },
+        {
+            "name": "Super Bowling (USA)",
+            "description": "Super Bowling (USA)"
+        },
+        {
+            "name": "Super Mario 64 (Europe) (En,Fr,De)",
+            "description": "Super Mario 64 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Super Mario 64 (Japan)",
+            "description": "Super Mario 64 (Japan)"
+        },
+        {
+            "name": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)",
+            "description": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)"
+        },
+        {
+            "name": "Super Mario 64 (USA)",
+            "description": "Super Mario 64 (USA)"
+        },
+        {
+            "name": "Super Real Mahjong VS (Japan) (Rev 1) (Aleck 64)",
+            "description": "Super Real Mahjong VS (Japan) (Rev 1) (Aleck 64)"
+        },
+        {
+            "name": "Super Robot Spirits (Japan)",
+            "description": "Super Robot Spirits (Japan)"
+        },
+        {
+            "name": "Super Robot Taisen 64 (Japan)",
+            "description": "Super Robot Taisen 64 (Japan)"
+        },
+        {
+            "name": "Super Smash Bros. (Australia)",
+            "description": "Super Smash Bros. (Australia)"
+        },
+        {
+            "name": "Super Smash Bros. (Europe) (En,Fr,De)",
+            "description": "Super Smash Bros. (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Super Smash Bros. (USA)",
+            "description": "Super Smash Bros. (USA)"
+        },
+        {
+            "name": "Super Speed Race 64 (Japan)",
+            "description": "Super Speed Race 64 (Japan)"
+        },
+        {
+            "name": "Supercross 2000 (Europe) (En,Fr,De)",
+            "description": "Supercross 2000 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Supercross 2000 (USA)",
+            "description": "Supercross 2000 (USA)"
+        },
+        {
+            "name": "Superman (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Superman (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Superman - The New Superman Aventures (USA) (En,Fr,Es)",
+            "description": "Superman - The New Superman Aventures (USA) (En,Fr,Es)"
+        },
+        {
+            "name": "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)",
+            "description": "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)"
+        },
+        {
+            "name": "Tarzan (Europe)",
+            "description": "Tarzan (Europe)"
+        },
+        {
+            "name": "Tarzan (France)",
+            "description": "Tarzan (France)"
+        },
+        {
+            "name": "Tarzan (Germany)",
+            "description": "Tarzan (Germany)"
+        },
+        {
+            "name": "Tarzan (USA)",
+            "description": "Tarzan (USA)"
+        },
+        {
+            "name": "Taz Express (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Taz Express (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Telefoot Soccer 2000 (France)",
+            "description": "Telefoot Soccer 2000 (France)"
+        },
+        {
+            "name": "Tetris 64 (Japan) (En)",
+            "description": "Tetris 64 (Japan) (En)"
+        },
+        {
+            "name": "Tetrisphere (Europe)",
+            "description": "Tetrisphere (Europe)"
+        },
+        {
+            "name": "Tetrisphere (USA)",
+            "description": "Tetrisphere (USA)"
+        },
+        {
+            "name": "TG Rally 2 (Europe)",
+            "description": "TG Rally 2 (Europe)"
+        },
+        {
+            "name": "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)",
+            "description": "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)"
+        },
+        {
+            "name": "Tigger's Honey Hunt (USA)",
+            "description": "Tigger's Honey Hunt (USA)"
+        },
+        {
+            "name": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Tom and Jerry in Fists of Furry (USA)",
+            "description": "Tom and Jerry in Fists of Furry (USA)"
+        },
+        {
+            "name": "Tom Clancy's Rainbow Six (Europe)",
+            "description": "Tom Clancy's Rainbow Six (Europe)"
+        },
+        {
+            "name": "Tom Clancy's Rainbow Six (France)",
+            "description": "Tom Clancy's Rainbow Six (France)"
+        },
+        {
+            "name": "Tom Clancy's Rainbow Six (Germany)",
+            "description": "Tom Clancy's Rainbow Six (Germany)"
+        },
+        {
+            "name": "Tom Clancy's Rainbow Six (USA)",
+            "description": "Tom Clancy's Rainbow Six (USA)"
+        },
+        {
+            "name": "Tonic Trouble (Europe) (En,Fr,De,Es,It)",
+            "description": "Tonic Trouble (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Tonic Trouble (USA) (Rev 1)",
+            "description": "Tonic Trouble (USA) (Rev 1)"
+        },
+        {
+            "name": "Tony Hawk's Pro Skater (USA)",
+            "description": "Tony Hawk's Pro Skater (USA)"
+        },
+        {
+            "name": "Tony Hawk's Pro Skater (USA) (Rev 1)",
+            "description": "Tony Hawk's Pro Skater (USA) (Rev 1)"
+        },
+        {
+            "name": "Tony Hawk's Pro Skater 2 (Europe)",
+            "description": "Tony Hawk's Pro Skater 2 (Europe)"
+        },
+        {
+            "name": "Tony Hawk's Pro Skater 2 (USA)",
+            "description": "Tony Hawk's Pro Skater 2 (USA)"
+        },
+        {
+            "name": "Tony Hawk's Pro Skater 3 (USA)",
+            "description": "Tony Hawk's Pro Skater 3 (USA)"
+        },
+        {
+            "name": "Tony Hawk's Skateboarding (Europe)",
+            "description": "Tony Hawk's Skateboarding (Europe)"
+        },
+        {
+            "name": "Top Gear Hyper Bike (Europe)",
+            "description": "Top Gear Hyper Bike (Europe)"
+        },
+        {
+            "name": "Top Gear Hyper Bike (Japan)",
+            "description": "Top Gear Hyper Bike (Japan)"
+        },
+        {
+            "name": "Top Gear Hyper-Bike (USA)",
+            "description": "Top Gear Hyper-Bike (USA)"
+        },
+        {
+            "name": "Top Gear Overdrive (Europe)",
+            "description": "Top Gear Overdrive (Europe)"
+        },
+        {
+            "name": "Top Gear Overdrive (Japan)",
+            "description": "Top Gear Overdrive (Japan)"
+        },
+        {
+            "name": "Top Gear Overdrive (USA)",
+            "description": "Top Gear Overdrive (USA)"
+        },
+        {
+            "name": "Top Gear Rally (Asia) (En)",
+            "description": "Top Gear Rally (Asia) (En)"
+        },
+        {
+            "name": "Top Gear Rally (Europe)",
+            "description": "Top Gear Rally (Europe)"
+        },
+        {
+            "name": "Top Gear Rally (Japan)",
+            "description": "Top Gear Rally (Japan)"
+        },
+        {
+            "name": "Top Gear Rally (USA)",
+            "description": "Top Gear Rally (USA)"
+        },
+        {
+            "name": "Top Gear Rally 2 (Europe)",
+            "description": "Top Gear Rally 2 (Europe)"
+        },
+        {
+            "name": "Top Gear Rally 2 (Japan)",
+            "description": "Top Gear Rally 2 (Japan)"
+        },
+        {
+            "name": "Top Gear Rally 2 (USA)",
+            "description": "Top Gear Rally 2 (USA)"
+        },
+        {
+            "name": "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)",
+            "description": "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)"
+        },
+        {
+            "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)",
+            "description": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)"
+        },
+        {
+            "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+            "description": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)"
+        },
+        {
+            "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
+            "description": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)"
+        },
+        {
+            "name": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)",
+            "description": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)"
+        },
+        {
+            "name": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)",
+            "description": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)"
+        },
+        {
+            "name": "Transformers - Beast Wars Metals 64 (Japan)",
+            "description": "Transformers - Beast Wars Metals 64 (Japan)"
+        },
+        {
+            "name": "Transformers - Beast Wars Transmetals (USA)",
+            "description": "Transformers - Beast Wars Transmetals (USA)"
+        },
+        {
+            "name": "Triple Play 2000 (USA)",
+            "description": "Triple Play 2000 (USA)"
+        },
+        {
+            "name": "Tsumi to Batsu - Hoshi no Keishousha (Japan)",
+            "description": "Tsumi to Batsu - Hoshi no Keishousha (Japan)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (Europe)",
+            "description": "Turok - Dinosaur Hunter (Europe)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (Europe) (Rev 1)",
+            "description": "Turok - Dinosaur Hunter (Europe) (Rev 1)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (Europe) (Rev 2)",
+            "description": "Turok - Dinosaur Hunter (Europe) (Rev 2)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (Germany)",
+            "description": "Turok - Dinosaur Hunter (Germany)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (Germany) (Rev 1)",
+            "description": "Turok - Dinosaur Hunter (Germany) (Rev 1)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (Germany) (Rev 2)",
+            "description": "Turok - Dinosaur Hunter (Germany) (Rev 2)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (USA)",
+            "description": "Turok - Dinosaur Hunter (USA)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (USA) (Rev 1)",
+            "description": "Turok - Dinosaur Hunter (USA) (Rev 1)"
+        },
+        {
+            "name": "Turok - Dinosaur Hunter (USA) (Rev 2)",
+            "description": "Turok - Dinosaur Hunter (USA) (Rev 2)"
+        },
+        {
+            "name": "Turok - Legenden des Verlorenen Landes (Germany)",
+            "description": "Turok - Legenden des Verlorenen Landes (Germany)"
+        },
+        {
+            "name": "Turok - Rage Wars (Europe)",
+            "description": "Turok - Rage Wars (Europe)"
+        },
+        {
+            "name": "Turok - Rage Wars (Europe) (En,Fr,It)",
+            "description": "Turok - Rage Wars (Europe) (En,Fr,It)"
+        },
+        {
+            "name": "Turok - Rage Wars (USA)",
+            "description": "Turok - Rage Wars (USA)"
+        },
+        {
+            "name": "Turok - Rage Wars (USA) (Rev 1)",
+            "description": "Turok - Rage Wars (USA) (Rev 1)"
+        },
+        {
+            "name": "Turok 2 - Seeds of Evil (Europe)",
+            "description": "Turok 2 - Seeds of Evil (Europe)"
+        },
+        {
+            "name": "Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)",
+            "description": "Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)"
+        },
+        {
+            "name": "Turok 2 - Seeds of Evil (Germany)",
+            "description": "Turok 2 - Seeds of Evil (Germany)"
+        },
+        {
+            "name": "Turok 2 - Seeds of Evil (USA)",
+            "description": "Turok 2 - Seeds of Evil (USA)"
+        },
+        {
+            "name": "Turok 2 - Seeds of Evil (USA) (Rev 1)",
+            "description": "Turok 2 - Seeds of Evil (USA) (Rev 1)"
+        },
+        {
+            "name": "Turok 3 - Shadow of Oblivion (Europe)",
+            "description": "Turok 3 - Shadow of Oblivion (Europe)"
+        },
+        {
+            "name": "Turok 3 - Shadow of Oblivion (USA)",
+            "description": "Turok 3 - Shadow of Oblivion (USA)"
+        },
+        {
+            "name": "Twisted Edge - Extreme Snowboarding (USA)",
+            "description": "Twisted Edge - Extreme Snowboarding (USA)"
+        },
+        {
+            "name": "Twisted Edge - Snowboarding (Europe)",
+            "description": "Twisted Edge - Snowboarding (Europe)"
+        },
+        {
+            "name": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+            "description": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)"
+        },
+        {
+            "name": "V-Rally Edition 99 (Europe) (En,Fr,De)",
+            "description": "V-Rally Edition 99 (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "V-Rally Edition 99 (Japan)",
+            "description": "V-Rally Edition 99 (Japan)"
+        },
+        {
+            "name": "V-Rally Edition 99 (USA)",
+            "description": "V-Rally Edition 99 (USA)"
+        },
+        {
+            "name": "Vigilante 8 (Europe)",
+            "description": "Vigilante 8 (Europe)"
+        },
+        {
+            "name": "Vigilante 8 (France)",
+            "description": "Vigilante 8 (France)"
+        },
+        {
+            "name": "Vigilante 8 (Germany)",
+            "description": "Vigilante 8 (Germany)"
+        },
+        {
+            "name": "Vigilante 8 (USA)",
+            "description": "Vigilante 8 (USA)"
+        },
+        {
+            "name": "Vigilante 8 - 2nd Offense (Europe)",
+            "description": "Vigilante 8 - 2nd Offense (Europe)"
+        },
+        {
+            "name": "Vigilante 8 - 2nd Offense (USA)",
+            "description": "Vigilante 8 - 2nd Offense (USA)"
+        },
+        {
+            "name": "Violence Killer - Turok New Generation (Japan)",
+            "description": "Violence Killer - Turok New Generation (Japan)"
+        },
+        {
+            "name": "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Virtual Chess 64 (USA) (En,Fr,Es)",
+            "description": "Virtual Chess 64 (USA) (En,Fr,Es)"
+        },
+        {
+            "name": "Virtual Pool 64 (Europe)",
+            "description": "Virtual Pool 64 (Europe)"
+        },
+        {
+            "name": "Virtual Pool 64 (USA)",
+            "description": "Virtual Pool 64 (USA)"
+        },
+        {
+            "name": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)",
+            "description": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)"
+        },
+        {
+            "name": "Virtual Pro Wrestling 64 (Japan)",
+            "description": "Virtual Pro Wrestling 64 (Japan)"
+        },
+        {
+            "name": "Waialae Country Club - True Golf Classics (Europe)",
+            "description": "Waialae Country Club - True Golf Classics (Europe)"
+        },
+        {
+            "name": "Waialae Country Club - True Golf Classics (Europe) (Rev 1)",
+            "description": "Waialae Country Club - True Golf Classics (Europe) (Rev 1)"
+        },
+        {
+            "name": "Waialae Country Club - True Golf Classics (USA)",
+            "description": "Waialae Country Club - True Golf Classics (USA)"
+        },
+        {
+            "name": "Waialae Country Club - True Golf Classics (USA) (Rev 1)",
+            "description": "Waialae Country Club - True Golf Classics (USA) (Rev 1)"
+        },
+        {
+            "name": "War Gods (Europe)",
+            "description": "War Gods (Europe)"
+        },
+        {
+            "name": "War Gods (USA)",
+            "description": "War Gods (USA)"
+        },
+        {
+            "name": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)",
+            "description": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)"
+        },
+        {
+            "name": "Wave Race 64 - Kawasaki Jet Ski (Japan)",
+            "description": "Wave Race 64 - Kawasaki Jet Ski (Japan)"
+        },
+        {
+            "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)",
+            "description": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)"
+        },
+        {
+            "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)",
+            "description": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)"
+        },
+        {
+            "name": "Wave Race 64 - Kawasaki Jet Ski (USA)",
+            "description": "Wave Race 64 - Kawasaki Jet Ski (USA)"
+        },
+        {
+            "name": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+            "description": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)"
+        },
+        {
+            "name": "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)",
+            "description": "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Wayne Gretzky's 3D Hockey '98 (USA)",
+            "description": "Wayne Gretzky's 3D Hockey '98 (USA)"
+        },
+        {
+            "name": "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)",
+            "description": "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Wayne Gretzky's 3D Hockey (Japan)",
+            "description": "Wayne Gretzky's 3D Hockey (Japan)"
+        },
+        {
+            "name": "Wayne Gretzky's 3D Hockey (USA)",
+            "description": "Wayne Gretzky's 3D Hockey (USA)"
+        },
+        {
+            "name": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)",
+            "description": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)"
+        },
+        {
+            "name": "WCW Backstage Assault (USA)",
+            "description": "WCW Backstage Assault (USA)"
+        },
+        {
+            "name": "WCW Mayhem (Europe)",
+            "description": "WCW Mayhem (Europe)"
+        },
+        {
+            "name": "WCW Mayhem (USA)",
+            "description": "WCW Mayhem (USA)"
+        },
+        {
+            "name": "WCW Nitro (USA)",
+            "description": "WCW Nitro (USA)"
+        },
+        {
+            "name": "WCW vs. nWo - World Tour (Europe)",
+            "description": "WCW vs. nWo - World Tour (Europe)"
+        },
+        {
+            "name": "WCW vs. nWo - World Tour (USA)",
+            "description": "WCW vs. nWo - World Tour (USA)"
+        },
+        {
+            "name": "WCW vs. nWo - World Tour (USA) (Rev 1)",
+            "description": "WCW vs. nWo - World Tour (USA) (Rev 1)"
+        },
+        {
+            "name": "WCW-nWo Revenge (Europe)",
+            "description": "WCW-nWo Revenge (Europe)"
+        },
+        {
+            "name": "WCW-nWo Revenge (USA)",
+            "description": "WCW-nWo Revenge (USA)"
+        },
+        {
+            "name": "Wetrix (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Wetrix (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Wetrix (Japan)",
+            "description": "Wetrix (Japan)"
+        },
+        {
+            "name": "Wetrix (USA) (En,Fr,De,Es,It,Nl)",
+            "description": "Wetrix (USA) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Wheel of Fortune (USA)",
+            "description": "Wheel of Fortune (USA)"
+        },
+        {
+            "name": "Wild Choppers (Japan)",
+            "description": "Wild Choppers (Japan)"
+        },
+        {
+            "name": "WinBack (Japan)",
+            "description": "WinBack (Japan)"
+        },
+        {
+            "name": "WinBack (Japan) (Rev 1)",
+            "description": "WinBack (Japan) (Rev 1)"
+        },
+        {
+            "name": "WinBack - Covert Operations (USA)",
+            "description": "WinBack - Covert Operations (USA)"
+        },
+        {
+            "name": "Wipeout 64 (Europe)",
+            "description": "Wipeout 64 (Europe)"
+        },
+        {
+            "name": "Wipeout 64 (USA)",
+            "description": "Wipeout 64 (USA)"
+        },
+        {
+            "name": "Wonder Project J2 - Koruro no Mori no Jozet (Japan)",
+            "description": "Wonder Project J2 - Koruro no Mori no Jozet (Japan)"
+        },
+        {
+            "name": "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+            "description": "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+        },
+        {
+            "name": "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
+            "description": "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)"
+        },
+        {
+            "name": "World Driver Championship (Europe) (En,Fr,De,Es,It)",
+            "description": "World Driver Championship (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "World Driver Championship (USA)",
+            "description": "World Driver Championship (USA)"
+        },
+        {
+            "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",
+            "description": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)"
+        },
+        {
+            "name": "Worms Armageddon (USA) (En,Fr,Es)",
+            "description": "Worms Armageddon (USA) (En,Fr,Es)"
+        },
+        {
+            "name": "WWF Attitude (Europe)",
+            "description": "WWF Attitude (Europe)"
+        },
+        {
+            "name": "WWF Attitude (Germany)",
+            "description": "WWF Attitude (Germany)"
+        },
+        {
+            "name": "WWF Attitude (USA)",
+            "description": "WWF Attitude (USA)"
+        },
+        {
+            "name": "WWF No Mercy (Europe)",
+            "description": "WWF No Mercy (Europe)"
+        },
+        {
+            "name": "WWF No Mercy (Europe) (Rev 1)",
+            "description": "WWF No Mercy (Europe) (Rev 1)"
+        },
+        {
+            "name": "WWF No Mercy (USA)",
+            "description": "WWF No Mercy (USA)"
+        },
+        {
+            "name": "WWF No Mercy (USA) (Rev 1)",
+            "description": "WWF No Mercy (USA) (Rev 1)"
+        },
+        {
+            "name": "WWF War Zone (Europe)",
+            "description": "WWF War Zone (Europe)"
+        },
+        {
+            "name": "WWF War Zone (USA)",
+            "description": "WWF War Zone (USA)"
+        },
+        {
+            "name": "WWF WrestleMania 2000 (Europe)",
+            "description": "WWF WrestleMania 2000 (Europe)"
+        },
+        {
+            "name": "WWF WrestleMania 2000 (Japan)",
+            "description": "WWF WrestleMania 2000 (Japan)"
+        },
+        {
+            "name": "WWF WrestleMania 2000 (USA)",
+            "description": "WWF WrestleMania 2000 (USA)"
+        },
+        {
+            "name": "Xena - Warrior Princess - The Talisman of Fate (Europe)",
+            "description": "Xena - Warrior Princess - The Talisman of Fate (Europe)"
+        },
+        {
+            "name": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+            "description": "Xena - Warrior Princess - The Talisman of Fate (USA)"
+        },
+        {
+            "name": "Xingji Huohu (China) (v4) (iQue) (Manual)",
+            "description": "Xingji Huohu (China) (v4) (iQue) (Manual)"
+        },
+        {
+            "name": "Xingji Huohu (China) (v5) (iQue)",
+            "description": "Xingji Huohu (China) (v5) (iQue)"
+        },
+        {
+            "name": "Yakouchuu II - Satsujin Kouro (Japan)",
+            "description": "Yakouchuu II - Satsujin Kouro (Japan)"
+        },
+        {
+            "name": "Yaoxi Gushi (China) (iQue)",
+            "description": "Yaoxi Gushi (China) (iQue)"
+        },
+        {
+            "name": "Yaoxi Gushi (China) (v2) (iQue) (Manual)",
+            "description": "Yaoxi Gushi (China) (v2) (iQue) (Manual)"
+        },
+        {
+            "name": "Yaoxi Gushi (China) (v4) (iQue) (Manual)",
+            "description": "Yaoxi Gushi (China) (v4) (iQue) (Manual)"
+        },
+        {
+            "name": "Yaoxi Gushi (China) (v6) (iQue) (Manual)",
+            "description": "Yaoxi Gushi (China) (v6) (iQue) (Manual)"
+        },
+        {
+            "name": "Yoshi Story (Japan)",
+            "description": "Yoshi Story (Japan)"
+        },
+        {
+            "name": "Yoshi's Story (Europe) (En,Fr,De)",
+            "description": "Yoshi's Story (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Yoshi's Story (USA) (En,Ja)",
+            "description": "Yoshi's Story (USA) (En,Ja)"
+        },
+        {
+            "name": "Yueye Motuo (China) (iQue)",
+            "description": "Yueye Motuo (China) (iQue)"
+        },
+        {
+            "name": "Yueye Motuo (China) (iQue) (Manual)",
+            "description": "Yueye Motuo (China) (iQue) (Manual)"
+        },
+        {
+            "name": "Yuke Yuke!! Trouble Makers (Japan)",
+            "description": "Yuke Yuke!! Trouble Makers (Japan)"
+        },
+        {
+            "name": "Zelda Chuanshuo Shiguang Zhi Di (China) (Chinese Traditional) (iQue)",
+            "description": "Zelda Chuanshuo Shiguang Zhi Di (China) (Chinese Traditional) (iQue)"
+        },
+        {
+            "name": "Zelda Chuanshuo Shiguang Zhi Di (China) (iQue)",
+            "description": "Zelda Chuanshuo Shiguang Zhi Di (China) (iQue)"
+        },
+        {
+            "name": "Zelda Chuanshuo Shiguang Zhi Di (China) (v2) (iQue) (Manual)",
+            "description": "Zelda Chuanshuo Shiguang Zhi Di (China) (v2) (iQue) (Manual)"
+        },
+        {
+            "name": "Zelda Chuanshuo Shiguang Zhi Di (China) (v4) (iQue) (Manual)",
+            "description": "Zelda Chuanshuo Shiguang Zhi Di (China) (v4) (iQue) (Manual)"
+        },
+        {
+            "name": "Zelda no Densetsu - Mujura no Kamen (Japan)",
+            "description": "Zelda no Densetsu - Mujura no Kamen (Japan)"
+        },
+        {
+            "name": "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)",
+            "description": "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)"
+        },
+        {
+            "name": "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)",
+            "description": "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)"
+        },
+        {
+            "name": "Zelda no Densetsu - Toki no Ocarina (Japan)",
+            "description": "Zelda no Densetsu - Toki no Ocarina (Japan)"
+        },
+        {
+            "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)",
+            "description": "Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)"
+        },
+        {
+            "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)",
+            "description": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)"
+        },
+        {
+            "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)",
+            "description": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)"
+        },
+        {
+            "name": "Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)",
+            "description": "Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)"
+        },
+        {
+            "name": "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)",
+            "description": "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)"
+        },
+        {
+            "name": "Zhi Pian Mario (China) (iQue)",
+            "description": "Zhi Pian Mario (China) (iQue)"
+        },
+        {
+            "name": "Zhi Pian Mario (China) (v2) (iQue) (Manual)",
+            "description": "Zhi Pian Mario (China) (v2) (iQue) (Manual)"
+        },
+        {
+            "name": "Zhi Pian Mario (China) (v4) (iQue) (Manual)",
+            "description": "Zhi Pian Mario (China) (v4) (iQue) (Manual)"
+        },
+        {
+            "name": "Zool - Majuu Tsukai Densetsu (Japan)",
+            "description": "Zool - Majuu Tsukai Densetsu (Japan)"
+        },
+        {
+            "name": "Zuhe Jiqiren (China) (iQue)",
+            "description": "Zuhe Jiqiren (China) (iQue)"
+        },
+        {
+            "name": "Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue)",
+            "description": "Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue)"
+        },
+        {
+            "name": "Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue) (Manual)",
+            "description": "Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue) (Manual)"
+        }
+    ]
+}

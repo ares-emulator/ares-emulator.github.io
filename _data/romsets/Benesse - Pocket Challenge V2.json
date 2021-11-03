@@ -1,0 +1,223 @@
+{
+    "header": {
+        "name": "Benesse - Pocket Challenge V2",
+        "description": "Benesse - Pocket Challenge V2",
+        "version": "20210827-065109",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "Koukou Juken V Pack - Koukou Juken (5kamoku), Koukou Juken EX (Goukaku Tokukou 700) Kanzen Taiou Ban (Japan) (5FI900)",
+            "description": "Koukou Juken V Pack - Koukou Juken (5kamoku), Koukou Juken EX (Goukaku Tokukou 700) Kanzen Taiou Ban (Japan) (5FI900)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Japan) (6FP101)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Japan) (6FP101)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Japan) (6FP103)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Japan) (6FP103)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Japan) (6FP105)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Japan) (6FP105)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (New Crown, Total English Taiou ban) (Japan) (4BB113)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (New Crown, Total English Taiou ban) (Japan) (4BB113)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Sunshine, One World Taiou ban) (Japan)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eisuukoku Pack (Sunshine, One World Taiou ban) (Japan)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (Japan) (2BB113)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (Japan) (2BB113)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (Japan) (3BB111)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (Japan) (3BB111)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (Japan) (3BB113)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (Japan) (3BB113)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB111)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (Japan) (4BB111)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Kokugo-Hyakunin Isshu (Japan) (2BK401)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 Kokugo-Hyakunin Isshu (Japan) (2BK401)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (2BM110)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (2BM110)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (New Crown, Total English Taiou ban) (Japan) (4BP203)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (New Crown, Total English Taiou ban) (Japan) (4BP203)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (New Crown, Total English Taiou ban) (Japan) (6FP203)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (New Crown, Total English Taiou ban) (Japan) (6FP203)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (New Horizon, Columbus21 Taiou ban) (Japan) (6FP211)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (New Horizon, Columbus21 Taiou ban) (Japan) (6FP211)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (Sunshine, One World Taiou ban) (Japan) (6FP212)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eisuukoku Pack (Sunshine, One World Taiou ban) (Japan) (6FP212)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 2 English (New Crown, Total English Taiou Ban) (Japan) (3BB213)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Kokugo (Japan) (3BK210)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 2 Kokugo (Japan) (3BK210)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Suugaku (Japan) (3BM210)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 2 Suugaku (Japan) (3BM210)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Ei-Suu-Koumin Pack (New Crown, Total English Taiou ban) (Japan) (5FP303) [b]",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 3 Ei-Suu-Koumin Pack (New Crown, Total English Taiou ban) (Japan) (5FP303) [b]"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Ei-Suu-Koumin Pack (New Crown, Total English Taiou ban) (Japan) (6FP313)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 3 Ei-Suu-Koumin Pack (New Crown, Total English Taiou ban) (Japan) (6FP313)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Ei-Suu-Koumin Pack (New Horizon, Columbus21 Taiou ban) (Japan) (5FP301)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 3 Ei-Suu-Koumin Pack (New Horizon, Columbus21 Taiou ban) (Japan) (5FP301)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 English (New Crown, Total English Taiou Ban) (Japan) (4BB313)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 3 English (New Crown, Total English Taiou Ban) (Japan) (4BB313)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Suugaku (Japan) (4BM310)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuu 3 Suugaku (Japan) (4BM310)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (4BD410)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (4BD410)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (2BD400)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (2BD400)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (4BD400)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (4BD400)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (6FD400)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (6FD400)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (6FD401)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Chuugaku Rekishi Pack (Japan) (6FD401)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (4BE310)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (4BE310)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (2BC410)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (2BC410)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (5FF411)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (5FF411)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (6FF421)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (6FF421)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (5FF412)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (5FF412)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (6FF422)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (6FF422)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (2BF400)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (2BF400)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (5FF400)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (5FF400)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (6FF400)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (6FF400)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (6FF401)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (6FF401)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (6FF420)",
+            "description": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (6FF420)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Eiken 3 Kyuu-4 Kyuu (Japan) (2BK931)",
+            "description": "Shinkenzemi Chuugaku Kouza - Eiken 3 Kyuu-4 Kyuu (Japan) (2BK931)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (2BG410)",
+            "description": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (2BG410)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (3BG410)",
+            "description": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (3BG410)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (5FG410)",
+            "description": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (5FG410)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (6FG402)",
+            "description": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (6FG402)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (6FG410)",
+            "description": "Shinkenzemi Chuugaku Kouza - Jitsugi 4 Kyouka (Japan) (6FG410)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Kanken 3 Kyuu-4 Kyuu-5 Kyuu (Japan) (6FK940)",
+            "description": "Shinkenzemi Chuugaku Kouza - Kanken 3 Kyuu-4 Kyuu-5 Kyuu (Japan) (6FK940)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (5 Kyouka) (Japan) (4BI710)",
+            "description": "Shinkenzemi Chuugaku Kouza - Koukou Juken (5 Kyouka) (Japan) (4BI710)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (5 Kyouka) (Japan) (4BI716)",
+            "description": "Shinkenzemi Chuugaku Kouza - Koukou Juken (5 Kyouka) (Japan) (4BI716)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (5 Kyouka) (Japan) (5FI710)",
+            "description": "Shinkenzemi Chuugaku Kouza - Koukou Juken (5 Kyouka) (Japan) (5FI710)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken 5 Kyouka Pack + Nyuushi Theme Betsu Tokkou (Japan) (6FI901)",
+            "description": "Shinkenzemi Chuugaku Kouza - Koukou Juken 5 Kyouka Pack + Nyuushi Theme Betsu Tokkou (Japan) (6FI901)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken EX (Goukaku Tokukou 700) (Japan) (4FI720)",
+            "description": "Shinkenzemi Chuugaku Kouza - Koukou Juken EX (Goukaku Tokukou 700) (Japan) (4FI720)"
+        },
+        {
+            "name": "Shinkenzemi Chuugaku Kouza - Shougakkou Soumatome (Koku San Ri Sha) + Chuu 1 Eisuukoku Pack (Japan) (6FP104)",
+            "description": "Shinkenzemi Chuugaku Kouza - Shougakkou Soumatome (Koku San Ri Sha) + Chuu 1 Eisuukoku Pack (Japan) (6FP104)"
+        }
+    ]
+}

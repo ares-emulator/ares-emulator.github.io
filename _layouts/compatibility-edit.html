@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+<ol>
+    <li><a href='/index'><span>ares</span></a></li>
+    <li><a href='/compatibility'><span>compatibility</span></a></li>
+    <li><a href='/compatibility/{{page.title}}'><span>{{ page.title }}</span></a></li>
+</ol>
+
+<h2 id="compatibility">{{ page.title }}</h2>
+
+<p>To update the compatibility list, please use the following process (Note: A GitHub account is required)</p>
+<ul>
+    <li>Complete any changes you wish to make using the form below</li>
+    <li>Hit the 'Save' button at the end of any row, this will trigger a json file to be downloaded</li>
+    <li>Open the file editor on GitHub by following this <a target="_blank" href="https://github.com/ares-emulator/ares-emulator.github.io/edit/wip-compatdb/_data/compatibility/{{ page.title }}.json">link</a></li>
+    <li>Replace the content with the content of the downloaded json file. GitHub will automatically handle forking our repository when you submit the change</li>
+    <li>Finally, submit a pull-request to ares-emulator.github.io with your changes, they will then be checked by our team and then merged once verified</li>
+</ul>
+
+{% capture file %}{{ page.title | replace: '(', '' | replace: ')', '' | replace: '& ', '' | replace: ' ', '_' }}{% endcapture %}
+
+<form id="compatibility-form">
+    <table id="compatibility-table">
+        <tr>
+            <th>Game</th>
+            <th>Status</th>
+            <th>Notes</th>
+            <th>Ares Ver.</th>
+            <th></th>
+        </tr>
+        {% for game in site.data.romsets[file].games %}
+            {% assign compatibility = site.data.compatibility[file].games[game.description] %}
+            <tr>
+                <td id="{{ game.description }}">
+                    {{ game.description }}
+                    <input type="hidden" name="name" value="{{ game.description }}">
+                </td>
+                <td>
+                    <select name="status">
+                        <option {% if compatibility.status == "Unknown" %} selected {% endif %}>Unknown</option>
+                        <option {% if compatibility.status == "Not Working" %} selected {% endif %}>Not Working</option>
+                        <option {% if compatibility.status == "Working" %} selected {% endif %}>Working</option>
+                    </select>
+                </td>
+                <td>
+                    <input size="80" name="notes" value="{{ compatibility.notes }}">
+                </td>
+                <td>
+                    <select name="version">
+                        {% for version in site.data.versions.releases %}
+                            {% if compatibility.version %}
+                                <option {% if compatibility.version == version %} selected {% endif %}>{{ version }}</option>
+                            {% else %}
+                                <option {% if version == site.data.versions.current %} selected {% endif %}>{{ version }}</option>
+                            {% endif %}
+                        {% endfor %}
+                    </select>
+                </td>
+                <td>
+                    <button type="button" onclick="saveCompatibility();">Save</button>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+</form>
+
+<script>
+    function saveCompatibility() {
+        var data = {
+            games: {},
+        };
+
+        var table = document.getElementById("compatibility-table");
+        for (var i = 0, row; row = table.rows[i]; i++) {
+            var name = row.querySelector("input[name='name']");
+            if (name) {
+                var status = row.querySelector("select[name='status']").value;
+                var notes = row.querySelector("input[name='notes']").value;
+                var version = row.querySelector("select[name='version']").value;
+
+                data.games[name.value] = {
+                    "status": status,
+                    "notes": notes,
+                    "version" : version,
+                };
+            }
+        }
+
+        downloadObjectAsJson(data, '{{ page.title }}');
+    }
+
+    function downloadObjectAsJson(exportObj, exportName){
+        var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportObj, null, 2));
+        var downloadAnchorNode = document.createElement('a');
+        downloadAnchorNode.setAttribute("href",     dataStr);
+        downloadAnchorNode.setAttribute("download", exportName + ".json");
+        document.body.appendChild(downloadAnchorNode);
+        downloadAnchorNode.click();
+        downloadAnchorNode.remove();
+    }
+</script>

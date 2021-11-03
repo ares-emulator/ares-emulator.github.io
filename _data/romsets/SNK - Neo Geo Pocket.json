@@ -1,0 +1,47 @@
+{
+    "header": {
+        "name": "SNK - Neo Geo Pocket",
+        "description": "SNK - Neo Geo Pocket",
+        "version": "20211020-090145",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)",
+            "description": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)"
+        },
+        {
+            "name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+            "description": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+        },
+        {
+            "name": "Melon-chan no Seichou Nikki (Japan)",
+            "description": "Melon-chan no Seichou Nikki (Japan)"
+        },
+        {
+            "name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)",
+            "description": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)"
+        },
+        {
+            "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)",
+            "description": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+        },
+        {
+            "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)",
+            "description": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+        },
+        {
+            "name": "Renketsu Puzzle Tsunagete Pon! (Japan)",
+            "description": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+        },
+        {
+            "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)",
+            "description": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+        },
+        {
+            "name": "Shougi no Tatsujin (Japan)",
+            "description": "Shougi no Tatsujin (Japan)"
+        }
+    ]
+}

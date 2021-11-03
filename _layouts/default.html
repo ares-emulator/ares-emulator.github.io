@@ -14,9 +14,10 @@
 </header>
 <nav>
     <a href='/about'>About</a>
-    <a href='/posts'>Posts</a>
+    <a href='/posts'>News</a>
+    <a href='/compatibility'>Compatibility</a>
     <a href='/gallery'>Gallery</a>
-    <a href='/docs'>Docs</a>
+    <a href='/docs'>Documentation</a>
     <a href='//github.com/ares-emulator/ares'>GitHub</a>
 </nav>
 <main>
@@ -24,5 +25,25 @@
 </main>
 <footer>
 </footer>
+
+<script>
+    const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
+
+    const comparer = (idx, asc) => (a, b) => ((v1, v2) => 
+        v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2)
+        )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
+
+    document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
+        const table = th.closest('table');
+        Array.from(table.querySelectorAll('tr:nth-child(n+2)'))
+            .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
+            .forEach(tr => table.appendChild(tr) );
+    })));
+
+    var elem = document.querySelectorAll('.default-sort').forEach(elem => {
+        elem.dispatchEvent(new Event("click")); 
+    });
+</script>
+
 </body>
 </html>

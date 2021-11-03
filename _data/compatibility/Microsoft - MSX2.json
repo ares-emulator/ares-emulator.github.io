@@ -1,0 +1,949 @@
+{
+  "games": {
+    "1942 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "A Ressha de Ikou MSX (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AcroJet (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aleste (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Alges no Yoku (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "American Soccer (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Arctic - Active Rail Playing (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Arctic - Active Rail Playing (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Arkanoid II - Revenge of Doh (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AshGuine - Densetsu no Seisenshi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AshGuine Story II - Kokuu no Gajou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AshGuine Story III - Fukushuu no Honoo (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bubble Bobble (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bubble Bobble (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cockpit, The (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Contra (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Crimson (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Daikoukai Jidai (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Daisenryaku MSX2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Darwin 4078 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Darwin 4078 (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Darwin 4078 (Japan) (Alt 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Deep Forest (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Deep Forest (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dires - Giger Loop (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Double Vision (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Buster (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Quest (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Quest II (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Quest II (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Slayer IV - Drasle Family (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Slayer IV - Drasle Family (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Slayer Jr. - Romancia (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Druid (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Druid (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dynamite Bowl (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dynamite Bowl (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Eidolon, The (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Elthlead (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Empereur, L' (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Europe Sensen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-15 Strike Eagle (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Famicle Parodic (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Family Billiards (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Family Boxing - MSX Title Match (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fantasy Zone II - The Tears of Opa-Opa (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Final Mystery Murder Club - Satsujin Club (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fire Ball (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fleet Commander II - Koukon no Kaiiki (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gakuen Monogatari - High School Story (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ganbare Goemon! - Karakuri Douchuu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Garakuta (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Garyuu Ou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Garyuu Ou (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gekitotsu Pennant Race 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gekitotsu Pennant Race 2 (Japan) (English Menu)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Girly Block (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hacker (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hai no Majutsushi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Han Seimei Senki Andorogynus (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Han Seimei Senki Andorogynus (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hard Ball (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Heroes of the Lance (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "High School! Kimengumi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hinotori - Houou Hen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hinotori - Houou Hen (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hinotori - Houou Hen (Japan) (Alt 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hole in One Special (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hole in One Special (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hydlide 3 - The Space Memories (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ide Yousuke Meijin no Jissen Mahjong (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ikari (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ikari (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Inindou - Datou Nobunaga (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ishin no Arashi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jansei (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jansei (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kempelen Chess (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kiki Kaikai (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "King Kong 2 - Yomigaeru Densetsu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kisei (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kitahei (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Koronis Rift (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Labyrinth (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Labyrinth (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lupin Sansei - Babylon no Ougon Densetsu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lupin Sansei - Cagliostro no Shiro (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mad Rider (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mad Rider (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Maison Ikkoku - Omoide no Photograph (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Malaya no Hibou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Metal Gear (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Metal Gear (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Metal Gear 2 - Solid Snake (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mirai (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mississippi Satsujinjiken (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Moero!! Nettou Yakyuu '88 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monmon Kaibutsu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nekketsu Juudou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nekketsu Juudou (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ninja-kun - Asura no Shou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nobunaga no Yabou - Bushou Fuuun Roku (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nobunaga no Yabou - Sengoku Gunyuuden (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nobunaga no Yabou - Zenkoku Ban (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ogre (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ogre (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ouke no Tani - El Giza no Fuuin (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Out Run (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pac-Mania (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi Pro Densetsu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Penguin-kun Wars 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Penguin-kun Wars 2 (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Predator (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pro Yakyuu Family Stadium - Pennant Race (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pro Yakyuu Fan - Telenet Stadium (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Professional Mahjong Gokuu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Project A2 - Shijousaidai no Hyouteki (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quarth (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quarth (Korea)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quinpl (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rastan Saga (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Relics (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Replicart (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Return of Ishtar, The (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Return of Jelda (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rick to Mick no Daibouken (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Royal Blood (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sangokushi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sangokushi II (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Scramble Formation (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Seikima II Special - Akuma no Gyakushuu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shanghai (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shiryou Sensen - War of the Dead (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Manbow (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Virgin (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Virgin (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Strategic Mars (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Suikoden - Tenmei no Chikai (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Daisenryaku (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Load Runner (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Rambo Special (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Runner (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Tritorn (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Taiyou no Shinden - Asteka II (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tanikawa Hiroshi no Shougi Shinan 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Teitoku no Ketsudan (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tengoku Yoitoko (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tetris (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Topple Zip (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Treasure of Usas, The (Japan, Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Treasure of Usas, The (Japan, Europe) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tsurikichi Sanpei - Blue Marine Hen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ultima Exodus (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Urusei Yatsura - Koi no Survival Birthday (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vampire Killer (Japan, Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vampire Killer (Japan, Europe) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vampire Killer (Japan, Europe) (Alt 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vampire Killer (Japan, Europe) (Alt 3)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Victorious Nine II - Koukou Yakyuu Hen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wizardry (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Woody Poco (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Woody Poco (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Xevious - Fardraut Saga (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Xevious - Fardraut Saga (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yaksa (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yuurei-kun (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zanac Ex (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zanac Ex (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zoids - Chuuou Tairiku no Tatakai (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zombie Hunter (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zukkoke Yajikita Onmitsu Douchuu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    }
+  }
+}

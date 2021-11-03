@@ -1,0 +1,615 @@
+{
+    "header": {
+        "name": "Coleco - ColecoVision",
+        "description": "Coleco - ColecoVision",
+        "version": "20200926-011306",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "2010 - The Graphic Action Game (USA)",
+            "description": "2010 - The Graphic Action Game (USA)"
+        },
+        {
+            "name": "Activision Decathlon, The (USA)",
+            "description": "Activision Decathlon, The (USA)"
+        },
+        {
+            "name": "Alcazar - The Forgotten Fortress (USA)",
+            "description": "Alcazar - The Forgotten Fortress (USA)"
+        },
+        {
+            "name": "Alphabet Zoo (USA)",
+            "description": "Alphabet Zoo (USA)"
+        },
+        {
+            "name": "Amazing Bumpman (USA)",
+            "description": "Amazing Bumpman (USA)"
+        },
+        {
+            "name": "Antarctic Adventure (USA, Europe)",
+            "description": "Antarctic Adventure (USA, Europe)"
+        },
+        {
+            "name": "Aquattack (USA)",
+            "description": "Aquattack (USA)"
+        },
+        {
+            "name": "Artillery Duel (USA)",
+            "description": "Artillery Duel (USA)"
+        },
+        {
+            "name": "BC's Quest for Tires (Canada)",
+            "description": "BC's Quest for Tires (Canada)"
+        },
+        {
+            "name": "BC's Quest for Tires (USA)",
+            "description": "BC's Quest for Tires (USA)"
+        },
+        {
+            "name": "BC's Quest for Tires II - Grog's Revenge (Canada)",
+            "description": "BC's Quest for Tires II - Grog's Revenge (Canada)"
+        },
+        {
+            "name": "BC's Quest for Tires II - Grog's Revenge (USA)",
+            "description": "BC's Quest for Tires II - Grog's Revenge (USA)"
+        },
+        {
+            "name": "Beamrider (USA)",
+            "description": "Beamrider (USA)"
+        },
+        {
+            "name": "Blockade Runner (USA)",
+            "description": "Blockade Runner (USA)"
+        },
+        {
+            "name": "Boulder Dash (USA)",
+            "description": "Boulder Dash (USA)"
+        },
+        {
+            "name": "Brain Strainers (USA)",
+            "description": "Brain Strainers (USA)"
+        },
+        {
+            "name": "Buck Rogers - Planet of Zoom (USA, Europe)",
+            "description": "Buck Rogers - Planet of Zoom (USA, Europe)"
+        },
+        {
+            "name": "Bump 'n' Jump (USA, Europe)",
+            "description": "Bump 'n' Jump (USA, Europe)"
+        },
+        {
+            "name": "BurgerTime (USA, Europe)",
+            "description": "BurgerTime (USA, Europe)"
+        },
+        {
+            "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe)",
+            "description": "Cabbage Patch Kids - Adventures in the Park (USA, Europe)"
+        },
+        {
+            "name": "Cabbage Patch Kids - Picture Show (USA)",
+            "description": "Cabbage Patch Kids - Picture Show (USA)"
+        },
+        {
+            "name": "Campaign '84 (USA)",
+            "description": "Campaign '84 (USA)"
+        },
+        {
+            "name": "Carnival (USA, Europe)",
+            "description": "Carnival (USA, Europe)"
+        },
+        {
+            "name": "CAT S.O.S. Game, The (USA) (Promo)",
+            "description": "CAT S.O.S. Game, The (USA) (Promo)"
+        },
+        {
+            "name": "Centipede (USA)",
+            "description": "Centipede (USA)"
+        },
+        {
+            "name": "Choplifter! (USA)",
+            "description": "Choplifter! (USA)"
+        },
+        {
+            "name": "Chuck Norris - Superkicks (USA)",
+            "description": "Chuck Norris - Superkicks (USA)"
+        },
+        {
+            "name": "ColecoVision Monitor Test (USA, Europe)",
+            "description": "ColecoVision Monitor Test (USA, Europe)"
+        },
+        {
+            "name": "Congo Bongo (USA)",
+            "description": "Congo Bongo (USA)"
+        },
+        {
+            "name": "Cosmic Avenger (USA, Europe)",
+            "description": "Cosmic Avenger (USA, Europe)"
+        },
+        {
+            "name": "Cosmic Crisis (Europe)",
+            "description": "Cosmic Crisis (Europe)"
+        },
+        {
+            "name": "Dam Busters, The (Canada)",
+            "description": "Dam Busters, The (Canada)"
+        },
+        {
+            "name": "Dam Busters, The (USA)",
+            "description": "Dam Busters, The (USA)"
+        },
+        {
+            "name": "Dance Fantasy (USA)",
+            "description": "Dance Fantasy (USA)"
+        },
+        {
+            "name": "Defender (USA)",
+            "description": "Defender (USA)"
+        },
+        {
+            "name": "Destructor (USA, Europe)",
+            "description": "Destructor (USA, Europe)"
+        },
+        {
+            "name": "Donkey Kong (USA)",
+            "description": "Donkey Kong (USA)"
+        },
+        {
+            "name": "Donkey Kong (USA, Europe) (v1.1)",
+            "description": "Donkey Kong (USA, Europe) (v1.1)"
+        },
+        {
+            "name": "Donkey Kong Junior (USA, Europe)",
+            "description": "Donkey Kong Junior (USA, Europe)"
+        },
+        {
+            "name": "Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)",
+            "description": "Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)"
+        },
+        {
+            "name": "Dragonfire (USA)",
+            "description": "Dragonfire (USA)"
+        },
+        {
+            "name": "Dukes of Hazzard, The (USA)",
+            "description": "Dukes of Hazzard, The (USA)"
+        },
+        {
+            "name": "Evolution (Canada)",
+            "description": "Evolution (Canada)"
+        },
+        {
+            "name": "Facemaker (USA)",
+            "description": "Facemaker (USA)"
+        },
+        {
+            "name": "Fathom (USA)",
+            "description": "Fathom (USA)"
+        },
+        {
+            "name": "Final Test Cartridge (USA)",
+            "description": "Final Test Cartridge (USA)"
+        },
+        {
+            "name": "Flipper Slipper (USA, Europe)",
+            "description": "Flipper Slipper (USA, Europe)"
+        },
+        {
+            "name": "Fortune Builder (USA)",
+            "description": "Fortune Builder (USA)"
+        },
+        {
+            "name": "Fraction Fever (USA)",
+            "description": "Fraction Fever (USA)"
+        },
+        {
+            "name": "Frantic Freddy (USA)",
+            "description": "Frantic Freddy (USA)"
+        },
+        {
+            "name": "Frenzy (USA, Europe)",
+            "description": "Frenzy (USA, Europe)"
+        },
+        {
+            "name": "Frogger (USA)",
+            "description": "Frogger (USA)"
+        },
+        {
+            "name": "Frogger II - ThreeeDeep! (USA)",
+            "description": "Frogger II - ThreeeDeep! (USA)"
+        },
+        {
+            "name": "Front Line (USA, Europe)",
+            "description": "Front Line (USA, Europe)"
+        },
+        {
+            "name": "Front Line (USA, Europe) (Green Version)",
+            "description": "Front Line (USA, Europe) (Green Version)"
+        },
+        {
+            "name": "Galaxian (USA)",
+            "description": "Galaxian (USA)"
+        },
+        {
+            "name": "Gateway to Apshai (USA, Europe)",
+            "description": "Gateway to Apshai (USA, Europe)"
+        },
+        {
+            "name": "Gorf (USA, Europe)",
+            "description": "Gorf (USA, Europe)"
+        },
+        {
+            "name": "Gust Buster (USA)",
+            "description": "Gust Buster (USA)"
+        },
+        {
+            "name": "Gyruss (USA)",
+            "description": "Gyruss (USA)"
+        },
+        {
+            "name": "H.E.R.O. - Helicopter Emergency Rescue Operation (USA)",
+            "description": "H.E.R.O. - Helicopter Emergency Rescue Operation (USA)"
+        },
+        {
+            "name": "Heist, The (USA)",
+            "description": "Heist, The (USA)"
+        },
+        {
+            "name": "Illusions (USA)",
+            "description": "Illusions (USA)"
+        },
+        {
+            "name": "It's Only Rock 'N' Roll (USA)",
+            "description": "It's Only Rock 'N' Roll (USA)"
+        },
+        {
+            "name": "James Bond 007 (USA)",
+            "description": "James Bond 007 (USA)"
+        },
+        {
+            "name": "Jukebox (USA)",
+            "description": "Jukebox (USA)"
+        },
+        {
+            "name": "Julius Erving and Larry Bird Go - One-on-One (USA)",
+            "description": "Julius Erving and Larry Bird Go - One-on-One (USA)"
+        },
+        {
+            "name": "Jumpman Junior (USA, Europe)",
+            "description": "Jumpman Junior (USA, Europe)"
+        },
+        {
+            "name": "Jungle Hunt (USA)",
+            "description": "Jungle Hunt (USA)"
+        },
+        {
+            "name": "Ken Uston Blackjack-Poker (USA, Europe)",
+            "description": "Ken Uston Blackjack-Poker (USA, Europe)"
+        },
+        {
+            "name": "Keystone Kapers (USA)",
+            "description": "Keystone Kapers (USA)"
+        },
+        {
+            "name": "Lady Bug (USA, Europe)",
+            "description": "Lady Bug (USA, Europe)"
+        },
+        {
+            "name": "Learning with Leeper (USA)",
+            "description": "Learning with Leeper (USA)"
+        },
+        {
+            "name": "Linking Logic (USA)",
+            "description": "Linking Logic (USA)"
+        },
+        {
+            "name": "Logic Levels (USA)",
+            "description": "Logic Levels (USA)"
+        },
+        {
+            "name": "Looping (USA, Europe)",
+            "description": "Looping (USA, Europe)"
+        },
+        {
+            "name": "Memory Manor (USA)",
+            "description": "Memory Manor (USA)"
+        },
+        {
+            "name": "Meteoric Shower (Europe)",
+            "description": "Meteoric Shower (Europe)"
+        },
+        {
+            "name": "Miner 2049er Starring Bounty Bob (USA, Europe)",
+            "description": "Miner 2049er Starring Bounty Bob (USA, Europe)"
+        },
+        {
+            "name": "Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)",
+            "description": "Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)"
+        },
+        {
+            "name": "Monkey Academy (USA)",
+            "description": "Monkey Academy (USA)"
+        },
+        {
+            "name": "Montezuma's Revenge (USA)",
+            "description": "Montezuma's Revenge (USA)"
+        },
+        {
+            "name": "Moonsweeper (USA, Europe)",
+            "description": "Moonsweeper (USA, Europe)"
+        },
+        {
+            "name": "Motocross Racer (USA)",
+            "description": "Motocross Racer (USA)"
+        },
+        {
+            "name": "Mountain King (USA)",
+            "description": "Mountain King (USA)"
+        },
+        {
+            "name": "Mouse Trap (USA, Europe)",
+            "description": "Mouse Trap (USA, Europe)"
+        },
+        {
+            "name": "Mr. Do! (USA, Europe)",
+            "description": "Mr. Do! (USA, Europe)"
+        },
+        {
+            "name": "Mr. Do!'s Castle (USA)",
+            "description": "Mr. Do!'s Castle (USA)"
+        },
+        {
+            "name": "Nova Blast (USA, Europe)",
+            "description": "Nova Blast (USA, Europe)"
+        },
+        {
+            "name": "Oil's Well (USA)",
+            "description": "Oil's Well (USA)"
+        },
+        {
+            "name": "Omega Race (USA, Europe)",
+            "description": "Omega Race (USA, Europe)"
+        },
+        {
+            "name": "Pepper II (USA, Europe)",
+            "description": "Pepper II (USA, Europe)"
+        },
+        {
+            "name": "Pitfall II - Lost Caverns (USA)",
+            "description": "Pitfall II - Lost Caverns (USA)"
+        },
+        {
+            "name": "Pitfall! (USA)",
+            "description": "Pitfall! (USA)"
+        },
+        {
+            "name": "Pitstop (USA)",
+            "description": "Pitstop (USA)"
+        },
+        {
+            "name": "Pitstop (USA, Europe) (v1.1)",
+            "description": "Pitstop (USA, Europe) (v1.1)"
+        },
+        {
+            "name": "Popeye (USA)",
+            "description": "Popeye (USA)"
+        },
+        {
+            "name": "Q-bert (USA)",
+            "description": "Q-bert (USA)"
+        },
+        {
+            "name": "Q-bert's Qubes (USA)",
+            "description": "Q-bert's Qubes (USA)"
+        },
+        {
+            "name": "Quest for Quintana Roo (USA)",
+            "description": "Quest for Quintana Roo (USA)"
+        },
+        {
+            "name": "River Raid (USA)",
+            "description": "River Raid (USA)"
+        },
+        {
+            "name": "Robin Hood (USA)",
+            "description": "Robin Hood (USA)"
+        },
+        {
+            "name": "Roc 'N Rope (USA, Europe)",
+            "description": "Roc 'N Rope (USA, Europe)"
+        },
+        {
+            "name": "Rock n' Bolt (USA)",
+            "description": "Rock n' Bolt (USA)"
+        },
+        {
+            "name": "Rocky - Super Action Boxing (USA, Europe)",
+            "description": "Rocky - Super Action Boxing (USA, Europe)"
+        },
+        {
+            "name": "Rolloverture (USA)",
+            "description": "Rolloverture (USA)"
+        },
+        {
+            "name": "Root Beer Tapper (USA)",
+            "description": "Root Beer Tapper (USA)"
+        },
+        {
+            "name": "Sammy Lightfoot (USA)",
+            "description": "Sammy Lightfoot (USA)"
+        },
+        {
+            "name": "Sector Alpha (USA)",
+            "description": "Sector Alpha (USA)"
+        },
+        {
+            "name": "Sewer Sam (USA)",
+            "description": "Sewer Sam (USA)"
+        },
+        {
+            "name": "Sir Lancelot (USA)",
+            "description": "Sir Lancelot (USA)"
+        },
+        {
+            "name": "Skiing (USA)",
+            "description": "Skiing (USA)"
+        },
+        {
+            "name": "Slither (USA, Europe)",
+            "description": "Slither (USA, Europe)"
+        },
+        {
+            "name": "Slurpy (USA)",
+            "description": "Slurpy (USA)"
+        },
+        {
+            "name": "Smurf - Paint 'n' Play WORKSHOP (USA, Europe)",
+            "description": "Smurf - Paint 'n' Play WORKSHOP (USA, Europe)"
+        },
+        {
+            "name": "Smurf - Rescue in Gargamel's Castle (USA, Europe)",
+            "description": "Smurf - Rescue in Gargamel's Castle (USA, Europe)"
+        },
+        {
+            "name": "Space Fury (USA, Europe)",
+            "description": "Space Fury (USA, Europe)"
+        },
+        {
+            "name": "Space Panic (USA, Europe)",
+            "description": "Space Panic (USA, Europe)"
+        },
+        {
+            "name": "Spectron (USA)",
+            "description": "Spectron (USA)"
+        },
+        {
+            "name": "Spy Hunter (USA)",
+            "description": "Spy Hunter (USA)"
+        },
+        {
+            "name": "Squish'em Featuring Sam (USA)",
+            "description": "Squish'em Featuring Sam (USA)"
+        },
+        {
+            "name": "Star Trek - Strategic Operations Simulator (USA)",
+            "description": "Star Trek - Strategic Operations Simulator (USA)"
+        },
+        {
+            "name": "Star Wars - The Arcade Game (USA)",
+            "description": "Star Wars - The Arcade Game (USA)"
+        },
+        {
+            "name": "Strike It! (Europe)",
+            "description": "Strike It! (Europe)"
+        },
+        {
+            "name": "Subroc (USA, Europe)",
+            "description": "Subroc (USA, Europe)"
+        },
+        {
+            "name": "Super Action Baseball (USA)",
+            "description": "Super Action Baseball (USA)"
+        },
+        {
+            "name": "Super Action Football (Europe)",
+            "description": "Super Action Football (Europe)"
+        },
+        {
+            "name": "Super Action Football (USA)",
+            "description": "Super Action Football (USA)"
+        },
+        {
+            "name": "Super Cobra (USA)",
+            "description": "Super Cobra (USA)"
+        },
+        {
+            "name": "Super Controller Tester (USA)",
+            "description": "Super Controller Tester (USA)"
+        },
+        {
+            "name": "Super Cross Force (USA, Europe)",
+            "description": "Super Cross Force (USA, Europe)"
+        },
+        {
+            "name": "Tank Wars (Europe)",
+            "description": "Tank Wars (Europe)"
+        },
+        {
+            "name": "Tarzan (USA, Europe)",
+            "description": "Tarzan (USA, Europe)"
+        },
+        {
+            "name": "Telly Turtle (USA)",
+            "description": "Telly Turtle (USA)"
+        },
+        {
+            "name": "Threshold (USA)",
+            "description": "Threshold (USA)"
+        },
+        {
+            "name": "Time Pilot (USA, Europe)",
+            "description": "Time Pilot (USA, Europe)"
+        },
+        {
+            "name": "TOMARC the Barbarian (USA)",
+            "description": "TOMARC the Barbarian (USA)"
+        },
+        {
+            "name": "Tournament Tennis (USA)",
+            "description": "Tournament Tennis (USA)"
+        },
+        {
+            "name": "Turbo (USA, Europe)",
+            "description": "Turbo (USA, Europe)"
+        },
+        {
+            "name": "Tutankham (USA)",
+            "description": "Tutankham (USA)"
+        },
+        {
+            "name": "Up 'n Down (USA)",
+            "description": "Up 'n Down (USA)"
+        },
+        {
+            "name": "Venture (USA, Europe)",
+            "description": "Venture (USA, Europe)"
+        },
+        {
+            "name": "Victory (Europe)",
+            "description": "Victory (Europe)"
+        },
+        {
+            "name": "Victory (USA)",
+            "description": "Victory (USA)"
+        },
+        {
+            "name": "War Room (USA)",
+            "description": "War Room (USA)"
+        },
+        {
+            "name": "WarGames (USA, Europe)",
+            "description": "WarGames (USA, Europe)"
+        },
+        {
+            "name": "Wing War (USA)",
+            "description": "Wing War (USA)"
+        },
+        {
+            "name": "Wizard of Id's - WizMath (USA)",
+            "description": "Wizard of Id's - WizMath (USA)"
+        },
+        {
+            "name": "Word Feud (USA)",
+            "description": "Word Feud (USA)"
+        },
+        {
+            "name": "Zaxxon (USA, Europe)",
+            "description": "Zaxxon (USA, Europe)"
+        },
+        {
+            "name": "Zenji (USA)",
+            "description": "Zenji (USA)"
+        }
+    ]
+}

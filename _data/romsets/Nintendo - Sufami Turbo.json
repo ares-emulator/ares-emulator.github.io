@@ -1,0 +1,63 @@
+{
+    "header": {
+        "name": "Nintendo - Sufami Turbo",
+        "description": "Nintendo - Sufami Turbo",
+        "version": "20210517-221304",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)",
+            "description": "Bishoujo Senshi Sailor Moon Sailor Stars - Fuwafuwa Panic 2 (Japan)"
+        },
+        {
+            "name": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)",
+            "description": "Crayon Shin-chan - Nagagutsu Dobon!! (Japan)"
+        },
+        {
+            "name": "Gegege no Kitarou - Youkai Donjara (Japan)",
+            "description": "Gegege no Kitarou - Youkai Donjara (Japan)"
+        },
+        {
+            "name": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)",
+            "description": "Gekisou Sentai Carranger - Zenkai! Racer Senshi (Japan)"
+        },
+        {
+            "name": "Poi Poi Ninja World (Japan)",
+            "description": "Poi Poi Ninja World (Japan)"
+        },
+        {
+            "name": "SD Gundam Generation - Axis Senki (Japan)",
+            "description": "SD Gundam Generation - Axis Senki (Japan)"
+        },
+        {
+            "name": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)",
+            "description": "SD Gundam Generation - Babylonia Kenkoku Senki (Japan)"
+        },
+        {
+            "name": "SD Gundam Generation - Colony Kakutouki (Japan)",
+            "description": "SD Gundam Generation - Colony Kakutouki (Japan)"
+        },
+        {
+            "name": "SD Gundam Generation - Gryps Senki (Japan)",
+            "description": "SD Gundam Generation - Gryps Senki (Japan)"
+        },
+        {
+            "name": "SD Gundam Generation - Ichinen Sensouki (Japan)",
+            "description": "SD Gundam Generation - Ichinen Sensouki (Japan)"
+        },
+        {
+            "name": "SD Gundam Generation - Zanscare Senki (Japan)",
+            "description": "SD Gundam Generation - Zanscare Senki (Japan)"
+        },
+        {
+            "name": "SD Ultra Battle - Seven Densetsu (Japan)",
+            "description": "SD Ultra Battle - Seven Densetsu (Japan)"
+        },
+        {
+            "name": "SD Ultra Battle - Ultraman Densetsu (Japan)",
+            "description": "SD Ultra Battle - Ultraman Densetsu (Japan)"
+        }
+    ]
+}

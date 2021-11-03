@@ -1,0 +1,1031 @@
+{
+    "header": {
+        "name": "Nintendo - Family Computer Disk System (FDS)",
+        "description": "Nintendo - Family Computer Disk System (FDS)",
+        "version": "20211021-141824",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "Adian no Tsue (Japan)",
+            "description": "Adian no Tsue (Japan)"
+        },
+        {
+            "name": "Ai Senshi Nicol (Japan)",
+            "description": "Ai Senshi Nicol (Japan)"
+        },
+        {
+            "name": "Akumajou Dracula (Japan)",
+            "description": "Akumajou Dracula (Japan)"
+        },
+        {
+            "name": "Akumajou Dracula (Japan) (Rev 1)",
+            "description": "Akumajou Dracula (Japan) (Rev 1)"
+        },
+        {
+            "name": "Akumajou Dracula (Japan) (Rev 2) (Disk Writer)",
+            "description": "Akumajou Dracula (Japan) (Rev 2) (Disk Writer)"
+        },
+        {
+            "name": "Akuu Senki Raijin (Japan) (Disk Writer)",
+            "description": "Akuu Senki Raijin (Japan) (Disk Writer)"
+        },
+        {
+            "name": "All Night Nippon Super Mario Bros. (Japan) (Promo)",
+            "description": "All Night Nippon Super Mario Bros. (Japan) (Promo)"
+        },
+        {
+            "name": "Apple Town Monogatari - Little Computer People (Japan)",
+            "description": "Apple Town Monogatari - Little Computer People (Japan)"
+        },
+        {
+            "name": "Armana no Kiseki (Japan)",
+            "description": "Armana no Kiseki (Japan)"
+        },
+        {
+            "name": "Aspic - Majaou no Noroi (Japan)",
+            "description": "Aspic - Majaou no Noroi (Japan)"
+        },
+        {
+            "name": "Backgammon (Japan)",
+            "description": "Backgammon (Japan)"
+        },
+        {
+            "name": "Bakutoushi Patton-kun (Japan)",
+            "description": "Bakutoushi Patton-kun (Japan)"
+        },
+        {
+            "name": "Baseball (Japan)",
+            "description": "Baseball (Japan)"
+        },
+        {
+            "name": "Big Challenge! Dogfight Spirit (Japan)",
+            "description": "Big Challenge! Dogfight Spirit (Japan)"
+        },
+        {
+            "name": "Big Challenge! Go! Go! Bowling (Japan)",
+            "description": "Big Challenge! Go! Go! Bowling (Japan)"
+        },
+        {
+            "name": "Big Challenge! Gun Fighter (Japan)",
+            "description": "Big Challenge! Gun Fighter (Japan)"
+        },
+        {
+            "name": "Big Challenge! Juudou Senshuken (Japan)",
+            "description": "Big Challenge! Juudou Senshuken (Japan)"
+        },
+        {
+            "name": "Bio Miracle Bokutte Upa (Japan)",
+            "description": "Bio Miracle Bokutte Upa (Japan)"
+        },
+        {
+            "name": "Bomberman (Japan) (Disk Writer)",
+            "description": "Bomberman (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Breeder (Japan)",
+            "description": "Breeder (Japan)"
+        },
+        {
+            "name": "Bubble Bobble (Japan)",
+            "description": "Bubble Bobble (Japan)"
+        },
+        {
+            "name": "BurgerTime (Japan) (Disk Writer)",
+            "description": "BurgerTime (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Chitei Tairiku Ordola (Japan)",
+            "description": "Chitei Tairiku Ordola (Japan)"
+        },
+        {
+            "name": "Cleopatra no Mahou (Japan)",
+            "description": "Cleopatra no Mahou (Japan)"
+        },
+        {
+            "name": "Clu Clu Land (Japan) (En) (Disk Writer)",
+            "description": "Clu Clu Land (Japan) (En) (Disk Writer)"
+        },
+        {
+            "name": "Cocona World (Japan)",
+            "description": "Cocona World (Japan)"
+        },
+        {
+            "name": "Dandy - Zeuon no Fukkatsu (Japan)",
+            "description": "Dandy - Zeuon no Fukkatsu (Japan)"
+        },
+        {
+            "name": "Dead Zone (Japan)",
+            "description": "Dead Zone (Japan)"
+        },
+        {
+            "name": "Dig Dug (Japan) (Disk Writer)",
+            "description": "Dig Dug (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Dig Dug II (Japan) (Disk Writer)",
+            "description": "Dig Dug II (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Dirty Pair - Project Eden (Japan)",
+            "description": "Dirty Pair - Project Eden (Japan)"
+        },
+        {
+            "name": "Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer)",
+            "description": "Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer)"
+        },
+        {
+            "name": "Donkey Kong (Japan) (Disk Writer)",
+            "description": "Donkey Kong (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Donkey Kong Jr. (Japan) (Disk Writer)",
+            "description": "Donkey Kong Jr. (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Doremikko (Japan)",
+            "description": "Doremikko (Japan)"
+        },
+        {
+            "name": "Dot E Creator Contest (Japan)",
+            "description": "Dot E Creator Contest (Japan)"
+        },
+        {
+            "name": "Dr. Chaos - Jigoku no Tobira (Japan)",
+            "description": "Dr. Chaos - Jigoku no Tobira (Japan)"
+        },
+        {
+            "name": "Dracula II - Noroi no Fuuin (Japan)",
+            "description": "Dracula II - Noroi no Fuuin (Japan)"
+        },
+        {
+            "name": "Druid - Kyoufu no Tobira (Japan)",
+            "description": "Druid - Kyoufu no Tobira (Japan)"
+        },
+        {
+            "name": "Egger Land (Japan)",
+            "description": "Egger Land (Japan)"
+        },
+        {
+            "name": "Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer)",
+            "description": "Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Electrician (Japan)",
+            "description": "Electrician (Japan)"
+        },
+        {
+            "name": "Esper Dream (Japan)",
+            "description": "Esper Dream (Japan)"
+        },
+        {
+            "name": "Esper Dream (Japan) (Rev 1) (Disk Writer)",
+            "description": "Esper Dream (Japan) (Rev 1) (Disk Writer)"
+        },
+        {
+            "name": "Exciting Baseball (Japan)",
+            "description": "Exciting Baseball (Japan)"
+        },
+        {
+            "name": "Exciting Basket (Japan)",
+            "description": "Exciting Basket (Japan)"
+        },
+        {
+            "name": "Exciting Billiard (Japan)",
+            "description": "Exciting Billiard (Japan)"
+        },
+        {
+            "name": "Exciting Soccer - Konami Cup (Japan)",
+            "description": "Exciting Soccer - Konami Cup (Japan)"
+        },
+        {
+            "name": "Fairytale (Japan)",
+            "description": "Fairytale (Japan)"
+        },
+        {
+            "name": "Falsion (Japan)",
+            "description": "Falsion (Japan)"
+        },
+        {
+            "name": "Famicom Grand Prix - F1 Race (Japan)",
+            "description": "Famicom Grand Prix - F1 Race (Japan)"
+        },
+        {
+            "name": "Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer)",
+            "description": "Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer)"
+        },
+        {
+            "name": "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5)",
+            "description": "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5)"
+        },
+        {
+            "name": "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7)",
+            "description": "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7)"
+        },
+        {
+            "name": "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer)",
+            "description": "Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer)"
+        },
+        {
+            "name": "Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)",
+            "description": "Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)"
+        },
+        {
+            "name": "Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1)",
+            "description": "Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1)"
+        },
+        {
+            "name": "Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer)",
+            "description": "Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer)"
+        },
+        {
+            "name": "Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)",
+            "description": "Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)"
+        },
+        {
+            "name": "Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan)",
+            "description": "Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan)"
+        },
+        {
+            "name": "Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan)",
+            "description": "Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan)"
+        },
+        {
+            "name": "Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3)",
+            "description": "Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3)"
+        },
+        {
+            "name": "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4)",
+            "description": "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4)"
+        },
+        {
+            "name": "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan)",
+            "description": "Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan)"
+        },
+        {
+            "name": "Family Composer (Japan) (Disk Writer)",
+            "description": "Family Composer (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Famimaga Disk Vol. 1 - Hong Kong (Japan)",
+            "description": "Famimaga Disk Vol. 1 - Hong Kong (Japan)"
+        },
+        {
+            "name": "Famimaga Disk Vol. 2 - Panic Space (Japan) (Disk Writer)",
+            "description": "Famimaga Disk Vol. 2 - Panic Space (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer)",
+            "description": "Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer)",
+            "description": "Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Famimaga Disk Vol. 5 - Puyo Puyo (Japan) (Disk Writer)",
+            "description": "Famimaga Disk Vol. 5 - Puyo Puyo (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Famimaga Disk Vol. 6 - Janken Disk Jou (Japan) (Disk Writer)",
+            "description": "Famimaga Disk Vol. 6 - Janken Disk Jou (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Final Command - Akai Yousai (Japan)",
+            "description": "Final Command - Akai Yousai (Japan)"
+        },
+        {
+            "name": "Fire Bam (Japan)",
+            "description": "Fire Bam (Japan)"
+        },
+        {
+            "name": "Fire Rock (Japan)",
+            "description": "Fire Rock (Japan)"
+        },
+        {
+            "name": "FMC Disk Card Checker Ver 1.3 (Japan) (Rev 2) (Developer Card)",
+            "description": "FMC Disk Card Checker Ver 1.3 (Japan) (Rev 2) (Developer Card)"
+        },
+        {
+            "name": "Fuuun Shourin Ken (Japan)",
+            "description": "Fuuun Shourin Ken (Japan)"
+        },
+        {
+            "name": "Fuuun Shourin Ken - Ankoku no Maou (Japan)",
+            "description": "Fuuun Shourin Ken - Ankoku no Maou (Japan)"
+        },
+        {
+            "name": "Galaga (Japan) (Disk Writer)",
+            "description": "Galaga (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Galaxian (Japan) (Disk Writer)",
+            "description": "Galaxian (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Gall Force - Eternal Story (Japan)",
+            "description": "Gall Force - Eternal Story (Japan)"
+        },
+        {
+            "name": "German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan)",
+            "description": "German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan)"
+        },
+        {
+            "name": "Ginga Denshou - Galaxy Odyssey (Japan)",
+            "description": "Ginga Denshou - Galaxy Odyssey (Japan)"
+        },
+        {
+            "name": "Gokuraku Yuugi - Game Tengoku (Japan)",
+            "description": "Gokuraku Yuugi - Game Tengoku (Japan)"
+        },
+        {
+            "name": "Golf (Japan)",
+            "description": "Golf (Japan)"
+        },
+        {
+            "name": "Golf (Japan) (Rev 1)",
+            "description": "Golf (Japan) (Rev 1)"
+        },
+        {
+            "name": "Golf - Japan Course (Japan)",
+            "description": "Golf - Japan Course (Japan)"
+        },
+        {
+            "name": "Golf - Japan Course (Japan) (DV 2)",
+            "description": "Golf - Japan Course (Japan) (DV 2)"
+        },
+        {
+            "name": "Golf - Japan Course (Japan) (Prize Card)",
+            "description": "Golf - Japan Course (Japan) (Prize Card)"
+        },
+        {
+            "name": "Golf - Special Course (Japan) (Prize Card)",
+            "description": "Golf - Special Course (Japan) (Prize Card)"
+        },
+        {
+            "name": "Golf - US Course (Japan)",
+            "description": "Golf - US Course (Japan)"
+        },
+        {
+            "name": "Golf - US Course (Japan) (DV 1)",
+            "description": "Golf - US Course (Japan) (DV 1)"
+        },
+        {
+            "name": "Golf - US Course (Japan) (DV 2) (Disk Writer)",
+            "description": "Golf - US Course (Japan) (DV 2) (Disk Writer)"
+        },
+        {
+            "name": "Goonies (Japan) (Disk Writer)",
+            "description": "Goonies (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Green Beret (Japan)",
+            "description": "Green Beret (Japan)"
+        },
+        {
+            "name": "Gun.Smoke (Japan)",
+            "description": "Gun.Smoke (Japan)"
+        },
+        {
+            "name": "Gyruss (Japan)",
+            "description": "Gyruss (Japan)"
+        },
+        {
+            "name": "Halley Wars (Japan)",
+            "description": "Halley Wars (Japan)"
+        },
+        {
+            "name": "Hao-kun no Fushigi na Tabi (Japan)",
+            "description": "Hao-kun no Fushigi na Tabi (Japan)"
+        },
+        {
+            "name": "Hikari Shinwa - Palthena no Kagami (Japan)",
+            "description": "Hikari Shinwa - Palthena no Kagami (Japan)"
+        },
+        {
+            "name": "Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1)",
+            "description": "Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1)"
+        },
+        {
+            "name": "Hikaru Genji - Roller Panic (Japan)",
+            "description": "Hikaru Genji - Roller Panic (Japan)"
+        },
+        {
+            "name": "I Am a Teacher - Super Mario no Sweater (Japan)",
+            "description": "I Am a Teacher - Super Mario no Sweater (Japan)"
+        },
+        {
+            "name": "I Am a Teacher - Teami no Kiso (Japan)",
+            "description": "I Am a Teacher - Teami no Kiso (Japan)"
+        },
+        {
+            "name": "Ice Climber (Japan) (Disk Writer)",
+            "description": "Ice Climber (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Ice Hockey (Japan)",
+            "description": "Ice Hockey (Japan)"
+        },
+        {
+            "name": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10)",
+            "description": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10)"
+        },
+        {
+            "name": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer)",
+            "description": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer)"
+        },
+        {
+            "name": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer)",
+            "description": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer)"
+        },
+        {
+            "name": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4)",
+            "description": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4)"
+        },
+        {
+            "name": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6)",
+            "description": "Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6)"
+        },
+        {
+            "name": "Igo - Kyuu Roban Taikyoku (Japan)",
+            "description": "Igo - Kyuu Roban Taikyoku (Japan)"
+        },
+        {
+            "name": "Ishidou (Japan) (Disk Writer)",
+            "description": "Ishidou (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Jikai Shounen Met Mag (Japan)",
+            "description": "Jikai Shounen Met Mag (Japan)"
+        },
+        {
+            "name": "Kaettekita Mario Bros. (Japan) (Disk Writer)",
+            "description": "Kaettekita Mario Bros. (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Kalin no Tsurugi (Japan)",
+            "description": "Kalin no Tsurugi (Japan)"
+        },
+        {
+            "name": "Kamen Rider Black - Taiketsu Shadow Moon (Japan)",
+            "description": "Kamen Rider Black - Taiketsu Shadow Moon (Japan)"
+        },
+        {
+            "name": "Karate Champ (Japan)",
+            "description": "Karate Champ (Japan)"
+        },
+        {
+            "name": "Kattobi! Douji (Japan)",
+            "description": "Kattobi! Douji (Japan)"
+        },
+        {
+            "name": "Kick and Run (Japan)",
+            "description": "Kick and Run (Japan)"
+        },
+        {
+            "name": "Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi (Japan)",
+            "description": "Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi (Japan)"
+        },
+        {
+            "name": "Kieta Princess (Japan)",
+            "description": "Kieta Princess (Japan)"
+        },
+        {
+            "name": "Kiki Kaikai - Dotou Hen (Japan)",
+            "description": "Kiki Kaikai - Dotou Hen (Japan)"
+        },
+        {
+            "name": "Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer)",
+            "description": "Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer)"
+        },
+        {
+            "name": "Kinnikuman - Kinnikusei Oui Soudatsusen (Japan)",
+            "description": "Kinnikuman - Kinnikusei Oui Soudatsusen (Japan)"
+        },
+        {
+            "name": "Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)",
+            "description": "Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)"
+        },
+        {
+            "name": "Knight Lore - Majou no Ookami Otoko (Japan)",
+            "description": "Knight Lore - Majou no Ookami Otoko (Japan)"
+        },
+        {
+            "name": "Knight Move (Japan)",
+            "description": "Knight Move (Japan)"
+        },
+        {
+            "name": "Knight Move (Japan) (Rev 1) (Disk Writer)",
+            "description": "Knight Move (Japan) (Rev 1) (Disk Writer)"
+        },
+        {
+            "name": "Konamic Ice Hockey (Japan)",
+            "description": "Konamic Ice Hockey (Japan)"
+        },
+        {
+            "name": "Konamic Tennis (Japan)",
+            "description": "Konamic Tennis (Japan)"
+        },
+        {
+            "name": "Koneko Monogatari - The Adventures of Chatran (Japan)",
+            "description": "Koneko Monogatari - The Adventures of Chatran (Japan)"
+        },
+        {
+            "name": "Link no Bouken - The Legend of Zelda 2 (Japan)",
+            "description": "Link no Bouken - The Legend of Zelda 2 (Japan)"
+        },
+        {
+            "name": "Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)",
+            "description": "Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)"
+        },
+        {
+            "name": "Lutter (Japan) (Disk Writer)",
+            "description": "Lutter (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Madou Senki - Deep Dungeon (Japan)",
+            "description": "Madou Senki - Deep Dungeon (Japan)"
+        },
+        {
+            "name": "Madou Senki - Deep Dungeon (Japan) (Rev 1)",
+            "description": "Madou Senki - Deep Dungeon (Japan) (Rev 1)"
+        },
+        {
+            "name": "Maerchen Veil (Japan)",
+            "description": "Maerchen Veil (Japan)"
+        },
+        {
+            "name": "Magma Project - Hacker (Japan)",
+            "description": "Magma Project - Hacker (Japan)"
+        },
+        {
+            "name": "Mahjong (Japan)",
+            "description": "Mahjong (Japan)"
+        },
+        {
+            "name": "Mahjong Kazoku (Japan)",
+            "description": "Mahjong Kazoku (Japan)"
+        },
+        {
+            "name": "Matou no Houkai - The Hero of Babel (Japan)",
+            "description": "Matou no Houkai - The Hero of Babel (Japan)"
+        },
+        {
+            "name": "Meikyuu Jiin Dababa (Japan)",
+            "description": "Meikyuu Jiin Dababa (Japan)"
+        },
+        {
+            "name": "Metroid (Japan) (Rev 1)",
+            "description": "Metroid (Japan) (Rev 1)"
+        },
+        {
+            "name": "Metroid (Japan) (Rev 2)",
+            "description": "Metroid (Japan) (Rev 2)"
+        },
+        {
+            "name": "Metroid (Japan) (Rev 3)",
+            "description": "Metroid (Japan) (Rev 3)"
+        },
+        {
+            "name": "Michael English Daibouken (Japan)",
+            "description": "Michael English Daibouken (Japan)"
+        },
+        {
+            "name": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)",
+            "description": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)"
+        },
+        {
+            "name": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1)",
+            "description": "Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1)"
+        },
+        {
+            "name": "Monitor Puzzle Kineko, The - Kinetic Connection (Japan)",
+            "description": "Monitor Puzzle Kineko, The - Kinetic Connection (Japan)"
+        },
+        {
+            "name": "Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)",
+            "description": "Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Monty on the Run - Monty no Doki Doki Dai Dassou (Japan)",
+            "description": "Monty on the Run - Monty no Doki Doki Dai Dassou (Japan)"
+        },
+        {
+            "name": "Moonball Magic (Japan) (Disk Writer)",
+            "description": "Moonball Magic (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Namida no Soukoban Special (Japan)",
+            "description": "Namida no Soukoban Special (Japan)"
+        },
+        {
+            "name": "Nankin no Adventure (Japan) (Disk Writer)",
+            "description": "Nankin no Adventure (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Nazo no Kabe - Block Kuzushi (Japan)",
+            "description": "Nazo no Kabe - Block Kuzushi (Japan)"
+        },
+        {
+            "name": "Nazo no Murasamejou (Japan)",
+            "description": "Nazo no Murasamejou (Japan)"
+        },
+        {
+            "name": "Nazoler Land - Dainigou (Japan)",
+            "description": "Nazoler Land - Dainigou (Japan)"
+        },
+        {
+            "name": "Nazoler Land - Daisangou (Japan)",
+            "description": "Nazoler Land - Daisangou (Japan)"
+        },
+        {
+            "name": "Nazoler Land - Soukangou (Japan)",
+            "description": "Nazoler Land - Soukangou (Japan)"
+        },
+        {
+            "name": "Nazoler Land Special!! - Quiz Ou wo Sagase (Japan)",
+            "description": "Nazoler Land Special!! - Quiz Ou wo Sagase (Japan)"
+        },
+        {
+            "name": "Neunzehn - 19 (Japan)",
+            "description": "Neunzehn - 19 (Japan)"
+        },
+        {
+            "name": "Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan)",
+            "description": "Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan)"
+        },
+        {
+            "name": "Othello (Japan) (DV 2)",
+            "description": "Othello (Japan) (DV 2)"
+        },
+        {
+            "name": "Othello (Japan) (DV 3, 5) (Disk Writer)",
+            "description": "Othello (Japan) (DV 3, 5) (Disk Writer)"
+        },
+        {
+            "name": "Otocky (Japan)",
+            "description": "Otocky (Japan)"
+        },
+        {
+            "name": "Pac-Man (Japan) (Disk Writer)",
+            "description": "Pac-Man (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Pachicom (Japan) (Disk Writer)",
+            "description": "Pachicom (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Pachinko Grand Prix (Japan)",
+            "description": "Pachinko Grand Prix (Japan)"
+        },
+        {
+            "name": "Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo! (Japan) (Disk Writer)",
+            "description": "Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo! (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Pinball (Japan) (Disk Writer)",
+            "description": "Pinball (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Pro Golfer Saru - Kage no Tournament (Japan)",
+            "description": "Pro Golfer Saru - Kage no Tournament (Japan)"
+        },
+        {
+            "name": "Pro Wres (Japan) (En)",
+            "description": "Pro Wres (Japan) (En)"
+        },
+        {
+            "name": "Professional Mahjong Gokuu (Japan)",
+            "description": "Professional Mahjong Gokuu (Japan)"
+        },
+        {
+            "name": "Pulsar no Hikari - Space Wars Simulation (Japan)",
+            "description": "Pulsar no Hikari - Space Wars Simulation (Japan)"
+        },
+        {
+            "name": "Putt Putt Golf (Japan)",
+            "description": "Putt Putt Golf (Japan)"
+        },
+        {
+            "name": "Puzzle Boys (Japan) (Disk Writer)",
+            "description": "Puzzle Boys (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Radical Bomber!! Jirai-kun (Japan) (Disk Writer)",
+            "description": "Radical Bomber!! Jirai-kun (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Reflect World (Japan)",
+            "description": "Reflect World (Japan)"
+        },
+        {
+            "name": "Relics - Ankoku Yousai (Japan)",
+            "description": "Relics - Ankoku Yousai (Japan)"
+        },
+        {
+            "name": "Replicart (Japan)",
+            "description": "Replicart (Japan)"
+        },
+        {
+            "name": "Risa no Yousei Densetsu (Japan)",
+            "description": "Risa no Yousei Densetsu (Japan)"
+        },
+        {
+            "name": "Roger Rabbit (Japan)",
+            "description": "Roger Rabbit (Japan)"
+        },
+        {
+            "name": "Samurai Sword (Japan)",
+            "description": "Samurai Sword (Japan)"
+        },
+        {
+            "name": "Santa Claus no Takarabako (Japan)",
+            "description": "Santa Claus no Takarabako (Japan)"
+        },
+        {
+            "name": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan)",
+            "description": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan)"
+        },
+        {
+            "name": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer)",
+            "description": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer)"
+        },
+        {
+            "name": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1)",
+            "description": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1)"
+        },
+        {
+            "name": "SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer)",
+            "description": "SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Section-Z (Japan)",
+            "description": "Section-Z (Japan)"
+        },
+        {
+            "name": "Seiken Psychocalibur - Majuu no Mori Densetsu (Japan)",
+            "description": "Seiken Psychocalibur - Majuu no Mori Densetsu (Japan)"
+        },
+        {
+            "name": "Silviana - Ai Ippai no Little Angel (Japan)",
+            "description": "Silviana - Ai Ippai no Little Angel (Japan)"
+        },
+        {
+            "name": "Smash Ping Pong (Japan)",
+            "description": "Smash Ping Pong (Japan)"
+        },
+        {
+            "name": "Soccer (Japan)",
+            "description": "Soccer (Japan)"
+        },
+        {
+            "name": "Solomon no Kagi (Japan) (Disk Writer)",
+            "description": "Solomon no Kagi (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Suishou no Dragon (Japan)",
+            "description": "Suishou no Dragon (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'D167B23' no. 1 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'D167B23' no. 1 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'D167B23' no. 2 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'D167B23' no. 2 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'D167B23' no. 3 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'D167B23' no. 3 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'D167B23' no. 4 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'D167B23' no. 4 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'D167B23' no. 5 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'D167B23' no. 5 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'D167B23' no. 6 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'D167B23' no. 6 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'E180L05' no. 1 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'E180L05' no. 1 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'E180L05' no. 4 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'E180L05' no. 4 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'F087D22' (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'F087D22' (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'F266F13' (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'F266F13' (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'G188D21N' no. 1 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'G188D21N' no. 1 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'G188D21N' no. 2 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'G188D21N' no. 2 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'G188D21N' no. 3 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'G188D21N' no. 3 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'J226I22' no. 1 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'J226I22' no. 1 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'J226I22' no. 3 (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'J226I22' no. 3 (Japan)"
+        },
+        {
+            "name": "Sunsoft Dev Disk Lot - 'K057G06' (Japan)",
+            "description": "Sunsoft Dev Disk Lot - 'K057G06' (Japan)"
+        },
+        {
+            "name": "Super Boy Allan (Japan)",
+            "description": "Super Boy Allan (Japan)"
+        },
+        {
+            "name": "Super Lode Runner (Japan)",
+            "description": "Super Lode Runner (Japan)"
+        },
+        {
+            "name": "Super Lode Runner II (Japan) (Disk Writer)",
+            "description": "Super Lode Runner II (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Super Mario Bros. (Japan)",
+            "description": "Super Mario Bros. (Japan)"
+        },
+        {
+            "name": "Super Mario Bros. 2 (Japan) (En)",
+            "description": "Super Mario Bros. 2 (Japan) (En)"
+        },
+        {
+            "name": "Super Mario Bros. 2 (Japan) (En) (DV 2)",
+            "description": "Super Mario Bros. 2 (Japan) (En) (DV 2)"
+        },
+        {
+            "name": "Tama & Friends - Sanchoume Daibouken (Japan)",
+            "description": "Tama & Friends - Sanchoume Daibouken (Japan)"
+        },
+        {
+            "name": "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan)",
+            "description": "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan)"
+        },
+        {
+            "name": "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer)",
+            "description": "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan)",
+            "description": "Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan)"
+        },
+        {
+            "name": "Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan)",
+            "description": "Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan)"
+        },
+        {
+            "name": "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan)",
+            "description": "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan)"
+        },
+        {
+            "name": "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer)",
+            "description": "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer)"
+        },
+        {
+            "name": "Tarot Uranai (Japan)",
+            "description": "Tarot Uranai (Japan)"
+        },
+        {
+            "name": "Tennis (Japan)",
+            "description": "Tennis (Japan)"
+        },
+        {
+            "name": "Time Twist - Rekishi no Katasumi de - Kouhen (Japan)",
+            "description": "Time Twist - Rekishi no Katasumi de... - Kouhen (Japan)"
+        },
+        {
+            "name": "Time Twist - Rekishi no Katasumi de - Zenpen (Japan)",
+            "description": "Time Twist - Rekishi no Katasumi de... - Zenpen (Japan)"
+        },
+        {
+            "name": "Titanic Mystery - Ao no Senritsu (Japan)",
+            "description": "Titanic Mystery - Ao no Senritsu (Japan)"
+        },
+        {
+            "name": "Tobidase Daisakusen (Japan)",
+            "description": "Tobidase Daisakusen (Japan)"
+        },
+        {
+            "name": "Tooyama no Kinsan Space Chou - Mr. Gold (Japan)",
+            "description": "Tooyama no Kinsan Space Chou - Mr. Gold (Japan)"
+        },
+        {
+            "name": "Topple Zip (Japan)",
+            "description": "Topple Zip (Japan)"
+        },
+        {
+            "name": "Transformers - The Headmasters (Japan)",
+            "description": "Transformers - The Headmasters (Japan)"
+        },
+        {
+            "name": "TwinBee (Japan) (Disk Writer)",
+            "description": "TwinBee (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Ultraman - Kaijuu Teikoku no Gyakushuu (Japan)",
+            "description": "Ultraman - Kaijuu Teikoku no Gyakushuu (Japan)"
+        },
+        {
+            "name": "Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer)",
+            "description": "Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Ultraman 2 - Shutsugeki Katokutai (Japan)",
+            "description": "Ultraman 2 - Shutsugeki Katokutai (Japan)"
+        },
+        {
+            "name": "Ultraman Club - Chikyuu Dakkan Sakusen (Japan)",
+            "description": "Ultraman Club - Chikyuu Dakkan Sakusen (Japan)"
+        },
+        {
+            "name": "Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)",
+            "description": "Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)"
+        },
+        {
+            "name": "Volleyball (Japan)",
+            "description": "Volleyball (Japan)"
+        },
+        {
+            "name": "Vs. Excitebike (Japan) (En)",
+            "description": "Vs. Excitebike (Japan) (En)"
+        },
+        {
+            "name": "Wakusei Aton Gaiden (Japan) (National Tax Agency Demo)",
+            "description": "Wakusei Aton Gaiden (Japan) (National Tax Agency Demo)"
+        },
+        {
+            "name": "Wardner no Mori (Japan)",
+            "description": "Wardner no Mori (Japan)"
+        },
+        {
+            "name": "Winter Games (Japan)",
+            "description": "Winter Games (Japan)"
+        },
+        {
+            "name": "Wrecking Crew (Japan) (Disk Writer)",
+            "description": "Wrecking Crew (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Xevious (Japan) (Disk Writer)",
+            "description": "Xevious (Japan) (Disk Writer)"
+        },
+        {
+            "name": "Youkai Yashiki (Japan)",
+            "description": "Youkai Yashiki (Japan)"
+        },
+        {
+            "name": "Yume Koujou Doki Doki Panic (Japan) (DV 1)",
+            "description": "Yume Koujou Doki Doki Panic (Japan) (DV 1)"
+        },
+        {
+            "name": "Yume Koujou Doki Doki Panic (Japan) (DV 2)",
+            "description": "Yume Koujou Doki Doki Panic (Japan) (DV 2)"
+        },
+        {
+            "name": "Yuu Maze (Japan)",
+            "description": "Yuu Maze (Japan)"
+        },
+        {
+            "name": "Yuushi no Monshou - Deep Dungeon (Japan)",
+            "description": "Yuushi no Monshou - Deep Dungeon (Japan)"
+        },
+        {
+            "name": "Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer)",
+            "description": "Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer)"
+        },
+        {
+            "name": "Zanac (Japan)",
+            "description": "Zanac (Japan)"
+        },
+        {
+            "name": "Zelda no Densetsu - The Hyrule Fantasy (Japan)",
+            "description": "Zelda no Densetsu - The Hyrule Fantasy (Japan)"
+        },
+        {
+            "name": "Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)",
+            "description": "Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)"
+        }
+    ]
+}

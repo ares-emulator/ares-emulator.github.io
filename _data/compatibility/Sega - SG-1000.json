@@ -1,0 +1,954 @@
+{
+  "games": {
+    "007 James Bond (Japan) (Alt 1) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "007 James Bond (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "007 James Bond (Taiwan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bank Panic (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bank Panic (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Black Onyx, The (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomb Jack (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomb Jack (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomb Jack (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Borderline (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "C_So! (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "C_So! (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cabbage Patch Kids (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Castle, The (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chack'n Pop (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chack'n Pop (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Challenge Derby (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Challenge Derby (Japan) (Rev 1) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Baseball (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Baseball (Japan, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Baseball (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Billiards (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Billiards (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Boxing (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Boxing (Japan, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Boxing (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Golf (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Golf (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Ice Hockey (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Ice Hockey (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Kendou (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Kendou (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Pro Wrestling (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Soccer (Japan, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Soccer (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Champion Tennis (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Championship Lode Runner (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Championship Lode Runner (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Choplifter (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Choplifter (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Choplifter (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Choplifter (Taiwan) (No Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Circus Charlie (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Complete Arcade Pack Collection, The (New Zealand) (SF-7000)": {
+      "status": "Not Working",
+      "notes": "SF-7000 is not supported",
+      "version": "v124"
+    },
+    "Congo Bongo (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Congo Bongo (Japan) (Rev 1) (Alt 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Congo Bongo (Taiwan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doki Doki Penguin Land (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doki Doki Penguin Land (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Wang (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Wang (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Wang (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragon Wang (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Drol (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Drol (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Elevator Action (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Elevator Action (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Exerion (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Exerion (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Flicky (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Flicky (Japan, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Flicky (Taiwan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Girl's Garden (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Girl's Garden (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Golgo 13 (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "GP World (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "GP World (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "GP World (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gulkave (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Guzzler (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Guzzler (Taiwan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "H.E.R.O. (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "H.E.R.O. (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "H.E.R.O. (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hang-On II (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hang-On II (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hang-On II (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Home Mahjong (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Home Mahjong (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Home Mahjong (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hustle Chumy (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hustle Chumy (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hyper Sports (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hyper Sports (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hyper Sports 2 (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kamikaze (France) (SF-7000)": {
+      "status": "Not Working",
+      "notes": "SF-7000 is not supported",
+      "version": "v124"
+    },
+    "King's Valley (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Knightmare (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Kage, The (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lode Runner (Japan, Europe, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lode Runner (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Kid Wiz (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Tree (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mahjong (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mahjong (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mahjong (Taiwan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monaco GP (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monaco GP (Japan, Europe) (Rev 2)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monaco GP (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monaco GP (Taiwan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "N-Sub (Japan) (Alt 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "N-Sub (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ninja Princess (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ninja Princess (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Orguss (Japan, Europe, Australia, New Zealand, Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Othello (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Othello (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pacar (Japan) (Alt 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pacar (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pacar (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachinko (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachinko II (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachinko II (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ping Pong (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pippols (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitfall II (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitfall II (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitfall II - The Lost Caverns (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitfall II - The Lost Caverns (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pop Flamer (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pop Flamer (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Poseidon Wars + Space Panic + Rambo (France) (SF-7000)": {
+      "status": "Not Working",
+      "notes": "SF-7000 is not supported",
+      "version": "v124"
+    },
+    "Q-bert (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rally-X (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rally-X (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Road Fighter (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Road Fighter (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rock n' Bolt (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rock n' Bolt (Taiwan) (Chinese Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rock n' Bolt (Taiwan) (English Logo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Safari Hunting (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Safari Hunting (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Safari Race (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Safari Race (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "San-nin Mahjong (Japan) (Alt 1) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "San-nin Mahjong (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "San-nin Mahjong (Taiwan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sega Flipper (Japan) (Alt 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sega Flipper (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sega-Galaga (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sega-Galaga (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sega-Galaga (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Serizawa Hachidan no Tsumeshougi (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "SG-1000 M2 Test Cartridge (Japan)": {
+      "status": "Working",
+      "notes": "Reports 'Expansion port bad'",
+      "version": "v124"
+    },
+    "Shinnyushain Tooru-kun (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shinnyushain Tooru-kun (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sindbad Mystery (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sindbad Mystery (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Soukoban (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Soukoban (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Armor (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Armor (Japan) (Rev 2) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Invaders (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Invaders (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Mountain (Japan) (Othello Multivision)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Slalom (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Force (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Force (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Force (Taiwan) (Alt 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Jacker (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Jacker (Japan, Europe) (Rev 2)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Jacker (Taiwan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Soldier (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Tank (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Tank (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tank Battalion (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "TwinBee (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wonder Boy (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wonder Boy (Japan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wonder Boy (Taiwan) (Rev 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yamato (Japan) (Alt 1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yamato (Japan, Europe, Australia, New Zealand)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yamato (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yie Ar Kung-Fu (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yie Ar Kung-Fu II (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zaxxon (Japan, Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zaxxon (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zippy Race (Japan, Australia)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zippy Race (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zoom 909 (Japan, Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zoom 909 (Taiwan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    }
+  }
+}

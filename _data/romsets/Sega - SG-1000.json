@@ -1,0 +1,771 @@
+{
+    "header": {
+        "name": "Sega - SG-1000",
+        "description": "Sega - SG-1000",
+        "version": "20200217-185318",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "007 James Bond (Japan) (Alt 1) (Othello Multivision)",
+            "description": "007 James Bond (Japan) (Alt 1) (Othello Multivision)"
+        },
+        {
+            "name": "007 James Bond (Japan) (Othello Multivision)",
+            "description": "007 James Bond (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "007 James Bond (Taiwan) (Othello Multivision)",
+            "description": "007 James Bond (Taiwan) (Othello Multivision)"
+        },
+        {
+            "name": "Bank Panic (Japan)",
+            "description": "Bank Panic (Japan)"
+        },
+        {
+            "name": "Bank Panic (Taiwan)",
+            "description": "Bank Panic (Taiwan)"
+        },
+        {
+            "name": "Black Onyx, The (Japan)",
+            "description": "Black Onyx, The (Japan)"
+        },
+        {
+            "name": "Bomb Jack (Japan, Australia)",
+            "description": "Bomb Jack (Japan, Australia)"
+        },
+        {
+            "name": "Bomb Jack (Taiwan) (Chinese Logo)",
+            "description": "Bomb Jack (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Bomb Jack (Taiwan) (English Logo)",
+            "description": "Bomb Jack (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Borderline (Japan, Europe, Australia, New Zealand)",
+            "description": "Borderline (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "C_So! (Japan)",
+            "description": "C_So! (Japan)"
+        },
+        {
+            "name": "C_So! (Taiwan)",
+            "description": "C_So! (Taiwan)"
+        },
+        {
+            "name": "Cabbage Patch Kids (Taiwan)",
+            "description": "Cabbage Patch Kids (Taiwan)"
+        },
+        {
+            "name": "Castle, The (Japan)",
+            "description": "Castle, The (Japan)"
+        },
+        {
+            "name": "Chack'n Pop (Japan)",
+            "description": "Chack'n Pop (Japan)"
+        },
+        {
+            "name": "Chack'n Pop (Taiwan)",
+            "description": "Chack'n Pop (Taiwan)"
+        },
+        {
+            "name": "Challenge Derby (Japan) (Othello Multivision)",
+            "description": "Challenge Derby (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision)",
+            "description": "Challenge Derby (Japan) (Rev 1) (Alt 1) (Othello Multivision)"
+        },
+        {
+            "name": "Challenge Derby (Japan) (Rev 1) (Othello Multivision)",
+            "description": "Challenge Derby (Japan) (Rev 1) (Othello Multivision)"
+        },
+        {
+            "name": "Champion Baseball (Japan)",
+            "description": "Champion Baseball (Japan)"
+        },
+        {
+            "name": "Champion Baseball (Japan, Australia, New Zealand)",
+            "description": "Champion Baseball (Japan, Australia, New Zealand)"
+        },
+        {
+            "name": "Champion Baseball (Taiwan)",
+            "description": "Champion Baseball (Taiwan)"
+        },
+        {
+            "name": "Champion Billiards (Japan)",
+            "description": "Champion Billiards (Japan)"
+        },
+        {
+            "name": "Champion Billiards (Taiwan)",
+            "description": "Champion Billiards (Taiwan)"
+        },
+        {
+            "name": "Champion Boxing (Japan) (Rev 1)",
+            "description": "Champion Boxing (Japan) (Rev 1)"
+        },
+        {
+            "name": "Champion Boxing (Japan, New Zealand)",
+            "description": "Champion Boxing (Japan, New Zealand)"
+        },
+        {
+            "name": "Champion Boxing (Taiwan)",
+            "description": "Champion Boxing (Taiwan)"
+        },
+        {
+            "name": "Champion Golf (Japan) (Rev 1)",
+            "description": "Champion Golf (Japan) (Rev 1)"
+        },
+        {
+            "name": "Champion Golf (Japan, Europe, Australia, New Zealand)",
+            "description": "Champion Golf (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Champion Ice Hockey (Japan)",
+            "description": "Champion Ice Hockey (Japan)"
+        },
+        {
+            "name": "Champion Ice Hockey (Taiwan)",
+            "description": "Champion Ice Hockey (Taiwan)"
+        },
+        {
+            "name": "Champion Kendou (Japan)",
+            "description": "Champion Kendou (Japan)"
+        },
+        {
+            "name": "Champion Kendou (Taiwan)",
+            "description": "Champion Kendou (Taiwan)"
+        },
+        {
+            "name": "Champion Pro Wrestling (Japan)",
+            "description": "Champion Pro Wrestling (Japan)"
+        },
+        {
+            "name": "Champion Soccer (Japan, Europe)",
+            "description": "Champion Soccer (Japan, Europe)"
+        },
+        {
+            "name": "Champion Soccer (Taiwan)",
+            "description": "Champion Soccer (Taiwan)"
+        },
+        {
+            "name": "Champion Tennis (Japan, Europe, Australia, New Zealand)",
+            "description": "Champion Tennis (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Championship Lode Runner (Japan, Australia)",
+            "description": "Championship Lode Runner (Japan, Australia)"
+        },
+        {
+            "name": "Championship Lode Runner (Taiwan)",
+            "description": "Championship Lode Runner (Taiwan)"
+        },
+        {
+            "name": "Choplifter (Japan, Australia)",
+            "description": "Choplifter (Japan, Australia)"
+        },
+        {
+            "name": "Choplifter (Taiwan) (Chinese Logo)",
+            "description": "Choplifter (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Choplifter (Taiwan) (English Logo)",
+            "description": "Choplifter (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Choplifter (Taiwan) (No Logo)",
+            "description": "Choplifter (Taiwan) (No Logo)"
+        },
+        {
+            "name": "Circus Charlie (Taiwan)",
+            "description": "Circus Charlie (Taiwan)"
+        },
+        {
+            "name": "Complete Arcade Pack Collection, The (New Zealand) (SF-7000)",
+            "description": "Complete Arcade Pack Collection, The (New Zealand) (SF-7000)"
+        },
+        {
+            "name": "Congo Bongo (Japan)",
+            "description": "Congo Bongo (Japan)"
+        },
+        {
+            "name": "Congo Bongo (Japan) (Rev 1) (Alt 1)",
+            "description": "Congo Bongo (Japan) (Rev 1) (Alt 1)"
+        },
+        {
+            "name": "Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)",
+            "description": "Congo Bongo (Japan, Europe, Australia, New Zealand) (Rev 1)"
+        },
+        {
+            "name": "Congo Bongo (Taiwan) (Rev 1)",
+            "description": "Congo Bongo (Taiwan) (Rev 1)"
+        },
+        {
+            "name": "Doki Doki Penguin Land (Japan)",
+            "description": "Doki Doki Penguin Land (Japan)"
+        },
+        {
+            "name": "Doki Doki Penguin Land (Taiwan)",
+            "description": "Doki Doki Penguin Land (Taiwan)"
+        },
+        {
+            "name": "Dragon Wang (Japan)",
+            "description": "Dragon Wang (Japan)"
+        },
+        {
+            "name": "Dragon Wang (Japan) (Rev 1)",
+            "description": "Dragon Wang (Japan) (Rev 1)"
+        },
+        {
+            "name": "Dragon Wang (Taiwan) (Chinese Logo)",
+            "description": "Dragon Wang (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Dragon Wang (Taiwan) (English Logo)",
+            "description": "Dragon Wang (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Drol (Japan, Australia)",
+            "description": "Drol (Japan, Australia)"
+        },
+        {
+            "name": "Drol (Taiwan)",
+            "description": "Drol (Taiwan)"
+        },
+        {
+            "name": "Elevator Action (Japan)",
+            "description": "Elevator Action (Japan)"
+        },
+        {
+            "name": "Elevator Action (Taiwan)",
+            "description": "Elevator Action (Taiwan)"
+        },
+        {
+            "name": "Exerion (Japan, Europe, Australia, New Zealand)",
+            "description": "Exerion (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Exerion (Taiwan)",
+            "description": "Exerion (Taiwan)"
+        },
+        {
+            "name": "Flicky (Japan) (Rev 1)",
+            "description": "Flicky (Japan) (Rev 1)"
+        },
+        {
+            "name": "Flicky (Japan, New Zealand)",
+            "description": "Flicky (Japan, New Zealand)"
+        },
+        {
+            "name": "Flicky (Taiwan) (Rev 1)",
+            "description": "Flicky (Taiwan) (Rev 1)"
+        },
+        {
+            "name": "Girl's Garden (Japan, Australia)",
+            "description": "Girl's Garden (Japan, Australia)"
+        },
+        {
+            "name": "Girl's Garden (Taiwan)",
+            "description": "Girl's Garden (Taiwan)"
+        },
+        {
+            "name": "Golgo 13 (Japan)",
+            "description": "Golgo 13 (Japan)"
+        },
+        {
+            "name": "GP World (Japan)",
+            "description": "GP World (Japan)"
+        },
+        {
+            "name": "GP World (Japan) (Rev 1)",
+            "description": "GP World (Japan) (Rev 1)"
+        },
+        {
+            "name": "GP World (Taiwan)",
+            "description": "GP World (Taiwan)"
+        },
+        {
+            "name": "Gulkave (Japan)",
+            "description": "Gulkave (Japan)"
+        },
+        {
+            "name": "Guzzler (Japan) (Othello Multivision)",
+            "description": "Guzzler (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "Guzzler (Taiwan) (Othello Multivision)",
+            "description": "Guzzler (Taiwan) (Othello Multivision)"
+        },
+        {
+            "name": "H.E.R.O. (Japan)",
+            "description": "H.E.R.O. (Japan)"
+        },
+        {
+            "name": "H.E.R.O. (Taiwan) (Chinese Logo)",
+            "description": "H.E.R.O. (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "H.E.R.O. (Taiwan) (English Logo)",
+            "description": "H.E.R.O. (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Hang-On II (Japan, Australia)",
+            "description": "Hang-On II (Japan, Australia)"
+        },
+        {
+            "name": "Hang-On II (Taiwan) (Chinese Logo)",
+            "description": "Hang-On II (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Hang-On II (Taiwan) (English Logo)",
+            "description": "Hang-On II (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Home Mahjong (Japan)",
+            "description": "Home Mahjong (Japan)"
+        },
+        {
+            "name": "Home Mahjong (Japan) (Rev 1)",
+            "description": "Home Mahjong (Japan) (Rev 1)"
+        },
+        {
+            "name": "Home Mahjong (Taiwan)",
+            "description": "Home Mahjong (Taiwan)"
+        },
+        {
+            "name": "Hustle Chumy (Japan)",
+            "description": "Hustle Chumy (Japan)"
+        },
+        {
+            "name": "Hustle Chumy (Taiwan)",
+            "description": "Hustle Chumy (Taiwan)"
+        },
+        {
+            "name": "Hyper Sports (Japan)",
+            "description": "Hyper Sports (Japan)"
+        },
+        {
+            "name": "Hyper Sports (Taiwan)",
+            "description": "Hyper Sports (Taiwan)"
+        },
+        {
+            "name": "Hyper Sports 2 (Taiwan)",
+            "description": "Hyper Sports 2 (Taiwan)"
+        },
+        {
+            "name": "Kamikaze (France) (SF-7000)",
+            "description": "Kamikaze (France) (SF-7000)"
+        },
+        {
+            "name": "King's Valley (Taiwan)",
+            "description": "King's Valley (Taiwan)"
+        },
+        {
+            "name": "Knightmare (Taiwan)",
+            "description": "Knightmare (Taiwan)"
+        },
+        {
+            "name": "Legend of Kage, The (Taiwan)",
+            "description": "Legend of Kage, The (Taiwan)"
+        },
+        {
+            "name": "Lode Runner (Japan, Europe, Australia)",
+            "description": "Lode Runner (Japan, Europe, Australia)"
+        },
+        {
+            "name": "Lode Runner (Taiwan)",
+            "description": "Lode Runner (Taiwan)"
+        },
+        {
+            "name": "Magical Kid Wiz (Taiwan)",
+            "description": "Magical Kid Wiz (Taiwan)"
+        },
+        {
+            "name": "Magical Tree (Taiwan)",
+            "description": "Magical Tree (Taiwan)"
+        },
+        {
+            "name": "Mahjong (Japan)",
+            "description": "Mahjong (Japan)"
+        },
+        {
+            "name": "Mahjong (Japan) (Rev 1)",
+            "description": "Mahjong (Japan) (Rev 1)"
+        },
+        {
+            "name": "Mahjong (Taiwan) (Rev 1)",
+            "description": "Mahjong (Taiwan) (Rev 1)"
+        },
+        {
+            "name": "Monaco GP (Japan) (Rev 1)",
+            "description": "Monaco GP (Japan) (Rev 1)"
+        },
+        {
+            "name": "Monaco GP (Japan, Europe) (Rev 2)",
+            "description": "Monaco GP (Japan, Europe) (Rev 2)"
+        },
+        {
+            "name": "Monaco GP (Japan, Europe, Australia, New Zealand)",
+            "description": "Monaco GP (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Monaco GP (Taiwan) (Rev 1)",
+            "description": "Monaco GP (Taiwan) (Rev 1)"
+        },
+        {
+            "name": "N-Sub (Japan) (Alt 1)",
+            "description": "N-Sub (Japan) (Alt 1)"
+        },
+        {
+            "name": "N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)",
+            "description": "N-Sub (Japan, Europe, Australia, New Zealand, Taiwan)"
+        },
+        {
+            "name": "N-Sub (Taiwan)",
+            "description": "N-Sub (Taiwan)"
+        },
+        {
+            "name": "Ninja Princess (Japan, Australia)",
+            "description": "Ninja Princess (Japan, Australia)"
+        },
+        {
+            "name": "Ninja Princess (Taiwan)",
+            "description": "Ninja Princess (Taiwan)"
+        },
+        {
+            "name": "Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)",
+            "description": "Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)",
+            "description": "Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)"
+        },
+        {
+            "name": "Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision)",
+            "description": "Okamoto Ayako no Match Play Golf (Taiwan) (Rev 1) (Othello Multivision)"
+        },
+        {
+            "name": "Orguss (Japan, Europe, Australia, New Zealand, Taiwan)",
+            "description": "Orguss (Japan, Europe, Australia, New Zealand, Taiwan)"
+        },
+        {
+            "name": "Othello (Japan)",
+            "description": "Othello (Japan)"
+        },
+        {
+            "name": "Othello (Taiwan)",
+            "description": "Othello (Taiwan)"
+        },
+        {
+            "name": "Pacar (Japan) (Alt 1)",
+            "description": "Pacar (Japan) (Alt 1)"
+        },
+        {
+            "name": "Pacar (Japan, Europe, Australia, New Zealand)",
+            "description": "Pacar (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Pacar (Taiwan)",
+            "description": "Pacar (Taiwan)"
+        },
+        {
+            "name": "Pachinko (Japan)",
+            "description": "Pachinko (Japan)"
+        },
+        {
+            "name": "Pachinko II (Japan)",
+            "description": "Pachinko II (Japan)"
+        },
+        {
+            "name": "Pachinko II (Taiwan)",
+            "description": "Pachinko II (Taiwan)"
+        },
+        {
+            "name": "Ping Pong (Taiwan)",
+            "description": "Ping Pong (Taiwan)"
+        },
+        {
+            "name": "Pippols (Taiwan)",
+            "description": "Pippols (Taiwan)"
+        },
+        {
+            "name": "Pitfall II (Taiwan) (Chinese Logo)",
+            "description": "Pitfall II (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Pitfall II (Taiwan) (English Logo)",
+            "description": "Pitfall II (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Pitfall II - The Lost Caverns (Japan)",
+            "description": "Pitfall II - The Lost Caverns (Japan)"
+        },
+        {
+            "name": "Pitfall II - The Lost Caverns (Japan) (Rev 1)",
+            "description": "Pitfall II - The Lost Caverns (Japan) (Rev 1)"
+        },
+        {
+            "name": "Pop Flamer (Japan, Europe, Australia, New Zealand)",
+            "description": "Pop Flamer (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Pop Flamer (Taiwan)",
+            "description": "Pop Flamer (Taiwan)"
+        },
+        {
+            "name": "Poseidon Wars + Space Panic + Rambo (France) (SF-7000)",
+            "description": "Poseidon Wars + Space Panic + Rambo (France) (SF-7000)"
+        },
+        {
+            "name": "Q-bert (Japan) (Othello Multivision)",
+            "description": "Q-bert (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "Rally-X (Taiwan) (Chinese Logo)",
+            "description": "Rally-X (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Rally-X (Taiwan) (English Logo)",
+            "description": "Rally-X (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Road Fighter (Taiwan) (Chinese Logo)",
+            "description": "Road Fighter (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Road Fighter (Taiwan) (English Logo)",
+            "description": "Road Fighter (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Rock n' Bolt (Japan)",
+            "description": "Rock n' Bolt (Japan)"
+        },
+        {
+            "name": "Rock n' Bolt (Taiwan) (Chinese Logo)",
+            "description": "Rock n' Bolt (Taiwan) (Chinese Logo)"
+        },
+        {
+            "name": "Rock n' Bolt (Taiwan) (English Logo)",
+            "description": "Rock n' Bolt (Taiwan) (English Logo)"
+        },
+        {
+            "name": "Safari Hunting (Japan, Europe, Australia, New Zealand)",
+            "description": "Safari Hunting (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Safari Hunting (Taiwan)",
+            "description": "Safari Hunting (Taiwan)"
+        },
+        {
+            "name": "Safari Race (Japan, Europe, Australia, New Zealand)",
+            "description": "Safari Race (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Safari Race (Taiwan)",
+            "description": "Safari Race (Taiwan)"
+        },
+        {
+            "name": "San-nin Mahjong (Japan) (Alt 1) (Othello Multivision)",
+            "description": "San-nin Mahjong (Japan) (Alt 1) (Othello Multivision)"
+        },
+        {
+            "name": "San-nin Mahjong (Japan) (Othello Multivision)",
+            "description": "San-nin Mahjong (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "San-nin Mahjong (Taiwan) (Othello Multivision)",
+            "description": "San-nin Mahjong (Taiwan) (Othello Multivision)"
+        },
+        {
+            "name": "Sega Flipper (Japan) (Alt 1)",
+            "description": "Sega Flipper (Japan) (Alt 1)"
+        },
+        {
+            "name": "Sega Flipper (Taiwan)",
+            "description": "Sega Flipper (Taiwan)"
+        },
+        {
+            "name": "Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand)",
+            "description": "Sega Flipper ~ Video Flipper (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Sega-Galaga (Japan)",
+            "description": "Sega-Galaga (Japan)"
+        },
+        {
+            "name": "Sega-Galaga (Japan, Australia)",
+            "description": "Sega-Galaga (Japan, Australia)"
+        },
+        {
+            "name": "Sega-Galaga (Taiwan)",
+            "description": "Sega-Galaga (Taiwan)"
+        },
+        {
+            "name": "Serizawa Hachidan no Tsumeshougi (Japan)",
+            "description": "Serizawa Hachidan no Tsumeshougi (Japan)"
+        },
+        {
+            "name": "SG-1000 M2 Test Cartridge (Japan)",
+            "description": "SG-1000 M2 Test Cartridge (Japan)"
+        },
+        {
+            "name": "Shinnyushain Tooru-kun (Japan)",
+            "description": "Shinnyushain Tooru-kun (Japan)"
+        },
+        {
+            "name": "Shinnyushain Tooru-kun (Taiwan)",
+            "description": "Shinnyushain Tooru-kun (Taiwan)"
+        },
+        {
+            "name": "Sindbad Mystery (Japan, Europe, Australia, New Zealand)",
+            "description": "Sindbad Mystery (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Sindbad Mystery (Taiwan)",
+            "description": "Sindbad Mystery (Taiwan)"
+        },
+        {
+            "name": "Soukoban (Japan, Australia)",
+            "description": "Soukoban (Japan, Australia)"
+        },
+        {
+            "name": "Soukoban (Taiwan)",
+            "description": "Soukoban (Taiwan)"
+        },
+        {
+            "name": "Space Armor (Japan) (Othello Multivision)",
+            "description": "Space Armor (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "Space Armor (Japan) (Rev 2) (Othello Multivision)",
+            "description": "Space Armor (Japan) (Rev 2) (Othello Multivision)"
+        },
+        {
+            "name": "Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision)",
+            "description": "Space Armor (Japan, Taiwan) (Rev 1) (Othello Multivision)"
+        },
+        {
+            "name": "Space Invaders (Japan)",
+            "description": "Space Invaders (Japan)"
+        },
+        {
+            "name": "Space Invaders (Taiwan)",
+            "description": "Space Invaders (Taiwan)"
+        },
+        {
+            "name": "Space Mountain (Japan) (Othello Multivision)",
+            "description": "Space Mountain (Japan) (Othello Multivision)"
+        },
+        {
+            "name": "Space Slalom (Japan)",
+            "description": "Space Slalom (Japan)"
+        },
+        {
+            "name": "Star Force (Japan, Australia)",
+            "description": "Star Force (Japan, Australia)"
+        },
+        {
+            "name": "Star Force (Taiwan)",
+            "description": "Star Force (Taiwan)"
+        },
+        {
+            "name": "Star Force (Taiwan) (Alt 1)",
+            "description": "Star Force (Taiwan) (Alt 1)"
+        },
+        {
+            "name": "Star Jacker (Japan)",
+            "description": "Star Jacker (Japan)"
+        },
+        {
+            "name": "Star Jacker (Japan, Europe) (Rev 2)",
+            "description": "Star Jacker (Japan, Europe) (Rev 2)"
+        },
+        {
+            "name": "Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1)",
+            "description": "Star Jacker (Japan, Europe, Australia, New Zealand) (Rev 1)"
+        },
+        {
+            "name": "Star Jacker (Taiwan) (Rev 1)",
+            "description": "Star Jacker (Taiwan) (Rev 1)"
+        },
+        {
+            "name": "Star Soldier (Taiwan)",
+            "description": "Star Soldier (Taiwan)"
+        },
+        {
+            "name": "Super Tank (Japan)",
+            "description": "Super Tank (Japan)"
+        },
+        {
+            "name": "Super Tank (Taiwan)",
+            "description": "Super Tank (Taiwan)"
+        },
+        {
+            "name": "Tank Battalion (Taiwan)",
+            "description": "Tank Battalion (Taiwan)"
+        },
+        {
+            "name": "TwinBee (Taiwan)",
+            "description": "TwinBee (Taiwan)"
+        },
+        {
+            "name": "Wonder Boy (Japan)",
+            "description": "Wonder Boy (Japan)"
+        },
+        {
+            "name": "Wonder Boy (Japan) (Rev 1)",
+            "description": "Wonder Boy (Japan) (Rev 1)"
+        },
+        {
+            "name": "Wonder Boy (Taiwan) (Rev 1)",
+            "description": "Wonder Boy (Taiwan) (Rev 1)"
+        },
+        {
+            "name": "Yamato (Japan) (Alt 1)",
+            "description": "Yamato (Japan) (Alt 1)"
+        },
+        {
+            "name": "Yamato (Japan, Europe, Australia, New Zealand)",
+            "description": "Yamato (Japan, Europe, Australia, New Zealand)"
+        },
+        {
+            "name": "Yamato (Taiwan)",
+            "description": "Yamato (Taiwan)"
+        },
+        {
+            "name": "Yie Ar Kung-Fu (Taiwan)",
+            "description": "Yie Ar Kung-Fu (Taiwan)"
+        },
+        {
+            "name": "Yie Ar Kung-Fu II (Taiwan)",
+            "description": "Yie Ar Kung-Fu II (Taiwan)"
+        },
+        {
+            "name": "Zaxxon (Japan, Taiwan)",
+            "description": "Zaxxon (Japan, Taiwan)"
+        },
+        {
+            "name": "Zaxxon (Taiwan)",
+            "description": "Zaxxon (Taiwan)"
+        },
+        {
+            "name": "Zippy Race (Japan, Australia)",
+            "description": "Zippy Race (Japan, Australia)"
+        },
+        {
+            "name": "Zippy Race (Taiwan)",
+            "description": "Zippy Race (Taiwan)"
+        },
+        {
+            "name": "Zoom 909 (Japan, Taiwan)",
+            "description": "Zoom 909 (Japan, Taiwan)"
+        },
+        {
+            "name": "Zoom 909 (Taiwan)",
+            "description": "Zoom 909 (Taiwan)"
+        }
+    ]
+}

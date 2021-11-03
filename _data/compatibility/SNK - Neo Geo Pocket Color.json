@@ -1,0 +1,469 @@
+{
+  "games": {
+    "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Baseball Stars Color - Pocket Sports Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Big Bang Pro Wrestling (Japan) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bikkuriman 2000 - Viva! Pocket Festival! (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Biomotor Unitron (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Biomotor Unitron (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bust-A-Move Pocket (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cool Boarders Pocket (Japan, Europe) (En,Ja)": {
+      "status": "Working",
+      "notes": "Graphical issues on ingame HUD",
+      "version": "v124"
+    },
+    "Cool Cool Jam (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Crush Roller (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dark Arms - Beast Buster 1999 (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Delta Warp (Japan) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Densha de Go! 2 on Neo Geo Pocket (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dive Alert - Becky's Version (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dive Alert - Burn Hen (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dive Alert - Matt's Version (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dive Alert - Rebecca Hen (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dokodemo Mahjong (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dynamite Slugger (Japan, Europe) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Evolution - Eternal Dungeons (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fantastic Night Dreams - Cotton (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fantastic Night Dreams - Cotton (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Faselei! (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Faselei! (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ganbare Neo Poke-kun (Kari) (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Infinity Cure (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "King of Fighters, The - Battle de Paradise (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Koi Koi Mahjong (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Last Blade, The - Beyond the Destiny (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Drop Pocket (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Drop Pocket (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Memories Off - Pure (Japan)": {
+      "status": "Working",
+      "notes": "Graphical issues on title screen menu",
+      "version": "v124"
+    },
+    "Metal Slug - 1st Mission (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Metal Slug - 2nd Mission (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mezase! Kanji Ou (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mizuki Shigeru no Youkai Shashinkan (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo 21 - Pocket Casino Series (World)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Baccarat - Pocket Casino Series (Japan, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Derby Champ Daiyosou (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Poke Pro Yakyuu (Japan) (v1F)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Poke Pro Yakyuu (Japan) (v32)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neo Turf Masters (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nige-ron-pa (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Oekaki Puzzle (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pac-Man (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b]": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachinko Hisshou Guide - Pocket Parlor (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Party Mail (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Picture Puzzle (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pocket Love - if (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pocket Reversi (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pocket Reversi (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puyo Pop (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puyo Pop (World) (En,Ja) (v1.05)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puzzle Bobble Mini (Japan, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puzzle Link (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puzzle Link 2 (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Renketsu Puzzle Tsunagete Pon! Color (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rockman - Battle & Fighters (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shanghai Mini (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shinki Sekai Evolution - Hateshinai Dungeon (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shougi no Tatsujin Color (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "SNK Gals' Fighters (Japan)": {
+      "status": "Working",
+      "notes": "Graphical issues on ingame bottom HUD",
+      "version": "v124"
+    },
+    "SNK Gals' Fighters (USA, Europe)": {
+      "status": "Working",
+      "notes": "Graphical issues on ingame bottom HUD",
+      "version": "v124"
+    },
+    "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sonic The Hedgehog - Pocket Adventure (World)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Soreike!! Hanafuda Doujou (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Real Mahjong - Premium Collection (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tsunagete Pon! 2 (Japan)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    }
+  }
+}

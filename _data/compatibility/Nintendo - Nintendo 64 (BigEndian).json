@@ -1,0 +1,4839 @@
+{
+  "games": {
+    "007 - The World Is Not Enough (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "007 - The World Is Not Enough (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "1080 Snowboarding (Europe) (En,Ja,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "1080 Snowboarding (Japan, USA) (En,Ja)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "64 Hanafuda - Tenshi no Yakusoku (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "64 Oozumou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "64 Oozumou 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AeroFighters Assault (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AeroFighters Assault (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AeroGauge (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AeroGauge (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AeroGauge (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "AI Shougi 3 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aidyn Chronicles - The First Mage (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aidyn Chronicles - The First Mage (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aidyn Chronicles - The First Mage (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Air Boarder 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Airboarder 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "All Star Tennis '99 (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "All Star Tennis 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "All-Star Baseball 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "All-Star Baseball 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "All-Star Baseball 2001 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "All-Star Baseball 99 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "All-Star Baseball 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Armorines - Project S.W.A.R.M. (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Armorines - Project S.W.A.R.M. (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Armorines - Project S.W.A.R.M. (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Army Men - Air Combat (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Army Men - Sarge's Heroes (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Army Men - Sarge's Heroes (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Army Men - Sarge's Heroes 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Asteroids Hyper 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Automobili Lamborghini (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Automobili Lamborghini (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Baku Bomberman (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Baku Bomberman 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bakuretsu Muteki Bangaioh (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo to Kazooie no Daibouken (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo to Kazooie no Daibouken 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo-Kazooie (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo-Kazooie (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo-Kazooie (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo-Tooie (Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo-Tooie (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Banjo-Tooie (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bass Rush - ECOGEAR PowerWorm Championship (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bassmasters 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Batman Beyond - Return of the Joker (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "BattleTanx (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "BattleTanx - Global Assault (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "BattleTanx - Global Assault (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Battlezone - Rise of the Black Dogs (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Beetle Adventure Racing! (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Beetle Adventure Racing! (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Beetle Adventure Racing! (USA) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Big Mountain 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bio F.R.E.A.K.S. (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bio F.R.E.A.K.S. (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Biohazard 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Blast Corps (Europe) (En,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Blast Corps (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Blast Corps (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Blastdozer (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Blues Brothers 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Body Harvest (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Body Harvest (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bokujou Monogatari 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bokujou Monogatari 2 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bokujou Monogatari 2 (Japan) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomberman 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomberman 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomberman 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomberman 64 - The Second Attack! (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomberman Hero (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomberman Hero (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bomberman Hero - Mirian Oujo o Sukue! (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bottom of the 9th (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Brunswick Circuit Pro Bowling (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Buck Bumble (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Buck Bumble (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Buck Bumble (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bug's Life, A (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bug's Life, A (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bug's Life, A (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bug's Life, A (Italy)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bug's Life, A (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bust-A-Move '99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bust-A-Move 2 - Arcade Edition (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bust-A-Move 2 - Arcade Edition (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bust-A-Move 3 DX (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "California Speed (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Carmageddon 64 (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Carmageddon 64 (Europe) (En,Fr,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Carmageddon 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Castlevania (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Castlevania (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Castlevania (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Castlevania (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Castlevania - Legacy of Darkness (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Centre Court Tennis (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chameleon Twist (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chameleon Twist (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chameleon Twist (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chameleon Twist (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chameleon Twist 2 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chameleon Twist 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chameleon Twist 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Charlie Blast's Territory (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Charlie Blast's Territory (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chopper Attack (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chopper Attack (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Choro Q 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chou Kuukan Nighter Pro Yakyuu King (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chou Snobo Kids (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "City-Tour GP - Zen-Nihon GT Senshuken (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Clay Fighter - Sculptor's Cut (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Clay Fighter 63 1-3 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Clay Fighter 63 1-3 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Command & Conquer (Europe) (En,Fr)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Command & Conquer (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Command & Conquer (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Conker's Bad Fur Day (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Conker's Bad Fur Day (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n Exotica (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n USA (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n USA (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n USA (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n USA (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n USA (USA) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n World (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n World (Europe) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cruis'n World (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Custom Robo (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Custom Robo V2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "CyberTiger (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "CyberTiger (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dance Dance Revolution - Disney Dancing Museum (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dark Rift (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dark Rift (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Deadly Arts (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Defi au Tetris Magique (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Densha de Go! 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Derby Stallion 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Destruction Derby 64 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Destruction Derby 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dezaemon 3D (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Diddy Kong Racing (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Diddy Kong Racing (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Diddy Kong Racing (USA) (En,Fr)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Diddy Kong Racing (USA) (En,Fr) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dongwu Senlin (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Donkey Kong 64 (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Donkey Kong 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Donkey Kong 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doom 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doom 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doom 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doom 64 (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doraemon - Nobita to 3tsu no Seireiseki (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doraemon 2 - Nobita to Hikari no Shinden (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doraemon 3 - Nobita no Machi SOS! (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Doubutsu no Mori (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dr. Mario 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dual Heroes (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dual Heroes (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dual Heroes (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Duke Nukem - Zero Hour (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Duke Nukem - Zero Hour (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Duke Nukem - Zero Hour (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Duke Nukem 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Duke Nukem 64 (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Duke Nukem 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Earthworm Jim 3D (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "ECW Hardcore Revolution (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "ECW Hardcore Revolution (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "ECW Hardcore Revolution (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Eikou no Saint Andrews (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Eltale Monsters (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Excitebike 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Excitebike 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Excitebike 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Excitebike 64 (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Extreme-G (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Extreme-G (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Extreme-G (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Extreme-G XG2 (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Extreme-G XG2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Extreme-G XG2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-1 World Grand Prix (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-1 World Grand Prix (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-1 World Grand Prix (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-1 World Grand Prix (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-1 World Grand Prix (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-Zero X (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-Zero X (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-Zero X (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-Zero X - Weilai Saiche (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-Zero X - Weilai Saiche (China) (v2) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F1 Pole Position 64 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F1 Pole Position 64 (USA) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F1 Racing Championship (Brazil) (En,Fr)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "F1 Racing Championship (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Famista 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "FIFA 64 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "FIFA Soccer 64 (USA) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighter Destiny 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighters Destiny (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighters Destiny (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighters Destiny (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighters Destiny (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighting Cup (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighting Force 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fighting Force 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Flying Dragon (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Flying Dragon (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Forsaken (Europe) (En,Fr,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Forsaken (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Forsaken 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fox Sports College Hoops '99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "G.A.S.P!! Fighters' NEXTream (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "G.A.S.P!! Fighters' NEXTream (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ganbare! Nippon! Olympics 2000 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gauntlet Legends (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gauntlet Legends (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gauntlet Legends (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Getter Love!! - Cho Renai Party Game Tanjou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gex 3 - Deep Cover Gecko (Europe) (Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gex 3 - Deep Cover Gecko (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gex 64 - Enter the Gecko (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gex 64 - Enter the Gecko (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Glover (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Glover (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Glover 2 (USA) (Unk Proto)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Goemon - Mononoke Sugoroku (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Goemon's Great Adventure (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Golden Nugget 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "GoldenEye 007 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "GoldenEye 007 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "GoldenEye 007 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "GT 64 - Championship Edition (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "GT 64 - Championship Edition (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hamster Monogatari 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Harukanaru Augusta - Masters '98 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Harvest Moon 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Heiwa Pachinko World 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hercules - The Legendary Journeys (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hexen (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hexen (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hexen (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hexen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hexen (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hey You, Pikachu! (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hiryuu no Ken Twin (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Holy Magic Century (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Holy Magic Century (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Holy Magic Century (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hoshi no Kirby 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hoshi no Kirby 64 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hoshi no Kirby 64 (Japan) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hoshi no Kirby 64 (Japan) (Rev 3)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hot Wheels - Turbo Racing (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "HSV Adventure Racing! (Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Human Grand Prix - The New Generation (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hybrid Heaven (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hybrid Heaven (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hybrid Heaven (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hydro Thunder (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hydro Thunder (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hydro Thunder (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Hyper Olympics in Nagano 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ide Yosuke no Mahjong Juku (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Iggy's Reckin' Balls (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Iggy's Reckin' Balls (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Iggy-kun no Bura Bura Poyon (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "In-Fisherman - Bass Hunter 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "In-Fisherman - Bass Hunter 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Indiana Jones and the Infernal Machine (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Indy Racing 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer '98 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer '98 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer 2000 (Europe) (En,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer 2000 (Europe) (Fr,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer 2000 (USA) (En,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Superstar Soccer 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Track & Field - Summer Games (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "International Track & Field 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "iQue Club (China) (v3) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "J.League Dynamite Soccer 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "J.League Eleven Beat 1997 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "J.League Live 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "J.League Tactics Soccer (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "J.League Tactics Soccer (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jangou Simulation Mahjong Dou 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jeopardy! (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jeremy McGrath Supercross 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jeremy McGrath Supercross 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jet Force Gemini (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jet Force Gemini (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou G1 Stable (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou G1 Stable (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou J.League Perfect Striker (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 2000 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 4 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 5 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 6 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou World Soccer - World Cup France '98 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikkyou World Soccer 3 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jikuu Senshi Turok (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jinsei Game 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "John Romero's Daikatana (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "John Romero's Daikatana (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "John Romero's Daikatana (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kakutou Denshou - F-Cup Maniax (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ken Griffey Jr.'s Slugfest (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Killer Instinct Gold (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Killer Instinct Gold (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Killer Instinct Gold (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Killer Instinct Gold (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "King Hill 64 - Extreme Snowboarding (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kiratto Kaiketsu! 64 Tanteidan (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kirby 64 - The Crystal Shards (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kirby 64 - The Crystal Shards (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Knife Edge - Nose Gunner (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Knife Edge - Nose Gunner (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Knife Edge - Nose Gunner (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Knockout Kings 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Knockout Kings 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kobe Bryant in NBA Courtside (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Kobe Bryant in NBA Courtside (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Last Legion UX (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Majora's Mask (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Majora's Mask (USA) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Let's Smash (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lode Runner 3-D (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lode Runner 3-D (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lylat Wars (Australia) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lylatwars (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mace - The Dark Age (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mace - The Dark Age (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden Football 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden Football 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden NFL 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden NFL 2001 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden NFL 2002 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden NFL 99 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden NFL 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Madden NFL 99 (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Tetris Challenge (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Tetris Challenge (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Tetris Challenge (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Magical Tetris Challenge featuring Mickey (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mahjong 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mahjong Hourouki Classic (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mahjong Master (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Major League Baseball Featuring Ken Griffey Jr. (Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Major League Baseball Featuring Ken Griffey Jr. (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Golf (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Golf (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Golf 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Golf 64 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kadingche (China) (v2) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kadingche (China) (v4) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kadingche (China) (v5) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kadingche (China) (v6) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kart 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kart 64 (Europe) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kart 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kart 64 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Kart 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario no Photopie (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 2 (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 2 (Japan) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 2 (USA) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 3 (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 3 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Party 3 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Story (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Tennis (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Tennis (Europe) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Tennis (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Tennis (USA) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Tennis 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Tennis 64 (Japan) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Yisheng (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Yisheng (China) (v2) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mario Yisheng (China) (v4) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mega Man 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mia Hamm Soccer 64 (USA) (En,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Michael Owen's WLS 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mickey no Racing Challenge USA (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mickey's Speedway USA (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Micro Machines 64 Turbo (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Midway's Greatest Arcade Hits - Volume 1 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mike Piazza's Strike Zone (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Milo's Astro Lanes (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Milo's Astro Lanes (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mischief Makers (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mischief Makers (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mischief Makers (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mission - Impossible (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mission - Impossible (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mission - Impossible (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mission - Impossible (Italy)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mission - Impossible (Spain)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mission - Impossible (Spain) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mission - Impossible (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monaco Grand Prix (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monopoly (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monster Truck Madness 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Morita Shougi 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat 4 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat 4 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat Mythologies - Sub-Zero (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat Mythologies - Sub-Zero (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat Trilogy (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat Trilogy (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat Trilogy (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mortal Kombat Trilogy (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "MRC - Multi-Racing Championship (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "MRC - Multi-Racing Championship (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "MRC - Multi-Racing Championship (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ms. Pac-Man - Maze Madness (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mystical Ninja Starring Goemon (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mystical Ninja Starring Goemon (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nagano Winter Olympics '98 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nagano Winter Olympics '98 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Namco Museum 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NASCAR 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NASCAR 99 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NASCAR 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Courtside 2 featuring Kobe Bryant (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Hangtime (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Hangtime (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA in the Zone '98 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA in the Zone '98 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA in the Zone '99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA in the Zone 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA in the Zone 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA in the Zone 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Jam 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Jam 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Jam 99 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Jam 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Live 2000 (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Live 2000 (USA) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Live 99 (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Live 99 (USA) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Pro 98 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Pro 99 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NBA Showtime - NBA on NBC (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Neon Genesis Evangelion (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "New Tetris, The (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "New Tetris, The (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Blitz (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Blitz - Special Edition (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Blitz 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Blitz 2000 (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Blitz 2001 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL QB Club 2001 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Quarterback Club 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Quarterback Club 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Quarterback Club 98 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Quarterback Club 98 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Quarterback Club 99 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NFL Quarterback Club 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL 99 (Europe) (En,De,Sv,Fi)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL Blades of Steel '99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL Breakaway 98 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL Breakaway 98 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL Breakaway 99 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL Breakaway 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "NHL Pro 99 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nightmare Creatures (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nintama Rantarou 64 Game Gallery (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nintendo All-Star! Dairantou Smash Brothers (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nuclear Strike 64 (Europe) (En,Fr)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nuclear Strike 64 (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nuclear Strike 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nushi Zuri 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nushi Zuri 64 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nushi Zuri 64 - Shiokaze ni Notte (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Off Road Challenge (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Off Road Challenge (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ogre Battle 64 - Person of Lordly Caliber (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Olympic Hockey 98 (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Olympic Hockey 98 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Olympic Hockey 98 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Onegai Monsters (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Operation WinBack (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pachinko 365 Nichi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Paper Mario (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Paper Mario (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Paperboy (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Paperboy (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "PD Ultraman Battle Collection 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Penny Racers (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Penny Racers (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Perfect Dark (Europe) (Debug Version) (2000-04-26)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Perfect Dark (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Perfect Dark (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Perfect Dark (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Perfect Dark (USA) (Debug Version) (2000-03-22)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Perfect Dark (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "PGA European Tour (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "PGA European Tour Golf (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pikachuu Genki de Chuu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pilotwings 64 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pilotwings 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pilotwings 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (Europe) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (France) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (Germany) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Puzzle League (USA) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (Italy)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (Spain)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Snap (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (Europe) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (Italy)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (Spain)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium 2 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium 2 (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium 2 (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium 2 (Italy)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium 2 (Spain)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pokemon Stadium Kin Gin (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Polaris SnoCross (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Power League 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Power Rangers - Lightspeed Rescue (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Power Rangers - Lightspeed Rescue (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Powerpuff Girls, The - Chemical X-Traction (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Premier Manager 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pro Mahjong Kiwame 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pro Mahjong Kiwame 64 (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puyo Puyo Sun 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puyo Puyoon Party (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Puzzle Bobble 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quake (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quake (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quake II (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quake II (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quest 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Racing Simulation 2 (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rakugakids (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rakugakids (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rally '99 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rally Challenge 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rampage - World Tour (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rampage - World Tour (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rampage 2 - Universal Tour (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rampage 2 - Universal Tour (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rat Attack (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Razmoket, Les - La Chasse aux Tresors (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Razor Freestyle Scooter (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Re-Volt (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Re-Volt (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ready 2 Rumble Boxing (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ready 2 Rumble Boxing (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ready 2 Rumble Boxing - Round 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rentiantang Mingxing - Daluan Dou (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rentiantang Mingxing - Daluan Dou (China) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Resident Evil 2 (Europe) (En,Fr)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Resident Evil 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Resident Evil 2 (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Road Rash 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Road Rash 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Roadsters (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Roadsters (USA) (En,Fr,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Robotron 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Robotron 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rocket - Robot on Wheels (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rocket - Robot on Wheels (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rockman Dash - Hagane no Boukenshin (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "RR64 - Ridge Racer 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "RR64 - Ridge Racer 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "RTL World League Soccer 2000 (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rugrats - Die grosse Schatzsuche (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rugrats - Scavenger Hunt (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rugrats - Treasure Hunt (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rugrats in Paris - The Movie (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rugrats in Paris - The Movie (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rush 2 - Extreme Racing USA (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "S.C.A.R.S. (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "S.C.A.R.S. (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Saikyou Habu Shougi (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "San Francisco Rush 2049 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Scooby-Doo! - Classic Creep Capers (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Scooby-Doo! - Classic Creep Capers (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "SD Hiryuu no Ken Densetsu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sesame Street - Elmo's Letter Adventure (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sesame Street - Elmo's Number Journey (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadow Man (Brazil)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadow Man (Europe) (En,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadow Man (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadow Man (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadow Man (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadowgate 64 - Trials of the Four Towers (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadowgate 64 - Trials of the Four Towers (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shen You Mario (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shen You Mario (China) (v6) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shuishang Motuo (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shuishang Motuo (China) (v2) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Shuishang Motuo (China) (v4) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "SimCity 2000 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Snobo Kids (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Snow Speeder (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Snowboard Kids (Europe, Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Snowboard Kids (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Snowboard Kids 2 (Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Snowboard Kids 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sonic Wings Assault (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park (Brazil)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park (Europe) (En,Fr,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park - Chef's Luv Shack (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park - Chef's Luv Shack (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park Rally (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "South Park Rally (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Dynamites (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Invaders (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "SpaceStation Silicon Valley (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "SpaceStation Silicon Valley (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Spider-Man (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Fox 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Fox 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Fox 64 (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Soldier - Vanishing Earth (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Soldier - Vanishing Earth (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Twins (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Rogue Squadron (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Rogue Squadron (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Rogue Squadron (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Shadows of the Empire (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Shadows of the Empire (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Shadows of the Empire (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Shadows of the Empire (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Shutsugeki! Rogue Chuutai (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - Teikoku no Kage (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars Episode I - Battle for Naboo (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars Episode I - Battle for Naboo (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars Episode I - Racer (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars Episode I - Racer (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars Episode I - Racer (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "StarCraft 64 (Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "StarCraft 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Starshot - Space Circus Fever (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Starshot - Space Circus Fever (USA) (En,Fr,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Stunt Racer 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super B-Daman - Battle Phoenix 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Bowling (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Bowling (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Mario 64 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Mario 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Mario 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Real Mahjong VS (Japan) (Rev 1) (Aleck 64)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Robot Spirits (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Robot Taisen 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Smash Bros. (Australia)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Smash Bros. (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Smash Bros. (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Speed Race 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Supercross 2000 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Supercross 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Superman (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Superman - The New Superman Aventures (USA) (En,Fr,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tarzan (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tarzan (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tarzan (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tarzan (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Taz Express (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Telefoot Soccer 2000 (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tetris 64 (Japan) (En)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tetrisphere (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tetrisphere (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "TG Rally 2 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tigger's Honey Hunt (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tom and Jerry in Fists of Furry (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tom Clancy's Rainbow Six (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tom Clancy's Rainbow Six (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tom Clancy's Rainbow Six (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tom Clancy's Rainbow Six (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tonic Trouble (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tonic Trouble (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tony Hawk's Pro Skater (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tony Hawk's Pro Skater (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tony Hawk's Pro Skater 2 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tony Hawk's Pro Skater 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tony Hawk's Pro Skater 3 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tony Hawk's Skateboarding (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Hyper Bike (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Hyper Bike (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Hyper-Bike (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Overdrive (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Overdrive (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Overdrive (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Rally (Asia) (En)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Rally (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Rally (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Rally (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Rally 2 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Rally 2 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Top Gear Rally 2 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Transformers - Beast Wars Metals 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Transformers - Beast Wars Transmetals (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Triple Play 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tsumi to Batsu - Hoshi no Keishousha (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (Europe) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (Europe) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (Germany) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (Germany) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Dinosaur Hunter (USA) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Legenden des Verlorenen Landes (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Rage Wars (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Rage Wars (Europe) (En,Fr,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Rage Wars (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok - Rage Wars (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok 2 - Seeds of Evil (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok 2 - Seeds of Evil (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok 2 - Seeds of Evil (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok 2 - Seeds of Evil (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok 3 - Shadow of Oblivion (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turok 3 - Shadow of Oblivion (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Twisted Edge - Extreme Snowboarding (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Twisted Edge - Snowboarding (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "V-Rally Edition 99 (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "V-Rally Edition 99 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "V-Rally Edition 99 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vigilante 8 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vigilante 8 (France)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vigilante 8 (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vigilante 8 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vigilante 8 - 2nd Offense (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Vigilante 8 - 2nd Offense (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Violence Killer - Turok New Generation (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Virtual Chess 64 (USA) (En,Fr,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Virtual Pool 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Virtual Pool 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Virtual Pro Wrestling 64 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Waialae Country Club - True Golf Classics (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Waialae Country Club - True Golf Classics (Europe) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Waialae Country Club - True Golf Classics (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Waialae Country Club - True Golf Classics (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "War Gods (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "War Gods (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wave Race 64 - Kawasaki Jet Ski (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wave Race 64 - Kawasaki Jet Ski (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wayne Gretzky's 3D Hockey '98 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wayne Gretzky's 3D Hockey (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wayne Gretzky's 3D Hockey (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wayne Gretzky's 3D Hockey (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW Backstage Assault (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW Mayhem (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW Mayhem (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW Nitro (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW vs. nWo - World Tour (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW vs. nWo - World Tour (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW vs. nWo - World Tour (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW-nWo Revenge (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WCW-nWo Revenge (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wetrix (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wetrix (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wetrix (USA) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wheel of Fortune (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wild Choppers (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WinBack (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WinBack (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WinBack - Covert Operations (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wipeout 64 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wipeout 64 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wonder Project J2 - Koruro no Mori no Jozet (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "World Driver Championship (Europe) (En,Fr,De,Es,It)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "World Driver Championship (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Worms Armageddon (USA) (En,Fr,Es)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF Attitude (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF Attitude (Germany)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF Attitude (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF No Mercy (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF No Mercy (Europe) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF No Mercy (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF No Mercy (USA) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF War Zone (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF War Zone (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF WrestleMania 2000 (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF WrestleMania 2000 (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "WWF WrestleMania 2000 (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Xena - Warrior Princess - The Talisman of Fate (Europe)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Xena - Warrior Princess - The Talisman of Fate (USA)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Xingji Huohu (China) (v4) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Xingji Huohu (China) (v5) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yakouchuu II - Satsujin Kouro (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yaoxi Gushi (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yaoxi Gushi (China) (v2) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yaoxi Gushi (China) (v4) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yaoxi Gushi (China) (v6) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yoshi Story (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yoshi's Story (Europe) (En,Fr,De)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yoshi's Story (USA) (En,Ja)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yueye Motuo (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yueye Motuo (China) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Yuke Yuke!! Trouble Makers (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda Chuanshuo Shiguang Zhi Di (China) (Chinese Traditional) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda Chuanshuo Shiguang Zhi Di (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda Chuanshuo Shiguang Zhi Di (China) (v2) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda Chuanshuo Shiguang Zhi Di (China) (v4) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Mujura no Kamen (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Toki no Ocarina (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zhi Pian Mario (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zhi Pian Mario (China) (v2) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zhi Pian Mario (China) (v4) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zool - Majuu Tsukai Densetsu (Japan)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zuhe Jiqiren (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue) (Manual)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v124"
+    }
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "games": {
+    "2010 - The Graphic Action Game (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Activision Decathlon, The (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Alcazar - The Forgotten Fortress (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Alphabet Zoo (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Amazing Bumpman (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Antarctic Adventure (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Aquattack (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Artillery Duel (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "BC's Quest for Tires (Canada)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "BC's Quest for Tires (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "BC's Quest for Tires II - Grog's Revenge (Canada)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "BC's Quest for Tires II - Grog's Revenge (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Beamrider (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Blockade Runner (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Boulder Dash (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Brain Strainers (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Buck Rogers - Planet of Zoom (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Bump 'n' Jump (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "BurgerTime (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cabbage Patch Kids - Adventures in the Park (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cabbage Patch Kids - Picture Show (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Campaign '84 (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Carnival (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "CAT S.O.S. Game, The (USA) (Promo)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Centipede (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Choplifter! (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Chuck Norris - Superkicks (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "ColecoVision Monitor Test (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Congo Bongo (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cosmic Avenger (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Cosmic Crisis (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dam Busters, The (Canada)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dam Busters, The (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dance Fantasy (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Defender (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Destructor (USA, Europe)": {
+      "status": "Not Working",
+      "notes": "Expansion Module #2 (steering wheel) required",
+      "version": "v124"
+    },
+    "Donkey Kong (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Donkey Kong (USA, Europe) (v1.1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Donkey Kong Junior (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dragonfire (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Dukes of Hazzard, The (USA)": {
+      "status": "Not Working",
+      "notes": "Expansion Module #2 (steering wheel) required",
+      "version": "v124"
+    },
+    "Evolution (Canada)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Facemaker (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fathom (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Final Test Cartridge (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Flipper Slipper (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fortune Builder (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Fraction Fever (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Frantic Freddy (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Frenzy (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Frogger (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Frogger II - ThreeeDeep! (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Front Line (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Front Line (USA, Europe) (Green Version)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Galaxian (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gateway to Apshai (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gorf (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gust Buster (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Gyruss (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "H.E.R.O. - Helicopter Emergency Rescue Operation (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Heist, The (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Illusions (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "It's Only Rock 'N' Roll (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "James Bond 007 (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jukebox (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Julius Erving and Larry Bird Go - One-on-One (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jumpman Junior (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Jungle Hunt (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Ken Uston Blackjack-Poker (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Keystone Kapers (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Lady Bug (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Learning with Leeper (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Linking Logic (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Logic Levels (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Looping (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Memory Manor (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Meteoric Shower (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Miner 2049er Starring Bounty Bob (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Monkey Academy (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Montezuma's Revenge (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Moonsweeper (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Motocross Racer (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mountain King (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mouse Trap (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mr. Do! (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Mr. Do!'s Castle (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Nova Blast (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Oil's Well (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Omega Race (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pepper II (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitfall II - Lost Caverns (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitfall! (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitstop (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Pitstop (USA, Europe) (v1.1)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Popeye (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Q-bert (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Q-bert's Qubes (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Quest for Quintana Roo (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "River Raid (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Robin Hood (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Roc 'N Rope (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rock n' Bolt (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rocky - Super Action Boxing (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Rolloverture (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Root Beer Tapper (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sammy Lightfoot (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sector Alpha (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Sewer Sam (USA)": {
+      "status": "Working",
+      "notes": "req",
+      "version": "v124"
+    },
+    "Sir Lancelot (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Skiing (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Slither (USA, Europe)": {
+      "status": "Not Working",
+      "notes": "Roller Controller required",
+      "version": "v124"
+    },
+    "Slurpy (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Smurf - Paint 'n' Play WORKSHOP (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Smurf - Rescue in Gargamel's Castle (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Fury (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Space Panic (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Spectron (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Spy Hunter (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Squish'em Featuring Sam (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Trek - Strategic Operations Simulator (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Star Wars - The Arcade Game (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Strike It! (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Subroc (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Action Baseball (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Action Football (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Action Football (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Cobra (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Controller Tester (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Super Cross Force (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tank Wars (Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tarzan (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Telly Turtle (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Threshold (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Time Pilot (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "TOMARC the Barbarian (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Tournament Tennis (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Turbo (USA, Europe)": {
+      "status": "Not Working",
+      "notes": "Expansion Module #2 (steering wheel) required",
+      "version": "v124"
+    },
+    "Tutankham (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Up 'n Down (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Venture (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Victory (Europe)": {
+      "status": "Not Working",
+      "notes": "Roller Controller required; uses all four action buttons",
+      "version": "v124"
+    },
+    "Victory (USA)": {
+      "status": "Not Working",
+      "notes": "Roller Controller required; uses all four action buttons",
+      "version": "v124"
+    },
+    "War Room (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "WarGames (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wing War (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Wizard of Id's - WizMath (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Word Feud (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zaxxon (USA, Europe)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    },
+    "Zenji (USA)": {
+      "status": "Working",
+      "notes": "",
+      "version": "v124"
+    }
+  }
+}

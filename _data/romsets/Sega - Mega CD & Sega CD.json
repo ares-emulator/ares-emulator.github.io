@@ -1,0 +1,1807 @@
+{
+    "header": {
+        "name": "Sega - Mega CD & Sega CD",
+        "description": "Sega - Mega CD & Sega CD - Discs (535) (2021-06-04 23-06-26)",
+        "version": "2021-06-04 23-06-26",
+        "homepage": "redump.org",
+        "url": "http:\/\/redump.org\/"
+    },
+    "games": [
+        {
+            "name": "3 Ninjas Kick Back (USA)",
+            "description": "3 Ninjas Kick Back (USA)"
+        },
+        {
+            "name": "A-Rank Thunder - Tanjou-hen (Japan)",
+            "description": "A-Rank Thunder - Tanjou-hen (Japan)"
+        },
+        {
+            "name": "A-X-101 (USA) (RE)",
+            "description": "A-X-101 (USA) (RE)"
+        },
+        {
+            "name": "Adventures of Batman and Robin, The (Europe)",
+            "description": "Adventures of Batman and Robin, The (Europe)"
+        },
+        {
+            "name": "Adventures of Batman and Robin, The (USA)",
+            "description": "Adventures of Batman and Robin, The (USA)"
+        },
+        {
+            "name": "Adventures of Willy Beamish, The (USA)",
+            "description": "Adventures of Willy Beamish, The (USA)"
+        },
+        {
+            "name": "Adventures of Willy Beamish, The (USA) (Alt)",
+            "description": "Adventures of Willy Beamish, The (USA) (Alt)"
+        },
+        {
+            "name": "After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)",
+            "description": "After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan)"
+        },
+        {
+            "name": "After Burner III (Europe)",
+            "description": "After Burner III (Europe)"
+        },
+        {
+            "name": "After Burner III (Japan)",
+            "description": "After Burner III (Japan)"
+        },
+        {
+            "name": "After Burner III (USA)",
+            "description": "After Burner III (USA)"
+        },
+        {
+            "name": "AH3 - Thunderstrike (USA)",
+            "description": "AH3 - Thunderstrike (USA)"
+        },
+        {
+            "name": "Aisle Lord (Japan)",
+            "description": "Aisle Lord (Japan)"
+        },
+        {
+            "name": "Alshark (Japan)",
+            "description": "Alshark (Japan)"
+        },
+        {
+            "name": "Amazing Spider-Man vs. The Kingpin, The (Europe)",
+            "description": "Amazing Spider-Man vs. The Kingpin, The (Europe)"
+        },
+        {
+            "name": "Amazing Spider-Man vs. The Kingpin, The (USA)",
+            "description": "Amazing Spider-Man vs. The Kingpin, The (USA)"
+        },
+        {
+            "name": "Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)",
+            "description": "Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)"
+        },
+        {
+            "name": "Android Assault - The Revenge of Bari-Arm (USA)",
+            "description": "Android Assault - The Revenge of Bari-Arm (USA)"
+        },
+        {
+            "name": "Animals!, The (Europe)",
+            "description": "Animals!, The (Europe)"
+        },
+        {
+            "name": "Animals!, The (USA)",
+            "description": "Animals!, The (USA)"
+        },
+        {
+            "name": "Annett Futatabi (Japan)",
+            "description": "Annett Futatabi (Japan)"
+        },
+        {
+            "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)",
+            "description": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
+        },
+        {
+            "name": "Arcus I, II, III (Japan)",
+            "description": "Arcus I, II, III (Japan)"
+        },
+        {
+            "name": "Arslan Senki (Japan)",
+            "description": "Arslan Senki (Japan)"
+        },
+        {
+            "name": "AX-101 (Japan)",
+            "description": "AX-101 (Japan)"
+        },
+        {
+            "name": "Bakuden - The Unbalanced Zone (Japan)",
+            "description": "Bakuden - The Unbalanced Zone (Japan)"
+        },
+        {
+            "name": "Bari-Arm (Japan)",
+            "description": "Bari-Arm (Japan)"
+        },
+        {
+            "name": "Batman Returns (Europe)",
+            "description": "Batman Returns (Europe)"
+        },
+        {
+            "name": "Batman Returns (Europe) (Alt)",
+            "description": "Batman Returns (Europe) (Alt)"
+        },
+        {
+            "name": "Batman Returns (USA)",
+            "description": "Batman Returns (USA)"
+        },
+        {
+            "name": "Batman Returns (USA) (Alt)",
+            "description": "Batman Returns (USA) (Alt)"
+        },
+        {
+            "name": "Battle Fantasy (Japan) (Rev A)",
+            "description": "Battle Fantasy (Japan) (Rev A)"
+        },
+        {
+            "name": "Battlecorps (Europe) (En,Fr,De,Es)",
+            "description": "Battlecorps (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Battlecorps (Japan)",
+            "description": "Battlecorps (Japan)"
+        },
+        {
+            "name": "Battlecorps (USA)",
+            "description": "Battlecorps (USA)"
+        },
+        {
+            "name": "BC Racers (Europe) (En,Fr,De)",
+            "description": "BC Racers (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "BC Racers (USA)",
+            "description": "BC Racers (USA)"
+        },
+        {
+            "name": "Beast II (Europe)",
+            "description": "Beast II (Europe)"
+        },
+        {
+            "name": "Bill Walsh College Football (Europe)",
+            "description": "Bill Walsh College Football (Europe)"
+        },
+        {
+            "name": "Bill Walsh College Football (USA)",
+            "description": "Bill Walsh College Football (USA)"
+        },
+        {
+            "name": "Black Hole Assault (Japan)",
+            "description": "Black Hole Assault (Japan)"
+        },
+        {
+            "name": "Blackhole Assault (Europe)",
+            "description": "Blackhole Assault (Europe)"
+        },
+        {
+            "name": "Blackhole Assault (USA)",
+            "description": "Blackhole Assault (USA)"
+        },
+        {
+            "name": "Blackhole Assault (USA) (Alt)",
+            "description": "Blackhole Assault (USA) (Alt)"
+        },
+        {
+            "name": "Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)",
+            "description": "Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Bouncers (USA)",
+            "description": "Bouncers (USA)"
+        },
+        {
+            "name": "Bram Stoker's Dracula (USA)",
+            "description": "Bram Stoker's Dracula (USA)"
+        },
+        {
+            "name": "Bram Stoker's Dracula (USA) (Alt 1)",
+            "description": "Bram Stoker's Dracula (USA) (Alt 1)"
+        },
+        {
+            "name": "Bram Stoker's Dracula (USA) (Alt 2)",
+            "description": "Bram Stoker's Dracula (USA) (Alt 2)"
+        },
+        {
+            "name": "Bram Stoker's Dracula (USA) (Version 2.0)",
+            "description": "Bram Stoker's Dracula (USA) (Version 2.0)"
+        },
+        {
+            "name": "Brutal - Paws of Fury (Europe) (En,Fr,De)",
+            "description": "Brutal - Paws of Fury (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "Brutal - Paws of Fury (USA)",
+            "description": "Brutal - Paws of Fury (USA)"
+        },
+        {
+            "name": "Burai - Yatsudama no Yuushi Densetsu (Japan)",
+            "description": "Burai - Yatsudama no Yuushi Densetsu (Japan)"
+        },
+        {
+            "name": "Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE)",
+            "description": "Cadillacs and Dinosaurs - The Second Cataclysm (USA, Brazil) (RE)"
+        },
+        {
+            "name": "Captain Tsubasa (Japan)",
+            "description": "Captain Tsubasa (Japan)"
+        },
+        {
+            "name": "Championship Soccer '94 (USA)",
+            "description": "Championship Soccer '94 (USA)"
+        },
+        {
+            "name": "Chuck Rock (Europe)",
+            "description": "Chuck Rock (Europe)"
+        },
+        {
+            "name": "Chuck Rock (USA)",
+            "description": "Chuck Rock (USA)"
+        },
+        {
+            "name": "Chuck Rock II - Son of Chuck (Europe)",
+            "description": "Chuck Rock II - Son of Chuck (Europe)"
+        },
+        {
+            "name": "Chuck Rock II - Son of Chuck (USA)",
+            "description": "Chuck Rock II - Son of Chuck (USA)"
+        },
+        {
+            "name": "Cliffhanger (USA)",
+            "description": "Cliffhanger (USA)"
+        },
+        {
+            "name": "Cobra Command (Europe)",
+            "description": "Cobra Command (Europe)"
+        },
+        {
+            "name": "Cobra Command (USA)",
+            "description": "Cobra Command (USA)"
+        },
+        {
+            "name": "Colors of Modern Rock, The (USA)",
+            "description": "Colors of Modern Rock, The (USA)"
+        },
+        {
+            "name": "Compton's Interactive Encyclopedia (USA) (Version 2.00S)",
+            "description": "Compton's Interactive Encyclopedia (USA) (Version 2.00S)"
+        },
+        {
+            "name": "Compton's Interactive Encyclopedia (USA) (Version 2.01R)",
+            "description": "Compton's Interactive Encyclopedia (USA) (Version 2.01R)"
+        },
+        {
+            "name": "Compton's Interactive Encyclopedia (USA) (Version 2.01S)",
+            "description": "Compton's Interactive Encyclopedia (USA) (Version 2.01S)"
+        },
+        {
+            "name": "Compton's Interactive Encyclopedia (USA) (Version 2.10) (RE2)",
+            "description": "Compton's Interactive Encyclopedia (USA) (Version 2.10) (RE2)"
+        },
+        {
+            "name": "Corpse Killer (Europe)",
+            "description": "Corpse Killer (Europe)"
+        },
+        {
+            "name": "Corpse Killer (Europe) (Mega-CD 32X)",
+            "description": "Corpse Killer (Europe) (Mega-CD 32X)"
+        },
+        {
+            "name": "Corpse Killer (USA)",
+            "description": "Corpse Killer (USA)"
+        },
+        {
+            "name": "Corpse Killer (USA) (Sega CD 32X)",
+            "description": "Corpse Killer (USA) (Sega CD 32X)"
+        },
+        {
+            "name": "Cosmic Fantasy Stories (Japan)",
+            "description": "Cosmic Fantasy Stories (Japan)"
+        },
+        {
+            "name": "Crime Patrol (USA)",
+            "description": "Crime Patrol (USA)"
+        },
+        {
+            "name": "Cyborg 009 (Japan)",
+            "description": "Cyborg 009 (Japan)"
+        },
+        {
+            "name": "Daihoushinden (Japan)",
+            "description": "Daihoushinden (Japan)"
+        },
+        {
+            "name": "Dark Wizard (USA)",
+            "description": "Dark Wizard (USA)"
+        },
+        {
+            "name": "Dark Wizard - Yomigaerishi Yami no Madoushi (Japan)",
+            "description": "Dark Wizard - Yomigaerishi Yami no Madoushi (Japan)"
+        },
+        {
+            "name": "Death Bringer (Japan)",
+            "description": "Death Bringer (Japan)"
+        },
+        {
+            "name": "Demolition Man (USA)",
+            "description": "Demolition Man (USA)"
+        },
+        {
+            "name": "Dennin Aleste - Nobunaga and His Ninja Force (Japan)",
+            "description": "Dennin Aleste - Nobunaga and His Ninja Force (Japan)"
+        },
+        {
+            "name": "Detonator Orgun (Japan)",
+            "description": "Detonator Orgun (Japan)"
+        },
+        {
+            "name": "Devastator (Japan)",
+            "description": "Devastator (Japan)"
+        },
+        {
+            "name": "Double Switch (Europe)",
+            "description": "Double Switch (Europe)"
+        },
+        {
+            "name": "Double Switch (Japan)",
+            "description": "Double Switch (Japan)"
+        },
+        {
+            "name": "Double Switch (USA)",
+            "description": "Double Switch (USA)"
+        },
+        {
+            "name": "Dracula Unleashed (Europe)  (Made in E.U.)",
+            "description": "Dracula Unleashed (Europe)  (Made in E.U.)"
+        },
+        {
+            "name": "Dracula Unleashed (Europe)  (Made in Japan)",
+            "description": "Dracula Unleashed (Europe)  (Made in Japan)"
+        },
+        {
+            "name": "Dracula Unleashed (USA) ",
+            "description": "Dracula Unleashed (USA) "
+        },
+        {
+            "name": "Dragon's Lair (Europe)",
+            "description": "Dragon's Lair (Europe)"
+        },
+        {
+            "name": "Dragon's Lair (Japan) (En,Ja,Fr,De,It)",
+            "description": "Dragon's Lair (Japan) (En,Ja,Fr,De,It)"
+        },
+        {
+            "name": "Dragon's Lair (USA)",
+            "description": "Dragon's Lair (USA)"
+        },
+        {
+            "name": "Dune (Europe) (En,Fr,De,Es,It,Ar)",
+            "description": "Dune (Europe) (En,Fr,De,Es,It,Ar)"
+        },
+        {
+            "name": "Dune (USA)",
+            "description": "Dune (USA)"
+        },
+        {
+            "name": "Dungeon Explorer (Europe)",
+            "description": "Dungeon Explorer (Europe)"
+        },
+        {
+            "name": "Dungeon Explorer (USA)",
+            "description": "Dungeon Explorer (USA)"
+        },
+        {
+            "name": "Dungeon Master II - Skullkeep (Europe)",
+            "description": "Dungeon Master II - Skullkeep (Europe)"
+        },
+        {
+            "name": "Dungeon Master II - Skullkeep (Japan)",
+            "description": "Dungeon Master II - Skullkeep (Japan)"
+        },
+        {
+            "name": "Dungeon Master II - Skullkeep (USA) (RE3)",
+            "description": "Dungeon Master II - Skullkeep (USA) (RE3)"
+        },
+        {
+            "name": "Dynamic Country Club (Japan)",
+            "description": "Dynamic Country Club (Japan)"
+        },
+        {
+            "name": "Earnest Evans (Japan)",
+            "description": "Earnest Evans (Japan)"
+        },
+        {
+            "name": "Earthworm Jim - Special Edition (Europe)",
+            "description": "Earthworm Jim - Special Edition (Europe)"
+        },
+        {
+            "name": "Earthworm Jim - Special Edition (USA) (RE)",
+            "description": "Earthworm Jim - Special Edition (USA) (RE)"
+        },
+        {
+            "name": "Ecco - The Tides of Time (Europe) (En,Fr,De,Es)",
+            "description": "Ecco - The Tides of Time (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Ecco - The Tides of Time (USA)",
+            "description": "Ecco - The Tides of Time (USA)"
+        },
+        {
+            "name": "Ecco - The Tides of Time (USA) (Alt)",
+            "description": "Ecco - The Tides of Time (USA) (Alt)"
+        },
+        {
+            "name": "Ecco the Dolphin (Australia)",
+            "description": "Ecco the Dolphin (Australia)"
+        },
+        {
+            "name": "Ecco the Dolphin (Europe)",
+            "description": "Ecco the Dolphin (Europe)"
+        },
+        {
+            "name": "Ecco the Dolphin (Europe) (Rerelease)",
+            "description": "Ecco the Dolphin (Europe) (Rerelease)"
+        },
+        {
+            "name": "Ecco the Dolphin (USA)",
+            "description": "Ecco the Dolphin (USA)"
+        },
+        {
+            "name": "Ecco the Dolphin CD (Japan)  (Ecco the Dolphin)",
+            "description": "Ecco the Dolphin CD (Japan)  (Ecco the Dolphin)"
+        },
+        {
+            "name": "Ecco the Dolphin CD (Japan)  (Ecco the Dolphin II)",
+            "description": "Ecco the Dolphin CD (Japan)  (Ecco the Dolphin II)"
+        },
+        {
+            "name": "Egawa Suguru no Super League CD (Japan)",
+            "description": "Egawa Suguru no Super League CD (Japan)"
+        },
+        {
+            "name": "ESPN Baseball Tonight (Europe)",
+            "description": "ESPN Baseball Tonight (Europe)"
+        },
+        {
+            "name": "ESPN Baseball Tonight (USA)",
+            "description": "ESPN Baseball Tonight (USA)"
+        },
+        {
+            "name": "ESPN National Hockey Night (USA)",
+            "description": "ESPN National Hockey Night (USA)"
+        },
+        {
+            "name": "ESPN NBA Hangtime '95 (USA)",
+            "description": "ESPN NBA Hangtime '95 (USA)"
+        },
+        {
+            "name": "ESPN Sunday Night NFL (USA)",
+            "description": "ESPN Sunday Night NFL (USA)"
+        },
+        {
+            "name": "Eternal Champions - Challenge from the Dark Side (Europe)",
+            "description": "Eternal Champions - Challenge from the Dark Side (Europe)"
+        },
+        {
+            "name": "Eternal Champions - Challenge from the Dark Side (USA)",
+            "description": "Eternal Champions - Challenge from the Dark Side (USA)"
+        },
+        {
+            "name": "Eternal Champions - Challenge from the Dark Side (USA) (RE)",
+            "description": "Eternal Champions - Challenge from the Dark Side (USA) (RE)"
+        },
+        {
+            "name": "Eye of the Beholder (Europe)",
+            "description": "Eye of the Beholder (Europe)"
+        },
+        {
+            "name": "Eye of the Beholder (Japan)",
+            "description": "Eye of the Beholder (Japan)"
+        },
+        {
+            "name": "Eye of the Beholder (USA)",
+            "description": "Eye of the Beholder (USA)"
+        },
+        {
+            "name": "F1 Circus CD (Japan)",
+            "description": "F1 Circus CD (Japan)"
+        },
+        {
+            "name": "Fahrenheit (Europe)",
+            "description": "Fahrenheit (Europe)"
+        },
+        {
+            "name": "Fahrenheit (France)",
+            "description": "Fahrenheit (France)"
+        },
+        {
+            "name": "Fahrenheit (Japan)",
+            "description": "Fahrenheit (Japan)"
+        },
+        {
+            "name": "Fahrenheit (USA)  (Key Disc) (Sega CD)",
+            "description": "Fahrenheit (USA)  (Key Disc) (Sega CD)"
+        },
+        {
+            "name": "Fahrenheit (USA)  (32X CD)",
+            "description": "Fahrenheit (USA)  (32X CD)"
+        },
+        {
+            "name": "Fatal Fury Special (Europe)",
+            "description": "Fatal Fury Special (Europe)"
+        },
+        {
+            "name": "Fatal Fury Special (USA)",
+            "description": "Fatal Fury Special (USA)"
+        },
+        {
+            "name": "FIFA International Soccer (USA)",
+            "description": "FIFA International Soccer (USA)"
+        },
+        {
+            "name": "FIFA International Soccer - Championship Edition (Europe) (En,Fr,De,Es)",
+            "description": "FIFA International Soccer - Championship Edition (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Final Fight CD (Europe)",
+            "description": "Final Fight CD (Europe)"
+        },
+        {
+            "name": "Final Fight CD (Japan)",
+            "description": "Final Fight CD (Japan)"
+        },
+        {
+            "name": "Final Fight CD (Japan) (Rev A)",
+            "description": "Final Fight CD (Japan) (Rev A)"
+        },
+        {
+            "name": "Final Fight CD (USA)",
+            "description": "Final Fight CD (USA)"
+        },
+        {
+            "name": "Final Fight CD (USA) (Alt 1)",
+            "description": "Final Fight CD (USA) (Alt 1)"
+        },
+        {
+            "name": "Final Fight CD (USA) (Alt 2)",
+            "description": "Final Fight CD (USA) (Alt 2)"
+        },
+        {
+            "name": "Flashback - The Quest for Identity (USA)",
+            "description": "Flashback - The Quest for Identity (USA)"
+        },
+        {
+            "name": "Flink (Europe)",
+            "description": "Flink (Europe)"
+        },
+        {
+            "name": "Flink (USA)",
+            "description": "Flink (USA)"
+        },
+        {
+            "name": "Formula One World Championship - Beyond the Limit (Europe)",
+            "description": "Formula One World Championship - Beyond the Limit (Europe)"
+        },
+        {
+            "name": "Formula One World Championship - Beyond the Limit (USA)",
+            "description": "Formula One World Championship - Beyond the Limit (USA)"
+        },
+        {
+            "name": "Fresh Cleaner (Japan)",
+            "description": "Fresh Cleaner (Japan)"
+        },
+        {
+            "name": "Game no Kandume Vol. 1 (Japan)",
+            "description": "Game no Kandume Vol. 1 (Japan)"
+        },
+        {
+            "name": "Game no Kandume Vol. 2 (Japan)",
+            "description": "Game no Kandume Vol. 2 (Japan)"
+        },
+        {
+            "name": "Garou Densetsu Special (Japan)",
+            "description": "Garou Densetsu Special (Japan)"
+        },
+        {
+            "name": "Gen'ei Toshi - Illusion City (Japan)",
+            "description": "Gen'ei Toshi - Illusion City (Japan)"
+        },
+        {
+            "name": "Ground Zero Texas (Europe) ",
+            "description": "Ground Zero Texas (Europe) "
+        },
+        {
+            "name": "Ground Zero Texas (USA) ",
+            "description": "Ground Zero Texas (USA) "
+        },
+        {
+            "name": "Ground Zero Texas (USA)  (Alt)",
+            "description": "Ground Zero Texas (USA)  (Alt)"
+        },
+        {
+            "name": "Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan)",
+            "description": "Gyuwambler Jiko Chuushinha 2 - Gekitou! Tokyo Mahjongland Hen (Japan)"
+        },
+        {
+            "name": "Heart of the Alien - Out of This World Parts I and II (USA) (RE)",
+            "description": "Heart of the Alien - Out of This World Parts I and II (USA) (RE)"
+        },
+        {
+            "name": "Heavenly Symphony - Formula One World Championship 1993 (Japan)",
+            "description": "Heavenly Symphony - Formula One World Championship 1993 (Japan)"
+        },
+        {
+            "name": "Heavy Nova (Japan)",
+            "description": "Heavy Nova (Japan)"
+        },
+        {
+            "name": "Heimdall (Japan)",
+            "description": "Heimdall (Japan)"
+        },
+        {
+            "name": "Heimdall (USA)",
+            "description": "Heimdall (USA)"
+        },
+        {
+            "name": "Hook (Europe)",
+            "description": "Hook (Europe)"
+        },
+        {
+            "name": "Hook (USA)",
+            "description": "Hook (USA)"
+        },
+        {
+            "name": "Hook (USA) (Alt)",
+            "description": "Hook (USA) (Alt)"
+        },
+        {
+            "name": "IIIrd World War, The (Japan)",
+            "description": "IIIrd World War, The (Japan)"
+        },
+        {
+            "name": "Iron Helix (USA)",
+            "description": "Iron Helix (USA)"
+        },
+        {
+            "name": "Ishii Hisaichi no Daiseikai (Japan)",
+            "description": "Ishii Hisaichi no Daiseikai (Japan)"
+        },
+        {
+            "name": "Jaguar XJ220 (Europe) (En,Ja)",
+            "description": "Jaguar XJ220 (Europe) (En,Ja)"
+        },
+        {
+            "name": "Jaguar XJ220 (Japan) (En,Ja)",
+            "description": "Jaguar XJ220 (Japan) (En,Ja)"
+        },
+        {
+            "name": "Jaguar XJ220 (USA)",
+            "description": "Jaguar XJ220 (USA)"
+        },
+        {
+            "name": "Jangou World Cup (Japan)",
+            "description": "Jangou World Cup (Japan)"
+        },
+        {
+            "name": "Jeopardy! (USA)",
+            "description": "Jeopardy! (USA)"
+        },
+        {
+            "name": "Joe Montana's NFL Football (USA)",
+            "description": "Joe Montana's NFL Football (USA)"
+        },
+        {
+            "name": "Jurassic Park (Europe)",
+            "description": "Jurassic Park (Europe)"
+        },
+        {
+            "name": "Jurassic Park (Europe) (Rerelease)",
+            "description": "Jurassic Park (Europe) (Rerelease)"
+        },
+        {
+            "name": "Jurassic Park (France)",
+            "description": "Jurassic Park (France)"
+        },
+        {
+            "name": "Jurassic Park (Germany)",
+            "description": "Jurassic Park (Germany)"
+        },
+        {
+            "name": "Jurassic Park (Japan)",
+            "description": "Jurassic Park (Japan)"
+        },
+        {
+            "name": "Jurassic Park (Spain)",
+            "description": "Jurassic Park (Spain)"
+        },
+        {
+            "name": "Jurassic Park (USA) (RE)",
+            "description": "Jurassic Park (USA) (RE)"
+        },
+        {
+            "name": "Kamen Rider ZO (Japan)",
+            "description": "Kamen Rider ZO (Japan)"
+        },
+        {
+            "name": "Keio Flying Squadron (Europe)",
+            "description": "Keio Flying Squadron (Europe)"
+        },
+        {
+            "name": "Keio Flying Squadron (USA)",
+            "description": "Keio Flying Squadron (USA)"
+        },
+        {
+            "name": "Keiou Yuugekitai (Japan)",
+            "description": "Keiou Yuugekitai (Japan)"
+        },
+        {
+            "name": "Kids on Site (Europe) (RE-1)",
+            "description": "Kids on Site (Europe) (RE-1)"
+        },
+        {
+            "name": "Kids on Site (USA)",
+            "description": "Kids on Site (USA)"
+        },
+        {
+            "name": "Lawnmower Man, The (Europe)",
+            "description": "Lawnmower Man, The (Europe)"
+        },
+        {
+            "name": "Lawnmower Man, The (USA)",
+            "description": "Lawnmower Man, The (USA)"
+        },
+        {
+            "name": "Lethal Enforcers (Europe)",
+            "description": "Lethal Enforcers (Europe)"
+        },
+        {
+            "name": "Lethal Enforcers (Japan)",
+            "description": "Lethal Enforcers (Japan)"
+        },
+        {
+            "name": "Lethal Enforcers (USA)",
+            "description": "Lethal Enforcers (USA)"
+        },
+        {
+            "name": "Lethal Enforcers (USA) (Alt)",
+            "description": "Lethal Enforcers (USA) (Alt)"
+        },
+        {
+            "name": "Lethal Enforcers II - Gun Fighters (Europe)",
+            "description": "Lethal Enforcers II - Gun Fighters (Europe)"
+        },
+        {
+            "name": "Lethal Enforcers II - Gun Fighters (USA)",
+            "description": "Lethal Enforcers II - Gun Fighters (USA)"
+        },
+        {
+            "name": "Lethal Enforcers II - The Western (Japan)",
+            "description": "Lethal Enforcers II - The Western (Japan)"
+        },
+        {
+            "name": "Links - The Challenge of Golf (USA)",
+            "description": "Links - The Challenge of Golf (USA)"
+        },
+        {
+            "name": "Links - The Challenge of Golf (USA) (RE)",
+            "description": "Links - The Challenge of Golf (USA) (RE)"
+        },
+        {
+            "name": "Loadstar - The Legend of Tully Bodine (USA, Brazil)",
+            "description": "Loadstar - The Legend of Tully Bodine (USA, Brazil)"
+        },
+        {
+            "name": "Lords of Thunder (Europe)",
+            "description": "Lords of Thunder (Europe)"
+        },
+        {
+            "name": "Lords of Thunder (USA)",
+            "description": "Lords of Thunder (USA)"
+        },
+        {
+            "name": "Lunar - Eternal Blue (Japan)",
+            "description": "Lunar - Eternal Blue (Japan)"
+        },
+        {
+            "name": "Lunar - Eternal Blue (Japan) (Rev A)",
+            "description": "Lunar - Eternal Blue (Japan) (Rev A)"
+        },
+        {
+            "name": "Lunar - Eternal Blue (USA) (RE)",
+            "description": "Lunar - Eternal Blue (USA) (RE)"
+        },
+        {
+            "name": "Lunar - The Silver Star (Japan)",
+            "description": "Lunar - The Silver Star (Japan)"
+        },
+        {
+            "name": "Lunar - The Silver Star (USA)",
+            "description": "Lunar - The Silver Star (USA)"
+        },
+        {
+            "name": "Lunar - The Silver Star (USA) (RE)",
+            "description": "Lunar - The Silver Star (USA) (RE)"
+        },
+        {
+            "name": "Mad Dog II - The Lost Gold (USA)",
+            "description": "Mad Dog II - The Lost Gold (USA)"
+        },
+        {
+            "name": "Mad Dog McCree (USA)",
+            "description": "Mad Dog McCree (USA)"
+        },
+        {
+            "name": "Mahou no Shoujo - Silky Lip (Japan)",
+            "description": "Mahou no Shoujo - Silky Lip (Japan)"
+        },
+        {
+            "name": "Make My Video - INXS (Europe)",
+            "description": "Make My Video - INXS (Europe)"
+        },
+        {
+            "name": "Make My Video - INXS (USA)",
+            "description": "Make My Video - INXS (USA)"
+        },
+        {
+            "name": "Make My Video - Kris Kross (Europe)",
+            "description": "Make My Video - Kris Kross (Europe)"
+        },
+        {
+            "name": "Make My Video - Kris Kross (USA)",
+            "description": "Make My Video - Kris Kross (USA)"
+        },
+        {
+            "name": "Make My Video - Marky Mark and the Funky Bunch (USA)",
+            "description": "Make My Video - Marky Mark and the Funky Bunch (USA)"
+        },
+        {
+            "name": "Mansion of Hidden Souls (USA)",
+            "description": "Mansion of Hidden Souls (USA)"
+        },
+        {
+            "name": "Marko's Magic Football (Europe) (En,Fr,De,Es)",
+            "description": "Marko's Magic Football (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Mary Shelley's Frankenstein (USA)",
+            "description": "Mary Shelley's Frankenstein (USA)"
+        },
+        {
+            "name": "Masked Rider, The - Kamen Rider ZO (USA)",
+            "description": "Masked Rider, The - Kamen Rider ZO (USA)"
+        },
+        {
+            "name": "Mega Schwarzschild (Japan)",
+            "description": "Mega Schwarzschild (Japan)"
+        },
+        {
+            "name": "MegaRace (USA)",
+            "description": "MegaRace (USA)"
+        },
+        {
+            "name": "Mickey Mania (Europe)",
+            "description": "Mickey Mania (Europe)"
+        },
+        {
+            "name": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)",
+            "description": "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)"
+        },
+        {
+            "name": "Microcosm (Europe)",
+            "description": "Microcosm (Europe)"
+        },
+        {
+            "name": "Microcosm (Europe) (Alt)",
+            "description": "Microcosm (Europe) (Alt)"
+        },
+        {
+            "name": "Microcosm (Japan)",
+            "description": "Microcosm (Japan)"
+        },
+        {
+            "name": "Microcosm (USA)",
+            "description": "Microcosm (USA)"
+        },
+        {
+            "name": "Midnight Raiders (Europe)",
+            "description": "Midnight Raiders (Europe)"
+        },
+        {
+            "name": "Midnight Raiders (USA)",
+            "description": "Midnight Raiders (USA)"
+        },
+        {
+            "name": "Might and Magic III - Isles of Terra (Japan)",
+            "description": "Might and Magic III - Isles of Terra (Japan)"
+        },
+        {
+            "name": "Mighty Morphin Power Rangers (Europe)",
+            "description": "Mighty Morphin Power Rangers (Europe)"
+        },
+        {
+            "name": "Mighty Morphin Power Rangers (USA)",
+            "description": "Mighty Morphin Power Rangers (USA)"
+        },
+        {
+            "name": "Mortal Kombat (Europe)",
+            "description": "Mortal Kombat (Europe)"
+        },
+        {
+            "name": "Mortal Kombat (USA)",
+            "description": "Mortal Kombat (USA)"
+        },
+        {
+            "name": "Mortal Kombat Kanzenban (Japan)",
+            "description": "Mortal Kombat Kanzenban (Japan)"
+        },
+        {
+            "name": "My Paint (USA)",
+            "description": "My Paint (USA)"
+        },
+        {
+            "name": "NBA Jam (Europe)",
+            "description": "NBA Jam (Europe)"
+        },
+        {
+            "name": "NBA Jam (Japan)",
+            "description": "NBA Jam (Japan)"
+        },
+        {
+            "name": "NBA Jam (USA)",
+            "description": "NBA Jam (USA)"
+        },
+        {
+            "name": "NFL Football Trivia Challenge (USA)",
+            "description": "NFL Football Trivia Challenge (USA)"
+        },
+        {
+            "name": "NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)",
+            "description": "NFL's Greatest - San Francisco vs. Dallas 1978-1993 (USA)"
+        },
+        {
+            "name": "NHL '94 (USA)",
+            "description": "NHL '94 (USA)"
+        },
+        {
+            "name": "NHL Hockey '94 (Europe)",
+            "description": "NHL Hockey '94 (Europe)"
+        },
+        {
+            "name": "Night Striker (Japan, Korea)",
+            "description": "Night Striker (Japan, Korea)"
+        },
+        {
+            "name": "Night Trap (Europe) ",
+            "description": "Night Trap (Europe) "
+        },
+        {
+            "name": "Night Trap (Europe)  (Mega-CD 32X)",
+            "description": "Night Trap (Europe)  (Mega-CD 32X)"
+        },
+        {
+            "name": "Night Trap (France) ",
+            "description": "Night Trap (France) "
+        },
+        {
+            "name": "Night Trap (Japan) ",
+            "description": "Night Trap (Japan) "
+        },
+        {
+            "name": "Night Trap (USA) ",
+            "description": "Night Trap (USA) "
+        },
+        {
+            "name": "Night Trap (USA)  (Alt)",
+            "description": "Night Trap (USA)  (Alt)"
+        },
+        {
+            "name": "Night Trap (USA)  (Rerelease)",
+            "description": "Night Trap (USA)  (Rerelease)"
+        },
+        {
+            "name": "Night Trap (USA)  (Rerelease) (Alt)",
+            "description": "Night Trap (USA)  (Rerelease) (Alt)"
+        },
+        {
+            "name": "Night Trap (USA)  (Sega CD 32X) (RE-1)",
+            "description": "Night Trap (USA)  (Sega CD 32X) (RE-1)"
+        },
+        {
+            "name": "Ninja Warriors, The (Japan)",
+            "description": "Ninja Warriors, The (Japan)"
+        },
+        {
+            "name": "Nobunaga no Yabou - Haouden (Japan)",
+            "description": "Nobunaga no Yabou - Haouden (Japan)"
+        },
+        {
+            "name": "Nostalgia 1907 - In North Atlantic Sea (Japan)",
+            "description": "Nostalgia 1907 - In North Atlantic Sea (Japan)"
+        },
+        {
+            "name": "Novastorm (Europe)",
+            "description": "Novastorm (Europe)"
+        },
+        {
+            "name": "Novastorm (USA)",
+            "description": "Novastorm (USA)"
+        },
+        {
+            "name": "Panic! (USA) (RE)",
+            "description": "Panic! (USA) (RE)"
+        },
+        {
+            "name": "Pier Solar and the Great Architects - The Definitive Original Soundtrack (Europe)  (Enhanced Soundtrack Disc)",
+            "description": "Pier Solar and the Great Architects - The Definitive Original Soundtrack (Europe)  (Enhanced Soundtrack Disc)"
+        },
+        {
+            "name": "Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)",
+            "description": "Pier Solar and the Great Architects Enhanced Soundtrack Disc (USA)"
+        },
+        {
+            "name": "Pitfall - The Mayan Adventure (Europe)",
+            "description": "Pitfall - The Mayan Adventure (Europe)"
+        },
+        {
+            "name": "Pitfall - The Mayan Adventure (USA)",
+            "description": "Pitfall - The Mayan Adventure (USA)"
+        },
+        {
+            "name": "Popful Mail (USA) (RE)",
+            "description": "Popful Mail (USA) (RE)"
+        },
+        {
+            "name": "PopfulMail (Japan)",
+            "description": "PopfulMail (Japan)"
+        },
+        {
+            "name": "Power Factory (Europe)",
+            "description": "Power Factory (Europe)"
+        },
+        {
+            "name": "Power Factory (USA)",
+            "description": "Power Factory (USA)"
+        },
+        {
+            "name": "Power Monger (USA)",
+            "description": "Power Monger (USA)"
+        },
+        {
+            "name": "PowerMonger (Europe)",
+            "description": "PowerMonger (Europe)"
+        },
+        {
+            "name": "Prince of Persia (Europe)",
+            "description": "Prince of Persia (Europe)"
+        },
+        {
+            "name": "Prince of Persia (Japan)",
+            "description": "Prince of Persia (Japan)"
+        },
+        {
+            "name": "Prince of Persia (USA)",
+            "description": "Prince of Persia (USA)"
+        },
+        {
+            "name": "Prize Fighter (Europe) ",
+            "description": "Prize Fighter (Europe) "
+        },
+        {
+            "name": "Prize Fighter (Japan) ",
+            "description": "Prize Fighter (Japan) "
+        },
+        {
+            "name": "Prize Fighter (USA) ",
+            "description": "Prize Fighter (USA) "
+        },
+        {
+            "name": "Prize Fighter (USA)  (Alt)",
+            "description": "Prize Fighter (USA)  (Alt)"
+        },
+        {
+            "name": "Pro Yakyuu Super League CD (Japan)",
+            "description": "Pro Yakyuu Super League CD (Japan)"
+        },
+        {
+            "name": "Psychic Detective Series Vol. 3 - Aya (Japan)",
+            "description": "Psychic Detective Series Vol. 3 - Aya (Japan)"
+        },
+        {
+            "name": "Psychic Detective Series Vol. 4 - Orgel (Japan)",
+            "description": "Psychic Detective Series Vol. 4 - Orgel (Japan)"
+        },
+        {
+            "name": "Psygnosis Christmas Sampler (Europe)",
+            "description": "Psygnosis Christmas Sampler (Europe)"
+        },
+        {
+            "name": "Psygnosis Christmas Sampler (Europe) (Alt)",
+            "description": "Psygnosis Christmas Sampler (Europe) (Alt)"
+        },
+        {
+            "name": "Puggsy (Europe)",
+            "description": "Puggsy (Europe)"
+        },
+        {
+            "name": "Puggsy (USA)",
+            "description": "Puggsy (USA)"
+        },
+        {
+            "name": "Quiz Scramble Special (Japan) (Rev B)",
+            "description": "Quiz Scramble Special (Japan) (Rev B)"
+        },
+        {
+            "name": "Quiz Tonosama no Yabou (Japan)",
+            "description": "Quiz Tonosama no Yabou (Japan)"
+        },
+        {
+            "name": "Racing Aces (USA)",
+            "description": "Racing Aces (USA)"
+        },
+        {
+            "name": "Radical Rex (USA)",
+            "description": "Radical Rex (USA)"
+        },
+        {
+            "name": "Ranma 1-2 - Byakuranaika (Japan)",
+            "description": "Ranma 1-2 - Byakuranaika (Japan)"
+        },
+        {
+            "name": "RDF - Global Conflict (USA)",
+            "description": "RDF - Global Conflict (USA)"
+        },
+        {
+            "name": "Record of Lodoss War (Japan)",
+            "description": "Record of Lodoss War (Japan)"
+        },
+        {
+            "name": "Revenge of the Ninja (USA)",
+            "description": "Revenge of the Ninja (USA)"
+        },
+        {
+            "name": "Revengers of Vengeance (USA)",
+            "description": "Revengers of Vengeance (USA)"
+        },
+        {
+            "name": "Rise of the Dragon (USA)",
+            "description": "Rise of the Dragon (USA)"
+        },
+        {
+            "name": "Rise of the Dragon (USA) (Rerelease) (RE)",
+            "description": "Rise of the Dragon (USA) (Rerelease) (RE)"
+        },
+        {
+            "name": "Rise of the Dragon - A Blade Hunter Mystery (Japan)",
+            "description": "Rise of the Dragon - A Blade Hunter Mystery (Japan)"
+        },
+        {
+            "name": "Road Avenger (Europe)",
+            "description": "Road Avenger (Europe)"
+        },
+        {
+            "name": "Road Avenger (USA)",
+            "description": "Road Avenger (USA)"
+        },
+        {
+            "name": "Road Blaster FX (Japan)",
+            "description": "Road Blaster FX (Japan)"
+        },
+        {
+            "name": "Road Rash (USA)",
+            "description": "Road Rash (USA)"
+        },
+        {
+            "name": "Robo Aleste (Europe)",
+            "description": "Robo Aleste (Europe)"
+        },
+        {
+            "name": "Robo Aleste (USA)",
+            "description": "Robo Aleste (USA)"
+        },
+        {
+            "name": "Samurai Shodown (Europe)",
+            "description": "Samurai Shodown (Europe)"
+        },
+        {
+            "name": "Samurai Shodown (USA) (RE)",
+            "description": "Samurai Shodown (USA) (RE)"
+        },
+        {
+            "name": "Sangokushi III (Japan)",
+            "description": "Sangokushi III (Japan)"
+        },
+        {
+            "name": "Secret of Monkey Island, The (Japan)",
+            "description": "Secret of Monkey Island, The (Japan)"
+        },
+        {
+            "name": "Secret of Monkey Island, The (USA) (RE)",
+            "description": "Secret of Monkey Island, The (USA) (RE)"
+        },
+        {
+            "name": "Sega Classic Arcade Collection - Limited Edition (Japan)",
+            "description": "Sega Classic Arcade Collection - Limited Edition (Japan)"
+        },
+        {
+            "name": "Sega Classics Arcade Collection (USA) (4-in-1) (RE)",
+            "description": "Sega Classics Arcade Collection (USA) (4-in-1) (RE)"
+        },
+        {
+            "name": "Sega Classics Arcade Collection (USA) (4-in-1) (RE2)",
+            "description": "Sega Classics Arcade Collection (USA) (4-in-1) (RE2)"
+        },
+        {
+            "name": "Sega Classics Arcade Collection (USA) (5-in-1)",
+            "description": "Sega Classics Arcade Collection (USA) (5-in-1)"
+        },
+        {
+            "name": "Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A)",
+            "description": "Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A)"
+        },
+        {
+            "name": "Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)",
+            "description": "Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A) (Alt)"
+        },
+        {
+            "name": "Seima Densetsu 3x3 Eyes (Japan, Korea)",
+            "description": "Seima Densetsu 3x3 Eyes (Japan, Korea)"
+        },
+        {
+            "name": "Seirei Shinseiki - Fhey Area (Japan)",
+            "description": "Seirei Shinseiki - Fhey Area (Japan)"
+        },
+        {
+            "name": "Sengoku Denshou (Japan)",
+            "description": "Sengoku Denshou (Japan)"
+        },
+        {
+            "name": "Sensible Soccer (Europe)",
+            "description": "Sensible Soccer (Europe)"
+        },
+        {
+            "name": "Sewer Shark (Europe)",
+            "description": "Sewer Shark (Europe)"
+        },
+        {
+            "name": "Sewer Shark (USA)",
+            "description": "Sewer Shark (USA)"
+        },
+        {
+            "name": "Sewer Shark (USA) (Not for Resale)",
+            "description": "Sewer Shark (USA) (Not for Resale)"
+        },
+        {
+            "name": "Sewer Shark (USA) (Not for Resale) (Alt 1)",
+            "description": "Sewer Shark (USA) (Not for Resale) (Alt 1)"
+        },
+        {
+            "name": "Sewer Shark (USA) (Not for Resale) (Alt 2)",
+            "description": "Sewer Shark (USA) (Not for Resale) (Alt 2)"
+        },
+        {
+            "name": "Sewer Shark (USA) (Rev 1)",
+            "description": "Sewer Shark (USA) (Rev 1)"
+        },
+        {
+            "name": "Shadow of the Beast II (USA)",
+            "description": "Shadow of the Beast II (USA)"
+        },
+        {
+            "name": "Shadow of the Beast II - Juushin no Jubaku (Japan)",
+            "description": "Shadow of the Beast II - Juushin no Jubaku (Japan)"
+        },
+        {
+            "name": "Shadowrun (Japan)",
+            "description": "Shadowrun (Japan)"
+        },
+        {
+            "name": "Sherlock Holmes - Consulting Detective (Europe)",
+            "description": "Sherlock Holmes - Consulting Detective (Europe)"
+        },
+        {
+            "name": "Sherlock Holmes - Consulting Detective (USA)",
+            "description": "Sherlock Holmes - Consulting Detective (USA)"
+        },
+        {
+            "name": "Sherlock Holmes - Consulting Detective Vol. II (Europe) ",
+            "description": "Sherlock Holmes - Consulting Detective Vol. II (Europe) "
+        },
+        {
+            "name": "Sherlock Holmes - Consulting Detective Vol. II (USA) ",
+            "description": "Sherlock Holmes - Consulting Detective Vol. II (USA) "
+        },
+        {
+            "name": "Shin Megami Tensei (Japan)",
+            "description": "Shin Megami Tensei (Japan)"
+        },
+        {
+            "name": "Shining Force CD (Europe)",
+            "description": "Shining Force CD (Europe)"
+        },
+        {
+            "name": "Shining Force CD (Japan)",
+            "description": "Shining Force CD (Japan)"
+        },
+        {
+            "name": "Shining Force CD (USA) (3R)",
+            "description": "Shining Force CD (USA) (3R)"
+        },
+        {
+            "name": "Shining Force CD (USA) (5R, 6R)",
+            "description": "Shining Force CD (USA) (5R, 6R)"
+        },
+        {
+            "name": "Silpheed (Europe)",
+            "description": "Silpheed (Europe)"
+        },
+        {
+            "name": "Silpheed (Japan)",
+            "description": "Silpheed (Japan)"
+        },
+        {
+            "name": "Silpheed (USA)",
+            "description": "Silpheed (USA)"
+        },
+        {
+            "name": "SimEarth (Japan)",
+            "description": "SimEarth (Japan)"
+        },
+        {
+            "name": "Sing!! Sega Game Music Presented by B. B. Queens (Japan)",
+            "description": "Sing!! Sega Game Music Presented by B. B. Queens (Japan)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Fingers)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Fingers)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Fingers) (Mega-CD 32X)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Fingers) (Mega-CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Juice)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Juice)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Juice) (Mega-CD 32X)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Juice) (Mega-CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Mad Dog)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Mad Dog)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Mad Dog) (Mega-CD 32X)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Mad Dog) (Mega-CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Smash)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Smash)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (Europe)  (Smash) (Mega-CD 32X)",
+            "description": "Slam City with Scottie Pippen (Europe)  (Smash) (Mega-CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA)  (Fingers)",
+            "description": "Slam City with Scottie Pippen (USA)  (Fingers)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA)  (Fingers) (Sega CD 32X)",
+            "description": "Slam City with Scottie Pippen (USA)  (Fingers) (Sega CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA)  (Juice) (Sega CD 32X)",
+            "description": "Slam City with Scottie Pippen (USA)  (Juice) (Sega CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA)  (Mad Dog)",
+            "description": "Slam City with Scottie Pippen (USA)  (Mad Dog)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA)  (Mad Dog) (Sega CD 32X)",
+            "description": "Slam City with Scottie Pippen (USA)  (Mad Dog) (Sega CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA)  (Smash) (RE-1)",
+            "description": "Slam City with Scottie Pippen (USA)  (Smash) (RE-1)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA)  (Smash) (Sega CD 32X)",
+            "description": "Slam City with Scottie Pippen (USA)  (Smash) (Sega CD 32X)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA, Brazil)  (Fingers) (RE-1)",
+            "description": "Slam City with Scottie Pippen (USA, Brazil)  (Fingers) (RE-1)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA, Brazil)  (Juice) (RE-1)",
+            "description": "Slam City with Scottie Pippen (USA, Brazil)  (Juice) (RE-1)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA, Brazil)  (Mad Dog) (RE-1)",
+            "description": "Slam City with Scottie Pippen (USA, Brazil)  (Mad Dog) (RE-1)"
+        },
+        {
+            "name": "Slam City with Scottie Pippen (USA, Brazil)  (Smash)",
+            "description": "Slam City with Scottie Pippen (USA, Brazil)  (Smash)"
+        },
+        {
+            "name": "Smurfs, The (Europe) (En,Fr,De,Es,It)",
+            "description": "Smurfs, The (Europe) (En,Fr,De,Es,It)"
+        },
+        {
+            "name": "Snatcher (Europe)",
+            "description": "Snatcher (Europe)"
+        },
+        {
+            "name": "Snatcher (USA)",
+            "description": "Snatcher (USA)"
+        },
+        {
+            "name": "Software Toolworks' Star Wars Chess, The (Europe)",
+            "description": "Software Toolworks' Star Wars Chess, The (Europe)"
+        },
+        {
+            "name": "Software Toolworks' Star Wars Chess, The (USA)",
+            "description": "Software Toolworks' Star Wars Chess, The (USA)"
+        },
+        {
+            "name": "Software Toolworks' Star Wars Chess, The (USA) (Alt)",
+            "description": "Software Toolworks' Star Wars Chess, The (USA) (Alt)"
+        },
+        {
+            "name": "Sol-Feace (Europe)",
+            "description": "Sol-Feace (Europe)"
+        },
+        {
+            "name": "Sol-Feace (Europe) (Alt)",
+            "description": "Sol-Feace (Europe) (Alt)"
+        },
+        {
+            "name": "Sol-Feace (Japan)",
+            "description": "Sol-Feace (Japan)"
+        },
+        {
+            "name": "Sol-Feace (USA) (RE2)",
+            "description": "Sol-Feace (USA) (RE2)"
+        },
+        {
+            "name": "Sonic CD (Europe)",
+            "description": "Sonic CD (Europe)"
+        },
+        {
+            "name": "Sonic CD (USA)",
+            "description": "Sonic CD (USA)"
+        },
+        {
+            "name": "Sonic CD (USA) (RE125)",
+            "description": "Sonic CD (USA) (RE125)"
+        },
+        {
+            "name": "Sonic CD (USA) (RE125) (Alt)",
+            "description": "Sonic CD (USA) (RE125) (Alt)"
+        },
+        {
+            "name": "Sonic The Hedgehog CD (Japan)",
+            "description": "Sonic The Hedgehog CD (Japan)"
+        },
+        {
+            "name": "SoulStar (Europe) (En,Fr,De)",
+            "description": "SoulStar (Europe) (En,Fr,De)"
+        },
+        {
+            "name": "SoulStar (Japan)",
+            "description": "SoulStar (Japan)"
+        },
+        {
+            "name": "SoulStar (USA)",
+            "description": "SoulStar (USA)"
+        },
+        {
+            "name": "Space Ace (USA)",
+            "description": "Space Ace (USA)"
+        },
+        {
+            "name": "Space Adventure, The - Cobra - The Legendary Bandit (Europe)",
+            "description": "Space Adventure, The - Cobra - The Legendary Bandit (Europe)"
+        },
+        {
+            "name": "Space Adventure, The - Cobra - The Legendary Bandit (USA)",
+            "description": "Space Adventure, The - Cobra - The Legendary Bandit (USA)"
+        },
+        {
+            "name": "Star Wars - Rebel Assault (Europe)",
+            "description": "Star Wars - Rebel Assault (Europe)"
+        },
+        {
+            "name": "Star Wars - Rebel Assault (Japan)",
+            "description": "Star Wars - Rebel Assault (Japan)"
+        },
+        {
+            "name": "Star Wars - Rebel Assault (USA)",
+            "description": "Star Wars - Rebel Assault (USA)"
+        },
+        {
+            "name": "Star Wars - Rebel Assault (USA) (Limited Run Games)",
+            "description": "Star Wars - Rebel Assault (USA) (Limited Run Games)"
+        },
+        {
+            "name": "Starblade (Europe)",
+            "description": "Starblade (Europe)"
+        },
+        {
+            "name": "Starblade (Japan)",
+            "description": "Starblade (Japan)"
+        },
+        {
+            "name": "Starblade (USA)",
+            "description": "Starblade (USA)"
+        },
+        {
+            "name": "Stellar-Fire (USA)",
+            "description": "Stellar-Fire (USA)"
+        },
+        {
+            "name": "Supreme Warrior (Europe) ",
+            "description": "Supreme Warrior (Europe) "
+        },
+        {
+            "name": "Supreme Warrior (Europe)  (Mega-CD 32X)",
+            "description": "Supreme Warrior (Europe)  (Mega-CD 32X)"
+        },
+        {
+            "name": "Supreme Warrior (USA)  (Fire & Earth)",
+            "description": "Supreme Warrior (USA)  (Fire & Earth)"
+        },
+        {
+            "name": "Supreme Warrior (USA)  (Fire & Earth) (Sega CD 32X)",
+            "description": "Supreme Warrior (USA)  (Fire & Earth) (Sega CD 32X)"
+        },
+        {
+            "name": "Supreme Warrior (USA)  (Wind & Fang Tu)",
+            "description": "Supreme Warrior (USA)  (Wind & Fang Tu)"
+        },
+        {
+            "name": "Supreme Warrior (USA)  (Wind & Fang Tu) (Sega CD 32X)",
+            "description": "Supreme Warrior (USA)  (Wind & Fang Tu) (Sega CD 32X)"
+        },
+        {
+            "name": "Surgical Strike (Brazil) (Sega CD 32X)",
+            "description": "Surgical Strike (Brazil) (Sega CD 32X)"
+        },
+        {
+            "name": "Surgical Strike (Europe)",
+            "description": "Surgical Strike (Europe)"
+        },
+        {
+            "name": "Surgical Strike (Japan)",
+            "description": "Surgical Strike (Japan)"
+        },
+        {
+            "name": "Surgical Strike (USA)",
+            "description": "Surgical Strike (USA)"
+        },
+        {
+            "name": "Surgical Strike (USA) (Alt)",
+            "description": "Surgical Strike (USA) (Alt)"
+        },
+        {
+            "name": "Switch (Japan)",
+            "description": "Switch (Japan)"
+        },
+        {
+            "name": "Syndicate (Europe)",
+            "description": "Syndicate (Europe)"
+        },
+        {
+            "name": "Tenbu Mega CD Special (Japan)",
+            "description": "Tenbu Mega CD Special (Japan)"
+        },
+        {
+            "name": "Tenkafubu - Eiyuutachi no Houkou (Japan)",
+            "description": "Tenkafubu - Eiyuutachi no Houkou (Japan)"
+        },
+        {
+            "name": "Terminator, The (Europe)",
+            "description": "Terminator, The (Europe)"
+        },
+        {
+            "name": "Terminator, The (USA)",
+            "description": "Terminator, The (USA)"
+        },
+        {
+            "name": "Theme Park (Europe)",
+            "description": "Theme Park (Europe)"
+        },
+        {
+            "name": "Third World War (USA)",
+            "description": "Third World War (USA)"
+        },
+        {
+            "name": "Thunder Storm FX (Japan)",
+            "description": "Thunder Storm FX (Japan)"
+        },
+        {
+            "name": "Thunderhawk (Europe) (En,Fr,De,Es) (RE)",
+            "description": "Thunderhawk (Europe) (En,Fr,De,Es) (RE)"
+        },
+        {
+            "name": "Thunderhawk (Japan)",
+            "description": "Thunderhawk (Japan)"
+        },
+        {
+            "name": "Time Gal (Europe)",
+            "description": "Time Gal (Europe)"
+        },
+        {
+            "name": "Time Gal (Japan)",
+            "description": "Time Gal (Japan)"
+        },
+        {
+            "name": "Time Gal (USA)",
+            "description": "Time Gal (USA)"
+        },
+        {
+            "name": "Tomcat Alley (Australia)",
+            "description": "Tomcat Alley (Australia)"
+        },
+        {
+            "name": "Tomcat Alley (Europe)",
+            "description": "Tomcat Alley (Europe)"
+        },
+        {
+            "name": "Tomcat Alley (France)",
+            "description": "Tomcat Alley (France)"
+        },
+        {
+            "name": "Tomcat Alley (Germany)",
+            "description": "Tomcat Alley (Germany)"
+        },
+        {
+            "name": "Tomcat Alley (Japan)",
+            "description": "Tomcat Alley (Japan)"
+        },
+        {
+            "name": "Tomcat Alley (Spain)",
+            "description": "Tomcat Alley (Spain)"
+        },
+        {
+            "name": "Tomcat Alley (USA)",
+            "description": "Tomcat Alley (USA)"
+        },
+        {
+            "name": "Tomcat Alley (USA) (Alt)",
+            "description": "Tomcat Alley (USA) (Alt)"
+        },
+        {
+            "name": "Trivial Pursuit (USA)",
+            "description": "Trivial Pursuit (USA)"
+        },
+        {
+            "name": "Ultraverse Prime (USA)",
+            "description": "Ultraverse Prime (USA)"
+        },
+        {
+            "name": "Urusei Yatsura - Dear My Friends (Japan)",
+            "description": "Urusei Yatsura - Dear My Friends (Japan)"
+        },
+        {
+            "name": "Vay (USA)",
+            "description": "Vay (USA)"
+        },
+        {
+            "name": "Vay - Ryuusei no Yoroi (Japan)",
+            "description": "Vay - Ryuusei no Yoroi (Japan)"
+        },
+        {
+            "name": "Wakusei Woodstock - Funky Horror Band (Japan)",
+            "description": "Wakusei Woodstock - Funky Horror Band (Japan)"
+        },
+        {
+            "name": "Warau Salesman (Japan)",
+            "description": "Warau Salesman (Japan)"
+        },
+        {
+            "name": "What is X'Eye Multi Entertainment System (USA)",
+            "description": "What is X'Eye Multi Entertainment System (USA)"
+        },
+        {
+            "name": "Wheel of Fortune (USA)",
+            "description": "Wheel of Fortune (USA)"
+        },
+        {
+            "name": "Who Shot Johnny Rock (USA)",
+            "description": "Who Shot Johnny Rock (USA)"
+        },
+        {
+            "name": "Wild Woody (USA)",
+            "description": "Wild Woody (USA)"
+        },
+        {
+            "name": "Wing Commander (Japan)",
+            "description": "Wing Commander (Japan)"
+        },
+        {
+            "name": "Wing Commander (USA)",
+            "description": "Wing Commander (USA)"
+        },
+        {
+            "name": "Winning Post (Japan)",
+            "description": "Winning Post (Japan)"
+        },
+        {
+            "name": "WireHead (USA)",
+            "description": "WireHead (USA)"
+        },
+        {
+            "name": "Wolfchild (Europe)",
+            "description": "Wolfchild (Europe)"
+        },
+        {
+            "name": "Wolfchild (Japan)",
+            "description": "Wolfchild (Japan)"
+        },
+        {
+            "name": "Wolfchild (USA)",
+            "description": "Wolfchild (USA)"
+        },
+        {
+            "name": "Wonder Dog (Europe)",
+            "description": "Wonder Dog (Europe)"
+        },
+        {
+            "name": "Wonder Dog (Japan)",
+            "description": "Wonder Dog (Japan)"
+        },
+        {
+            "name": "Wonder Dog (USA) (RE)",
+            "description": "Wonder Dog (USA) (RE)"
+        },
+        {
+            "name": "WonderMega Collection (Japan) (Rev 2)",
+            "description": "WonderMega Collection (Japan) (Rev 2)"
+        },
+        {
+            "name": "World Cup USA '94 (Europe)",
+            "description": "World Cup USA '94 (Europe)"
+        },
+        {
+            "name": "World Cup USA '94 (USA)",
+            "description": "World Cup USA '94 (USA)"
+        },
+        {
+            "name": "WWF - Rage in the Cage (Europe)",
+            "description": "WWF - Rage in the Cage (Europe)"
+        },
+        {
+            "name": "WWF - Rage in the Cage (USA)",
+            "description": "WWF - Rage in the Cage (USA)"
+        },
+        {
+            "name": "WWF Mania Tour - WWF - Rage in the Cage (Japan)",
+            "description": "WWF Mania Tour - WWF - Rage in the Cage (Japan)"
+        },
+        {
+            "name": "Yumemi Mystery Mansion (Australia)",
+            "description": "Yumemi Mystery Mansion (Australia)"
+        },
+        {
+            "name": "Yumemi Mystery Mansion (Europe) (Made in EU)",
+            "description": "Yumemi Mystery Mansion (Europe) (Made in EU)"
+        },
+        {
+            "name": "Yumemi Mystery Mansion (Europe) (Made in Japan)",
+            "description": "Yumemi Mystery Mansion (Europe) (Made in Japan)"
+        },
+        {
+            "name": "Yumemi Yakata no Monogatari (Japan)",
+            "description": "Yumemi Yakata no Monogatari (Japan)"
+        },
+        {
+            "name": "Yumimi Mix (Japan)",
+            "description": "Yumimi Mix (Japan)"
+        }
+    ]
+}

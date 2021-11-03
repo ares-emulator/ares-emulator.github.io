@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<ol>
+    <li><a href='/index'><span>ares</span></a></li>
+    <li><a href='/compatibility'><span>compatibility</span></a></li>
+    <li><a href='/compatibility/{{page.title}}'><span>{{ page.title }}</span></a></li>
+</ol>
+
+<h2 id="compatibility">{{ page.title }}</h2>
+
+{% capture file %}{{ page.title | replace: '(', '' | replace: ')', '' | replace: '& ', '' | replace: ' ', '_' }}{% endcapture %}
+
+<table>
+    <tr>
+        <th>Game</th>
+        <th>Status</th>
+        <th>Notes</th>
+        <th></th>
+    </tr>
+    {% for game in site.data.romsets[file].games %}
+        {% assign compatibility = site.data.compatibility[file].games[game.description] %}
+        <tr>
+            <td id="{{ game.description }}">{{ game.description }}</td>
+            <td>
+                {% if compatibility.status == "Working" %}
+                    <span style="color: green">Working</span> ({{ compatibility.version }})
+                {% elsif compatibility.status == "Not Working" %}
+                    <span style="color: red">Not Working</span> ({{ compatibility.version }})
+                {% else %}
+                    <span style="color: orange">Unknown</span>
+                {% endif %}
+                
+            </td>
+            <td>
+                {{ compatibility.notes }}
+            </td>
+            <td><a href="/compatibility/{{page.title}}-edit">Edit</a></td>
+        </tr>
+    {% endfor %}
+</table>

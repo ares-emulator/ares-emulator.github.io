@@ -1,0 +1,383 @@
+{
+    "header": {
+        "name": "SNK - Neo Geo Pocket Color",
+        "description": "SNK - Neo Geo Pocket Color",
+        "version": "20211029-162358",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)",
+            "description": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)"
+        },
+        {
+            "name": "Baseball Stars Color - Pocket Sports Series (World) (En,Ja)",
+            "description": "Baseball Stars Color - Pocket Sports Series (World) (En,Ja)"
+        },
+        {
+            "name": "Big Bang Pro Wrestling (Japan) (En,Ja)",
+            "description": "Big Bang Pro Wrestling (Japan) (En,Ja)"
+        },
+        {
+            "name": "Bikkuriman 2000 - Viva! Pocket Festival! (Japan)",
+            "description": "Bikkuriman 2000 - Viva! Pocket Festival! (Japan)"
+        },
+        {
+            "name": "Biomotor Unitron (Japan)",
+            "description": "Biomotor Unitron (Japan)"
+        },
+        {
+            "name": "Biomotor Unitron (USA, Europe)",
+            "description": "Biomotor Unitron (USA, Europe)"
+        },
+        {
+            "name": "Bust-A-Move Pocket (USA)",
+            "description": "Bust-A-Move Pocket (USA)"
+        },
+        {
+            "name": "Cool Boarders Pocket (Japan, Europe) (En,Ja)",
+            "description": "Cool Boarders Pocket (Japan, Europe) (En,Ja)"
+        },
+        {
+            "name": "Cool Cool Jam (Japan)",
+            "description": "Cool Cool Jam (Japan)"
+        },
+        {
+            "name": "Crush Roller (World) (En,Ja)",
+            "description": "Crush Roller (World) (En,Ja)"
+        },
+        {
+            "name": "Dark Arms - Beast Buster 1999 (World) (En,Ja)",
+            "description": "Dark Arms - Beast Buster 1999 (World) (En,Ja)"
+        },
+        {
+            "name": "Delta Warp (Japan) (En,Ja)",
+            "description": "Delta Warp (Japan) (En,Ja)"
+        },
+        {
+            "name": "Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)",
+            "description": "Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)"
+        },
+        {
+            "name": "Densha de Go! 2 on Neo Geo Pocket (Japan)",
+            "description": "Densha de Go! 2 on Neo Geo Pocket (Japan)"
+        },
+        {
+            "name": "Dive Alert - Becky's Version (USA, Europe)",
+            "description": "Dive Alert - Becky's Version (USA, Europe)"
+        },
+        {
+            "name": "Dive Alert - Burn Hen (Japan)",
+            "description": "Dive Alert - Burn Hen (Japan)"
+        },
+        {
+            "name": "Dive Alert - Matt's Version (USA, Europe)",
+            "description": "Dive Alert - Matt's Version (USA, Europe)"
+        },
+        {
+            "name": "Dive Alert - Rebecca Hen (Japan)",
+            "description": "Dive Alert - Rebecca Hen (Japan)"
+        },
+        {
+            "name": "Dokodemo Mahjong (Japan)",
+            "description": "Dokodemo Mahjong (Japan)"
+        },
+        {
+            "name": "Dynamite Slugger (Japan, Europe) (En,Ja)",
+            "description": "Dynamite Slugger (Japan, Europe) (En,Ja)"
+        },
+        {
+            "name": "Evolution - Eternal Dungeons (Europe)",
+            "description": "Evolution - Eternal Dungeons (Europe)"
+        },
+        {
+            "name": "Fantastic Night Dreams - Cotton (Europe)",
+            "description": "Fantastic Night Dreams - Cotton (Europe)"
+        },
+        {
+            "name": "Fantastic Night Dreams - Cotton (Japan)",
+            "description": "Fantastic Night Dreams - Cotton (Japan)"
+        },
+        {
+            "name": "Faselei! (Japan)",
+            "description": "Faselei! (Japan)"
+        },
+        {
+            "name": "Faselei! (USA, Europe)",
+            "description": "Faselei! (USA, Europe)"
+        },
+        {
+            "name": "Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)",
+            "description": "Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)"
+        },
+        {
+            "name": "Ganbare Neo Poke-kun (Kari) (Japan)",
+            "description": "Ganbare Neo Poke-kun (Kari) (Japan)"
+        },
+        {
+            "name": "Infinity Cure (Japan)",
+            "description": "Infinity Cure (Japan)"
+        },
+        {
+            "name": "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)",
+            "description": "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)"
+        },
+        {
+            "name": "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)",
+            "description": "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)"
+        },
+        {
+            "name": "King of Fighters, The - Battle de Paradise (Japan)",
+            "description": "King of Fighters, The - Battle de Paradise (Japan)"
+        },
+        {
+            "name": "Koi Koi Mahjong (Japan)",
+            "description": "Koi Koi Mahjong (Japan)"
+        },
+        {
+            "name": "Last Blade, The - Beyond the Destiny (USA, Europe)",
+            "description": "Last Blade, The - Beyond the Destiny (USA, Europe)"
+        },
+        {
+            "name": "Magical Drop Pocket (Japan)",
+            "description": "Magical Drop Pocket (Japan)"
+        },
+        {
+            "name": "Magical Drop Pocket (USA, Europe)",
+            "description": "Magical Drop Pocket (USA, Europe)"
+        },
+        {
+            "name": "Memories Off - Pure (Japan)",
+            "description": "Memories Off - Pure (Japan)"
+        },
+        {
+            "name": "Metal Slug - 1st Mission (World) (En,Ja)",
+            "description": "Metal Slug - 1st Mission (World) (En,Ja)"
+        },
+        {
+            "name": "Metal Slug - 2nd Mission (World) (En,Ja)",
+            "description": "Metal Slug - 2nd Mission (World) (En,Ja)"
+        },
+        {
+            "name": "Mezase! Kanji Ou (Japan)",
+            "description": "Mezase! Kanji Ou (Japan)"
+        },
+        {
+            "name": "Mizuki Shigeru no Youkai Shashinkan (Japan)",
+            "description": "Mizuki Shigeru no Youkai Shashinkan (Japan)"
+        },
+        {
+            "name": "Neo 21 - Pocket Casino Series (World)",
+            "description": "Neo 21 - Pocket Casino Series (World)"
+        },
+        {
+            "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe)",
+            "description": "Neo Baccarat - Pocket Casino Series (Japan, Europe)"
+        },
+        {
+            "name": "Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1)",
+            "description": "Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1)"
+        },
+        {
+            "name": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)",
+            "description": "Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)"
+        },
+        {
+            "name": "Neo Derby Champ Daiyosou (Japan)",
+            "description": "Neo Derby Champ Daiyosou (Japan)"
+        },
+        {
+            "name": "Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)",
+            "description": "Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja)"
+        },
+        {
+            "name": "Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)",
+            "description": "Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)"
+        },
+        {
+            "name": "Neo Poke Pro Yakyuu (Japan) (v1F)",
+            "description": "Neo Poke Pro Yakyuu (Japan) (v1F)"
+        },
+        {
+            "name": "Neo Poke Pro Yakyuu (Japan) (v32)",
+            "description": "Neo Poke Pro Yakyuu (Japan) (v32)"
+        },
+        {
+            "name": "Neo Turf Masters (World) (En,Ja)",
+            "description": "Neo Turf Masters (World) (En,Ja)"
+        },
+        {
+            "name": "NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)",
+            "description": "NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)"
+        },
+        {
+            "name": "Nige-ron-pa (Japan)",
+            "description": "Nige-ron-pa (Japan)"
+        },
+        {
+            "name": "Oekaki Puzzle (Japan)",
+            "description": "Oekaki Puzzle (Japan)"
+        },
+        {
+            "name": "Pac-Man (World) (En,Ja)",
+            "description": "Pac-Man (World) (En,Ja)"
+        },
+        {
+            "name": "Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)",
+            "description": "Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)"
+        },
+        {
+            "name": "Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)",
+            "description": "Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)"
+        },
+        {
+            "name": "Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)",
+            "description": "Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)"
+        },
+        {
+            "name": "Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan)",
+            "description": "Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan)"
+        },
+        {
+            "name": "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)",
+            "description": "Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan)"
+        },
+        {
+            "name": "Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)",
+            "description": "Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)"
+        },
+        {
+            "name": "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)",
+            "description": "Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)"
+        },
+        {
+            "name": "Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b]",
+            "description": "Pachi-slot Aruze Oukoku Porcano 2 (Japan) [b]"
+        },
+        {
+            "name": "Pachinko Hisshou Guide - Pocket Parlor (Japan)",
+            "description": "Pachinko Hisshou Guide - Pocket Parlor (Japan)"
+        },
+        {
+            "name": "Party Mail (Japan)",
+            "description": "Party Mail (Japan)"
+        },
+        {
+            "name": "Picture Puzzle (Europe)",
+            "description": "Picture Puzzle (Europe)"
+        },
+        {
+            "name": "Pocket Love - if (Japan)",
+            "description": "Pocket Love - if (Japan)"
+        },
+        {
+            "name": "Pocket Reversi (Europe)",
+            "description": "Pocket Reversi (Europe)"
+        },
+        {
+            "name": "Pocket Reversi (Japan)",
+            "description": "Pocket Reversi (Japan)"
+        },
+        {
+            "name": "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)",
+            "description": "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)"
+        },
+        {
+            "name": "PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)",
+            "description": "PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan)"
+        },
+        {
+            "name": "Puyo Pop (World) (En,Ja)",
+            "description": "Puyo Pop (World) (En,Ja)"
+        },
+        {
+            "name": "Puyo Pop (World) (En,Ja) (v1.05)",
+            "description": "Puyo Pop (World) (En,Ja) (v1.05)"
+        },
+        {
+            "name": "Puzzle Bobble Mini (Japan, Europe)",
+            "description": "Puzzle Bobble Mini (Japan, Europe)"
+        },
+        {
+            "name": "Puzzle Link (USA, Europe)",
+            "description": "Puzzle Link (USA, Europe)"
+        },
+        {
+            "name": "Puzzle Link 2 (USA, Europe)",
+            "description": "Puzzle Link 2 (USA, Europe)"
+        },
+        {
+            "name": "Renketsu Puzzle Tsunagete Pon! Color (Japan)",
+            "description": "Renketsu Puzzle Tsunagete Pon! Color (Japan)"
+        },
+        {
+            "name": "Rockman - Battle & Fighters (Japan)",
+            "description": "Rockman - Battle & Fighters (Japan)"
+        },
+        {
+            "name": "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)",
+            "description": "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)"
+        },
+        {
+            "name": "Shanghai Mini (World) (En,Ja)",
+            "description": "Shanghai Mini (World) (En,Ja)"
+        },
+        {
+            "name": "Shinki Sekai Evolution - Hateshinai Dungeon (Japan)",
+            "description": "Shinki Sekai Evolution - Hateshinai Dungeon (Japan)"
+        },
+        {
+            "name": "Shougi no Tatsujin Color (Japan)",
+            "description": "Shougi no Tatsujin Color (Japan)"
+        },
+        {
+            "name": "SNK Gals' Fighters (Japan)",
+            "description": "SNK Gals' Fighters (Japan)"
+        },
+        {
+            "name": "SNK Gals' Fighters (USA, Europe)",
+            "description": "SNK Gals' Fighters (USA, Europe)"
+        },
+        {
+            "name": "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)",
+            "description": "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)"
+        },
+        {
+            "name": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)",
+            "description": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)"
+        },
+        {
+            "name": "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)",
+            "description": "SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)"
+        },
+        {
+            "name": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)",
+            "description": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
+        },
+        {
+            "name": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)",
+            "description": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)"
+        },
+        {
+            "name": "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)",
+            "description": "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)"
+        },
+        {
+            "name": "Sonic The Hedgehog - Pocket Adventure (World)",
+            "description": "Sonic The Hedgehog - Pocket Adventure (World)"
+        },
+        {
+            "name": "Soreike!! Hanafuda Doujou (Japan)",
+            "description": "Soreike!! Hanafuda Doujou (Japan)"
+        },
+        {
+            "name": "Super Real Mahjong - Premium Collection (Japan)",
+            "description": "Super Real Mahjong - Premium Collection (Japan)"
+        },
+        {
+            "name": "Tsunagete Pon! 2 (Japan)",
+            "description": "Tsunagete Pon! 2 (Japan)"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "header": {
+        "name": "Sega - 32X",
+        "description": "Sega - 32X",
+        "version": "20210904-212532",
+        "homepage": "No-Intro",
+        "url": "http:\/\/www.no-intro.org"
+    },
+    "games": [
+        {
+            "name": "32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)",
+            "description": "32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)"
+        },
+        {
+            "name": "After Burner Complete (Europe)",
+            "description": "After Burner Complete (Europe)"
+        },
+        {
+            "name": "After Burner Complete ~ After Burner (Japan, USA)",
+            "description": "After Burner Complete ~ After Burner (Japan, USA)"
+        },
+        {
+            "name": "Amazing Spider-Man, The - Web of Fire (USA)",
+            "description": "Amazing Spider-Man, The - Web of Fire (USA)"
+        },
+        {
+            "name": "BC Racers (USA)",
+            "description": "BC Racers (USA)"
+        },
+        {
+            "name": "Blackthorne (USA)",
+            "description": "Blackthorne (USA)"
+        },
+        {
+            "name": "Brutal - Above the Claw (USA)",
+            "description": "Brutal - Above the Claw (USA)"
+        },
+        {
+            "name": "Chaotix ~ Knuckles' Chaotix (Japan, USA)",
+            "description": "Chaotix ~ Knuckles' Chaotix (Japan, USA)"
+        },
+        {
+            "name": "Cosmic Carnage (Europe)",
+            "description": "Cosmic Carnage (Europe)"
+        },
+        {
+            "name": "Cyber Brawl ~ Cosmic Carnage (Japan, USA)",
+            "description": "Cyber Brawl ~ Cosmic Carnage (Japan, USA)"
+        },
+        {
+            "name": "Darxide (Europe) (En,Fr,De,Es)",
+            "description": "Darxide (Europe) (En,Fr,De,Es)"
+        },
+        {
+            "name": "Doom (Europe)",
+            "description": "Doom (Europe)"
+        },
+        {
+            "name": "Doom (Japan, USA)",
+            "description": "Doom (Japan, USA)"
+        },
+        {
+            "name": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)",
+            "description": "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)"
+        },
+        {
+            "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)",
+            "description": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)"
+        },
+        {
+            "name": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)",
+            "description": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)"
+        },
+        {
+            "name": "Knuckles' Chaotix (Europe)",
+            "description": "Knuckles' Chaotix (Europe)"
+        },
+        {
+            "name": "Kolibri (USA, Europe)",
+            "description": "Kolibri (USA, Europe)"
+        },
+        {
+            "name": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)",
+            "description": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)"
+        },
+        {
+            "name": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)",
+            "description": "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)"
+        },
+        {
+            "name": "Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)",
+            "description": "Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)"
+        },
+        {
+            "name": "Mars Sample Program - Pharaoh (Unknown) (SDK Build)",
+            "description": "Mars Sample Program - Pharaoh (Unknown) (SDK Build)"
+        },
+        {
+            "name": "Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)",
+            "description": "Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)"
+        },
+        {
+            "name": "Mars Sample Program - Texture Test (Unknown) (SDK Build)",
+            "description": "Mars Sample Program - Texture Test (Unknown) (SDK Build)"
+        },
+        {
+            "name": "Metal Head (Europe) (En,Ja)",
+            "description": "Metal Head (Europe) (En,Ja)"
+        },
+        {
+            "name": "Metal Head (Japan, USA) (En,Ja)",
+            "description": "Metal Head (Japan, USA) (En,Ja)"
+        },
+        {
+            "name": "Mortal Kombat II (Europe)",
+            "description": "Mortal Kombat II (Europe)"
+        },
+        {
+            "name": "Mortal Kombat II (Japan, USA)",
+            "description": "Mortal Kombat II (Japan, USA)"
+        },
+        {
+            "name": "Motherbase (Europe)",
+            "description": "Motherbase (Europe)"
+        },
+        {
+            "name": "Motocross Championship (Europe)",
+            "description": "Motocross Championship (Europe)"
+        },
+        {
+            "name": "Motocross Championship (USA)",
+            "description": "Motocross Championship (USA)"
+        },
+        {
+            "name": "NBA Jam - Tournament Edition (World)",
+            "description": "NBA Jam - Tournament Edition (World)"
+        },
+        {
+            "name": "NFL Quarterback Club (World)",
+            "description": "NFL Quarterback Club (World)"
+        },
+        {
+            "name": "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)",
+            "description": "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)"
+        },
+        {
+            "name": "Pitfall - The Mayan Adventure (USA)",
+            "description": "Pitfall - The Mayan Adventure (USA)"
+        },
+        {
+            "name": "Primal Rage (USA, Europe)",
+            "description": "Primal Rage (USA, Europe)"
+        },
+        {
+            "name": "RBI Baseball '95 (USA)",
+            "description": "RBI Baseball '95 (USA)"
+        },
+        {
+            "name": "Sangokushi IV (Japan)",
+            "description": "Sangokushi IV (Japan)"
+        },
+        {
+            "name": "Shadow Squadron ~ Stellar Assault (USA, Europe)",
+            "description": "Shadow Squadron ~ Stellar Assault (USA, Europe)"
+        },
+        {
+            "name": "Space Harrier (Europe)",
+            "description": "Space Harrier (Europe)"
+        },
+        {
+            "name": "Space Harrier (Japan, USA)",
+            "description": "Space Harrier (Japan, USA)"
+        },
+        {
+            "name": "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)",
+            "description": "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)"
+        },
+        {
+            "name": "Star Wars Arcade (Europe)",
+            "description": "Star Wars Arcade (Europe)"
+        },
+        {
+            "name": "Star Wars Arcade (Japan)",
+            "description": "Star Wars Arcade (Japan)"
+        },
+        {
+            "name": "Star Wars Arcade (USA)",
+            "description": "Star Wars Arcade (USA)"
+        },
+        {
+            "name": "Stellar Assault (Japan)",
+            "description": "Stellar Assault (Japan)"
+        },
+        {
+            "name": "T-MEK (USA, Europe)",
+            "description": "T-MEK (USA, Europe)"
+        },
+        {
+            "name": "Tempo (Japan, USA)",
+            "description": "Tempo (Japan, USA)"
+        },
+        {
+            "name": "Toughman Contest (USA, Europe)",
+            "description": "Toughman Contest (USA, Europe)"
+        },
+        {
+            "name": "Virtua Fighter (Europe)",
+            "description": "Virtua Fighter (Europe)"
+        },
+        {
+            "name": "Virtua Fighter (Japan, USA)",
+            "description": "Virtua Fighter (Japan, USA)"
+        },
+        {
+            "name": "Virtua Racing Deluxe (Europe)",
+            "description": "Virtua Racing Deluxe (Europe)"
+        },
+        {
+            "name": "Virtua Racing Deluxe (Japan)",
+            "description": "Virtua Racing Deluxe (Japan)"
+        },
+        {
+            "name": "Virtua Racing Deluxe (USA)",
+            "description": "Virtua Racing Deluxe (USA)"
+        },
+        {
+            "name": "World Series Baseball Starring Deion Sanders (USA)",
+            "description": "World Series Baseball Starring Deion Sanders (USA)"
+        },
+        {
+            "name": "WWF Raw (World)",
+            "description": "WWF Raw (World)"
+        },
+        {
+            "name": "WWF WrestleMania - The Arcade Game (USA)",
+            "description": "WWF WrestleMania - The Arcade Game (USA)"
+        }
+    ]
+}
