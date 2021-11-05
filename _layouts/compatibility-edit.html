@@ -41,6 +41,7 @@ layout: default
                     <select name="status">
                         <option {% if compatibility.status == "Unknown" %} selected {% endif %}>Unknown</option>
                         <option {% if compatibility.status == "Not Working" %} selected {% endif %}>Not Working</option>
+                        <option {% if compatibility.status == "Partially Working" %} selected {% endif %}>Partially Working</option>
                         <option {% if compatibility.status == "Working" %} selected {% endif %}>Working</option>
                     </select>
                 </td>

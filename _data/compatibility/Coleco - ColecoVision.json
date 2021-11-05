@@ -176,7 +176,7 @@
       "version": "v124"
     },
     "Destructor (USA, Europe)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Expansion Module #2 (steering wheel) required",
       "version": "v124"
     },
@@ -206,7 +206,7 @@
       "version": "v124"
     },
     "Dukes of Hazzard, The (USA)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Expansion Module #2 (steering wheel) required",
       "version": "v124"
     },
@@ -561,7 +561,7 @@
       "version": "v124"
     },
     "Slither (USA, Europe)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Roller Controller required",
       "version": "v124"
     },
@@ -691,7 +691,7 @@
       "version": "v124"
     },
     "Turbo (USA, Europe)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Expansion Module #2 (steering wheel) required",
       "version": "v124"
     },
@@ -711,12 +711,12 @@
       "version": "v124"
     },
     "Victory (Europe)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Roller Controller required; uses all four action buttons",
       "version": "v124"
     },
     "Victory (USA)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Roller Controller required; uses all four action buttons",
       "version": "v124"
     },

@@ -26,10 +26,12 @@ layout: default
             <td>
                 {% if compatibility.status == "Working" %}
                     <span style="color: green">Working</span> ({{ compatibility.version }})
+                {% elsif compatibility.status == "Partially Working" %}
+                    <span style="color: orange">Partially Working</span> ({{ compatibility.version }})                    
                 {% elsif compatibility.status == "Not Working" %}
                     <span style="color: red">Not Working</span> ({{ compatibility.version }})
                 {% else %}
-                    <span style="color: orange">Unknown</span>
+                    Unknown
                 {% endif %}
                 
             </td>

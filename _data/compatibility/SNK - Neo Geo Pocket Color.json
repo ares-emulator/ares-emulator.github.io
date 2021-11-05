@@ -36,7 +36,7 @@
       "version": "v124"
     },
     "Cool Boarders Pocket (Japan, Europe) (En,Ja)": {
-      "status": "Working",
+      "status": "Partially Working",
       "notes": "Graphical issues on ingame HUD",
       "version": "v124"
     },
@@ -176,7 +176,7 @@
       "version": "v124"
     },
     "Memories Off - Pure (Japan)": {
-      "status": "Working",
+      "status": "Partially Working",
       "notes": "Graphical issues on title screen menu",
       "version": "v124"
     },
@@ -406,12 +406,12 @@
       "version": "v124"
     },
     "SNK Gals' Fighters (Japan)": {
-      "status": "Working",
+      "status": "Partially Working",
       "notes": "Graphical issues on ingame bottom HUD",
       "version": "v124"
     },
     "SNK Gals' Fighters (USA, Europe)": {
-      "status": "Working",
+      "status": "Partially Working",
       "notes": "Graphical issues on ingame bottom HUD",
       "version": "v124"
     },

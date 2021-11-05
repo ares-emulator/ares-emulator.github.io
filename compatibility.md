@@ -22,6 +22,7 @@ NOTE: This compatibility list is currently work-in-progress, don't be alarmed by
     <th class="default-sort">System</th>
     <th style="text-align: right">Untested</th>
     <th style="text-align: right">Not Working</th>
+    <th style="text-align: right">Partially Working</th>
     <th style="text-align: right">Working</th>
     <th style="text-align: right">Working (%)</th>
   </tr>
@@ -30,6 +31,7 @@ NOTE: This compatibility list is currently work-in-progress, don't be alarmed by
     {% assign system_name = system[0] %}
 
     {% assign working = 0 %}
+    {% assign partially_working = 0 %}
     {% assign not_working = 0 %}    
     {% assign unknown = 0 %}
     {% for game in site.data.compatibility[system_name].games %}
@@ -39,6 +41,9 @@ NOTE: This compatibility list is currently work-in-progress, don't be alarmed by
       {% if game[1].status == 'Not Working' %}
         {% assign not_working = not_working | plus:1 %}
       {% endif %}
+      {% if game[1].status == 'Partially Working' %}
+        {% assign partially_working = partially_working | plus:1 %}
+      {% endif %}
     {% endfor %}
 
     <tr>
@@ -46,10 +51,13 @@ NOTE: This compatibility list is currently work-in-progress, don't be alarmed by
             <a href="/compatibility/{{system[1].header.name}}">{{ system[1].header.name }}</a>
         </td>
         <td style="text-align: right; color: orange;">
-            {{ system[1].games.size | minus: working | minus: not_working }}
+            {{ system[1].games.size | minus: working | minus: not_working | minus: partially_working }}
         </td>
         <td style="text-align: right; color: red;">
             {{ not_working }}
+        </td>
+        <td style="text-align: right; color: orange;">
+            {{ partially_working }}
         </td>
         <td style="text-align: right; color: green;"> 
             {{ working }}

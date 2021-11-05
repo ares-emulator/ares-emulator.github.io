@@ -286,7 +286,7 @@
       "version": "v124"
     },
     "BMX Trial - Alex Kidd (Japan)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires paddle controller",
       "version": "v124"
     },
@@ -676,7 +676,7 @@
       "version": "v124"
     },
     "Galactic Protector (Japan)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Paddle controller",
       "version": "v124"
     },
@@ -696,7 +696,7 @@
       "version": "v124"
     },
     "Gangster Town (USA, Europe, Brazil)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -806,7 +806,7 @@
       "version": "v124"
     },
     "Great Ice Hockey (Japan, USA)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Required Sports Pad controller",
       "version": "v124"
     },
@@ -856,7 +856,7 @@
       "version": "v124"
     },
     "Hang-On & Safari Hunt (USA)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1056,12 +1056,12 @@
       "version": "v124"
     },
     "Marksman Shooting & Trap Shooting & Safari Hunt (Europe)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
     "Marksman Shooting & Trap Shooting (USA, Brazil)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1086,7 +1086,7 @@
       "version": "v124"
     },
     "Megumi Rescue (Japan)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Paddle controller",
       "version": "v124"
     },
@@ -1106,7 +1106,7 @@
       "version": "v124"
     },
     "Micro Machines (Europe)": {
-      "status": "Working",
+      "status": "Partially Working",
       "notes": "Sound issues in some music tracks",
       "version": "v124"
     },
@@ -1116,7 +1116,7 @@
       "version": "v124"
     },
     "Missile Defense 3-D (USA, Europe, Brazil)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1401,7 +1401,7 @@
       "version": "v124"
     },
     "Rambo III (USA, Europe, Brazil)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1431,7 +1431,7 @@
       "version": "v124"
     },
     "Rescue Mission (USA, Europe, Brazil)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1551,7 +1551,7 @@
       "version": "v124"
     },
     "Shooting Gallery ~ Shooting G. (USA, Europe, Brazil)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1626,7 +1626,7 @@
       "version": "v124"
     },
     "Space Gun (Europe)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1686,12 +1686,12 @@
       "version": "v124"
     },
     "Sports Pad Football (USA)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Required Sports Pad controller",
       "version": "v124"
     },
     "Sports Pad Soccer (Japan) (Rev 1)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Required Sports Pad controller",
       "version": "v124"
     },
@@ -1926,7 +1926,7 @@
       "version": "v124"
     },
     "Wanted (USA, Europe, Brazil)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Light Phaser controller",
       "version": "v124"
     },
@@ -1986,7 +1986,7 @@
       "version": "v124"
     },
     "Woody Pop - Shinjinrui no Block Kuzushi (Japan)": {
-      "status": "Not Working",
+      "status": "Partially Working",
       "notes": "Requires Paddle controller",
       "version": "v124"
     },
