@@ -216,16 +216,8 @@
             "description": "Alisia Dragoon (Japan)"
         },
         {
-            "name": "Alisia Dragoon (Japan) (Mega Drive Mini)",
-            "description": "Alisia Dragoon (Japan) (Mega Drive Mini)"
-        },
-        {
             "name": "Alisia Dragoon (USA)",
             "description": "Alisia Dragoon (USA)"
-        },
-        {
-            "name": "Alisia Dragoon (USA) (Genesis Mini)",
-            "description": "Alisia Dragoon (USA) (Genesis Mini)"
         },
         {
             "name": "Altered Beast (USA, Europe)",
@@ -776,10 +768,6 @@
             "description": "Castlevania - The New Generation (Europe)"
         },
         {
-            "name": "Castlevania - The New Generation (Europe) (Mega Drive Mini)",
-            "description": "Castlevania - The New Generation (Europe) (Mega Drive Mini)"
-        },
-        {
             "name": "Centurion - Defender of Rome (USA, Europe)",
             "description": "Centurion - Defender of Rome (USA, Europe)"
         },
@@ -968,20 +956,12 @@
             "description": "Comix Zone (USA) (Sega Smash Pack 2)"
         },
         {
-            "name": "Contra - Hard Corps (USA) (Genesis Mini)",
-            "description": "Contra - Hard Corps (USA) (Genesis Mini)"
-        },
-        {
             "name": "Contra - Hard Corps (USA, Korea)",
             "description": "Contra - Hard Corps (USA, Korea)"
         },
         {
             "name": "Contra - The Hard Corps (Japan)",
             "description": "Contra - The Hard Corps (Japan)"
-        },
-        {
-            "name": "Contra - The Hard Corps (Japan) (Mega Drive Mini)",
-            "description": "Contra - The Hard Corps (Japan) (Mega Drive Mini)"
         },
         {
             "name": "Cool Spot (Europe)",
@@ -1118,10 +1098,6 @@
         {
             "name": "Dangerous Seed (Japan)",
             "description": "Dangerous Seed (Japan)"
-        },
-        {
-            "name": "Darius (World) (Genesis Mini, Mega Drive Mini)",
-            "description": "Darius (World) (Genesis Mini, Mega Drive Mini)"
         },
         {
             "name": "Darius II (Japan)",
@@ -2528,40 +2504,20 @@
             "description": "Landstalker (USA)"
         },
         {
-            "name": "Landstalker (USA) (Genesis Mini)",
-            "description": "Landstalker (USA) (Genesis Mini)"
-        },
-        {
             "name": "Landstalker - Die Schatze von Konig Nolo (Germany)",
             "description": "Landstalker - Die Schatze von Konig Nolo (Germany)"
-        },
-        {
-            "name": "Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)",
-            "description": "Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)"
         },
         {
             "name": "Landstalker - Koutei no Zaihou (Japan)",
             "description": "Landstalker - Koutei no Zaihou (Japan)"
         },
         {
-            "name": "Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)",
-            "description": "Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)"
-        },
-        {
             "name": "Landstalker - Le Tresor du Roi Nole (France)",
             "description": "Landstalker - Le Tresor du Roi Nole (France)"
         },
         {
-            "name": "Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)",
-            "description": "Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)"
-        },
-        {
             "name": "Landstalker - The Treasures of King Nole (Europe)",
             "description": "Landstalker - The Treasures of King Nole (Europe)"
-        },
-        {
-            "name": "Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)",
-            "description": "Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)"
         },
         {
             "name": "Langrisser (Japan)",
@@ -2598,10 +2554,6 @@
         {
             "name": "Legende de Thor, La (France)",
             "description": "Legende de Thor, La (France)"
-        },
-        {
-            "name": "Legende de Thor, La (France) (Mega Drive Mini)",
-            "description": "Legende de Thor, La (France) (Mega Drive Mini)"
         },
         {
             "name": "Lemmings (Europe)",
@@ -2660,16 +2612,8 @@
             "description": "Light Crusader (Europe) (En,Fr,De,Es)"
         },
         {
-            "name": "Light Crusader (Europe) (En,Fr,De,Es) (Mega Drive Mini)",
-            "description": "Light Crusader (Europe) (En,Fr,De,Es) (Mega Drive Mini)"
-        },
-        {
             "name": "Light Crusader (Japan)",
             "description": "Light Crusader (Japan)"
-        },
-        {
-            "name": "Light Crusader (Japan) (Mega Drive Mini)",
-            "description": "Light Crusader (Japan) (Mega Drive Mini)"
         },
         {
             "name": "Light Crusader (Korea) (En,Ko)",
@@ -2678,10 +2622,6 @@
         {
             "name": "Light Crusader (USA)",
             "description": "Light Crusader (USA)"
-        },
-        {
-            "name": "Light Crusader (USA) (Genesis Mini)",
-            "description": "Light Crusader (USA) (Genesis Mini)"
         },
         {
             "name": "Lightening Force - Quest for the Darkstar (USA)",
@@ -2920,10 +2860,6 @@
             "description": "Mega Man - The Wily Wars (Europe)"
         },
         {
-            "name": "Mega Man - The Wily Wars (USA) (Genesis Mini)",
-            "description": "Mega Man - The Wily Wars (USA) (Genesis Mini)"
-        },
-        {
             "name": "Mega SWIV (Europe)",
             "description": "Mega SWIV (Europe)"
         },
@@ -3094,10 +3030,6 @@
         {
             "name": "Monster World IV (Japan)",
             "description": "Monster World IV (Japan)"
-        },
-        {
-            "name": "Monster World IV (USA) (Genesis Mini)",
-            "description": "Monster World IV (USA) (Genesis Mini)"
         },
         {
             "name": "Mortal Kombat (World)",
@@ -3640,10 +3572,6 @@
             "description": "Phantasy Star - Sennenki no Owari ni (Japan)"
         },
         {
-            "name": "Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)",
-            "description": "Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)"
-        },
-        {
             "name": "Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease)",
             "description": "Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease)"
         },
@@ -3722,10 +3650,6 @@
         {
             "name": "Phantasy Star IV (USA)",
             "description": "Phantasy Star IV (USA)"
-        },
-        {
-            "name": "Phantasy Star IV (USA) (Genesis Mini)",
-            "description": "Phantasy Star IV (USA) (Genesis Mini)"
         },
         {
             "name": "Phantom 2040 (Europe) (En,Fr,De)",
@@ -3866,10 +3790,6 @@
         {
             "name": "Probotector (Europe) (En,Fr,De)",
             "description": "Probotector (Europe) (En,Fr,De)"
-        },
-        {
-            "name": "Probotector (Europe) (En,Fr,De) (Mega Drive Mini)",
-            "description": "Probotector (Europe) (En,Fr,De) (Mega Drive Mini)"
         },
         {
             "name": "Psy-O-Blade (Japan)",
@@ -4128,14 +4048,6 @@
             "description": "Road Rash II (Japan)"
         },
         {
-            "name": "Road Rash II (Japan) (Mega Drive Mini)",
-            "description": "Road Rash II (Japan) (Mega Drive Mini)"
-        },
-        {
-            "name": "Road Rash II (USA) (Genesis Mini)",
-            "description": "Road Rash II (USA) (Genesis Mini)"
-        },
-        {
             "name": "Road Rash II (USA, Europe) (RR205)",
             "description": "Road Rash II (USA, Europe) (RR205)"
         },
@@ -4194,10 +4106,6 @@
         {
             "name": "Rockman - Mega World (Japan)",
             "description": "Rockman - Mega World (Japan)"
-        },
-        {
-            "name": "Rockman - Mega World (Japan) (Mega Drive Mini)",
-            "description": "Rockman - Mega World (Japan) (Mega Drive Mini)"
         },
         {
             "name": "Roger Clemens' MVP Baseball (USA)",
@@ -4432,16 +4340,8 @@
             "description": "Shining Force (USA)"
         },
         {
-            "name": "Shining Force (USA) (Genesis Mini)",
-            "description": "Shining Force (USA) (Genesis Mini)"
-        },
-        {
             "name": "Shining Force - Kamigami no Isan (Japan)",
             "description": "Shining Force - Kamigami no Isan (Japan)"
-        },
-        {
-            "name": "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)",
-            "description": "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)"
         },
         {
             "name": "Shining Force II (Europe)",
@@ -4470,10 +4370,6 @@
         {
             "name": "Shinobi III - Return of the Ninja Master (USA)",
             "description": "Shinobi III - Return of the Ninja Master (USA)"
-        },
-        {
-            "name": "Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)",
-            "description": "Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)"
         },
         {
             "name": "Shiten Myouou (Japan)",
@@ -4642,10 +4538,6 @@
         {
             "name": "Sonic Spinball (Europe)",
             "description": "Sonic Spinball (Europe)"
-        },
-        {
-            "name": "Sonic Spinball (Europe) (Mega Drive Mini)",
-            "description": "Sonic Spinball (Europe) (Mega Drive Mini)"
         },
         {
             "name": "Sonic Spinball (Japan)",
@@ -4856,16 +4748,8 @@
             "description": "Story of Thor, The (Europe)"
         },
         {
-            "name": "Story of Thor, The (Europe) (Mega Drive Mini)",
-            "description": "Story of Thor, The (Europe) (Mega Drive Mini)"
-        },
-        {
             "name": "Story of Thor, The (Germany)",
             "description": "Story of Thor, The (Germany)"
-        },
-        {
-            "name": "Story of Thor, The (Germany) (Mega Drive Mini)",
-            "description": "Story of Thor, The (Germany) (Mega Drive Mini)"
         },
         {
             "name": "Story of Thor, The (Korea)",
@@ -4874,10 +4758,6 @@
         {
             "name": "Story of Thor, The (Spain)",
             "description": "Story of Thor, The (Spain)"
-        },
-        {
-            "name": "Story of Thor, The (Spain) (Mega Drive Mini)",
-            "description": "Story of Thor, The (Spain) (Mega Drive Mini)"
         },
         {
             "name": "Story of Thor, The - Hikari o Tsugumono (Japan)",
@@ -4904,10 +4784,6 @@
             "description": "Street Smart (Japan, USA)"
         },
         {
-            "name": "Streets of Rage 2 (Japan) (En,Ja) (Mega Drive Mini)",
-            "description": "Streets of Rage 2 (Japan) (En,Ja) (Mega Drive Mini)"
-        },
-        {
             "name": "Streets of Rage 2 (USA)",
             "description": "Streets of Rage 2 (USA)"
         },
@@ -4926,10 +4802,6 @@
         {
             "name": "Strider (USA, Europe)",
             "description": "Strider (USA, Europe)"
-        },
-        {
-            "name": "Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)",
-            "description": "Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)"
         },
         {
             "name": "Strider Hiryuu (Japan, Korea)",
@@ -4990,10 +4862,6 @@
         {
             "name": "Super Fantasy Zone (Japan)",
             "description": "Super Fantasy Zone (Japan)"
-        },
-        {
-            "name": "Super Fantasy Zone (USA) (Ja) (Genesis Mini)",
-            "description": "Super Fantasy Zone (USA) (Ja) (Genesis Mini)"
         },
         {
             "name": "Super H.Q. (Japan)",
@@ -5302,14 +5170,6 @@
         {
             "name": "Tetris (Japan)",
             "description": "Tetris (Japan)"
-        },
-        {
-            "name": "Tetris (Japan) (Mega Drive Mini)",
-            "description": "Tetris (Japan) (Mega Drive Mini)"
-        },
-        {
-            "name": "Tetris (USA) (Genesis Mini)",
-            "description": "Tetris (USA) (Genesis Mini)"
         },
         {
             "name": "Theme Park (USA, Europe) (En,Fr,De,Es)",
@@ -5632,16 +5492,8 @@
             "description": "Vampire Killer (Japan)"
         },
         {
-            "name": "Vampire Killer (Japan) (Mega Drive Mini)",
-            "description": "Vampire Killer (Japan) (Mega Drive Mini)"
-        },
-        {
             "name": "Vapor Trail (USA)",
             "description": "Vapor Trail (USA)"
-        },
-        {
-            "name": "Vectorman (USA) (Genesis Mini)",
-            "description": "Vectorman (USA) (Genesis Mini)"
         },
         {
             "name": "Vectorman (USA, Europe)",
@@ -5662,10 +5514,6 @@
         {
             "name": "Vermilion (Japan)",
             "description": "Vermilion (Japan)"
-        },
-        {
-            "name": "Vermilion (Japan) (Mega Drive Mini)",
-            "description": "Vermilion (Japan) (Mega Drive Mini)"
         },
         {
             "name": "Verytex (Japan)",

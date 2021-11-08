@@ -79,7 +79,8 @@ foreach ($dir as $fileinfo) {
                 'Virtual Console)',
                 '(iQue)',
                 'Switch Online)',
-                'Collection)'
+                'Collection)',
+                'Mini)'
             ];
 
             foreach($ignoredStrings as $string) {
