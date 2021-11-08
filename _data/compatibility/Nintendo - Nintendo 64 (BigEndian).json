@@ -700,11 +700,6 @@
       "notes": "",
       "version": "v124"
     },
-    "Cruis'n USA (USA) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Cruis'n World (Europe)": {
       "status": "Unknown",
       "notes": "",
@@ -1870,11 +1865,6 @@
       "notes": "",
       "version": "v124"
     },
-    "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)": {
       "status": "Unknown",
       "notes": "",
@@ -2150,28 +2140,13 @@
       "notes": "",
       "version": "v124"
     },
-    "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Mario Party 2 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
-    "Mario Party 2 (Japan) (Wii Virtual Console)": {
       "status": "Unknown",
       "notes": "",
       "version": "v124"
     },
     "Mario Party 2 (USA)": {
       "status": "Working",
-      "notes": "",
-      "version": "v124"
-    },
-    "Mario Party 2 (USA) (Wii Virtual Console)": {
-      "status": "Unknown",
       "notes": "",
       "version": "v124"
     },
@@ -2200,27 +2175,12 @@
       "notes": "",
       "version": "v124"
     },
-    "Mario Tennis (Europe) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Mario Tennis (USA)": {
       "status": "Working",
       "notes": "",
       "version": "v124"
     },
-    "Mario Tennis (USA) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Mario Tennis 64 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
-    "Mario Tennis 64 (Japan) (Wii Virtual Console)": {
       "status": "Unknown",
       "notes": "",
       "version": "v124"
@@ -2745,11 +2705,6 @@
       "notes": "",
       "version": "v124"
     },
-    "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Ogre Battle 64 - Person of Lordly Caliber (USA)": {
       "status": "Unknown",
       "notes": "",
@@ -2757,11 +2712,6 @@
     },
     "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)": {
       "status": "Working",
-      "notes": "",
-      "version": "v124"
-    },
-    "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)": {
-      "status": "Unknown",
       "notes": "",
       "version": "v124"
     },
@@ -2900,17 +2850,7 @@
       "notes": "",
       "version": "v124"
     },
-    "Pokemon Puzzle League (Europe) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Pokemon Puzzle League (France)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
-    "Pokemon Puzzle League (France) (Wii Virtual Console)": {
       "status": "Unknown",
       "notes": "",
       "version": "v124"
@@ -2920,18 +2860,8 @@
       "notes": "",
       "version": "v124"
     },
-    "Pokemon Puzzle League (Germany) (Wii Virtual Console)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
     "Pokemon Puzzle League (USA)": {
       "status": "Working",
-      "notes": "",
-      "version": "v124"
-    },
-    "Pokemon Puzzle League (USA) (Wii Virtual Console)": {
-      "status": "Unknown",
       "notes": "",
       "version": "v124"
     },
@@ -2961,11 +2891,6 @@
       "version": "v124"
     },
     "Pokemon Snap (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
-    "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)": {
       "status": "Unknown",
       "notes": "",
       "version": "v124"
@@ -3611,11 +3536,6 @@
       "version": "v124"
     },
     "Star Fox 64 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
-    },
-    "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)": {
       "status": "Unknown",
       "notes": "",
       "version": "v124"

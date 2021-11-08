@@ -568,10 +568,6 @@
             "description": "Cruis'n USA (USA) (Rev 2)"
         },
         {
-            "name": "Cruis'n USA (USA) (Wii Virtual Console)",
-            "description": "Cruis'n USA (USA) (Wii Virtual Console)"
-        },
-        {
             "name": "Cruis'n World (Europe)",
             "description": "Cruis'n World (Europe)"
         },
@@ -1504,10 +1500,6 @@
             "description": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)"
         },
         {
-            "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)",
-            "description": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)"
-        },
-        {
             "name": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)",
             "description": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)"
         },
@@ -1728,24 +1720,12 @@
             "description": "Mario Party 2 (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)",
-            "description": "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)"
-        },
-        {
             "name": "Mario Party 2 (Japan)",
             "description": "Mario Party 2 (Japan)"
         },
         {
-            "name": "Mario Party 2 (Japan) (Wii Virtual Console)",
-            "description": "Mario Party 2 (Japan) (Wii Virtual Console)"
-        },
-        {
             "name": "Mario Party 2 (USA)",
             "description": "Mario Party 2 (USA)"
-        },
-        {
-            "name": "Mario Party 2 (USA) (Wii Virtual Console)",
-            "description": "Mario Party 2 (USA) (Wii Virtual Console)"
         },
         {
             "name": "Mario Party 3 (Europe) (En,Fr,De,Es)",
@@ -1768,24 +1748,12 @@
             "description": "Mario Tennis (Europe)"
         },
         {
-            "name": "Mario Tennis (Europe) (Wii Virtual Console)",
-            "description": "Mario Tennis (Europe) (Wii Virtual Console)"
-        },
-        {
             "name": "Mario Tennis (USA)",
             "description": "Mario Tennis (USA)"
         },
         {
-            "name": "Mario Tennis (USA) (Wii Virtual Console)",
-            "description": "Mario Tennis (USA) (Wii Virtual Console)"
-        },
-        {
             "name": "Mario Tennis 64 (Japan)",
             "description": "Mario Tennis 64 (Japan)"
-        },
-        {
-            "name": "Mario Tennis 64 (Japan) (Wii Virtual Console)",
-            "description": "Mario Tennis 64 (Japan) (Wii Virtual Console)"
         },
         {
             "name": "Mega Man 64 (USA)",
@@ -2204,20 +2172,12 @@
             "description": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)"
         },
         {
-            "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)",
-            "description": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)"
-        },
-        {
             "name": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
             "description": "Ogre Battle 64 - Person of Lordly Caliber (USA)"
         },
         {
             "name": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)",
             "description": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)"
-        },
-        {
-            "name": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)",
-            "description": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)"
         },
         {
             "name": "Olympic Hockey 98 (Europe) (En,Fr,De,Es)",
@@ -2328,32 +2288,16 @@
             "description": "Pokemon Puzzle League (Europe)"
         },
         {
-            "name": "Pokemon Puzzle League (Europe) (Wii Virtual Console)",
-            "description": "Pokemon Puzzle League (Europe) (Wii Virtual Console)"
-        },
-        {
             "name": "Pokemon Puzzle League (France)",
             "description": "Pokemon Puzzle League (France)"
-        },
-        {
-            "name": "Pokemon Puzzle League (France) (Wii Virtual Console)",
-            "description": "Pokemon Puzzle League (France) (Wii Virtual Console)"
         },
         {
             "name": "Pokemon Puzzle League (Germany)",
             "description": "Pokemon Puzzle League (Germany)"
         },
         {
-            "name": "Pokemon Puzzle League (Germany) (Wii Virtual Console)",
-            "description": "Pokemon Puzzle League (Germany) (Wii Virtual Console)"
-        },
-        {
             "name": "Pokemon Puzzle League (USA)",
             "description": "Pokemon Puzzle League (USA)"
-        },
-        {
-            "name": "Pokemon Puzzle League (USA) (Wii Virtual Console)",
-            "description": "Pokemon Puzzle League (USA) (Wii Virtual Console)"
         },
         {
             "name": "Pokemon Snap (Australia)",
@@ -2378,10 +2322,6 @@
         {
             "name": "Pokemon Snap (Japan)",
             "description": "Pokemon Snap (Japan)"
-        },
-        {
-            "name": "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)",
-            "description": "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)"
         },
         {
             "name": "Pokemon Snap (Spain)",
@@ -2898,10 +2838,6 @@
         {
             "name": "Star Fox 64 (Japan)",
             "description": "Star Fox 64 (Japan)"
-        },
-        {
-            "name": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)",
-            "description": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)"
         },
         {
             "name": "Star Fox 64 (USA)",

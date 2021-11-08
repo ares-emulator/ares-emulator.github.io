@@ -73,10 +73,12 @@ foreach ($dir as $fileinfo) {
                 '(Unl)',
                 // Exclude emulated re-release roms
                 '(Sega Channel)',
-                '(Virtual Console)',
+                '(Wii',
+                'Wii)',
+                '(Virtual Console',
+                'Virtual Console)',
                 '(iQue)',
-                '(Wii)',
-                '(Switch Online)',
+                'Switch Online)',
                 'Collection)'
             ];
 

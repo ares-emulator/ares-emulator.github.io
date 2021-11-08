@@ -1120,20 +1120,12 @@
             "description": "Breath of Fire II (USA)"
         },
         {
-            "name": "Breath of Fire II (USA, Europe) (Virtual Console, Switch Online)",
-            "description": "Breath of Fire II (USA, Europe) (Virtual Console, Switch Online)"
-        },
-        {
             "name": "Breath of Fire II - Shimei no Ko (Japan)",
             "description": "Breath of Fire II - Shimei no Ko (Japan)"
         },
         {
             "name": "Breath of Fire II - Shimei no Ko (Japan) (Rev 1)",
             "description": "Breath of Fire II - Shimei no Ko (Japan) (Rev 1)"
-        },
-        {
-            "name": "Breath of Fire II - Shimei no Ko (Japan) (Rev 1) (Virtual Console, Switch Online)",
-            "description": "Breath of Fire II - Shimei no Ko (Japan) (Rev 1) (Virtual Console, Switch Online)"
         },
         {
             "name": "Brett Hull Hockey (Europe)",
@@ -1474,10 +1466,6 @@
         {
             "name": "Chou Makaimura (Japan)",
             "description": "Chou Makaimura (Japan)"
-        },
-        {
-            "name": "Chou Makaimura (Japan) (Virtual Console, Switch Online)",
-            "description": "Chou Makaimura (Japan) (Virtual Console, Switch Online)"
         },
         {
             "name": "Choujikuu Yousai Macross - Scrambled Valkyrie (Japan) (En)",
@@ -2080,10 +2068,6 @@
             "description": "Donkey Kong Country (USA) (Rev 2)"
         },
         {
-            "name": "Donkey Kong Country (USA, Europe) (Rev 2) (Virtual Console, Classic Mini, Switch Online)",
-            "description": "Donkey Kong Country (USA, Europe) (Rev 2) (Virtual Console, Classic Mini, Switch Online)"
-        },
-        {
             "name": "Donkey Kong Country - Competition Cartridge (USA)",
             "description": "Donkey Kong Country - Competition Cartridge (USA)"
         },
@@ -2612,16 +2596,8 @@
             "description": "F-Zero (Japan) (En)"
         },
         {
-            "name": "F-Zero (Japan) (En) (Virtual Console, Switch Online)",
-            "description": "F-Zero (Japan) (En) (Virtual Console, Switch Online)"
-        },
-        {
             "name": "F-Zero (USA)",
             "description": "F-Zero (USA)"
-        },
-        {
-            "name": "F-Zero (USA, Europe) (Virtual Console, Classic Mini, Switch Online)",
-            "description": "F-Zero (USA, Europe) (Virtual Console, Classic Mini, Switch Online)"
         },
         {
             "name": "F1 Pole Position (Europe)",
@@ -4896,10 +4872,6 @@
             "description": "Kirby Bowl (Japan)"
         },
         {
-            "name": "Kirby Bowl (Japan) (Virtual Console, Switch Online)",
-            "description": "Kirby Bowl (Japan) (Virtual Console, Switch Online)"
-        },
-        {
             "name": "Kirby no Kirakira Kids (Japan)",
             "description": "Kirby no Kirakira Kids (Japan)"
         },
@@ -4918,10 +4890,6 @@
         {
             "name": "Kirby's Dream Course (USA)",
             "description": "Kirby's Dream Course (USA)"
-        },
-        {
-            "name": "Kirby's Dream Course (USA, Europe) (Virtual Console, Switch Online)",
-            "description": "Kirby's Dream Course (USA, Europe) (Virtual Console, Switch Online)"
         },
         {
             "name": "Kirby's Dream Land 3 (USA)",
@@ -6992,10 +6960,6 @@
             "description": "Panel de Pon (Japan)"
         },
         {
-            "name": "Panel de Pon (World) (Ja) (Rev 1) (Virtual Console, Switch Online)",
-            "description": "Panel de Pon (World) (Ja) (Rev 1) (Virtual Console, Switch Online)"
-        },
-        {
             "name": "Panic in Nakayoshi World (Japan)",
             "description": "Panic in Nakayoshi World (Japan)"
         },
@@ -8988,10 +8952,6 @@
             "description": "Star Fox (USA) (Rev 2)"
         },
         {
-            "name": "Star Fox 2 (Japan) (Classic Mini, Switch Online)",
-            "description": "Star Fox 2 (Japan) (Classic Mini, Switch Online)"
-        },
-        {
             "name": "Star Fox 2 (USA, Europe)",
             "description": "Star Fox 2 (USA, Europe)"
         },
@@ -9536,10 +9496,6 @@
             "description": "Super Donkey Kong (Japan) (Rev 1)"
         },
         {
-            "name": "Super Donkey Kong (Japan) (Rev 1) (Virtual Console, Classic Mini, Switch Online)",
-            "description": "Super Donkey Kong (Japan) (Rev 1) (Virtual Console, Classic Mini, Switch Online)"
-        },
-        {
             "name": "Super Donkey Kong 2 - Dixie & Diddy (Japan)",
             "description": "Super Donkey Kong 2 - Dixie & Diddy (Japan)"
         },
@@ -9774,10 +9730,6 @@
         {
             "name": "Super Ghouls 'N Ghosts (USA)",
             "description": "Super Ghouls 'N Ghosts (USA)"
-        },
-        {
-            "name": "Super Ghouls 'N Ghosts (USA, Europe) (Virtual Console, Classic Mini, Switch Online)",
-            "description": "Super Ghouls 'N Ghosts (USA, Europe) (Virtual Console, Classic Mini, Switch Online)"
         },
         {
             "name": "Super Goal! (Europe)",
@@ -10080,16 +10032,8 @@
             "description": "Super Mario World (USA)"
         },
         {
-            "name": "Super Mario World (USA, Europe) (Virtual Console, Classic Mini, Switch Online)",
-            "description": "Super Mario World (USA, Europe) (Virtual Console, Classic Mini, Switch Online)"
-        },
-        {
             "name": "Super Mario World - Super Mario Bros. 4 (Japan)",
             "description": "Super Mario World - Super Mario Bros. 4 (Japan)"
-        },
-        {
-            "name": "Super Mario World - Super Mario Bros. 4 (Japan) (Classic Mini, Switch Online)",
-            "description": "Super Mario World - Super Mario Bros. 4 (Japan) (Classic Mini, Switch Online)"
         },
         {
             "name": "Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De)",
@@ -10116,16 +10060,8 @@
             "description": "Super Metroid (Europe) (En,Fr,De)"
         },
         {
-            "name": "Super Metroid (Japan) (En,Ja) (Virtual Console, Switch Online)",
-            "description": "Super Metroid (Japan) (En,Ja) (Virtual Console, Switch Online)"
-        },
-        {
             "name": "Super Metroid (Japan, USA) (En,Ja)",
             "description": "Super Metroid (Japan, USA) (En,Ja)"
-        },
-        {
-            "name": "Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online)",
-            "description": "Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online)"
         },
         {
             "name": "Super Moero!! Pro Yakyuu (Japan)",
@@ -12474,10 +12410,6 @@
         {
             "name": "Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2)",
             "description": "Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2)"
-        },
-        {
-            "name": "Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2) (Virtual Console, Switch Online)",
-            "description": "Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2) (Virtual Console, Switch Online)"
         },
         {
             "name": "Zen-Nihon GT Senshuken (Japan)",

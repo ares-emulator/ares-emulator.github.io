@@ -500,10 +500,6 @@
             "description": "Atlantis no Nazo (Japan)"
         },
         {
-            "name": "Atlantis no Nazo (Japan) (Virtual Console, Switch Online)",
-            "description": "Atlantis no Nazo (Japan) (Virtual Console, Switch Online)"
-        },
-        {
             "name": "Attack Animal Gakuen (Japan)",
             "description": "Attack Animal Gakuen (Japan)"
         },
@@ -1430,10 +1426,6 @@
         {
             "name": "City Connection (Japan)",
             "description": "City Connection (Japan)"
-        },
-        {
-            "name": "City Connection (Japan) (Virtual Console, Switch Online)",
-            "description": "City Connection (Japan) (Virtual Console, Switch Online)"
         },
         {
             "name": "City Connection (USA)",
@@ -2700,14 +2692,6 @@
             "description": "Final Fantasy (Japan) (Rev 1)"
         },
         {
-            "name": "Final Fantasy (Japan) (Rev 1) (3DS Virtual Console)",
-            "description": "Final Fantasy (Japan) (Rev 1) (3DS Virtual Console)"
-        },
-        {
-            "name": "Final Fantasy (Japan) (Rev 1) (Wii and Wii U Virtual Console)",
-            "description": "Final Fantasy (Japan) (Rev 1) (Wii and Wii U Virtual Console)"
-        },
-        {
             "name": "Final Fantasy (USA)",
             "description": "Final Fantasy (USA)"
         },
@@ -2720,28 +2704,8 @@
             "description": "Final Fantasy II (Japan)"
         },
         {
-            "name": "Final Fantasy II (Japan) (3DS Virtual Console)",
-            "description": "Final Fantasy II (Japan) (3DS Virtual Console)"
-        },
-        {
-            "name": "Final Fantasy II (Japan) (Wii and Wii U Virtual Console)",
-            "description": "Final Fantasy II (Japan) (Wii and Wii U Virtual Console)"
-        },
-        {
             "name": "Final Fantasy III (Japan)",
             "description": "Final Fantasy III (Japan)"
-        },
-        {
-            "name": "Final Fantasy III (Japan) (3DS Virtual Console)",
-            "description": "Final Fantasy III (Japan) (3DS Virtual Console)"
-        },
-        {
-            "name": "Final Fantasy III (Japan) (Wii U Virtual Console)",
-            "description": "Final Fantasy III (Japan) (Wii U Virtual Console)"
-        },
-        {
-            "name": "Final Fantasy III (Japan) (Wii Virtual Console)",
-            "description": "Final Fantasy III (Japan) (Wii Virtual Console)"
         },
         {
             "name": "Final Lap (Japan)",
@@ -5676,10 +5640,6 @@
             "description": "Ninja Crusaders - Ryuuga (Japan)"
         },
         {
-            "name": "Ninja Gaiden (Japan) (Wii U Virtual Console)",
-            "description": "Ninja Gaiden (Japan) (Wii U Virtual Console)"
-        },
-        {
             "name": "Ninja Gaiden (USA)",
             "description": "Ninja Gaiden (USA)"
         },
@@ -5690,14 +5650,6 @@
         {
             "name": "Ninja Gaiden III - The Ancient Ship of Doom (USA)",
             "description": "Ninja Gaiden III - The Ancient Ship of Doom (USA)"
-        },
-        {
-            "name": "Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)",
-            "description": "Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)"
-        },
-        {
-            "name": "Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii Virtual Console)",
-            "description": "Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii Virtual Console)"
         },
         {
             "name": "Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan)",
@@ -5718,10 +5670,6 @@
         {
             "name": "Ninja Ryuuken Den (Japan)",
             "description": "Ninja Ryuuken Den (Japan)"
-        },
-        {
-            "name": "Ninja Ryuuken Den (Japan) (Wii Virtual Console)",
-            "description": "Ninja Ryuuken Den (Japan) (Wii Virtual Console)"
         },
         {
             "name": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)",
@@ -8036,10 +7984,6 @@
             "description": "Tecmo Bowl (USA) (Rev 1)"
         },
         {
-            "name": "Tecmo Bowl (World) (Rev 1) (Virtual Console, Switch Online)",
-            "description": "Tecmo Bowl (World) (Rev 1) (Virtual Console, Switch Online)"
-        },
-        {
             "name": "Tecmo Cup - Football Game (Europe)",
             "description": "Tecmo Cup - Football Game (Europe)"
         },
@@ -8586,14 +8530,6 @@
         {
             "name": "Ufouria - The Saga (Europe)",
             "description": "Ufouria - The Saga (Europe)"
-        },
-        {
-            "name": "Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)",
-            "description": "Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)"
-        },
-        {
-            "name": "Ufouria - The Saga (USA, Europe) (Wii Virtual Console)",
-            "description": "Ufouria - The Saga (USA, Europe) (Wii Virtual Console)"
         },
         {
             "name": "Ultima - Exodus (USA)",
