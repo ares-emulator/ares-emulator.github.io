@@ -328,10 +328,6 @@
             "description": "Defenders of Oasis (USA, Europe)"
         },
         {
-            "name": "Defenders of Oasis (USA, Europe) (Virtual Console)",
-            "description": "Defenders of Oasis (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
             "description": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)"
         },
@@ -400,16 +396,8 @@
             "description": "Dragon Crystal (USA, Europe)"
         },
         {
-            "name": "Dragon Crystal (USA, Europe) (Virtual Console)",
-            "description": "Dragon Crystal (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Dragon Crystal - Tsurani no Meikyuu (Japan)",
             "description": "Dragon Crystal - Tsurani no Meikyuu (Japan)"
-        },
-        {
-            "name": "Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console)",
-            "description": "Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console)"
         },
         {
             "name": "Dropzone (Europe)",
@@ -608,18 +596,6 @@
             "description": "GG Aleste (Japan) (En)"
         },
         {
-            "name": "GG Aleste (Japan) (En) (Aleste Collection)",
-            "description": "GG Aleste (Japan) (En) (Aleste Collection)"
-        },
-        {
-            "name": "GG Aleste 3 (Japan) (En) (Aleste Collection)",
-            "description": "GG Aleste 3 (Japan) (En) (Aleste Collection)"
-        },
-        {
-            "name": "GG Aleste II (Japan) (En) (Aleste Collection)",
-            "description": "GG Aleste II (Japan) (En) (Aleste Collection)"
-        },
-        {
             "name": "GG Aleste II ~ Power Strike II (Japan, Europe)",
             "description": "GG Aleste II ~ Power Strike II (Japan, Europe)"
         },
@@ -642,10 +618,6 @@
         {
             "name": "GG Shinobi, The ~ Shinobi (World) (Rev 1)",
             "description": "GG Shinobi, The ~ Shinobi (World) (Rev 1)"
-        },
-        {
-            "name": "GG Shinobi, The ~ Shinobi (World) (Rev 1) (Virtual Console)",
-            "description": "GG Shinobi, The ~ Shinobi (World) (Rev 1) (Virtual Console)"
         },
         {
             "name": "Global Gladiators (Europe)",
@@ -722,10 +694,6 @@
         {
             "name": "In the Wake of Vampire (Japan) (En)",
             "description": "In the Wake of Vampire (Japan) (En)"
-        },
-        {
-            "name": "In the Wake of Vampire (Japan) (En) (Virtual Console)",
-            "description": "In the Wake of Vampire (Japan) (En) (Virtual Console)"
         },
         {
             "name": "Incredible Crash Dummies, The ~ Crash Dummy - Slick Bouya no Daichousen (World)",
@@ -970,10 +938,6 @@
         {
             "name": "Marko's Magic Football (Europe) (En,Fr,De,Es)",
             "description": "Marko's Magic Football (Europe) (En,Fr,De,Es)"
-        },
-        {
-            "name": "Master of Darkness (Europe) (Virtual Console)",
-            "description": "Master of Darkness (Europe) (Virtual Console)"
         },
         {
             "name": "Master of Darkness (Europe, Brazil)",
@@ -1324,10 +1288,6 @@
             "description": "Puyo Puyo Tsuu (Japan)"
         },
         {
-            "name": "Puyo Puyo Tsuu (Japan) (Virtual Console)",
-            "description": "Puyo Puyo Tsuu (Japan) (Virtual Console)"
-        },
-        {
             "name": "Puzzle & Action - Ichidanto-R (Japan)",
             "description": "Puzzle & Action - Ichidanto-R (Japan)"
         },
@@ -1456,20 +1416,12 @@
             "description": "Shining Force - The Sword of Hajya (USA)"
         },
         {
-            "name": "Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console)",
-            "description": "Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)",
             "description": "Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)"
         },
         {
             "name": "Shining Force Gaiden - Final Conflict (Japan)",
             "description": "Shining Force Gaiden - Final Conflict (Japan)"
-        },
-        {
-            "name": "Shining Force Gaiden - Final Conflict (Japan) (Virtual Console)",
-            "description": "Shining Force Gaiden - Final Conflict (Japan) (Virtual Console)"
         },
         {
             "name": "Shining Force Gaiden II - Jashin no Kakusei (Japan)",
@@ -1536,10 +1488,6 @@
             "description": "Sonic Drift Racing ~ Sonic Drift 2 (World)"
         },
         {
-            "name": "Sonic Labyrinth (USA, Europe) (Virtual Console)",
-            "description": "Sonic Labyrinth (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Sonic Labyrinth (World)",
             "description": "Sonic Labyrinth (World)"
         },
@@ -1556,10 +1504,6 @@
             "description": "Sonic The Hedgehog (Japan, USA)"
         },
         {
-            "name": "Sonic The Hedgehog (World) (Rev 1) (Virtual Console)",
-            "description": "Sonic The Hedgehog (World) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)",
             "description": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)"
         },
@@ -1570,10 +1514,6 @@
         {
             "name": "Sonic The Hedgehog 2 (World) (Auto Demo)",
             "description": "Sonic The Hedgehog 2 (World) (Auto Demo)"
-        },
-        {
-            "name": "Sonic The Hedgehog 2 (World) (Virtual Console)",
-            "description": "Sonic The Hedgehog 2 (World) (Virtual Console)"
         },
         {
             "name": "Soukoban (Japan)",
@@ -1708,10 +1648,6 @@
             "description": "Tails Adventure ~ Tails Adventures (World) (En,Ja)"
         },
         {
-            "name": "Tails Adventure ~ Tails Adventures (World) (En,Ja) (Virtual Console)",
-            "description": "Tails Adventure ~ Tails Adventures (World) (En,Ja) (Virtual Console)"
-        },
-        {
             "name": "Tails no Skypatrol (Japan)",
             "description": "Tails no Skypatrol (Japan)"
         },
@@ -1810,10 +1746,6 @@
         {
             "name": "Vampire - Master of Darkness (USA)",
             "description": "Vampire - Master of Darkness (USA)"
-        },
-        {
-            "name": "Vampire - Master of Darkness (USA) (Virtual Console)",
-            "description": "Vampire - Master of Darkness (USA) (Virtual Console)"
         },
         {
             "name": "Virtua Fighter Animation (USA, Europe)",

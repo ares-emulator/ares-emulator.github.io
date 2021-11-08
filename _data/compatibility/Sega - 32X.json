@@ -16,7 +16,7 @@
       "version": "v124"
     },
     "Amazing Spider-Man, The - Web of Fire (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -26,7 +26,7 @@
       "version": "v124"
     },
     "Blackthorne (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -36,7 +36,7 @@
       "version": "v124"
     },
     "Chaotix ~ Knuckles' Chaotix (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -46,12 +46,12 @@
       "version": "v124"
     },
     "Cyber Brawl ~ Cosmic Carnage (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
     "Darxide (Europe) (En,Fr,De,Es)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -61,13 +61,13 @@
       "version": "v124"
     },
     "Doom (Japan, USA)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sound effects",
       "version": "v124"
     },
     "FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Graphics corruption (north-eastern corner of field - stands stick out into field);",
       "version": "v124"
     },
     "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)": {
@@ -81,12 +81,12 @@
       "version": "v124"
     },
     "Knuckles' Chaotix (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
     "Kolibri (USA, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -136,7 +136,7 @@
       "version": "v124"
     },
     "Mortal Kombat II (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -171,7 +171,7 @@
       "version": "v124"
     },
     "Pitfall - The Mayan Adventure (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -181,18 +181,18 @@
       "version": "v124"
     },
     "RBI Baseball '95 (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
     "Sangokushi IV (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
     "Shadow Squadron ~ Stellar Assault (USA, Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": " USA/Europe ROM defaults to PAL framerate",
       "version": "v124"
     },
     "Space Harrier (Europe)": {
@@ -201,12 +201,12 @@
       "version": "v124"
     },
     "Space Harrier (Japan, USA)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Minor graphics corruption on Sega screen",
       "version": "v124"
     },
     "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -231,12 +231,12 @@
       "version": "v124"
     },
     "T-MEK (USA, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
     "Tempo (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },
@@ -271,7 +271,7 @@
       "version": "v124"
     },
     "World Series Baseball Starring Deion Sanders (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v124"
     },

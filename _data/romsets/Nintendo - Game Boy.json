@@ -856,16 +856,8 @@
             "description": "Castlevania - The Adventure (USA)"
         },
         {
-            "name": "Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)",
-            "description": "Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)"
-        },
-        {
             "name": "Castlevania II - Belmont's Revenge (USA, Europe)",
             "description": "Castlevania II - Belmont's Revenge (USA, Europe)"
-        },
-        {
-            "name": "Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)",
-            "description": "Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)"
         },
         {
             "name": "Castlevania Legends (USA, Europe) (SGB Enhanced)",
@@ -1002,10 +994,6 @@
         {
             "name": "Contra (Japan) (En)",
             "description": "Contra (Japan) (En)"
-        },
-        {
-            "name": "Contra (World) (Contra Anniversary Collection)",
-            "description": "Contra (World) (Contra Anniversary Collection)"
         },
         {
             "name": "Contra - The Alien Wars (USA) (SGB Enhanced)",
@@ -1348,16 +1336,8 @@
             "description": "Dracula Densetsu (Japan)"
         },
         {
-            "name": "Dracula Densetsu (Japan) (Castlevania Anniversary Collection)",
-            "description": "Dracula Densetsu (Japan) (Castlevania Anniversary Collection)"
-        },
-        {
             "name": "Dracula Densetsu II (Japan)",
             "description": "Dracula Densetsu II (Japan)"
-        },
-        {
-            "name": "Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)",
-            "description": "Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)"
         },
         {
             "name": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)",
@@ -3924,10 +3904,6 @@
             "description": "Operation C (USA)"
         },
         {
-            "name": "Operation C (World) (Contra Anniversary Collection)",
-            "description": "Operation C (World) (Contra Anniversary Collection)"
-        },
-        {
             "name": "Osawagase! Penguin Boy (Japan)",
             "description": "Osawagase! Penguin Boy (Japan)"
         },
@@ -4516,10 +4492,6 @@
             "description": "Probotector (Europe)"
         },
         {
-            "name": "Probotector (World) (Contra Anniversary Collection)",
-            "description": "Probotector (World) (Contra Anniversary Collection)"
-        },
-        {
             "name": "Probotector 2 (Europe) (SGB Enhanced)",
             "description": "Probotector 2 (Europe) (SGB Enhanced)"
         },
@@ -4958,10 +4930,6 @@
         {
             "name": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
             "description": "Seiken Densetsu - Final Fantasy Gaiden (Japan)"
-        },
-        {
-            "name": "Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection)",
-            "description": "Seiken Densetsu - Final Fantasy Gaiden (Japan) (Seiken Densetsu Collection)"
         },
         {
             "name": "Selection - Erabareshi Mono (Japan)",

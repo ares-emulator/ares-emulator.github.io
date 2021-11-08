@@ -536,10 +536,6 @@
             "description": "Advance Wars (Europe) (En,Fr,De,Es)"
         },
         {
-            "name": "Advance Wars (Europe) (En,Fr,De,Es) (Virtual Console)",
-            "description": "Advance Wars (Europe) (En,Fr,De,Es) (Virtual Console)"
-        },
-        {
             "name": "Advance Wars (USA)",
             "description": "Advance Wars (USA)"
         },
@@ -548,24 +544,12 @@
             "description": "Advance Wars (USA) (Rev 1)"
         },
         {
-            "name": "Advance Wars (USA) (Virtual Console)",
-            "description": "Advance Wars (USA) (Virtual Console)"
-        },
-        {
             "name": "Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It)",
             "description": "Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Advance Wars 2 - Black Hole Rising (USA)",
             "description": "Advance Wars 2 - Black Hole Rising (USA)"
-        },
-        {
-            "name": "Advance Wars 2 - Black Hole Rising (USA) (Virtual Console)",
-            "description": "Advance Wars 2 - Black Hole Rising (USA) (Virtual Console)"
         },
         {
             "name": "Adventure of Tokyo Disney Sea (Japan)",
@@ -646,14 +630,6 @@
         {
             "name": "Akumajou Dracula - Circle of the Moon (Japan)",
             "description": "Akumajou Dracula - Circle of the Moon (Japan)"
-        },
-        {
-            "name": "Akumajou Dracula - Circle of the Moon (Japan) (Castlevania Advance Collection)",
-            "description": "Akumajou Dracula - Circle of the Moon (Japan) (Castlevania Advance Collection)"
-        },
-        {
-            "name": "Akumajou Dracula - Circle of the Moon (Japan) (Virtual Console)",
-            "description": "Akumajou Dracula - Circle of the Moon (Japan) (Virtual Console)"
         },
         {
             "name": "Aladdin (Europe) (En,Fr,De,Es)",
@@ -1140,20 +1116,12 @@
             "description": "Battle Network Rockman EXE (Japan)"
         },
         {
-            "name": "Battle Network Rockman EXE (Japan) (Virtual Console)",
-            "description": "Battle Network Rockman EXE (Japan) (Virtual Console)"
-        },
-        {
             "name": "Battle Network Rockman EXE 2 (Japan)",
             "description": "Battle Network Rockman EXE 2 (Japan)"
         },
         {
             "name": "Battle Network Rockman EXE 2 (Japan) (Rev 1)",
             "description": "Battle Network Rockman EXE 2 (Japan) (Rev 1)"
-        },
-        {
-            "name": "Battle Network Rockman EXE 2 (Japan) (Rev 1) (Virtual Console)",
-            "description": "Battle Network Rockman EXE 2 (Japan) (Rev 1) (Virtual Console)"
         },
         {
             "name": "Battle Network Rockman EXE 3 (Japan)",
@@ -1164,20 +1132,12 @@
             "description": "Battle Network Rockman EXE 3 (Japan) (Rev 1)"
         },
         {
-            "name": "Battle Network Rockman EXE 3 (Japan) (Rev 1) (Virtual Console)",
-            "description": "Battle Network Rockman EXE 3 (Japan) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Battle Network Rockman EXE 3 - Black (Japan) (Promo)",
             "description": "Battle Network Rockman EXE 3 - Black (Japan) (Promo)"
         },
         {
             "name": "Battle Network Rockman EXE 3 - Black (Japan) (Rev 1)",
             "description": "Battle Network Rockman EXE 3 - Black (Japan) (Rev 1)"
-        },
-        {
-            "name": "Battle Network Rockman EXE 3 - Black (Japan) (Rev 1) (Virtual Console)",
-            "description": "Battle Network Rockman EXE 3 - Black (Japan) (Rev 1) (Virtual Console)"
         },
         {
             "name": "Battle X Battle - Kyodai Gyo Densetsu (Japan)",
@@ -1800,84 +1760,32 @@
             "description": "Castlevania (Europe)"
         },
         {
-            "name": "Castlevania (Europe) (Castlevania Advance Collection)",
-            "description": "Castlevania (Europe) (Castlevania Advance Collection)"
-        },
-        {
-            "name": "Castlevania (Europe) (Virtual Console)",
-            "description": "Castlevania (Europe) (Virtual Console)"
-        },
-        {
             "name": "Castlevania - Akatsuki no Minuet (Japan)",
             "description": "Castlevania - Akatsuki no Minuet (Japan)"
-        },
-        {
-            "name": "Castlevania - Akatsuki no Minuet (Japan) (Castlevania Advance Collection)",
-            "description": "Castlevania - Akatsuki no Minuet (Japan) (Castlevania Advance Collection)"
-        },
-        {
-            "name": "Castlevania - Akatsuki no Minuet (Japan) (Virtual Console)",
-            "description": "Castlevania - Akatsuki no Minuet (Japan) (Virtual Console)"
         },
         {
             "name": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De)",
             "description": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De)"
         },
         {
-            "name": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Castlevania Advance Collection)",
-            "description": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Castlevania Advance Collection)"
-        },
-        {
-            "name": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Virtual Console)",
-            "description": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Virtual Console)"
-        },
-        {
             "name": "Castlevania - Aria of Sorrow (USA)",
             "description": "Castlevania - Aria of Sorrow (USA)"
-        },
-        {
-            "name": "Castlevania - Aria of Sorrow (USA) (Castlevania Advance Collection)",
-            "description": "Castlevania - Aria of Sorrow (USA) (Castlevania Advance Collection)"
-        },
-        {
-            "name": "Castlevania - Aria of Sorrow (USA) (Virtual Console)",
-            "description": "Castlevania - Aria of Sorrow (USA) (Virtual Console)"
         },
         {
             "name": "Castlevania - Byakuya no Concerto (Japan)",
             "description": "Castlevania - Byakuya no Concerto (Japan)"
         },
         {
-            "name": "Castlevania - Byakuya no Concerto (Japan) (Castlevania Advance Collection)",
-            "description": "Castlevania - Byakuya no Concerto (Japan) (Castlevania Advance Collection)"
-        },
-        {
             "name": "Castlevania - Circle of the Moon (USA)",
             "description": "Castlevania - Circle of the Moon (USA)"
-        },
-        {
-            "name": "Castlevania - Circle of the Moon (USA) (Castlevania Advance Collection)",
-            "description": "Castlevania - Circle of the Moon (USA) (Castlevania Advance Collection)"
-        },
-        {
-            "name": "Castlevania - Circle of the Moon (USA) (Virtual Console)",
-            "description": "Castlevania - Circle of the Moon (USA) (Virtual Console)"
         },
         {
             "name": "Castlevania - Harmony of Dissonance (Europe)",
             "description": "Castlevania - Harmony of Dissonance (Europe)"
         },
         {
-            "name": "Castlevania - Harmony of Dissonance (Europe) (Castlevania Advance Collection)",
-            "description": "Castlevania - Harmony of Dissonance (Europe) (Castlevania Advance Collection)"
-        },
-        {
             "name": "Castlevania - Harmony of Dissonance (USA)",
             "description": "Castlevania - Harmony of Dissonance (USA)"
-        },
-        {
-            "name": "Castlevania - Harmony of Dissonance (USA) (Castlevania Advance Collection)",
-            "description": "Castlevania - Harmony of Dissonance (USA) (Castlevania Advance Collection)"
         },
         {
             "name": "Castlevania Double Pack (Europe) (En,Fr,De)",
@@ -1988,10 +1896,6 @@
             "description": "Chinmoku no Iseki - Estpolis Gaiden (Japan)"
         },
         {
-            "name": "Chinmoku no Iseki - Estpolis Gaiden (Japan) (Virtual Console)",
-            "description": "Chinmoku no Iseki - Estpolis Gaiden (Japan) (Virtual Console)"
-        },
-        {
             "name": "Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)",
             "description": "Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)"
         },
@@ -2016,10 +1920,6 @@
             "description": "Chou Makaimura R (Japan)"
         },
         {
-            "name": "Chou Makaimura R (Japan) (Virtual Console)",
-            "description": "Chou Makaimura R (Japan) (Virtual Console)"
-        },
-        {
             "name": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
             "description": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
         },
@@ -2030,10 +1930,6 @@
         {
             "name": "ChuChu Rocket! (Japan) (En,Ja,Fr,De,Es)",
             "description": "ChuChu Rocket! (Japan) (En,Ja,Fr,De,Es)"
-        },
-        {
-            "name": "ChuChu Rocket! (Japan) (En,Ja,Fr,De,Es) (Virtual Console)",
-            "description": "ChuChu Rocket! (Japan) (En,Ja,Fr,De,Es) (Virtual Console)"
         },
         {
             "name": "ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)",
@@ -2160,24 +2056,12 @@
             "description": "Contra Advance - The Alien Wars EX (Europe)"
         },
         {
-            "name": "Contra Advance - The Alien Wars EX (Europe) (Virtual Console)",
-            "description": "Contra Advance - The Alien Wars EX (Europe) (Virtual Console)"
-        },
-        {
             "name": "Contra Advance - The Alien Wars EX (USA)",
             "description": "Contra Advance - The Alien Wars EX (USA)"
         },
         {
-            "name": "Contra Advance - The Alien Wars EX (USA) (Virtual Console)",
-            "description": "Contra Advance - The Alien Wars EX (USA) (Virtual Console)"
-        },
-        {
             "name": "Contra Hard Spirits (Japan) (En)",
             "description": "Contra Hard Spirits (Japan) (En)"
-        },
-        {
-            "name": "Contra Hard Spirits (Japan) (En) (Virtual Console)",
-            "description": "Contra Hard Spirits (Japan) (En) (Virtual Console)"
         },
         {
             "name": "Corvette (USA) (En,Fr,De,Es,It)",
@@ -2548,20 +2432,12 @@
             "description": "Densetsu no Stafy 2 (Japan)"
         },
         {
-            "name": "Densetsu no Stafy 2 (Japan) (Virtual Console)",
-            "description": "Densetsu no Stafy 2 (Japan) (Virtual Console)"
-        },
-        {
             "name": "Densetsu no Stafy 3 (Japan)",
             "description": "Densetsu no Stafy 3 (Japan)"
         },
         {
             "name": "Densetsu no Stafy 3 (Japan) (Rev 1)",
             "description": "Densetsu no Stafy 3 (Japan) (Rev 1)"
-        },
-        {
-            "name": "Densetsu no Stafy 3 (Japan) (Rev 1) (Virtual Console)",
-            "description": "Densetsu no Stafy 3 (Japan) (Rev 1) (Virtual Console)"
         },
         {
             "name": "Derby Stallion Advance (Japan)",
@@ -3080,10 +2956,6 @@
             "description": "Drake & Josh (USA) (En,Fr)"
         },
         {
-            "name": "Drill Dozer (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Drill Dozer (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Drill Dozer (USA)",
             "description": "Drill Dozer (USA)"
         },
@@ -3436,48 +3308,24 @@
             "description": "F-Zero - Climax (Japan)"
         },
         {
-            "name": "F-Zero - Climax (Japan) (Virtual Console)",
-            "description": "F-Zero - Climax (Japan) (Virtual Console)"
-        },
-        {
             "name": "F-Zero - Falcon Densetsu (Japan)",
             "description": "F-Zero - Falcon Densetsu (Japan)"
-        },
-        {
-            "name": "F-Zero - Falcon Densetsu (Japan) (Virtual Console)",
-            "description": "F-Zero - Falcon Densetsu (Japan) (Virtual Console)"
         },
         {
             "name": "F-Zero - GP Legend (Europe) (En,Fr,De,Es,It)",
             "description": "F-Zero - GP Legend (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "F-Zero - GP Legend (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "F-Zero - GP Legend (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "F-Zero - GP Legend (USA)",
             "description": "F-Zero - GP Legend (USA)"
-        },
-        {
-            "name": "F-Zero - GP Legend (USA) (Virtual Console)",
-            "description": "F-Zero - GP Legend (USA) (Virtual Console)"
         },
         {
             "name": "F-Zero - Maximum Velocity (USA, Europe)",
             "description": "F-Zero - Maximum Velocity (USA, Europe)"
         },
         {
-            "name": "F-Zero - Maximum Velocity (USA, Europe) (Virtual Console)",
-            "description": "F-Zero - Maximum Velocity (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "F-Zero for Game Boy Advance (Japan)",
             "description": "F-Zero for Game Boy Advance (Japan)"
-        },
-        {
-            "name": "F-Zero for Game Boy Advance (Japan) (Virtual Console)",
-            "description": "F-Zero for Game Boy Advance (Japan) (Virtual Console)"
         },
         {
             "name": "F1 2002 (Europe) (En,Fr,De,Es,It)",
@@ -3748,10 +3596,6 @@
             "description": "Final Fantasy I, II Advance (Japan) (Rev 1)"
         },
         {
-            "name": "Final Fantasy I, II Advance (Japan) (Rev 1) (Virtual Console)",
-            "description": "Final Fantasy I, II Advance (Japan) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)",
             "description": "Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)"
         },
@@ -3764,10 +3608,6 @@
             "description": "Final Fantasy IV Advance (Japan) (Rev 1)"
         },
         {
-            "name": "Final Fantasy IV Advance (Japan) (Rev 1) (Virtual Console)",
-            "description": "Final Fantasy IV Advance (Japan) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Final Fantasy IV Advance (USA)",
             "description": "Final Fantasy IV Advance (USA)"
         },
@@ -3776,24 +3616,12 @@
             "description": "Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Final Fantasy Tactics Advance (Japan)",
             "description": "Final Fantasy Tactics Advance (Japan)"
         },
         {
-            "name": "Final Fantasy Tactics Advance (Japan) (Virtual Console)",
-            "description": "Final Fantasy Tactics Advance (Japan) (Virtual Console)"
-        },
-        {
             "name": "Final Fantasy Tactics Advance (USA)",
             "description": "Final Fantasy Tactics Advance (USA)"
-        },
-        {
-            "name": "Final Fantasy Tactics Advance (USA) (Virtual Console)",
-            "description": "Final Fantasy Tactics Advance (USA) (Virtual Console)"
         },
         {
             "name": "Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)",
@@ -3802,10 +3630,6 @@
         {
             "name": "Final Fantasy V Advance (Japan)",
             "description": "Final Fantasy V Advance (Japan)"
-        },
-        {
-            "name": "Final Fantasy V Advance (Japan) (Virtual Console)",
-            "description": "Final Fantasy V Advance (Japan) (Virtual Console)"
         },
         {
             "name": "Final Fantasy V Advance (USA)",
@@ -3820,10 +3644,6 @@
             "description": "Final Fantasy VI Advance (Japan)"
         },
         {
-            "name": "Final Fantasy VI Advance (Japan) (Virtual Console)",
-            "description": "Final Fantasy VI Advance (Japan) (Virtual Console)"
-        },
-        {
             "name": "Final Fantasy VI Advance (USA)",
             "description": "Final Fantasy VI Advance (USA)"
         },
@@ -3832,24 +3652,12 @@
             "description": "Final Fight One (Europe)"
         },
         {
-            "name": "Final Fight One (Europe) (Virtual Console)",
-            "description": "Final Fight One (Europe) (Virtual Console)"
-        },
-        {
             "name": "Final Fight One (Japan)",
             "description": "Final Fight One (Japan)"
         },
         {
-            "name": "Final Fight One (Japan) (Virtual Console)",
-            "description": "Final Fight One (Japan) (Virtual Console)"
-        },
-        {
             "name": "Final Fight One (USA)",
             "description": "Final Fight One (USA)"
-        },
-        {
-            "name": "Final Fight One (USA) (Virtual Console)",
-            "description": "Final Fight One (USA) (Virtual Console)"
         },
         {
             "name": "Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan)",
@@ -3896,20 +3704,8 @@
             "description": "Fire Emblem (Europe) (En,Es,It)"
         },
         {
-            "name": "Fire Emblem (Europe) (En,Es,It) (Virtual Console)",
-            "description": "Fire Emblem (Europe) (En,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Fire Emblem (Europe) (En,Fr,De)",
             "description": "Fire Emblem (Europe) (En,Fr,De)"
-        },
-        {
-            "name": "Fire Emblem (Europe) (En,Fr,De) (Virtual Console)",
-            "description": "Fire Emblem (Europe) (En,Fr,De) (Virtual Console)"
-        },
-        {
-            "name": "Fire Emblem (USA) (Virtual Console)",
-            "description": "Fire Emblem (USA) (Virtual Console)"
         },
         {
             "name": "Fire Emblem (USA, Australia)",
@@ -3920,36 +3716,16 @@
             "description": "Fire Emblem - Fuuin no Tsurugi (Japan)"
         },
         {
-            "name": "Fire Emblem - Fuuin no Tsurugi (Japan) (Virtual Console)",
-            "description": "Fire Emblem - Fuuin no Tsurugi (Japan) (Virtual Console)"
-        },
-        {
             "name": "Fire Emblem - Rekka no Ken (Japan)",
             "description": "Fire Emblem - Rekka no Ken (Japan)"
-        },
-        {
-            "name": "Fire Emblem - Rekka no Ken (Japan) (Virtual Console)",
-            "description": "Fire Emblem - Rekka no Ken (Japan) (Virtual Console)"
         },
         {
             "name": "Fire Emblem - Seima no Kouseki (Japan)",
             "description": "Fire Emblem - Seima no Kouseki (Japan)"
         },
         {
-            "name": "Fire Emblem - Seima no Kouseki (Japan) (Virtual Console)",
-            "description": "Fire Emblem - Seima no Kouseki (Japan) (Virtual Console)"
-        },
-        {
             "name": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)",
             "description": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)"
-        },
-        {
-            "name": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
-            "name": "Fire Emblem - The Sacred Stones (USA) (Virtual Console)",
-            "description": "Fire Emblem - The Sacred Stones (USA) (Virtual Console)"
         },
         {
             "name": "Fire Emblem - The Sacred Stones (USA, Australia)",
@@ -4184,16 +3960,8 @@
             "description": "Game & Watch Gallery 4 (USA)"
         },
         {
-            "name": "Game & Watch Gallery 4 (USA) (Virtual Console)",
-            "description": "Game & Watch Gallery 4 (USA) (Virtual Console)"
-        },
-        {
             "name": "Game & Watch Gallery Advance (Europe)",
             "description": "Game & Watch Gallery Advance (Europe)"
-        },
-        {
-            "name": "Game & Watch Gallery Advance (Europe) (Virtual Console)",
-            "description": "Game & Watch Gallery Advance (Europe) (Virtual Console)"
         },
         {
             "name": "Game Boy Advance Video - All Grown Up! - Volume 1 (USA)",
@@ -4368,16 +4136,8 @@
             "description": "Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)"
         },
         {
-            "name": "Game Boy Gallery 4 (Japan) (Virtual Console)",
-            "description": "Game Boy Gallery 4 (Japan) (Virtual Console)"
-        },
-        {
             "name": "Game Boy Wars Advance 1+2 (Japan)",
             "description": "Game Boy Wars Advance 1+2 (Japan)"
-        },
-        {
-            "name": "Game Boy Wars Advance 1+2 (Japan) (Virtual Console)",
-            "description": "Game Boy Wars Advance 1+2 (Japan) (Virtual Console)"
         },
         {
             "name": "Games Explosion! (USA)",
@@ -4560,10 +4320,6 @@
             "description": "Golden Sun - The Lost Age (USA, Europe)"
         },
         {
-            "name": "Golden Sun - The Lost Age (USA, Europe) (Virtual Console)",
-            "description": "Golden Sun - The Lost Age (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Gradius Advance (Europe)",
             "description": "Gradius Advance (Europe)"
         },
@@ -4676,10 +4432,6 @@
             "description": "Guranbo (Japan)"
         },
         {
-            "name": "Guranbo (Japan) (Virtual Console)",
-            "description": "Guranbo (Japan) (Virtual Console)"
-        },
-        {
             "name": "Guru Logic Champ (Japan)",
             "description": "Guru Logic Champ (Japan)"
         },
@@ -4692,24 +4444,12 @@
             "description": "Gyakuten Saiban (Japan) (Rev 1)"
         },
         {
-            "name": "Gyakuten Saiban (Japan) (Rev 1) (Virtual Console)",
-            "description": "Gyakuten Saiban (Japan) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Gyakuten Saiban 2 (Japan)",
             "description": "Gyakuten Saiban 2 (Japan)"
         },
         {
-            "name": "Gyakuten Saiban 2 (Japan) (Virtual Console)",
-            "description": "Gyakuten Saiban 2 (Japan) (Virtual Console)"
-        },
-        {
             "name": "Gyakuten Saiban 3 (Japan)",
             "description": "Gyakuten Saiban 3 (Japan)"
-        },
-        {
-            "name": "Gyakuten Saiban 3 (Japan) (Virtual Console)",
-            "description": "Gyakuten Saiban 3 (Japan) (Virtual Console)"
         },
         {
             "name": "Hachiemon (Japan)",
@@ -5020,16 +4760,8 @@
             "description": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1)"
         },
         {
-            "name": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Virtual Console)",
-            "description": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Virtual Console)"
-        },
-        {
             "name": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan)",
             "description": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan)"
-        },
-        {
-            "name": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan) (Virtual Console)",
-            "description": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan) (Virtual Console)"
         },
         {
             "name": "Hot Potato! (Europe)",
@@ -5500,10 +5232,6 @@
             "description": "Kawa no Nushi Tsuri 3 & 4 (Japan)"
         },
         {
-            "name": "Kawa no Nushi Tsuri 3 & 4 (Japan) (Virtual Console)",
-            "description": "Kawa no Nushi Tsuri 3 & 4 (Japan) (Virtual Console)"
-        },
-        {
             "name": "Kawa no Nushi Tsuri 5 - Fushigi no Mori kara (Japan)",
             "description": "Kawa no Nushi Tsuri 5 - Fushigi no Mori kara (Japan)"
         },
@@ -5530,10 +5258,6 @@
         {
             "name": "Kaze no Klonoa G2 - Dream Champ Tournament (Japan)",
             "description": "Kaze no Klonoa G2 - Dream Champ Tournament (Japan)"
-        },
-        {
-            "name": "Kaze no Klonoa G2 - Dream Champ Tournament (Japan) (Virtual Console)",
-            "description": "Kaze no Klonoa G2 - Dream Champ Tournament (Japan) (Virtual Console)"
         },
         {
             "name": "Keitai Denjuu Telefang 2 - Power (Japan)",
@@ -5696,32 +5420,16 @@
             "description": "Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Kirby & The Amazing Mirror (USA)",
             "description": "Kirby & The Amazing Mirror (USA)"
-        },
-        {
-            "name": "Kirby & The Amazing Mirror (USA) (Virtual Console)",
-            "description": "Kirby & The Amazing Mirror (USA) (Virtual Console)"
         },
         {
             "name": "Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It)",
             "description": "Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Kirby - Nightmare in Dream Land (USA)",
             "description": "Kirby - Nightmare in Dream Land (USA)"
-        },
-        {
-            "name": "Kirby - Nightmare in Dream Land (USA) (Virtual Console)",
-            "description": "Kirby - Nightmare in Dream Land (USA) (Virtual Console)"
         },
         {
             "name": "Kisekko Gurumii - Chesty to Nuigurumi-tachi no Mahou no Bouken (Japan)",
@@ -5746,10 +5454,6 @@
         {
             "name": "Klonoa 2 - Dream Champ Tournament (USA)",
             "description": "Klonoa 2 - Dream Champ Tournament (USA)"
-        },
-        {
-            "name": "Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console)",
-            "description": "Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console)"
         },
         {
             "name": "Klonoa Heroes - Densetsu no Star Medal (Japan)",
@@ -5800,24 +5504,12 @@
             "description": "Konami Krazy Racers (Europe)"
         },
         {
-            "name": "Konami Krazy Racers (Europe) (Virtual Console)",
-            "description": "Konami Krazy Racers (Europe) (Virtual Console)"
-        },
-        {
             "name": "Konami Krazy Racers (USA)",
             "description": "Konami Krazy Racers (USA)"
         },
         {
-            "name": "Konami Krazy Racers (USA) (Virtual Console)",
-            "description": "Konami Krazy Racers (USA) (Virtual Console)"
-        },
-        {
             "name": "Konami Wai Wai Racing Advance (Japan)",
             "description": "Konami Wai Wai Racing Advance (Japan)"
-        },
-        {
-            "name": "Konami Wai Wai Racing Advance (Japan) (Virtual Console)",
-            "description": "Konami Wai Wai Racing Advance (Japan) (Virtual Console)"
         },
         {
             "name": "Konchuu Monster - Battle Master (Japan)",
@@ -5878,10 +5570,6 @@
         {
             "name": "Kotoba no Puzzle - Mojipittan Advance (Japan)",
             "description": "Kotoba no Puzzle - Mojipittan Advance (Japan)"
-        },
-        {
-            "name": "Kotoba no Puzzle - Mojipittan Advance (Japan) (Virtual Console)",
-            "description": "Kotoba no Puzzle - Mojipittan Advance (Japan) (Virtual Console)"
         },
         {
             "name": "Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan)",
@@ -6348,10 +6036,6 @@
             "description": "Made in Wario (Japan)"
         },
         {
-            "name": "Made in Wario (Japan) (Virtual Console)",
-            "description": "Made in Wario (Japan) (Virtual Console)"
-        },
-        {
             "name": "MAER Heaven - Knockin' on Heaven's Door (Japan)",
             "description": "MAER Heaven - Knockin' on Heaven's Door (Japan)"
         },
@@ -6390,10 +6074,6 @@
         {
             "name": "Magical Vacation (Japan)",
             "description": "Magical Vacation (Japan)"
-        },
-        {
-            "name": "Magical Vacation (Japan) (Virtual Console)",
-            "description": "Magical Vacation (Japan) (Virtual Console)"
         },
         {
             "name": "Mahjong Keiji (Japan)",
@@ -6464,24 +6144,12 @@
             "description": "Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Mario & Luigi - Superstar Saga (USA)",
             "description": "Mario & Luigi - Superstar Saga (USA)"
         },
         {
-            "name": "Mario & Luigi - Superstar Saga (USA) (Virtual Console)",
-            "description": "Mario & Luigi - Superstar Saga (USA) (Virtual Console)"
-        },
-        {
             "name": "Mario & Luigi RPG (Japan)",
             "description": "Mario & Luigi RPG (Japan)"
-        },
-        {
-            "name": "Mario & Luigi RPG (Japan) (Virtual Console)",
-            "description": "Mario & Luigi RPG (Japan) (Virtual Console)"
         },
         {
             "name": "Mario Golf - Advance Tour (Australia)",
@@ -6490,10 +6158,6 @@
         {
             "name": "Mario Golf - Advance Tour (Europe)",
             "description": "Mario Golf - Advance Tour (Europe)"
-        },
-        {
-            "name": "Mario Golf - Advance Tour (Europe) (Virtual Console)",
-            "description": "Mario Golf - Advance Tour (Europe) (Virtual Console)"
         },
         {
             "name": "Mario Golf - Advance Tour (France)",
@@ -6516,32 +6180,16 @@
             "description": "Mario Golf - Advance Tour (USA)"
         },
         {
-            "name": "Mario Golf - Advance Tour (USA) (Virtual Console)",
-            "description": "Mario Golf - Advance Tour (USA) (Virtual Console)"
-        },
-        {
             "name": "Mario Golf - GBA Tour (Japan)",
             "description": "Mario Golf - GBA Tour (Japan)"
-        },
-        {
-            "name": "Mario Golf - GBA Tour (Japan) (Virtual Console)",
-            "description": "Mario Golf - GBA Tour (Japan) (Virtual Console)"
         },
         {
             "name": "Mario Kart - Super Circuit (Europe)",
             "description": "Mario Kart - Super Circuit (Europe)"
         },
         {
-            "name": "Mario Kart - Super Circuit (Europe) (Virtual Console)",
-            "description": "Mario Kart - Super Circuit (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mario Kart - Super Circuit (USA)",
             "description": "Mario Kart - Super Circuit (USA)"
-        },
-        {
-            "name": "Mario Kart - Super Circuit (USA) (Virtual Console)",
-            "description": "Mario Kart - Super Circuit (USA) (Virtual Console)"
         },
         {
             "name": "Mario Kart Advance (Japan)",
@@ -6552,40 +6200,20 @@
             "description": "Mario Kart Advance (Japan) (3DS Virtual Console)"
         },
         {
-            "name": "Mario Kart Advance (Japan) (Virtual Console)",
-            "description": "Mario Kart Advance (Japan) (Virtual Console)"
-        },
-        {
             "name": "Mario Party Advance (Europe) (En,Fr,De,Es,It)",
             "description": "Mario Party Advance (Europe) (En,Fr,De,Es,It)"
-        },
-        {
-            "name": "Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)"
         },
         {
             "name": "Mario Party Advance (Japan)",
             "description": "Mario Party Advance (Japan)"
         },
         {
-            "name": "Mario Party Advance (Japan) (Virtual Console)",
-            "description": "Mario Party Advance (Japan) (Virtual Console)"
-        },
-        {
             "name": "Mario Party Advance (USA)",
             "description": "Mario Party Advance (USA)"
         },
         {
-            "name": "Mario Party Advance (USA) (Virtual Console)",
-            "description": "Mario Party Advance (USA) (Virtual Console)"
-        },
-        {
             "name": "Mario Pinball Land (USA) (Kiosk, GameCube)",
             "description": "Mario Pinball Land (USA) (Kiosk, GameCube)"
-        },
-        {
-            "name": "Mario Pinball Land (USA) (Virtual Console)",
-            "description": "Mario Pinball Land (USA) (Virtual Console)"
         },
         {
             "name": "Mario Pinball Land (USA, Australia)",
@@ -6596,24 +6224,12 @@
             "description": "Mario Power Tennis (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
-            "name": "Mario Tennis - Power Tour (USA) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Mario Tennis - Power Tour (USA) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)",
             "description": "Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)"
         },
         {
             "name": "Mario Tennis Advance (Japan)",
             "description": "Mario Tennis Advance (Japan)"
-        },
-        {
-            "name": "Mario Tennis Advance (Japan) (Virtual Console)",
-            "description": "Mario Tennis Advance (Japan) (Virtual Console)"
         },
         {
             "name": "Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It)",
@@ -6716,10 +6332,6 @@
             "description": "Medabots - Metabee (Europe)"
         },
         {
-            "name": "Medabots - Metabee (Europe) (Virtual Console)",
-            "description": "Medabots - Metabee (Europe) (Virtual Console)"
-        },
-        {
             "name": "Medabots - Metabee (Spain)",
             "description": "Medabots - Metabee (Spain)"
         },
@@ -6728,16 +6340,8 @@
             "description": "Medabots - Metabee (USA)"
         },
         {
-            "name": "Medabots - Metabee (USA) (Virtual Console)",
-            "description": "Medabots - Metabee (USA) (Virtual Console)"
-        },
-        {
             "name": "Medabots - Rokusho (Europe)",
             "description": "Medabots - Rokusho (Europe)"
-        },
-        {
-            "name": "Medabots - Rokusho (Europe) (Virtual Console)",
-            "description": "Medabots - Rokusho (Europe) (Virtual Console)"
         },
         {
             "name": "Medabots - Rokusho (Spain)",
@@ -6748,40 +6352,20 @@
             "description": "Medabots - Rokusho (USA)"
         },
         {
-            "name": "Medabots - Rokusho (USA) (Virtual Console)",
-            "description": "Medabots - Rokusho (USA) (Virtual Console)"
-        },
-        {
             "name": "Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It)",
             "description": "Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It)"
-        },
-        {
-            "name": "Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)"
         },
         {
             "name": "Medabots AX - Metabee Ver. (USA)",
             "description": "Medabots AX - Metabee Ver. (USA)"
         },
         {
-            "name": "Medabots AX - Metabee Ver. (USA) (Virtual Console)",
-            "description": "Medabots AX - Metabee Ver. (USA) (Virtual Console)"
-        },
-        {
             "name": "Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It)",
             "description": "Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Medabots AX - Rokusho Ver. (USA)",
             "description": "Medabots AX - Rokusho Ver. (USA)"
-        },
-        {
-            "name": "Medabots AX - Rokusho Ver. (USA) (Virtual Console)",
-            "description": "Medabots AX - Rokusho Ver. (USA) (Virtual Console)"
         },
         {
             "name": "Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)",
@@ -6808,32 +6392,16 @@
             "description": "Medarot G - Kabuto (Japan)"
         },
         {
-            "name": "Medarot G - Kabuto (Japan) (Virtual Console)",
-            "description": "Medarot G - Kabuto (Japan) (Virtual Console)"
-        },
-        {
             "name": "Medarot G - Kuwagata (Japan)",
             "description": "Medarot G - Kuwagata (Japan)"
-        },
-        {
-            "name": "Medarot G - Kuwagata (Japan) (Virtual Console)",
-            "description": "Medarot G - Kuwagata (Japan) (Virtual Console)"
         },
         {
             "name": "Medarot Navi - Kabuto (Japan)",
             "description": "Medarot Navi - Kabuto (Japan)"
         },
         {
-            "name": "Medarot Navi - Kabuto (Japan) (Virtual Console)",
-            "description": "Medarot Navi - Kabuto (Japan) (Virtual Console)"
-        },
-        {
             "name": "Medarot Navi - Kuwagata (Japan)",
             "description": "Medarot Navi - Kuwagata (Japan)"
-        },
-        {
-            "name": "Medarot Navi - Kuwagata (Japan) (Virtual Console)",
-            "description": "Medarot Navi - Kuwagata (Japan) (Virtual Console)"
         },
         {
             "name": "Medarot Ni Core - Kabuto (Japan)",
@@ -6844,16 +6412,8 @@
             "description": "Medarot Ni Core - Kabuto (Japan) (Rev 1) (Retail release)"
         },
         {
-            "name": "Medarot Ni Core - Kabuto (Japan) (Rev 1) (Virtual Console)",
-            "description": "Medarot Ni Core - Kabuto (Japan) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Medarot Ni Core - Kuwagata (Japan)",
             "description": "Medarot Ni Core - Kuwagata (Japan)"
-        },
-        {
-            "name": "Medarot Ni Core - Kuwagata (Japan) (Virtual Console)",
-            "description": "Medarot Ni Core - Kuwagata (Japan) (Virtual Console)"
         },
         {
             "name": "Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl)",
@@ -6868,48 +6428,24 @@
             "description": "Mega Man & Bass (Europe)"
         },
         {
-            "name": "Mega Man & Bass (Europe) (Virtual Console)",
-            "description": "Mega Man & Bass (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man & Bass (USA)",
             "description": "Mega Man & Bass (USA)"
-        },
-        {
-            "name": "Mega Man & Bass (USA) (Virtual Console)",
-            "description": "Mega Man & Bass (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Chip Challenge (Europe)",
             "description": "Mega Man Battle Chip Challenge (Europe)"
         },
         {
-            "name": "Mega Man Battle Chip Challenge (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Chip Challenge (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Chip Challenge (USA)",
             "description": "Mega Man Battle Chip Challenge (USA)"
-        },
-        {
-            "name": "Mega Man Battle Chip Challenge (USA) (Virtual Console)",
-            "description": "Mega Man Battle Chip Challenge (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network (Europe)",
             "description": "Mega Man Battle Network (Europe)"
         },
         {
-            "name": "Mega Man Battle Network (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network (USA)",
             "description": "Mega Man Battle Network (USA)"
-        },
-        {
-            "name": "Mega Man Battle Network (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network 2 (Europe)",
@@ -6924,96 +6460,44 @@
             "description": "Mega Man Battle Network 2 (USA) (Debug Version)"
         },
         {
-            "name": "Mega Man Battle Network 2 (USA, Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 2 (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 3 - Blue (Europe)",
             "description": "Mega Man Battle Network 3 - Blue (Europe)"
-        },
-        {
-            "name": "Mega Man Battle Network 3 - Blue (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 3 - Blue (Europe) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network 3 - Blue Version (USA)",
             "description": "Mega Man Battle Network 3 - Blue Version (USA)"
         },
         {
-            "name": "Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 3 - White (Europe)",
             "description": "Mega Man Battle Network 3 - White (Europe)"
-        },
-        {
-            "name": "Mega Man Battle Network 3 - White (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 3 - White (Europe) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network 3 - White Version (USA)",
             "description": "Mega Man Battle Network 3 - White Version (USA)"
         },
         {
-            "name": "Mega Man Battle Network 3 - White Version (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 3 - White Version (USA) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 4 - Blue Moon (Europe)",
             "description": "Mega Man Battle Network 4 - Blue Moon (Europe)"
-        },
-        {
-            "name": "Mega Man Battle Network 4 - Blue Moon (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 4 - Blue Moon (Europe) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network 4 - Blue Moon (USA)",
             "description": "Mega Man Battle Network 4 - Blue Moon (USA)"
         },
         {
-            "name": "Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 4 - Red Sun (Europe)",
             "description": "Mega Man Battle Network 4 - Red Sun (Europe)"
-        },
-        {
-            "name": "Mega Man Battle Network 4 - Red Sun (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 4 - Red Sun (Europe) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network 4 - Red Sun (USA)",
             "description": "Mega Man Battle Network 4 - Red Sun (USA)"
         },
         {
-            "name": "Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 5 - Team Colonel (Europe)",
             "description": "Mega Man Battle Network 5 - Team Colonel (Europe)"
         },
         {
-            "name": "Mega Man Battle Network 5 - Team Colonel (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 5 - Team Colonel (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 5 - Team Colonel (USA)",
             "description": "Mega Man Battle Network 5 - Team Colonel (USA)"
-        },
-        {
-            "name": "Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console)"
-        },
-        {
-            "name": "Mega Man Battle Network 5 - Team Proto Man (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 5 - Team Proto Man (Europe) (Virtual Console)"
-        },
-        {
-            "name": "Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network 5 - Team Protoman (Europe)",
@@ -7028,36 +6512,16 @@
             "description": "Mega Man Battle Network 6 - Cybeast Falzar (Europe)"
         },
         {
-            "name": "Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 6 - Cybeast Falzar (USA)",
             "description": "Mega Man Battle Network 6 - Cybeast Falzar (USA)"
-        },
-        {
-            "name": "Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Battle Network 6 - Cybeast Gregar (Europe)",
             "description": "Mega Man Battle Network 6 - Cybeast Gregar (Europe)"
         },
         {
-            "name": "Mega Man Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console)",
-            "description": "Mega Man Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Battle Network 6 - Cybeast Gregar (USA)",
             "description": "Mega Man Battle Network 6 - Cybeast Gregar (USA)"
-        },
-        {
-            "name": "Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)",
-            "description": "Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)"
-        },
-        {
-            "name": "Mega Man Zero (USA) (Virtual Console)",
-            "description": "Mega Man Zero (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Zero (USA, Europe)",
@@ -7068,48 +6532,24 @@
             "description": "Mega Man Zero 2 (Europe)"
         },
         {
-            "name": "Mega Man Zero 2 (Europe) (Virtual Console)",
-            "description": "Mega Man Zero 2 (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Zero 2 (USA)",
             "description": "Mega Man Zero 2 (USA)"
-        },
-        {
-            "name": "Mega Man Zero 2 (USA) (Virtual Console)",
-            "description": "Mega Man Zero 2 (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Zero 3 (Europe)",
             "description": "Mega Man Zero 3 (Europe)"
         },
         {
-            "name": "Mega Man Zero 3 (Europe) (Virtual Console)",
-            "description": "Mega Man Zero 3 (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Zero 3 (USA)",
             "description": "Mega Man Zero 3 (USA)"
-        },
-        {
-            "name": "Mega Man Zero 3 (USA) (Virtual Console)",
-            "description": "Mega Man Zero 3 (USA) (Virtual Console)"
         },
         {
             "name": "Mega Man Zero 4 (Europe)",
             "description": "Mega Man Zero 4 (Europe)"
         },
         {
-            "name": "Mega Man Zero 4 (Europe) (Virtual Console)",
-            "description": "Mega Man Zero 4 (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mega Man Zero 4 (USA)",
             "description": "Mega Man Zero 4 (USA)"
-        },
-        {
-            "name": "Mega Man Zero 4 (USA) (Virtual Console)",
-            "description": "Mega Man Zero 4 (USA) (Virtual Console)"
         },
         {
             "name": "Meine Tierarztpraxis (Germany) (En,De)",
@@ -7176,48 +6616,24 @@
             "description": "Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Metroid - Zero Mission (Japan)",
             "description": "Metroid - Zero Mission (Japan)"
-        },
-        {
-            "name": "Metroid - Zero Mission (Japan) (Virtual Console)",
-            "description": "Metroid - Zero Mission (Japan) (Virtual Console)"
         },
         {
             "name": "Metroid - Zero Mission (USA)",
             "description": "Metroid - Zero Mission (USA)"
         },
         {
-            "name": "Metroid - Zero Mission (USA) (Virtual Console)",
-            "description": "Metroid - Zero Mission (USA) (Virtual Console)"
-        },
-        {
             "name": "Metroid Fusion (Europe) (En,Fr,De,Es,It)",
             "description": "Metroid Fusion (Europe) (En,Fr,De,Es,It)"
-        },
-        {
-            "name": "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console)"
         },
         {
             "name": "Metroid Fusion (Japan)",
             "description": "Metroid Fusion (Japan)"
         },
         {
-            "name": "Metroid Fusion (Japan) (Virtual Console)",
-            "description": "Metroid Fusion (Japan) (Virtual Console)"
-        },
-        {
             "name": "Metroid Fusion (USA)",
             "description": "Metroid Fusion (USA)"
-        },
-        {
-            "name": "Metroid Fusion (USA) (Virtual Console)",
-            "description": "Metroid Fusion (USA) (Virtual Console)"
         },
         {
             "name": "Mezase! Koushien (Japan)",
@@ -7564,10 +6980,6 @@
             "description": "Mother 3 (Japan)"
         },
         {
-            "name": "Mother 3 (Japan) (Virtual Console)",
-            "description": "Mother 3 (Japan) (Virtual Console)"
-        },
-        {
             "name": "Motocross Maniacs Advance (Japan)",
             "description": "Motocross Maniacs Advance (Japan)"
         },
@@ -7604,32 +7016,16 @@
             "description": "Mr. Driller 2 (Europe)"
         },
         {
-            "name": "Mr. Driller 2 (Europe) (Virtual Console)",
-            "description": "Mr. Driller 2 (Europe) (Virtual Console)"
-        },
-        {
             "name": "Mr. Driller 2 (Japan)",
             "description": "Mr. Driller 2 (Japan)"
-        },
-        {
-            "name": "Mr. Driller 2 (Japan) (Virtual Console)",
-            "description": "Mr. Driller 2 (Japan) (Virtual Console)"
         },
         {
             "name": "Mr. Driller 2 (USA)",
             "description": "Mr. Driller 2 (USA)"
         },
         {
-            "name": "Mr. Driller 2 (USA) (Virtual Console)",
-            "description": "Mr. Driller 2 (USA) (Virtual Console)"
-        },
-        {
             "name": "Mr. Driller A - Fushigi na Pacteria (Japan)",
             "description": "Mr. Driller A - Fushigi na Pacteria (Japan)"
-        },
-        {
-            "name": "Mr. Driller A - Fushigi na Pacteria (Japan) (Virtual Console)",
-            "description": "Mr. Driller A - Fushigi na Pacteria (Japan) (Virtual Console)"
         },
         {
             "name": "Mr. Incredible (Japan)",
@@ -7754,10 +7150,6 @@
         {
             "name": "Napoleon (Japan)",
             "description": "Napoleon (Japan)"
-        },
-        {
-            "name": "Napoleon (Japan) (Virtual Console)",
-            "description": "Napoleon (Japan) (Virtual Console)"
         },
         {
             "name": "Narikiri Jockey Game - Yuushun Rhapsody (Japan)",
@@ -8068,10 +7460,6 @@
             "description": "Ougon no Taiyou - Ushinawareshi Toki (Japan)"
         },
         {
-            "name": "Ougon no Taiyou - Ushinawareshi Toki (Japan) (Virtual Console)",
-            "description": "Ougon no Taiyou - Ushinawareshi Toki (Japan) (Virtual Console)"
-        },
-        {
             "name": "Over the Hedge (Europe)",
             "description": "Over the Hedge (Europe)"
         },
@@ -8108,24 +7496,12 @@
             "description": "Pac-Man Collection (Europe)"
         },
         {
-            "name": "Pac-Man Collection (Europe) (Virtual Console)",
-            "description": "Pac-Man Collection (Europe) (Virtual Console)"
-        },
-        {
             "name": "Pac-Man Collection (Japan) (En)",
             "description": "Pac-Man Collection (Japan) (En)"
         },
         {
-            "name": "Pac-Man Collection (Japan) (En) (Virtual Console)",
-            "description": "Pac-Man Collection (Japan) (En) (Virtual Console)"
-        },
-        {
             "name": "Pac-Man Collection (USA)",
             "description": "Pac-Man Collection (USA)"
-        },
-        {
-            "name": "Pac-Man Collection (USA) (Virtual Console)",
-            "description": "Pac-Man Collection (USA) (Virtual Console)"
         },
         {
             "name": "Pac-Man Pinball Advance (Europe) (En,Fr,De,Es,It)",
@@ -8708,16 +8084,8 @@
             "description": "Polarium Advance (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Polarium Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Polarium Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Polarium Advance (USA)",
             "description": "Polarium Advance (USA)"
-        },
-        {
-            "name": "Polarium Advance (USA) (Virtual Console)",
-            "description": "Polarium Advance (USA) (Virtual Console)"
         },
         {
             "name": "Polly Pocket! - Super Splash Island (Europe) (En,Fr,De,Es,It) (DSI)",
@@ -9264,16 +8632,8 @@
             "description": "Rockman & Forte (Japan)"
         },
         {
-            "name": "Rockman & Forte (Japan) (Virtual Console)",
-            "description": "Rockman & Forte (Japan) (Virtual Console)"
-        },
-        {
             "name": "Rockman EXE 4 - Tournament Blue Moon (Japan)",
             "description": "Rockman EXE 4 - Tournament Blue Moon (Japan)"
-        },
-        {
-            "name": "Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1) (Virtual Console)",
-            "description": "Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1) (Virtual Console)"
         },
         {
             "name": "Rockman EXE 4 - Tournament Red Sun (Japan)",
@@ -9284,88 +8644,44 @@
             "description": "Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1)"
         },
         {
-            "name": "Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1) (Virtual Console)",
-            "description": "Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Rockman EXE 4.5 - Real Operation (Japan)",
             "description": "Rockman EXE 4.5 - Real Operation (Japan)"
-        },
-        {
-            "name": "Rockman EXE 4.5 - Real Operation (Japan) (Virtual Console)",
-            "description": "Rockman EXE 4.5 - Real Operation (Japan) (Virtual Console)"
         },
         {
             "name": "Rockman EXE 5 - Team of Blues (Japan)",
             "description": "Rockman EXE 5 - Team of Blues (Japan)"
         },
         {
-            "name": "Rockman EXE 5 - Team of Blues (Japan) (Virtual Console)",
-            "description": "Rockman EXE 5 - Team of Blues (Japan) (Virtual Console)"
-        },
-        {
             "name": "Rockman EXE 5 - Team of Colonel (Japan)",
             "description": "Rockman EXE 5 - Team of Colonel (Japan)"
-        },
-        {
-            "name": "Rockman EXE 5 - Team of Colonel (Japan) (Virtual Console)",
-            "description": "Rockman EXE 5 - Team of Colonel (Japan) (Virtual Console)"
         },
         {
             "name": "Rockman EXE 6 - Dennoujuu Falzar (Japan)",
             "description": "Rockman EXE 6 - Dennoujuu Falzar (Japan)"
         },
         {
-            "name": "Rockman EXE 6 - Dennoujuu Falzar (Japan) (Virtual Console)",
-            "description": "Rockman EXE 6 - Dennoujuu Falzar (Japan) (Virtual Console)"
-        },
-        {
             "name": "Rockman EXE 6 - Dennoujuu Gregar (Japan)",
             "description": "Rockman EXE 6 - Dennoujuu Gregar (Japan)"
-        },
-        {
-            "name": "Rockman EXE 6 - Dennoujuu Gregar (Japan) (Virtual Console)",
-            "description": "Rockman EXE 6 - Dennoujuu Gregar (Japan) (Virtual Console)"
         },
         {
             "name": "Rockman EXE Battle Chip GP (Japan)",
             "description": "Rockman EXE Battle Chip GP (Japan)"
         },
         {
-            "name": "Rockman EXE Battle Chip GP (Japan) (Virtual Console)",
-            "description": "Rockman EXE Battle Chip GP (Japan) (Virtual Console)"
-        },
-        {
             "name": "Rockman Zero (Japan)",
             "description": "Rockman Zero (Japan)"
-        },
-        {
-            "name": "Rockman Zero (Japan) (Virtual Console)",
-            "description": "Rockman Zero (Japan) (Virtual Console)"
         },
         {
             "name": "Rockman Zero 2 (Japan)",
             "description": "Rockman Zero 2 (Japan)"
         },
         {
-            "name": "Rockman Zero 2 (Japan) (Virtual Console)",
-            "description": "Rockman Zero 2 (Japan) (Virtual Console)"
-        },
-        {
             "name": "Rockman Zero 3 (Japan)",
             "description": "Rockman Zero 3 (Japan)"
         },
         {
-            "name": "Rockman Zero 3 (Japan) (Virtual Console)",
-            "description": "Rockman Zero 3 (Japan) (Virtual Console)"
-        },
-        {
             "name": "Rockman Zero 4 (Japan)",
             "description": "Rockman Zero 4 (Japan)"
-        },
-        {
-            "name": "Rockman Zero 4 (Japan) (Virtual Console)",
-            "description": "Rockman Zero 4 (Japan) (Virtual Console)"
         },
         {
             "name": "Rocky (Europe) (En,Fr,De,Es,It)",
@@ -9644,10 +8960,6 @@
             "description": "Sennen Kazoku (Japan) (Rev 1)"
         },
         {
-            "name": "Sennen Kazoku (Japan) (Rev 1) (Virtual Console)",
-            "description": "Sennen Kazoku (Japan) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Sentouin Yamada Hajime (Japan)",
             "description": "Sentouin Yamada Hajime (Japan)"
         },
@@ -9824,10 +9136,6 @@
             "description": "Shining Force - Kuroki Ryuu no Fukkatsu (Japan)"
         },
         {
-            "name": "Shining Force - Kuroki Ryuu no Fukkatsu (Japan) (Virtual Console)",
-            "description": "Shining Force - Kuroki Ryuu no Fukkatsu (Japan) (Virtual Console)"
-        },
-        {
             "name": "Shining Force - Resurrection of the Dark Dragon (Europe) (En,Fr,De,Es,It)",
             "description": "Shining Force - Resurrection of the Dark Dragon (Europe) (En,Fr,De,Es,It)"
         },
@@ -9844,10 +9152,6 @@
             "description": "Shining Soul (Japan)"
         },
         {
-            "name": "Shining Soul (Japan) (Virtual Console)",
-            "description": "Shining Soul (Japan) (Virtual Console)"
-        },
-        {
             "name": "Shining Soul (USA)",
             "description": "Shining Soul (USA)"
         },
@@ -9858,10 +9162,6 @@
         {
             "name": "Shining Soul II (Japan)",
             "description": "Shining Soul II (Japan)"
-        },
-        {
-            "name": "Shining Soul II (Japan) (Virtual Console)",
-            "description": "Shining Soul II (Japan) (Virtual Console)"
         },
         {
             "name": "Shining Soul II (USA)",
@@ -10124,10 +9424,6 @@
             "description": "Sonic Advance (Japan) (En,Ja) (Rev 1)"
         },
         {
-            "name": "Sonic Advance (Japan) (En,Ja) (Rev 1) (Virtual Console)",
-            "description": "Sonic Advance (Japan) (En,Ja) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Sonic Advance (USA) (En,Ja)",
             "description": "Sonic Advance (USA) (En,Ja)"
         },
@@ -10140,10 +9436,6 @@
             "description": "Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It)"
         },
         {
-            "name": "Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)",
-            "description": "Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)",
             "description": "Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)"
         },
@@ -10154,10 +9446,6 @@
         {
             "name": "Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It)",
             "description": "Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It)"
-        },
-        {
-            "name": "Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)",
-            "description": "Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)"
         },
         {
             "name": "Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)",
@@ -10720,10 +10008,6 @@
             "description": "Super Duper Sumos (USA)"
         },
         {
-            "name": "Super Ghouls'n Ghosts (USA) (Virtual Console)",
-            "description": "Super Ghouls'n Ghosts (USA) (Virtual Console)"
-        },
-        {
             "name": "Super Ghouls'n Ghosts (USA, Europe)",
             "description": "Super Ghouls'n Ghosts (USA, Europe)"
         },
@@ -10736,16 +10020,8 @@
             "description": "Super Mario Advance (USA, Europe)"
         },
         {
-            "name": "Super Mario Advance (USA, Europe) (Virtual Console)",
-            "description": "Super Mario Advance (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Super Mario Advance - Super Mario USA + Mario Brothers (Japan)",
             "description": "Super Mario Advance - Super Mario USA + Mario Brothers (Japan)"
-        },
-        {
-            "name": "Super Mario Advance - Super Mario USA + Mario Brothers (Japan) (Virtual Console)",
-            "description": "Super Mario Advance - Super Mario USA + Mario Brothers (Japan) (Virtual Console)"
         },
         {
             "name": "Super Mario Advance 2 - Super Mario World (Europe) (En,Fr,De,Es)",
@@ -10764,24 +10040,12 @@
             "description": "Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)"
         },
         {
-            "name": "Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-        },
-        {
             "name": "Super Mario Advance 3 - Yoshi's Island (USA)",
             "description": "Super Mario Advance 3 - Yoshi's Island (USA)"
         },
         {
-            "name": "Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console)",
-            "description": "Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console)"
-        },
-        {
             "name": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan)",
             "description": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan)"
-        },
-        {
-            "name": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan) (Virtual Console)",
-            "description": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan) (Virtual Console)"
         },
         {
             "name": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan)",
@@ -10796,10 +10060,6 @@
             "description": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2)"
         },
         {
-            "name": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2) (Virtual Console)",
-            "description": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2) (Virtual Console)"
-        },
-        {
             "name": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It)",
             "description": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It)"
         },
@@ -10808,16 +10068,8 @@
             "description": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1)"
         },
         {
-            "name": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1) (Virtual Console)",
-            "description": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA)",
             "description": "Super Mario Advance 4 - Super Mario Bros. 3 (USA)"
-        },
-        {
-            "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)",
-            "description": "Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)"
         },
         {
             "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)",
@@ -10828,16 +10080,8 @@
             "description": "Super Mario Ball (Europe)"
         },
         {
-            "name": "Super Mario Ball (Europe) (Virtual Console)",
-            "description": "Super Mario Ball (Europe) (Virtual Console)"
-        },
-        {
             "name": "Super Mario Ball (Japan)",
             "description": "Super Mario Ball (Japan)"
-        },
-        {
-            "name": "Super Mario Ball (Japan) (Virtual Console)",
-            "description": "Super Mario Ball (Japan) (Virtual Console)"
         },
         {
             "name": "Super Mario Bros. (Japan) (Hot Mario Campaign)",
@@ -10916,24 +10160,12 @@
             "description": "Super Street Fighter II Turbo - Revival (Europe) (Rev 1)"
         },
         {
-            "name": "Super Street Fighter II Turbo - Revival (Europe) (Rev 1) (Virtual Console)",
-            "description": "Super Street Fighter II Turbo - Revival (Europe) (Rev 1) (Virtual Console)"
-        },
-        {
             "name": "Super Street Fighter II Turbo - Revival (USA)",
             "description": "Super Street Fighter II Turbo - Revival (USA)"
         },
         {
-            "name": "Super Street Fighter II Turbo - Revival (USA) (Virtual Console)",
-            "description": "Super Street Fighter II Turbo - Revival (USA) (Virtual Console)"
-        },
-        {
             "name": "Super Street Fighter II X - Revival (Japan)",
             "description": "Super Street Fighter II X - Revival (Japan)"
-        },
-        {
-            "name": "Super Street Fighter II X - Revival (Japan) (Virtual Console)",
-            "description": "Super Street Fighter II X - Revival (Japan) (Virtual Console)"
         },
         {
             "name": "Superman - Countdown to Apokolips (Europe) (En,Fr,De,Es,It)",
@@ -11392,10 +10624,6 @@
             "description": "Tomato Adventure (Japan)"
         },
         {
-            "name": "Tomato Adventure (Japan) (Virtual Console)",
-            "description": "Tomato Adventure (Japan) (Virtual Console)"
-        },
-        {
             "name": "Tonka - On the Job (USA)",
             "description": "Tonka - On the Job (USA)"
         },
@@ -11590,10 +10818,6 @@
         {
             "name": "Tsuukin Hitofude (Japan)",
             "description": "Tsuukin Hitofude (Japan)"
-        },
-        {
-            "name": "Tsuukin Hitofude (Japan) (Virtual Console)",
-            "description": "Tsuukin Hitofude (Japan) (Virtual Console)"
         },
         {
             "name": "Turbo Turtle Adventure (USA)",
@@ -11900,16 +11124,8 @@
             "description": "Wario Land 4 (USA, Europe)"
         },
         {
-            "name": "Wario Land 4 (USA, Europe) (Virtual Console)",
-            "description": "Wario Land 4 (USA, Europe) (Virtual Console)"
-        },
-        {
             "name": "Wario Land Advance - Youki no Otakara (Japan)",
             "description": "Wario Land Advance - Youki no Otakara (Japan)"
-        },
-        {
-            "name": "Wario Land Advance - Youki no Otakara (Japan) (Virtual Console)",
-            "description": "Wario Land Advance - Youki no Otakara (Japan) (Virtual Console)"
         },
         {
             "name": "WarioWare - Twisted! (USA)",
@@ -11920,16 +11136,8 @@
             "description": "WarioWare, Inc. - Mega Microgame$! (USA)"
         },
         {
-            "name": "WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)",
-            "description": "WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)"
-        },
-        {
             "name": "WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)",
             "description": "WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)"
-        },
-        {
-            "name": "WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console)",
-            "description": "WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console)"
         },
         {
             "name": "Weekend Miljonairs (Netherlands)",

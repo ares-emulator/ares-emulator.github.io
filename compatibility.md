@@ -63,7 +63,7 @@ NOTE: This compatibility list is currently work-in-progress, don't be alarmed by
             {{ working }}
         </td>
         <td style="text-align: right"> 
-            {{ working | times: 1.0 | divided_by: system[1].games.size | times: 100 | round: 2}}%
+            {{ working | times: 1.0 | divided_by: system[1].games.size | times: 100 | round: 2}}
         </td>
     </tr>
 

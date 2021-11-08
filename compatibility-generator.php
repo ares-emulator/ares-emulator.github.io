@@ -71,6 +71,13 @@ foreach ($dir as $fileinfo) {
                 'Hack)', // Neo Geo
                 'EEZEZY)', // Neo Geo
                 '(Unl)',
+                // Exclude emulated re-release roms
+                '(Sega Channel)',
+                '(Virtual Console)',
+                '(iQue)',
+                '(Wii)',
+                '(Switch Online)',
+                'Collection)'
             ];
 
             foreach($ignoredStrings as $string) {
