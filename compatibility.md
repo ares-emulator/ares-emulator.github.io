@@ -19,12 +19,12 @@ NOTE: This compatibility list is currently work-in-progress, don't be alarmed by
 
 <table>
   <tr>
-    <th class="default-sort">System</th>
+    <th>System</th>
     <th style="text-align: right">Untested</th>
     <th style="text-align: right">Not Working</th>
     <th style="text-align: right">Partially Working</th>
     <th style="text-align: right">Working</th>
-    <th style="text-align: right">Working (%)</th>
+    <th class="default-sort desc" style="text-align: right">Working (%)</th>
   </tr>
 
   {% for system in site.data.romsets %}

@@ -40,8 +40,13 @@
             .forEach(tr => table.appendChild(tr) );
     })));
 
-    var elem = document.querySelectorAll('.default-sort').forEach(elem => {
-        elem.dispatchEvent(new Event("click")); 
+    document.querySelectorAll('.default-sort').forEach(elem => {
+        // Nasty hack: double click if sorting desc
+        if(elem.classList.contains('desc')) {
+            elem.dispatchEvent(new Event("click"));
+        }
+
+        elem.dispatchEvent(new Event("click"));
     });
 </script>
 
