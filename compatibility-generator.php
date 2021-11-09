@@ -42,6 +42,7 @@ foreach ($dir as $fileinfo) {
 
         foreach($info['header'] as $key => &$value) {
             $value = str_replace(' (BigEndian)', '', $value);
+            $value = str_replace(' (Decrypted)', '', $value);
         }
 
         $total = count($xml->game);
@@ -89,9 +90,17 @@ foreach ($dir as $fileinfo) {
                 'Collection)',
                 'Mini)',
                 // TOSEC
-                '[a',
-                '[h',
-                '[cr]',
+                '[a',       // 'alternate' sets
+                '[b',       // known bad dumps
+                '[f',       // fixed (modified)
+                '[h',       // hacks
+                '[m',       // modified
+                '[cr',      // cracked copies
+                '[t',       // Trainer applied and/or translation [tr]
+                '[u',       // Under-dumped
+                '[o',       // Over-dumped
+                '[v',       // infected with virus
+                '[p',       // remove private copies
                 '[re-release]',
                 // Atari,
                 '(Atari Anthology)',
@@ -122,15 +131,15 @@ foreach ($dir as $fileinfo) {
 
         // Merge multi-disc games together
         foreach($info['games'] as &$game) {
-            if(preg_match("/\((Disc|Side|Tape)[^)]+\)/", $game['name'])) {
-                $nameWithoutDisc = preg_replace("/\((Disc|Side|Tape)[^)]+\)/","", $game['name']);
-                $descriptionWithoutDisc = preg_replace("/\((Disc|Side|Tape)[^)]+\)/","", $game['description']);
+            if(preg_match("/\((Disc|Disk|Side|Tape)[^)]+\)/", $game['name'])) {
+                $nameWithoutDisc = preg_replace("/\((Disc|Disk|Side|Tape)[^)]+\)/","", $game['name']);
+                $descriptionWithoutDisc = preg_replace("/\((Disc|Disk|Side|Tape)[^)]+\)/","", $game['description']);
 
                 foreach($info['games'] as $key => $otherGame) {
                     // Prevent removing the parent entry
                     if ($otherGame['name'] == $game['name']) continue;
 
-                    $otherGame['name'] = preg_replace("/\((Disc|Side|Tape)[^)]+\)/","", $otherGame['name']);
+                    $otherGame['name'] = preg_replace("/\((Disc|Disk|Side|Tape)[^)]+\)/","", $otherGame['name']);
                     if ($nameWithoutDisc == $otherGame['name']) {
                         unset($info['games'][$key]);
                     }
