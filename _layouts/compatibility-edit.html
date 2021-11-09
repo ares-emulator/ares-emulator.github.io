@@ -51,7 +51,7 @@ layout: default
                 <td>
                     <select name="version">
                         {% for version in site.data.versions.releases %}
-                            {% if compatibility.version %}
+                            {% if compatibility.status != "Unknown" %}
                                 <option {% if compatibility.version == version %} selected {% endif %}>{{ version }}</option>
                             {% else %}
                                 <option {% if version == site.data.versions.current %} selected {% endif %}>{{ version }}</option>

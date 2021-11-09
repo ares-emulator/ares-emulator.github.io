@@ -15,7 +15,7 @@ If you encounter any problems, please let us know by either creating an issue on
 [GitHub](https://github.com/ares-emulator/ares/issues) or updating the compatibility list.
 
 
-NOTE: This compatibility list is currently work-in-progress, don't be alarmed by the unexpectly low numbers for some systems
+<span style="color: orange">NOTE: This compatibility list is work-in-progress, don't be alarmed by the unexpectly low numbers for some systems.</span>
 
 <table>
   <tr>
