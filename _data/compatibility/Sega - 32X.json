@@ -1,19 +1,19 @@
 {
   "games": {
     "32X Sample Program - PWM Sound Demo (Unknown) (SDK Build)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "After Burner Complete (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Does not boot - black screen",
+      "version": "v125"
     },
     "After Burner Complete ~ After Burner (Japan, USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Does not boot - black screen",
+      "version": "v125"
     },
     "Amazing Spider-Man, The - Web of Fire (USA)": {
       "status": "Working",
@@ -21,9 +21,9 @@
       "version": "v124"
     },
     "BC Racers (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Blackthorne (USA)": {
       "status": "Working",
@@ -31,9 +31,9 @@
       "version": "v124"
     },
     "Brutal - Above the Claw (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Missing background music; hangs at end of a match (or end of demo)",
+      "version": "v125"
     },
     "Chaotix ~ Knuckles' Chaotix (Japan, USA)": {
       "status": "Working",
@@ -41,9 +41,9 @@
       "version": "v124"
     },
     "Cosmic Carnage (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Cyber Brawl ~ Cosmic Carnage (Japan, USA)": {
       "status": "Working",
@@ -56,9 +56,9 @@
       "version": "v124"
     },
     "Doom (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Missing sound effects",
+      "version": "v125"
     },
     "Doom (Japan, USA)": {
       "status": "Partially Working",
@@ -71,14 +71,14 @@
       "version": "v124"
     },
     "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Hangs a player select screen/names corrupted (goes in-game if you hit right once then start)",
+      "version": "v125"
     },
     "Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Hangs a player select screen/names corrupted (goes in-game if you hit right once then start)",
+      "version": "v125"
     },
     "Knuckles' Chaotix (Europe)": {
       "status": "Working",
@@ -91,49 +91,49 @@
       "version": "v124"
     },
     "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Fails about 90% into tests with an FM bit R/W error",
+      "version": "v125"
     },
     "Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Mars Sample Program - Gnu Sierra (Unknown) (SDK Build)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Mars Sample Program - Pharaoh (Unknown) (SDK Build)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Extra artifacts in last few lines of the screen",
+      "version": "v125"
     },
     "Mars Sample Program - Texture Test (Unknown) (SDK Build)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Metal Head (Europe) (En,Ja)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Shows Sega screen then nothing else",
+      "version": "v125"
     },
     "Metal Head (Japan, USA) (En,Ja)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Shows Sega screen then nothing else",
+      "version": "v125"
     },
     "Mortal Kombat II (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Mortal Kombat II (Japan, USA)": {
       "status": "Working",
@@ -141,34 +141,34 @@
       "version": "v124"
     },
     "Motherbase (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Motocross Championship (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Buzzing sound while racing",
+      "version": "v125"
     },
     "Motocross Championship (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Buzzing sound while racing",
+      "version": "v125"
     },
     "NBA Jam - Tournament Edition (World)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Constant audio buzzing; SH2 processor exception going in-game",
+      "version": "v125"
     },
     "NFL Quarterback Club (World)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Constant audio buzzing",
+      "version": "v125"
     },
     "Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Pitfall - The Mayan Adventure (USA)": {
       "status": "Working",
@@ -176,9 +176,9 @@
       "version": "v124"
     },
     "Primal Rage (USA, Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Missing sound effects",
+      "version": "v125"
     },
     "RBI Baseball '95 (USA)": {
       "status": "Working",
@@ -196,14 +196,14 @@
       "version": "v124"
     },
     "Space Harrier (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Minor graphics corruption on Sega screen; Missing Audio",
+      "version": "v125"
     },
     "Space Harrier (Japan, USA)": {
       "status": "Partially Working",
-      "notes": "Minor graphics corruption on Sega screen",
-      "version": "v124"
+      "notes": "Minor graphics corruption on Sega screen; Missing Audio",
+      "version": "v125"
     },
     "Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)": {
       "status": "Working",
@@ -211,24 +211,24 @@
       "version": "v124"
     },
     "Star Wars Arcade (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Does not boot - black screen",
+      "version": "v125"
     },
     "Star Wars Arcade (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Does not boot - black screen",
+      "version": "v125"
     },
     "Star Wars Arcade (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Does not boot - black screen",
+      "version": "v125"
     },
     "Stellar Assault (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "T-MEK (USA, Europe)": {
       "status": "Working",
@@ -241,34 +241,34 @@
       "version": "v124"
     },
     "Toughman Contest (USA, Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Graphics corruption in background image during match",
+      "version": "v125"
     },
     "Virtua Fighter (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Missing audio; instant ring outs; CPU opponent too busy breakdancing to fight",
+      "version": "v125"
     },
     "Virtua Fighter (Japan, USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Missing audio",
+      "version": "v125"
     },
     "Virtua Racing Deluxe (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Minor graphics corruption during intro screens;",
+      "version": "v125"
     },
     "Virtua Racing Deluxe (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v125"
     },
     "Virtua Racing Deluxe (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Minor graphics corruption during intro screens;",
+      "version": "v125"
     },
     "World Series Baseball Starring Deion Sanders (USA)": {
       "status": "Working",
@@ -276,14 +276,14 @@
       "version": "v124"
     },
     "WWF Raw (World)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Does not boot - black screen",
+      "version": "v125"
     },
     "WWF WrestleMania - The Arcade Game (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Menus Corrupt, Missing Sprites; Missing characters/can't play;",
+      "version": "v125"
     }
   }
 }
