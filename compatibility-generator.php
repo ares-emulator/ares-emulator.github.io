@@ -56,7 +56,7 @@ foreach ($dir as $fileinfo) {
 
             // Attempt to skip bios files and other non-game content
             $ignoredStrings = [
-                '[BIOS]',
+                '[BIOS]',       // Bios/Firmware
                 '[Prototype', // Neo Geo
                 '[Homebrew', // Neo Geo
                 '[Demo', // Neo Geo
@@ -76,6 +76,7 @@ foreach ($dir as $fileinfo) {
                 'Hack)', // Neo Geo
                 'EEZEZY)', // Neo Geo
                 '(Unl)',
+                '(Test Program)',
                 // Exclude emulated re-release roms
                 '(Sega Channel)',
                 '(SegaNet)',
