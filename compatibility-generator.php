@@ -40,6 +40,10 @@ foreach ($dir as $fileinfo) {
             'url' => (string)$xml->header->url
         ];
 
+        foreach($info['header'] as $key => &$value) {
+            $value = str_replace(' (BigEndian)', '', $value);
+        }
+
         $total = count($xml->game);
         $completed = 0;
 
