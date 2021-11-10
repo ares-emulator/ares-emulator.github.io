@@ -69,6 +69,7 @@ foreach ($dir as $fileinfo) {
                 'Beta)',
                 '(Proto',
                 '(Program)',
+                '(Pirate)',
                 '(bootleg', // Neo Geo
                 '[hack', // Neo Geo
                 '(hack', // Neo Geo
