@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: ares
+description: ares
+author: ares
