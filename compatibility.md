@@ -19,12 +19,12 @@ If you encounter any problems, please let us know by either creating an issue on
 
 <table>
   <tr>
-    <th>System</th>
+    <th class="default-sort">System</th>
     <th style="text-align: right">Untested</th>
     <th style="text-align: right">Not Working</th>
     <th style="text-align: right">Partially Working</th>
     <th style="text-align: right">Working</th>
-    <th class="default-sort desc" style="text-align: right">Working (%)</th>
+    <th class="default-sort" style="text-align: right">Working (%)</th>
   </tr>
 
   {% for system in site.data.romsets %}
