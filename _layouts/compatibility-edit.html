@@ -33,12 +33,12 @@ layout: default
         {% for game in site.data.romsets[file].games %}
             {% assign compatibility = site.data.compatibility[file].games[game.description] %}
             <tr>
-                <td id="{{ game.description }}">
+                <td>
                     {{ game.description }}
                     <input type="hidden" name="name" value="{{ game.description }}">
                 </td>
                 <td>
-                    <select name="status">
+                    <select onchange="compatibilityStatusChanged(this)" name="status">
                         <option {% if compatibility.status == "Unknown" %} selected {% endif %}>Unknown</option>
                         <option {% if compatibility.status == "Not Working" %} selected {% endif %}>Not Working</option>
                         <option {% if compatibility.status == "Partially Working" %} selected {% endif %}>Partially Working</option>
@@ -51,11 +51,7 @@ layout: default
                 <td>
                     <select name="version">
                         {% for version in site.data.versions.releases %}
-                            {% if compatibility.status != "Unknown" %}
-                                <option {% if compatibility.version == version %} selected {% endif %}>{{ version }}</option>
-                            {% else %}
-                                <option {% if version == site.data.versions.current %} selected {% endif %}>{{ version }}</option>
-                            {% endif %}
+                            <option {% if compatibility.version == version %} selected {% endif %}>{{ version }}</option>
                         {% endfor %}
                     </select>
                 </td>
@@ -92,7 +88,7 @@ layout: default
         downloadObjectAsJson(data, '{{ page.title }}');
     }
 
-    function downloadObjectAsJson(exportObj, exportName){
+    function downloadObjectAsJson(exportObj, exportName) {
         var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportObj, null, 2));
         var downloadAnchorNode = document.createElement('a');
         downloadAnchorNode.setAttribute("href",     dataStr);
@@ -100,5 +96,10 @@ layout: default
         document.body.appendChild(downloadAnchorNode);
         downloadAnchorNode.click();
         downloadAnchorNode.remove();
+    }
+
+    function compatibilityStatusChanged(elem) {
+        // When compatibility status is changed, set version to current
+        elem.closest('tr').querySelector("select[name='version']").value = '{{ site.data.versions.current }}'
     }
 </script>
