@@ -1,119 +1,119 @@
 {
   "games": {
     "007 - The World Is Not Enough (Europe) (En,Fr,De)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Working",
+      "notes": "Audio crackling",
+      "version": "v126"
     },
     "007 - The World Is Not Enough (USA)": {
       "status": "Working",
       "notes": "Audio crackling",
-      "version": "v125"
+      "version": "v126"
     },
     "1080 Snowboarding (Europe) (En,Ja,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "1080 Snowboarding (Japan, USA) (En,Ja)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "64 Hanafuda - Tenshi no Yakusoku (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "64 Oozumou (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "64 Oozumou 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "AeroFighters Assault (Europe) (En,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "AeroFighters Assault (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "AeroGauge (Europe) (En,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "AeroGauge (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "AeroGauge (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "AI Shougi 3 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Aidyn Chronicles - The First Mage (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Aidyn Chronicles - The First Mage (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Aidyn Chronicles - The First Mage (USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Air Boarder 64 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Airboarder 64 (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "All Star Tennis '99 (Europe) (En,Fr,De,Es,It)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "All Star Tennis 99 (USA)": {
       "status": "Working",
@@ -121,9 +121,9 @@
       "version": "v124"
     },
     "All-Star Baseball 2000 (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "All-Star Baseball 2000 (USA)": {
       "status": "Working",
@@ -136,9 +136,9 @@
       "version": "v124"
     },
     "All-Star Baseball 99 (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "All-Star Baseball 99 (USA)": {
       "status": "Working",
@@ -146,14 +146,14 @@
       "version": "v124"
     },
     "Armorines - Project S.W.A.R.M. (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Armorines - Project S.W.A.R.M. (Germany)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Armorines - Project S.W.A.R.M. (USA)": {
       "status": "Working",
@@ -166,9 +166,9 @@
       "version": "v124"
     },
     "Army Men - Sarge's Heroes (Europe) (En,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Army Men - Sarge's Heroes (USA)": {
       "status": "Working",
@@ -186,9 +186,9 @@
       "version": "v124"
     },
     "Automobili Lamborghini (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Automobili Lamborghini (USA)": {
       "status": "Working",
@@ -196,44 +196,44 @@
       "version": "v124"
     },
     "Baku Bomberman (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Baku Bomberman 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bakuretsu Muteki Bangaioh (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banjo to Kazooie no Daibouken (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banjo to Kazooie no Daibouken 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banjo-Kazooie (Europe) (En,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banjo-Kazooie (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banjo-Kazooie (USA) (Rev 1)": {
       "status": "Working",
@@ -241,14 +241,14 @@
       "version": "v124"
     },
     "Banjo-Tooie (Australia)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banjo-Tooie (Europe) (En,Fr,De,Es)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banjo-Tooie (USA)": {
       "status": "Working",
@@ -256,9 +256,9 @@
       "version": "v124"
     },
     "Bass Rush - ECOGEAR PowerWorm Championship (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bassmasters 2000 (USA)": {
       "status": "Working",
@@ -271,39 +271,39 @@
       "version": "v124"
     },
     "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "BattleTanx (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "BattleTanx - Global Assault (Europe) (En,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "BattleTanx - Global Assault (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Battlezone - Rise of the Black Dogs (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Working",
+      "notes": "Audio crackling",
+      "version": "v126"
     },
     "Beetle Adventure Racing! (Europe) (En,Fr,De)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Beetle Adventure Racing! (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Beetle Adventure Racing! (USA) (En,Fr,De)": {
       "status": "Working",
@@ -316,9 +316,9 @@
       "version": "v124"
     },
     "Bio F.R.E.A.K.S. (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Working",
+      "notes": "Audio crackling. Only happens in European version.",
+      "version": "v126"
     },
     "Bio F.R.E.A.K.S. (USA)": {
       "status": "Working",
@@ -326,34 +326,34 @@
       "version": "v124"
     },
     "Biohazard 2 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Audio crackling. Hangs if you choose \"Load game\" in main menu.",
+      "version": "v126"
     },
     "Blast Corps (Europe) (En,De)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Flickering textures. Intro speed is wrong.Hangs in main menu.",
+      "version": "v126"
     },
     "Blast Corps (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Flickering textures (makes the game almost unplayable). Intro speed is wrong.",
+      "version": "v126"
     },
     "Blast Corps (USA) (Rev 1)": {
       "status": "Partially Working",
-      "notes": "Flickering textures makes the game almost unplayable.",
-      "version": "v125"
+      "notes": "Flickering textures (makes the game almost unplayable). Intro speed is wrong.",
+      "version": "v126"
     },
     "Blastdozer (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Flickering textures (makes the game almost unplayable). Intro speed is wrong.",
+      "version": "v126"
     },
     "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Blues Brothers 2000 (USA)": {
       "status": "Working",
@@ -361,39 +361,39 @@
       "version": "v124"
     },
     "Body Harvest (Europe) (En,Fr,De)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Game is running slow",
+      "version": "v126"
     },
     "Body Harvest (USA)": {
       "status": "Partially Working",
-      "notes": "Horrible lag and some graphical issues",
-      "version": "v125"
+      "notes": "Game is running slow",
+      "version": "v126"
     },
     "Bokujou Monogatari 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bokujou Monogatari 2 (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bokujou Monogatari 2 (Japan) (Rev 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bomberman 64 (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bomberman 64 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bomberman 64 (USA)": {
       "status": "Working",
@@ -406,9 +406,9 @@
       "version": "v124"
     },
     "Bomberman Hero (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Working",
+      "notes": "Bottom line flickering (overscan?). Happens only in European version.",
+      "version": "v126"
     },
     "Bomberman Hero (USA)": {
       "status": "Working",
@@ -416,9 +416,9 @@
       "version": "v124"
     },
     "Bomberman Hero - Mirian Oujo o Sukue! (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bottom of the 9th (USA)": {
       "status": "Working",
@@ -431,14 +431,14 @@
       "version": "v124"
     },
     "Buck Bumble (Europe) (En,Fr,De,Es,It)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Buck Bumble (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Buck Bumble (USA)": {
       "status": "Working",
@@ -446,29 +446,29 @@
       "version": "v124"
     },
     "Bug's Life, A (Europe)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bug's Life, A (France)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bug's Life, A (Germany)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bug's Life, A (Italy)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bug's Life, A (USA)": {
       "status": "Not Working",
       "notes": "Never loads, just a black screen",
-      "version": "v125"
+      "version": "v126"
     },
     "Bust-A-Move '99 (USA)": {
       "status": "Working",
@@ -476,9 +476,9 @@
       "version": "v124"
     },
     "Bust-A-Move 2 - Arcade Edition (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bust-A-Move 2 - Arcade Edition (USA)": {
       "status": "Working",
@@ -486,9 +486,9 @@
       "version": "v124"
     },
     "Bust-A-Move 3 DX (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "California Speed (USA)": {
       "status": "Working",
@@ -498,12 +498,12 @@
     "Carmageddon 64 (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Carmageddon 64 (Europe) (En,Fr,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Carmageddon 64 (USA)": {
       "status": "Working",
@@ -513,17 +513,17 @@
     "Castlevania (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Castlevania (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Castlevania (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Castlevania (USA) (Rev 2)": {
       "status": "Working",
@@ -533,7 +533,7 @@
     "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Castlevania - Legacy of Darkness (USA)": {
       "status": "Working",
@@ -543,22 +543,22 @@
     "Centre Court Tennis (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chameleon Twist (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chameleon Twist (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chameleon Twist (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chameleon Twist (USA) (Rev 1)": {
       "status": "Working",
@@ -568,12 +568,12 @@
     "Chameleon Twist 2 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chameleon Twist 2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chameleon Twist 2 (USA)": {
       "status": "Working",
@@ -583,7 +583,7 @@
     "Charlie Blast's Territory (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Charlie Blast's Territory (USA)": {
       "status": "Working",
@@ -593,7 +593,7 @@
     "Chopper Attack (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chopper Attack (USA)": {
       "status": "Working",
@@ -603,57 +603,57 @@
     "Choro Q 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chou Kuukan Nighter Pro Yakyuu King (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Chou Snobo Kids (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "City-Tour GP - Zen-Nihon GT Senshuken (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Clay Fighter - Sculptor's Cut (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Clay Fighter 63 1-3 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Clay Fighter 63 1-3 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Command & Conquer (Europe) (En,Fr)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Command & Conquer (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Command & Conquer (USA)": {
       "status": "Working",
@@ -663,7 +663,7 @@
     "Conker's Bad Fur Day (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Conker's Bad Fur Day (USA)": {
       "status": "Working",
@@ -678,32 +678,32 @@
     "Cruis'n USA (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Cruis'n USA (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Cruis'n USA (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Cruis'n USA (USA) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Cruis'n World (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Cruis'n World (Europe) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Cruis'n World (USA)": {
       "status": "Working",
@@ -713,17 +713,17 @@
     "Custom Robo (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Custom Robo V2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "CyberTiger (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "CyberTiger (USA)": {
       "status": "Working",
@@ -733,17 +733,17 @@
     "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Dance Dance Revolution - Disney Dancing Museum (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Dark Rift (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Dark Rift (USA)": {
       "status": "Working",
@@ -753,27 +753,27 @@
     "Deadly Arts (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Defi au Tetris Magique (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Densha de Go! 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Derby Stallion 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Destruction Derby 64 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Destruction Derby 64 (USA)": {
       "status": "Working",
@@ -783,72 +783,72 @@
     "Dezaemon 3D (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Diddy Kong Racing (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Diddy Kong Racing (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Diddy Kong Racing (USA) (En,Fr)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Diddy Kong Racing (USA) (En,Fr) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Donkey Kong 64 (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Donkey Kong 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Donkey Kong 64 (USA)": {
       "status": "Partially Working",
       "notes": "Flickering models and textures",
-      "version": "v125"
+      "version": "v126"
     },
     "Doom 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Doom 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Doom 64 (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Doom 64 (USA) (Rev 1)": {
       "status": "Working",
@@ -858,22 +858,22 @@
     "Doraemon - Nobita to 3tsu no Seireiseki (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Doraemon 2 - Nobita to Hikari no Shinden (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Doraemon 3 - Nobita no Machi SOS! (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Doubutsu no Mori (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Dr. Mario 64 (USA)": {
       "status": "Working",
@@ -883,12 +883,12 @@
     "Dual Heroes (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Dual Heroes (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Dual Heroes (USA)": {
       "status": "Working",
@@ -898,17 +898,17 @@
     "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Duke Nukem - Zero Hour (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Duke Nukem - Zero Hour (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Duke Nukem - Zero Hour (USA)": {
       "status": "Working",
@@ -918,12 +918,12 @@
     "Duke Nukem 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Duke Nukem 64 (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Duke Nukem 64 (USA)": {
       "status": "Working",
@@ -933,7 +933,7 @@
     "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Earthworm Jim 3D (USA)": {
       "status": "Working",
@@ -943,12 +943,12 @@
     "ECW Hardcore Revolution (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "ECW Hardcore Revolution (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "ECW Hardcore Revolution (USA)": {
       "status": "Working",
@@ -958,42 +958,42 @@
     "Eikou no Saint Andrews (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Eltale Monsters (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Excitebike 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Excitebike 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Excitebike 64 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Excitebike 64 (USA) (Rev 1)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Extreme-G (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Extreme-G (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Extreme-G (USA)": {
       "status": "Working",
@@ -1008,32 +1008,32 @@
     "Extreme-G XG2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Extreme-G XG2 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-1 World Grand Prix (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-1 World Grand Prix (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-1 World Grand Prix (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-1 World Grand Prix (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-1 World Grand Prix (USA)": {
       "status": "Working",
@@ -1043,17 +1043,17 @@
     "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-Zero X (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-Zero X (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F-Zero X (USA)": {
       "status": "Working",
@@ -1063,7 +1063,7 @@
     "F1 Pole Position 64 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F1 Pole Position 64 (USA) (En,Fr,De)": {
       "status": "Working",
@@ -1073,22 +1073,22 @@
     "F1 Racing Championship (Brazil) (En,Fr)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "F1 Racing Championship (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Famista 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)": {
       "status": "Working",
@@ -1098,17 +1098,17 @@
     "FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "FIFA 64 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)": {
       "status": "Working",
@@ -1118,52 +1118,52 @@
     "FIFA Soccer 64 (USA) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighter Destiny 2 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighters Destiny (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighters Destiny (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighters Destiny (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighters Destiny (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighting Cup (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighting Force 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fighting Force 64 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Flying Dragon (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Flying Dragon (USA)": {
       "status": "Working",
@@ -1173,17 +1173,17 @@
     "Forsaken (Europe) (En,Fr,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Forsaken (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Forsaken 64 (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Fox Sports College Hoops '99 (USA)": {
       "status": "Working",
@@ -1193,62 +1193,62 @@
     "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "G.A.S.P!! Fighters' NEXTream (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "G.A.S.P!! Fighters' NEXTream (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ganbare! Nippon! Olympics 2000 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Gauntlet Legends (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Gauntlet Legends (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Gauntlet Legends (USA)": {
       "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Getter Love!! - Cho Renai Party Game Tanjou (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Gex 3 - Deep Cover Gecko (Europe) (Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Gex 3 - Deep Cover Gecko (USA)": {
       "status": "Working",
@@ -1258,7 +1258,7 @@
     "Gex 64 - Enter the Gecko (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Gex 64 - Enter the Gecko (USA)": {
       "status": "Working",
@@ -1268,7 +1268,7 @@
     "Glover (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Glover (USA)": {
       "status": "Working",
@@ -1278,12 +1278,12 @@
     "Glover 2 (USA) (Unk Proto)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Goemon - Mononoke Sugoroku (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Goemon's Great Adventure (USA)": {
       "status": "Working",
@@ -1298,37 +1298,37 @@
     "GoldenEye 007 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "GoldenEye 007 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "GoldenEye 007 (USA)": {
       "status": "Working",
       "notes": "Minor graphical issues",
-      "version": "v125"
+      "version": "v126"
     },
     "GT 64 - Championship Edition (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "GT 64 - Championship Edition (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hamster Monogatari 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Harukanaru Augusta - Masters '98 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Harvest Moon 64 (USA)": {
       "status": "Working",
@@ -1338,37 +1338,37 @@
     "Heiwa Pachinko World 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hercules - The Legendary Journeys (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hexen (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hexen (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hexen (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hexen (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hexen (USA)": {
       "status": "Working",
@@ -1378,52 +1378,52 @@
     "Hey You, Pikachu! (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hiryuu no Ken Twin (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Holy Magic Century (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Holy Magic Century (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Holy Magic Century (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hoshi no Kirby 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hoshi no Kirby 64 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hoshi no Kirby 64 (Japan) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hoshi no Kirby 64 (Japan) (Rev 3)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hot Wheels - Turbo Racing (USA)": {
       "status": "Working",
@@ -1433,22 +1433,22 @@
     "HSV Adventure Racing! (Australia)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Human Grand Prix - The New Generation (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hybrid Heaven (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hybrid Heaven (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hybrid Heaven (USA)": {
       "status": "Working",
@@ -1458,32 +1458,32 @@
     "Hydro Thunder (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hydro Thunder (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Hydro Thunder (USA)": {
       "status": "Partially Working",
       "notes": "Seemingly random crashes and audio crackling issues",
-      "version": "v125"
+      "version": "v126"
     },
     "Hyper Olympics in Nagano 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ide Yosuke no Mahjong Juku (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Iggy's Reckin' Balls (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Iggy's Reckin' Balls (USA)": {
       "status": "Working",
@@ -1493,22 +1493,22 @@
     "Iggy-kun no Bura Bura Poyon (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "In-Fisherman - Bass Hunter 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "In-Fisherman - Bass Hunter 64 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Indiana Jones and the Infernal Machine (USA)": {
       "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Indy Racing 2000 (USA)": {
       "status": "Working",
@@ -1518,27 +1518,27 @@
     "International Superstar Soccer '98 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Superstar Soccer '98 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Superstar Soccer 2000 (Europe) (En,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Superstar Soccer 2000 (Europe) (Fr,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Superstar Soccer 2000 (USA) (En,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)": {
       "status": "Working",
@@ -1548,17 +1548,17 @@
     "International Superstar Soccer 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Superstar Soccer 64 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Track & Field - Summer Games (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "International Track & Field 2000 (USA)": {
       "status": "Working",
@@ -1568,47 +1568,47 @@
     "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "J.League Dynamite Soccer 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "J.League Eleven Beat 1997 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "J.League Live 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "J.League Tactics Soccer (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "J.League Tactics Soccer (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jangou Simulation Mahjong Dou 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jeopardy! (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jeremy McGrath Supercross 2000 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jeremy McGrath Supercross 2000 (USA)": {
       "status": "Working",
@@ -1618,137 +1618,137 @@
     "Jet Force Gemini (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jet Force Gemini (USA)": {
       "status": "Not Working",
       "notes": "crashes on first cutscene",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou G1 Stable (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou G1 Stable (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou J.League Perfect Striker (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 2000 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 4 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 5 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 6 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou World Soccer - World Cup France '98 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikkyou World Soccer 3 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jikuu Senshi Turok (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jinsei Game 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "John Romero's Daikatana (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "John Romero's Daikatana (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "John Romero's Daikatana (USA)": {
       "status": "Working",
@@ -1758,7 +1758,7 @@
     "Kakutou Denshou - F-Cup Maniax (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ken Griffey Jr.'s Slugfest (USA)": {
       "status": "Working",
@@ -1768,17 +1768,17 @@
     "Killer Instinct Gold (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Killer Instinct Gold (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Killer Instinct Gold (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Killer Instinct Gold (USA) (Rev 2)": {
       "status": "Working",
@@ -1788,17 +1788,17 @@
     "King Hill 64 - Extreme Snowboarding (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Kiratto Kaiketsu! 64 Tanteidan (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Kirby 64 - The Crystal Shards (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Kirby 64 - The Crystal Shards (USA)": {
       "status": "Working",
@@ -1808,22 +1808,22 @@
     "Knife Edge - Nose Gunner (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Knife Edge - Nose Gunner (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Knife Edge - Nose Gunner (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Knockout Kings 2000 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Knockout Kings 2000 (USA)": {
       "status": "Working",
@@ -1833,7 +1833,7 @@
     "Kobe Bryant in NBA Courtside (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Kobe Bryant in NBA Courtside (USA)": {
       "status": "Working",
@@ -1843,72 +1843,72 @@
     "Last Legion UX (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (USA) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)": {
       "status": "Working",
@@ -1918,22 +1918,22 @@
     "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)": {
       "status": "Working",
@@ -1943,37 +1943,37 @@
     "Let's Smash (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Lode Runner 3-D (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Lode Runner 3-D (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Lylat Wars (Australia) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Lylatwars (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mace - The Dark Age (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mace - The Dark Age (USA)": {
       "status": "Working",
@@ -1983,7 +1983,7 @@
     "Madden Football 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Madden Football 64 (USA)": {
       "status": "Working",
@@ -2008,12 +2008,12 @@
     "Madden NFL 99 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Madden NFL 99 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Madden NFL 99 (USA) (Rev 1)": {
       "status": "Working",
@@ -2023,52 +2023,52 @@
     "Magical Tetris Challenge (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Magical Tetris Challenge (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Magical Tetris Challenge (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Magical Tetris Challenge featuring Mickey (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mahjong 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mahjong Hourouki Classic (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mahjong Master (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Major League Baseball Featuring Ken Griffey Jr. (Australia)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Major League Baseball Featuring Ken Griffey Jr. (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Golf (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Golf (USA)": {
       "status": "Working",
@@ -2078,32 +2078,32 @@
     "Mario Golf 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Golf 64 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Kart 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Kart 64 (Europe) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Kart 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Kart 64 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Kart 64 (USA)": {
       "status": "Working",
@@ -2113,17 +2113,17 @@
     "Mario no Photopie (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Party (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Party (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Party (USA)": {
       "status": "Working",
@@ -2133,12 +2133,12 @@
     "Mario Party 2 (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Party 2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Party 2 (USA)": {
       "status": "Working",
@@ -2148,12 +2148,12 @@
     "Mario Party 3 (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Party 3 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Party 3 (USA)": {
       "status": "Working",
@@ -2163,12 +2163,12 @@
     "Mario Story (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Tennis (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mario Tennis (USA)": {
       "status": "Working",
@@ -2178,7 +2178,7 @@
     "Mario Tennis 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mega Man 64 (USA)": {
       "status": "Working",
@@ -2193,27 +2193,27 @@
     "Michael Owen's WLS 2000 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mickey no Racing Challenge USA (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mickey's Speedway USA (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Micro Machines 64 Turbo (USA)": {
       "status": "Working",
@@ -2233,22 +2233,22 @@
     "Milo's Astro Lanes (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Milo's Astro Lanes (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mischief Makers (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mischief Makers (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mischief Makers (USA) (Rev 1)": {
       "status": "Working",
@@ -2258,32 +2258,32 @@
     "Mission - Impossible (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mission - Impossible (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mission - Impossible (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mission - Impossible (Italy)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mission - Impossible (Spain)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mission - Impossible (Spain) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mission - Impossible (USA)": {
       "status": "Working",
@@ -2298,7 +2298,7 @@
     "Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Monopoly (USA)": {
       "status": "Working",
@@ -2308,7 +2308,7 @@
     "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Monster Truck Madness 64 (USA)": {
       "status": "Working",
@@ -2318,12 +2318,12 @@
     "Morita Shougi 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mortal Kombat 4 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mortal Kombat 4 (USA)": {
       "status": "Working",
@@ -2333,7 +2333,7 @@
     "Mortal Kombat Mythologies - Sub-Zero (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mortal Kombat Mythologies - Sub-Zero (USA)": {
       "status": "Working",
@@ -2343,17 +2343,17 @@
     "Mortal Kombat Trilogy (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mortal Kombat Trilogy (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mortal Kombat Trilogy (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mortal Kombat Trilogy (USA) (Rev 2)": {
       "status": "Working",
@@ -2363,17 +2363,17 @@
     "MRC - Multi-Racing Championship (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "MRC - Multi-Racing Championship (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "MRC - Multi-Racing Championship (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ms. Pac-Man - Maze Madness (USA)": {
       "status": "Working",
@@ -2383,12 +2383,12 @@
     "Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mystical Ninja Starring Goemon (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Mystical Ninja Starring Goemon (USA)": {
       "status": "Working",
@@ -2398,12 +2398,12 @@
     "Nagano Winter Olympics '98 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nagano Winter Olympics '98 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Namco Museum 64 (USA)": {
       "status": "Working",
@@ -2418,7 +2418,7 @@
     "NASCAR 99 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NASCAR 99 (USA)": {
       "status": "Working",
@@ -2433,7 +2433,7 @@
     "NBA Hangtime (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA Hangtime (USA)": {
       "status": "Working",
@@ -2443,7 +2443,7 @@
     "NBA in the Zone '98 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA in the Zone '98 (USA)": {
       "status": "Working",
@@ -2458,12 +2458,12 @@
     "NBA in the Zone 2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA in the Zone 2000 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA in the Zone 2000 (USA)": {
       "status": "Working",
@@ -2473,7 +2473,7 @@
     "NBA Jam 2000 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA Jam 2000 (USA)": {
       "status": "Working",
@@ -2483,7 +2483,7 @@
     "NBA Jam 99 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA Jam 99 (USA)": {
       "status": "Working",
@@ -2493,7 +2493,7 @@
     "NBA Live 2000 (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA Live 2000 (USA) (En,Fr,De,Es)": {
       "status": "Working",
@@ -2503,7 +2503,7 @@
     "NBA Live 99 (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA Live 99 (USA) (En,Fr,De,Es,It)": {
       "status": "Working",
@@ -2513,27 +2513,27 @@
     "NBA Pro 98 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA Pro 99 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NBA Showtime - NBA on NBC (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Neon Genesis Evangelion (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "New Tetris, The (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "New Tetris, The (USA)": {
       "status": "Working",
@@ -2553,7 +2553,7 @@
     "NFL Blitz 2000 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NFL Blitz 2000 (USA) (Rev 1)": {
       "status": "Working",
@@ -2573,7 +2573,7 @@
     "NFL Quarterback Club 2000 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NFL Quarterback Club 2000 (USA)": {
       "status": "Working",
@@ -2583,17 +2583,17 @@
     "NFL Quarterback Club 98 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NFL Quarterback Club 98 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NFL Quarterback Club 99 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NFL Quarterback Club 99 (USA)": {
       "status": "Working",
@@ -2603,7 +2603,7 @@
     "NHL 99 (Europe) (En,De,Sv,Fi)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NHL 99 (USA)": {
       "status": "Working",
@@ -2618,27 +2618,27 @@
     "NHL Breakaway 98 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NHL Breakaway 98 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NHL Breakaway 99 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NHL Breakaway 99 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "NHL Pro 99 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nightmare Creatures (USA)": {
       "status": "Working",
@@ -2648,22 +2648,22 @@
     "Nintama Rantarou 64 Game Gallery (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nintendo All-Star! Dairantou Smash Brothers (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nuclear Strike 64 (Europe) (En,Fr)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nuclear Strike 64 (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nuclear Strike 64 (USA)": {
       "status": "Working",
@@ -2673,22 +2673,22 @@
     "Nushi Zuri 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nushi Zuri 64 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Nushi Zuri 64 - Shiokaze ni Notte (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Off Road Challenge (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Off Road Challenge (USA)": {
       "status": "Working",
@@ -2698,12 +2698,12 @@
     "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ogre Battle 64 - Person of Lordly Caliber (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)": {
       "status": "Working",
@@ -2713,12 +2713,12 @@
     "Olympic Hockey 98 (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Olympic Hockey 98 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Olympic Hockey 98 (USA)": {
       "status": "Working",
@@ -2728,32 +2728,32 @@
     "Onegai Monsters (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Operation WinBack (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pachinko 365 Nichi (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Paper Mario (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Paper Mario (USA)": {
       "status": "Partially Working",
       "notes": "Unable to start the game from the beginning, new files place you at Goombario's house.",
-      "version": "v125"
+      "version": "v126"
     },
     "Paperboy (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Paperboy (USA)": {
       "status": "Working",
@@ -2763,47 +2763,47 @@
     "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "PD Ultraman Battle Collection 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Penny Racers (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Penny Racers (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Perfect Dark (Europe) (Debug Version) (2000-04-26)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Perfect Dark (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Perfect Dark (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Perfect Dark (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Perfect Dark (USA) (Debug Version) (2000-03-22)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Perfect Dark (USA) (Rev 1)": {
       "status": "Working",
@@ -2818,22 +2818,22 @@
     "PGA European Tour Golf (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pikachuu Genki de Chuu (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pilotwings 64 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pilotwings 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pilotwings 64 (USA)": {
       "status": "Working",
@@ -2843,17 +2843,17 @@
     "Pokemon Puzzle League (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Puzzle League (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Puzzle League (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Puzzle League (USA)": {
       "status": "Working",
@@ -2863,37 +2863,37 @@
     "Pokemon Snap (Australia)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Snap (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Snap (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Snap (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Snap (Italy)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Snap (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Snap (Spain)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Snap (USA)": {
       "status": "Working",
@@ -2903,47 +2903,47 @@
     "Pokemon Stadium (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (Europe) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (Italy)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (Spain)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium (USA) (Rev 2)": {
       "status": "Working",
@@ -2953,32 +2953,32 @@
     "Pokemon Stadium 2 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium 2 (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium 2 (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium 2 (Italy)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium 2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium 2 (Spain)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pokemon Stadium 2 (USA)": {
       "status": "Working",
@@ -2988,22 +2988,22 @@
     "Pokemon Stadium Kin Gin (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Polaris SnoCross (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Power League 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Power Rangers - Lightspeed Rescue (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Power Rangers - Lightspeed Rescue (USA)": {
       "status": "Working",
@@ -3018,42 +3018,42 @@
     "Premier Manager 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pro Mahjong Kiwame 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pro Mahjong Kiwame 64 (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Puyo Puyo Sun 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Puyo Puyoon Party (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Puzzle Bobble 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Quake (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Quake (USA)": {
       "status": "Working",
@@ -3063,7 +3063,7 @@
     "Quake II (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Quake II (USA)": {
       "status": "Working",
@@ -3078,22 +3078,22 @@
     "Racing Simulation 2 (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rakugakids (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rakugakids (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rally '99 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rally Challenge 2000 (USA)": {
       "status": "Working",
@@ -3103,7 +3103,7 @@
     "Rampage - World Tour (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rampage - World Tour (USA)": {
       "status": "Working",
@@ -3113,7 +3113,7 @@
     "Rampage 2 - Universal Tour (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rampage 2 - Universal Tour (USA)": {
       "status": "Working",
@@ -3123,7 +3123,7 @@
     "Rat Attack (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)": {
       "status": "Working",
@@ -3133,7 +3133,7 @@
     "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)": {
       "status": "Working",
@@ -3143,7 +3143,7 @@
     "Razmoket, Les - La Chasse aux Tresors (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Razor Freestyle Scooter (USA)": {
       "status": "Working",
@@ -3153,22 +3153,22 @@
     "Re-Volt (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Re-Volt (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ready 2 Rumble Boxing (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ready 2 Rumble Boxing (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Ready 2 Rumble Boxing - Round 2 (USA)": {
       "status": "Working",
@@ -3178,22 +3178,22 @@
     "Resident Evil 2 (Europe) (En,Fr)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Resident Evil 2 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Resident Evil 2 (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Road Rash 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Road Rash 64 (USA)": {
       "status": "Working",
@@ -3203,7 +3203,7 @@
     "Roadsters (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Roadsters (USA) (En,Fr,Es)": {
       "status": "Working",
@@ -3213,12 +3213,12 @@
     "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Robotron 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Robotron 64 (USA)": {
       "status": "Working",
@@ -3228,7 +3228,7 @@
     "Rocket - Robot on Wheels (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rocket - Robot on Wheels (USA)": {
       "status": "Working",
@@ -3238,12 +3238,12 @@
     "Rockman Dash - Hagane no Boukenshin (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "RR64 - Ridge Racer 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "RR64 - Ridge Racer 64 (USA)": {
       "status": "Working",
@@ -3253,12 +3253,12 @@
     "RTL World League Soccer 2000 (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rugrats - Die grosse Schatzsuche (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rugrats - Scavenger Hunt (USA)": {
       "status": "Working",
@@ -3268,22 +3268,22 @@
     "Rugrats - Treasure Hunt (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rugrats in Paris - The Movie (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rugrats in Paris - The Movie (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Rush 2 - Extreme Racing USA (USA)": {
       "status": "Working",
@@ -3293,7 +3293,7 @@
     "S.C.A.R.S. (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "S.C.A.R.S. (USA)": {
       "status": "Working",
@@ -3303,17 +3303,17 @@
     "Saikyou Habu Shougi (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)": {
       "status": "Working",
@@ -3323,17 +3323,17 @@
     "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "San Francisco Rush 2049 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Scooby-Doo! - Classic Creep Capers (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Scooby-Doo! - Classic Creep Capers (USA)": {
       "status": "Working",
@@ -3343,12 +3343,12 @@
     "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "SD Hiryuu no Ken Densetsu (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Sesame Street - Elmo's Letter Adventure (USA)": {
       "status": "Working",
@@ -3363,22 +3363,22 @@
     "Shadow Man (Brazil)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadow Man (Europe) (En,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadow Man (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadow Man (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadow Man (USA)": {
       "status": "Working",
@@ -3388,22 +3388,22 @@
     "Shadowgate 64 - Trials of the Four Towers (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadowgate 64 - Trials of the Four Towers (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)": {
       "status": "Working",
@@ -3413,32 +3413,32 @@
     "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "SimCity 2000 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Snobo Kids (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Snow Speeder (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Snowboard Kids (Europe, Australia)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Snowboard Kids (USA)": {
       "status": "Working",
@@ -3448,7 +3448,7 @@
     "Snowboard Kids 2 (Australia)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Snowboard Kids 2 (USA)": {
       "status": "Working",
@@ -3458,22 +3458,22 @@
     "Sonic Wings Assault (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "South Park (Brazil)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "South Park (Europe) (En,Fr,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "South Park (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "South Park (USA)": {
       "status": "Working",
@@ -3483,7 +3483,7 @@
     "South Park - Chef's Luv Shack (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "South Park - Chef's Luv Shack (USA)": {
       "status": "Working",
@@ -3493,7 +3493,7 @@
     "South Park Rally (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "South Park Rally (USA)": {
       "status": "Working",
@@ -3503,7 +3503,7 @@
     "Space Dynamites (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Space Invaders (USA)": {
       "status": "Working",
@@ -3513,12 +3513,12 @@
     "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "SpaceStation Silicon Valley (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "SpaceStation Silicon Valley (USA) (Rev 1)": {
       "status": "Working",
@@ -3533,12 +3533,12 @@
     "Star Fox 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Fox 64 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Fox 64 (USA) (Rev 1)": {
       "status": "Working",
@@ -3548,7 +3548,7 @@
     "Star Soldier - Vanishing Earth (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Soldier - Vanishing Earth (USA)": {
       "status": "Working",
@@ -3558,42 +3558,42 @@
     "Star Twins (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Rogue Squadron (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Rogue Squadron (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Rogue Squadron (USA) (Rev 1)": {
       "status": "Not Working",
       "notes": "Crashes after 1st cutscene",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Shadows of the Empire (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Shadows of the Empire (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Shadows of the Empire (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Shadows of the Empire (USA) (Rev 2)": {
       "status": "Working",
@@ -3603,32 +3603,32 @@
     "Star Wars - Shutsugeki! Rogue Chuutai (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars - Teikoku no Kage (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars Episode I - Battle for Naboo (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars Episode I - Battle for Naboo (USA)": {
       "status": "Not Working",
       "notes": "Black screen",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars Episode I - Racer (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars Episode I - Racer (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Star Wars Episode I - Racer (USA)": {
       "status": "Working",
@@ -3638,7 +3638,7 @@
     "StarCraft 64 (Australia)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "StarCraft 64 (USA)": {
       "status": "Working",
@@ -3648,7 +3648,7 @@
     "Starshot - Space Circus Fever (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Starshot - Space Circus Fever (USA) (En,Fr,Es)": {
       "status": "Working",
@@ -3663,32 +3663,32 @@
     "Super B-Daman - Battle Phoenix 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Bowling (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Bowling (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Mario 64 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Mario 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Mario 64 (USA)": {
       "status": "Working",
@@ -3698,27 +3698,27 @@
     "Super Real Mahjong VS (Japan) (Rev 1) (Aleck 64)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Robot Spirits (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Robot Taisen 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Smash Bros. (Australia)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Smash Bros. (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Super Smash Bros. (USA)": {
       "status": "Working",
@@ -3728,12 +3728,12 @@
     "Super Speed Race 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Supercross 2000 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Supercross 2000 (USA)": {
       "status": "Working",
@@ -3743,7 +3743,7 @@
     "Superman (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Superman - The New Superman Aventures (USA) (En,Fr,Es)": {
       "status": "Working",
@@ -3753,47 +3753,47 @@
     "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tarzan (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tarzan (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tarzan (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tarzan (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Taz Express (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Telefoot Soccer 2000 (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tetris 64 (Japan) (En)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tetrisphere (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tetrisphere (USA)": {
       "status": "Working",
@@ -3803,12 +3803,12 @@
     "TG Rally 2 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tigger's Honey Hunt (USA)": {
       "status": "Working",
@@ -3818,7 +3818,7 @@
     "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tom and Jerry in Fists of Furry (USA)": {
       "status": "Working",
@@ -3828,17 +3828,17 @@
     "Tom Clancy's Rainbow Six (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tom Clancy's Rainbow Six (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tom Clancy's Rainbow Six (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tom Clancy's Rainbow Six (USA)": {
       "status": "Working",
@@ -3848,7 +3848,7 @@
     "Tonic Trouble (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tonic Trouble (USA) (Rev 1)": {
       "status": "Working",
@@ -3858,7 +3858,7 @@
     "Tony Hawk's Pro Skater (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tony Hawk's Pro Skater (USA) (Rev 1)": {
       "status": "Working",
@@ -3868,7 +3868,7 @@
     "Tony Hawk's Pro Skater 2 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tony Hawk's Pro Skater 2 (USA)": {
       "status": "Working",
@@ -3883,17 +3883,17 @@
     "Tony Hawk's Skateboarding (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Hyper Bike (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Hyper Bike (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Hyper-Bike (USA)": {
       "status": "Working",
@@ -3903,12 +3903,12 @@
     "Top Gear Overdrive (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Overdrive (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Overdrive (USA)": {
       "status": "Working",
@@ -3918,17 +3918,17 @@
     "Top Gear Rally (Asia) (En)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Rally (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Rally (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Rally (USA)": {
       "status": "Working",
@@ -3938,12 +3938,12 @@
     "Top Gear Rally 2 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Rally 2 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Top Gear Rally 2 (USA)": {
       "status": "Working",
@@ -3953,37 +3953,37 @@
     "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)": {
       "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Transformers - Beast Wars Metals 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Transformers - Beast Wars Transmetals (USA)": {
       "status": "Working",
@@ -3993,77 +3993,77 @@
     "Triple Play 2000 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Tsumi to Batsu - Hoshi no Keishousha (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (Europe) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (Europe) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (Germany) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (Germany) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Dinosaur Hunter (USA) (Rev 2)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Legenden des Verlorenen Landes (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Rage Wars (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Rage Wars (Europe) (En,Fr,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Rage Wars (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok - Rage Wars (USA) (Rev 1)": {
       "status": "Working",
@@ -4073,22 +4073,22 @@
     "Turok 2 - Seeds of Evil (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok 2 - Seeds of Evil (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok 2 - Seeds of Evil (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok 2 - Seeds of Evil (USA) (Rev 1)": {
       "status": "Working",
@@ -4098,7 +4098,7 @@
     "Turok 3 - Shadow of Oblivion (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Turok 3 - Shadow of Oblivion (USA)": {
       "status": "Working",
@@ -4108,27 +4108,27 @@
     "Twisted Edge - Extreme Snowboarding (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Twisted Edge - Snowboarding (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "V-Rally Edition 99 (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "V-Rally Edition 99 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "V-Rally Edition 99 (USA)": {
       "status": "Working",
@@ -4138,17 +4138,17 @@
     "Vigilante 8 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Vigilante 8 (France)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Vigilante 8 (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Vigilante 8 (USA)": {
       "status": "Working",
@@ -4158,7 +4158,7 @@
     "Vigilante 8 - 2nd Offense (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Vigilante 8 - 2nd Offense (USA)": {
       "status": "Working",
@@ -4168,22 +4168,22 @@
     "Violence Killer - Turok New Generation (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Virtual Chess 64 (USA) (En,Fr,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Virtual Pool 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Virtual Pool 64 (USA)": {
       "status": "Working",
@@ -4193,27 +4193,27 @@
     "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Virtual Pro Wrestling 64 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Waialae Country Club - True Golf Classics (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Waialae Country Club - True Golf Classics (Europe) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Waialae Country Club - True Golf Classics (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Waialae Country Club - True Golf Classics (USA) (Rev 1)": {
       "status": "Working",
@@ -4223,7 +4223,7 @@
     "War Gods (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "War Gods (USA)": {
       "status": "Working",
@@ -4233,22 +4233,22 @@
     "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wave Race 64 - Kawasaki Jet Ski (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wave Race 64 - Kawasaki Jet Ski (USA)": {
       "status": "Working",
@@ -4258,12 +4258,12 @@
     "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wayne Gretzky's 3D Hockey '98 (USA)": {
       "status": "Working",
@@ -4273,17 +4273,17 @@
     "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wayne Gretzky's 3D Hockey (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wayne Gretzky's 3D Hockey (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wayne Gretzky's 3D Hockey (USA) (Rev 1)": {
       "status": "Working",
@@ -4298,7 +4298,7 @@
     "WCW Mayhem (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WCW Mayhem (USA)": {
       "status": "Working",
@@ -4308,17 +4308,17 @@
     "WCW Nitro (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WCW vs. nWo - World Tour (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WCW vs. nWo - World Tour (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WCW vs. nWo - World Tour (USA) (Rev 1)": {
       "status": "Working",
@@ -4328,7 +4328,7 @@
     "WCW-nWo Revenge (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WCW-nWo Revenge (USA)": {
       "status": "Working",
@@ -4338,12 +4338,12 @@
     "Wetrix (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wetrix (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wetrix (USA) (En,Fr,De,Es,It,Nl)": {
       "status": "Working",
@@ -4353,22 +4353,22 @@
     "Wheel of Fortune (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wild Choppers (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WinBack (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WinBack (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WinBack - Covert Operations (USA)": {
       "status": "Working",
@@ -4378,22 +4378,22 @@
     "Wipeout 64 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wipeout 64 (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Wonder Project J2 - Koruro no Mori no Jozet (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)": {
       "status": "Working",
@@ -4403,7 +4403,7 @@
     "World Driver Championship (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "World Driver Championship (USA)": {
       "status": "Working",
@@ -4413,7 +4413,7 @@
     "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Worms Armageddon (USA) (En,Fr,Es)": {
       "status": "Working",
@@ -4423,12 +4423,12 @@
     "WWF Attitude (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF Attitude (Germany)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF Attitude (USA)": {
       "status": "Working",
@@ -4438,17 +4438,17 @@
     "WWF No Mercy (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF No Mercy (Europe) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF No Mercy (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF No Mercy (USA) (Rev 1)": {
       "status": "Working",
@@ -4458,7 +4458,7 @@
     "WWF War Zone (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF War Zone (USA)": {
       "status": "Working",
@@ -4468,42 +4468,42 @@
     "WWF WrestleMania 2000 (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF WrestleMania 2000 (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "WWF WrestleMania 2000 (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Xena - Warrior Princess - The Talisman of Fate (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Xena - Warrior Princess - The Talisman of Fate (USA)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Yakouchuu II - Satsujin Kouro (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Yoshi Story (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Yoshi's Story (Europe) (En,Fr,De)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Yoshi's Story (USA) (En,Ja)": {
       "status": "Working",
@@ -4513,52 +4513,52 @@
     "Yuke Yuke!! Trouble Makers (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Mujura no Kamen (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Zool - Majuu Tsukai Densetsu (Japan)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     }
   }
 }
