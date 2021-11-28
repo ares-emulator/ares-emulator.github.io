@@ -19,6 +19,12 @@ layout: default
     <li>Finally, submit a pull-request to ares-emulator.github.io with your changes, they will then be checked by our team and then merged once verified</li>
 </ul>
 
+<p>The current ares version is <strong>{{ site.data.versions.current }}</strong>.</p>
+<p style="color: orange">
+    If you are testing with a nightly build, you can select the *next* version in the dropdown.
+    In this case your changes will be merged after the next release is made.
+</p>
+
 {% capture file %}{{ page.title | replace: '(', '' | replace: ')', '' | replace: '& ', '' | replace: ' ', '_' }}{% endcapture %}
 
 <form id="compatibility-form">

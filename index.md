@@ -15,9 +15,9 @@ and focuses on accuracy and preservation.
 
 ## Downloads
 
-[ares v125.1 (Windows binary)](https://github.com/higan-emu/ares/releases/download/v125.1/ares-windows.zip) <br />
-[ares v125.1 (macOS binary)](https://github.com/higan-emu/ares/releases/download/v125.1/ares-macos.zip) <br />
-[ares v125.1 (ISC source code)](https://github.com/higan-emu/ares/archive/refs/tags/v125.1.zip)
+[ares v126 (Windows binary)](https://github.com/higan-emu/ares/releases/download/v126/ares-windows.zip) <br />
+[ares v126 (macOS binary)](https://github.com/higan-emu/ares/releases/download/v126/ares-macos.zip) <br />
+[ares v126 (ISC source code)](https://github.com/higan-emu/ares/archive/refs/tags/v126.zip)
 
 ares is available under the terms of the [ISC](https://opensource.org/licenses/ISC) license.
 
