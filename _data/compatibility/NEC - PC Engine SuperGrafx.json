@@ -17,8 +17,8 @@
     },
     "Daimakaimura (Japan)": {
       "status": "Working",
-      "notes": "",
-      "version": "v124"
+      "notes": "Background image corrupted in the intro cutscene(https://github.com/ares-emulator/ares/issues/47)",
+      "version": "v125"
     },
     "Madou King Granzort (Japan)": {
       "status": "Working",
