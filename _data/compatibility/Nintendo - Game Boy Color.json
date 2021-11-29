@@ -41,9 +41,9 @@
       "version": "v124"
     },
     "3-D Ultra Pinball - Thrillride (USA) (Rumble Version)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Graphics corrupted",
+      "version": "v126"
     },
     "3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
@@ -2846,9 +2846,9 @@
       "version": "v124"
     },
     "Kirby - Tilt 'n' Tumble (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Gyroscopic sensor aren't implemented",
+      "version": "v126"
     },
     "Kirikou (Europe) (En,Fr,De,Es,It,Pt)": {
       "status": "Unknown",
@@ -2946,9 +2946,9 @@
       "version": "v124"
     },
     "Korokoro Kirby (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Gyroscopic sensor aren't implemented",
+      "version": "v126"
     },
     "Koto Battle - Tengai no Moribito (Japan)": {
       "status": "Unknown",
@@ -3456,9 +3456,9 @@
       "version": "v124"
     },
     "Mario Tennis (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Mario Tennis GB (Japan)": {
       "status": "Unknown",
@@ -3691,9 +3691,9 @@
       "version": "v124"
     },
     "Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Micro Machines 1 and 2 - Twin Turbo (USA, Europe)": {
       "status": "Unknown",
@@ -4566,14 +4566,14 @@
       "version": "v124"
     },
     "Pokemon - Crystal Version (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "The game clock isn't working properly",
+      "version": "v126"
     },
     "Pokemon - Crystal Version (USA, Europe) (Rev 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "The game clock isn't working properly",
+      "version": "v126"
     },
     "Pokemon - Edicion Cristal (Spain)": {
       "status": "Unknown",
@@ -5636,9 +5636,9 @@
       "version": "v124"
     },
     "Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Smurfs Nightmare, The (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
@@ -6296,14 +6296,14 @@
       "version": "v124"
     },
     "Tomb Raider (USA, Europe) (En,Fr,De,Es,It)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Tomb Raider - Curse of the Sword (USA, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Tonic Trouble (Europe) (En,Fr,De,Es,It,Nl)": {
       "status": "Unknown",
@@ -6601,9 +6601,9 @@
       "version": "v124"
     },
     "Vigilante 8 (USA) (Rumble Version)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "VIP (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
@@ -6651,9 +6651,9 @@
       "version": "v124"
     },
     "Wario Land 3 (World) (En,Ja)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)": {
       "status": "Unknown",
