@@ -296,7 +296,7 @@
       "version": "v125"
     },
     "After Burner (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -356,7 +356,7 @@
       "version": "v125"
     },
     "Akuma-kun - Makai no Wana (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -381,8 +381,8 @@
       "version": "v125"
     },
     "Aladdin (Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Not Working",
+      "notes": "Hangs after starting game",
       "version": "v125"
     },
     "Alex DeMeo's Race America (USA)": {
@@ -496,12 +496,12 @@
       "version": "v125"
     },
     "Arch Rivals - A Basketbrawl! (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Arch Rivals - A Basketbrawl! (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -536,8 +536,8 @@
       "version": "v125"
     },
     "Arkanoid II (Japan) (En)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": "Optional peripheral: Arkanoid Vaus",
       "version": "v125"
     },
     "Arkista's Ring (USA)": {
@@ -546,7 +546,7 @@
       "version": "v125"
     },
     "Armadillo (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -611,7 +611,7 @@
       "version": "v125"
     },
     "Atlantis no Nazo (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -636,7 +636,7 @@
       "version": "v125"
     },
     "B-Wings (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -776,8 +776,8 @@
       "version": "v125"
     },
     "Barcode World (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Sunsoft Barcode Battler",
       "version": "v125"
     },
     "Bard's Tale II, The - The Destiny Knight (Japan)": {
@@ -881,17 +881,17 @@
       "version": "v125"
     },
     "Batman (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Batman - Return of the Joker (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Batman - Return of the Joker (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -931,7 +931,7 @@
       "version": "v125"
     },
     "Battle Fleet (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -986,27 +986,27 @@
       "version": "v125"
     },
     "Battletoads (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Battletoads (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Battletoads (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Battletoads-Double Dragon (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Battletoads-Double Dragon (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -1021,7 +1021,7 @@
       "version": "v125"
     },
     "Beetlejuice (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -1131,7 +1131,7 @@
       "version": "v125"
     },
     "Bird Week (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -1376,7 +1376,7 @@
       "version": "v125"
     },
     "Cabal (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -1451,17 +1451,17 @@
       "version": "v125"
     },
     "Captain Skyhawk (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Captain Skyhawk (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Captain Skyhawk (USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -1816,12 +1816,12 @@
       "version": "v125"
     },
     "Cobra Triangle (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Cobra Triangle (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -1931,12 +1931,12 @@
       "version": "v125"
     },
     "Crayon Shin-chan - Ora to Poi Poi (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Crazy Climber (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2016,13 +2016,13 @@
       "version": "v125"
     },
     "Danny Sullivan's Indy Heat (Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": "Optional peripheral: Four Score",
       "version": "v125"
     },
     "Danny Sullivan's Indy Heat (USA)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": "Optional peripheral: Four Score",
       "version": "v125"
     },
     "Dark Lord (Japan)": {
@@ -2066,38 +2066,38 @@
       "version": "v125"
     },
     "Datach - Battle Rush - Build Up Robot Tournament (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Not Working",
+      "notes": "Required peripheral: Bandai Datach; Second eeprom missing",
       "version": "v125"
     },
     "Datach - Crayon Shin-chan - Ora to Poi Poi (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Datach",
       "version": "v125"
     },
     "Datach - Dragon Ball Z - Gekitou Tenkaichi Budoukai (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Datach",
       "version": "v125"
     },
     "Datach - J.League Super Top Players (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Datach",
       "version": "v125"
     },
     "Datach - SD Gundam - Gundam Wars (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Datach",
       "version": "v125"
     },
     "Datach - Ultraman Club - Supokon Fight! (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Datach",
       "version": "v125"
     },
     "Datach - Yu Yu Hakusho - Bakutou Ankoku Bujutsukai (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Datach",
       "version": "v125"
     },
     "Datsugoku (Japan)": {
@@ -2146,7 +2146,7 @@
       "version": "v125"
     },
     "Deadly Towers (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2211,7 +2211,7 @@
       "version": "v125"
     },
     "Densetsu no Kishi - Elrond (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2301,12 +2301,12 @@
       "version": "v125"
     },
     "Digger - The Legend of the Lost City (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Digger T. Rock - The Legend of the Lost City (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2316,13 +2316,13 @@
       "version": "v125"
     },
     "Digital Devil Story - Megami Tensei II (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Digital Devil Story - Megami Tensei II (Japan) (Rev A)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Dirty Harry (USA)": {
@@ -2336,7 +2336,7 @@
       "version": "v125"
     },
     "Dokuganryuu Masamune (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2431,12 +2431,12 @@
       "version": "v125"
     },
     "Doraemon (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Doraemon (Japan) (Rev A)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2446,7 +2446,7 @@
       "version": "v125"
     },
     "Double Dare (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2556,57 +2556,57 @@
       "version": "v125"
     },
     "Dragon Ball - Daimaou Fukkatsu (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball - Le Secret du Dragon (France)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball - Le Secret du Dragon (France) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball - Shen Long no Nazo (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball 3 - Gokuu Den (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball 3 - Gokuu Den (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball Z - Kyoushuu! Saiya Jin (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball Z II - Gekishin Freeza!! (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ball Z III - Ressen Jinzou Ningen (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2641,17 +2641,17 @@
       "version": "v125"
     },
     "Dragon Ninja (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Ninja (Japan) (Rev A)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Dragon Power (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2841,7 +2841,7 @@
       "version": "v125"
     },
     "Dynamite Batman (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -2926,13 +2926,13 @@
       "version": "v125"
     },
     "Eric Cantona Football Challenge - Goal! 2 (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Erika to Satoru no Yume Bouken (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Esper Bouken Tai (Japan)": {
@@ -3036,12 +3036,12 @@
       "version": "v125"
     },
     "Famicom Jump - Eiyuu Retsuden (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Famicom Jump II - Saikyou no 7 Nin (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3066,7 +3066,7 @@
       "version": "v125"
     },
     "Famicom Wars (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3096,7 +3096,7 @@
       "version": "v125"
     },
     "Family Block (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3186,18 +3186,18 @@
       "version": "v125"
     },
     "Family Trainer 4 - Jogging Race (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Family Trainer Mat",
       "version": "v125"
     },
     "Family Trainer 5 - Meiro Daisakusen (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Family Trainer Mat",
       "version": "v125"
     },
     "Family Trainer 6 - Manhattan Police (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Family Trainer Mat",
       "version": "v125"
     },
     "Family Trainer 7 - Daiundoukai (Japan)": {
@@ -3211,8 +3211,8 @@
       "version": "v125"
     },
     "Family Trainer 9 - Fuuun Takeshi-jou 2 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Family Trainer Mat",
       "version": "v125"
     },
     "Famista '89 - Kaimaku Ban!! (Japan)": {
@@ -3221,7 +3221,7 @@
       "version": "v125"
     },
     "Famista '90 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3246,12 +3246,12 @@
       "version": "v125"
     },
     "Fantasy Zone (Japan) (Sunsoft)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Fantasy Zone II - Opa-Opa no Namida (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3376,8 +3376,8 @@
       "version": "v125"
     },
     "Final Lap (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Final Mission (Japan)": {
@@ -3391,12 +3391,12 @@
       "version": "v125"
     },
     "Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Fire Emblem Gaiden (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3726,7 +3726,7 @@
       "version": "v125"
     },
     "Gegege no Kitarou 2 - Youkai Gundan no Chousen (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3836,7 +3836,7 @@
       "version": "v125"
     },
     "Gimmick! (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -3861,7 +3861,7 @@
       "version": "v125"
     },
     "Goal! Two (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -4071,7 +4071,7 @@
       "version": "v125"
     },
     "Gremlin 2 - Shinshu Tanjou (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -4116,8 +4116,8 @@
       "version": "v125"
     },
     "Gumshoe (USA, Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Zapper",
       "version": "v125"
     },
     "Gun Nac (Japan)": {
@@ -4236,7 +4236,7 @@
       "version": "v125"
     },
     "Hebereke (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -4276,12 +4276,12 @@
       "version": "v125"
     },
     "High Speed (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "High Speed (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -4401,12 +4401,12 @@
       "version": "v125"
     },
     "Honoo no Toukyuuji - Dodge Danpei (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Honoo no Toukyuuji - Dodge Danpei 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -4511,7 +4511,7 @@
       "version": "v125"
     },
     "Hydlide 3 - Yami kara no Houmonsha (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -4766,12 +4766,12 @@
       "version": "v125"
     },
     "IronSword - Wizards & Warriors II (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "IronSword - Wizards & Warriors II (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -4801,13 +4801,13 @@
       "version": "v125"
     },
     "Ivan 'Ironman' Stewart's Super Off Road (Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": "Optional peripheral: Four Score",
       "version": "v125"
     },
     "Ivan 'Ironman' Stewart's Super Off Road (USA)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": "Optional peripheral: Four Score",
       "version": "v125"
     },
     "J.League Fighting Soccer - The King of Ace Strikers (Japan)": {
@@ -4896,22 +4896,22 @@
       "version": "v125"
     },
     "Jeopardy! (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Jeopardy! (USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Jeopardy! 25th Anniversary Edition (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Jeopardy! Junior Edition (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5061,12 +5061,12 @@
       "version": "v125"
     },
     "Juvei Quest (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Juvei Quest (Japan) (Alt)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5106,7 +5106,7 @@
       "version": "v125"
     },
     "Kaijuu Monogatari (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5146,7 +5146,7 @@
       "version": "v125"
     },
     "Kamen Rider Club (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5156,7 +5156,7 @@
       "version": "v125"
     },
     "Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5166,18 +5166,18 @@
       "version": "v125"
     },
     "Karaoke Studio (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Microphone",
       "version": "v125"
     },
     "Karaoke Studio Senyou Cassette Vol. 1 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Microphone",
       "version": "v125"
     },
     "Karaoke Studio Senyou Cassette Vol. 2 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Microphone",
       "version": "v125"
     },
     "Karate Champ (USA)": {
@@ -5311,7 +5311,7 @@
       "version": "v125"
     },
     "Kidou Senshi Z Gundam - Hot Scramble (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5326,8 +5326,8 @@
       "version": "v125"
     },
     "King of Kings (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "King's Knight (Japan)": {
@@ -5516,7 +5516,7 @@
       "version": "v125"
     },
     "Kyoto Ryuu no Tera Satsujin Jiken (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5711,7 +5711,7 @@
       "version": "v125"
     },
     "Lion King, The (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5871,7 +5871,7 @@
       "version": "v125"
     },
     "Madoola no Tsubasa (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5916,17 +5916,17 @@
       "version": "v125"
     },
     "Magical Taruruuto-kun - Fantastic World!! (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Magical Taruruuto-kun - Fantastic World!! (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Magical Taruruuto-kun 2 - Mahou Daibouken (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -5951,7 +5951,7 @@
       "version": "v125"
     },
     "Maharaja (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6086,8 +6086,8 @@
       "version": "v125"
     },
     "Mappy Kids (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Mappy-Land (Japan)": {
@@ -6106,12 +6106,12 @@
       "version": "v125"
     },
     "Marble Madness (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Marble Madness (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6176,7 +6176,7 @@
       "version": "v125"
     },
     "Mashou (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6306,7 +6306,7 @@
       "version": "v125"
     },
     "Meimon! Daisan Yakyuubu (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6446,12 +6446,12 @@
       "version": "v125"
     },
     "Mighty Bomb Jack (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Mighty Bomb Jack (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6476,22 +6476,22 @@
       "version": "v125"
     },
     "Mike Tyson's Punch-Out!! (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Mike Tyson's Punch-Out!! (Europe) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Mike Tyson's Punch-Out!! (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6511,7 +6511,7 @@
       "version": "v125"
     },
     "Mindseeker (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6586,7 +6586,7 @@
       "version": "v125"
     },
     "Mito Koumon - Sekai Manyuu Ki (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6691,7 +6691,7 @@
       "version": "v125"
     },
     "Money Game, The (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6781,7 +6781,7 @@
       "version": "v125"
     },
     "Mr. Gimmick (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6851,13 +6851,13 @@
       "version": "v125"
     },
     "Namco Classic (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Namco Classic II (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Not Working",
+      "notes": "Graphical glitches; Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Namco Prism Zone - Dream Master (Japan)": {
@@ -6876,17 +6876,17 @@
       "version": "v125"
     },
     "Nantettatte!! Baseball (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Nantettatte!! Baseball + Nantettatte!! Baseball - Ko-Game Cassette - '91 Kaimaku Hen (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Nantettatte!! Baseball + Nantettatte!! Baseball - Ko-Game Cassette - OB All Star Hen (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6896,7 +6896,7 @@
       "version": "v125"
     },
     "NARC (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -6941,7 +6941,7 @@
       "version": "v125"
     },
     "NES Play Action Football (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7001,7 +7001,7 @@
       "version": "v125"
     },
     "Nightmare on Elm Street, A (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7141,7 +7141,7 @@
       "version": "v125"
     },
     "Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7226,13 +7226,13 @@
       "version": "v125"
     },
     "Oeka Kids - Anpanman no Hiragana Daisuki (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Oeka Kids Tablet",
       "version": "v125"
     },
     "Oeka Kids - Anpanman to Oekaki Shiyou!! (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Oeka Kids Tablet",
       "version": "v125"
     },
     "Oishinbo - Kyuukyoku no Menu Sanbon Shoubu (Japan)": {
@@ -7286,12 +7286,12 @@
       "version": "v125"
     },
     "Othello (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Othello (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7376,8 +7376,8 @@
       "version": "v125"
     },
     "Pac-Man Championship Edition (USA, Europe) (Namco Museum Archives Vol 1) (Aftermarket)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Pachi-Slot Adventure 2 - Sorotta-kun no Pachi-Slot Tanteidan (Japan)": {
@@ -7501,7 +7501,7 @@
       "version": "v125"
     },
     "Paris-Dakar Rally Special (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7566,12 +7566,12 @@
       "version": "v125"
     },
     "Pin Bot (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Pin Bot (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7656,7 +7656,7 @@
       "version": "v125"
     },
     "Pocket Zaurus - Juu Ouken no Nazo (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7766,7 +7766,7 @@
       "version": "v125"
     },
     "Pro Sport Hockey (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7826,17 +7826,17 @@
       "version": "v125"
     },
     "Punch-Out!! (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Punch-Out!! (Japan) (Gold Edition)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Punch-Out!! (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7876,7 +7876,7 @@
       "version": "v125"
     },
     "Pyokotan no Daimeiro (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7911,7 +7911,7 @@
       "version": "v125"
     },
     "R.C. Pro-Am (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7921,7 +7921,7 @@
       "version": "v125"
     },
     "R.C. Pro-Am (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -7931,13 +7931,13 @@
       "version": "v125"
     },
     "R.C. Pro-Am II (Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": "Optional peripheral: Four Score",
       "version": "v125"
     },
     "R.C. Pro-Am II (USA)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Working",
+      "notes": "Optional peripheral: Four Score",
       "version": "v125"
     },
     "Racer Mini Yonku - Japan Cup (Japan)": {
@@ -8296,7 +8296,7 @@
       "version": "v125"
     },
     "Rokudenashi Blues (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8331,13 +8331,13 @@
       "version": "v125"
     },
     "Rolling Thunder (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Romance of the Three Kingdoms (USA)": {
@@ -8381,7 +8381,7 @@
       "version": "v125"
     },
     "RPG Jinsei Game (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8416,7 +8416,7 @@
       "version": "v125"
     },
     "Saint Seiya - Ougon Densetsu (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8436,7 +8436,7 @@
       "version": "v125"
     },
     "Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8471,8 +8471,8 @@
       "version": "v125"
     },
     "Sangokushi - Chuugen no Hasha (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Sangokushi II (Japan)": {
@@ -8486,8 +8486,8 @@
       "version": "v125"
     },
     "Sangokushi II - Haou no Tairiku (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Sanma no Meitantei (Japan)": {
@@ -8511,17 +8511,17 @@
       "version": "v125"
     },
     "Sansuu 1 Nen - Keisan Game (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Sansuu 2 Nen - Keisan Game (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Sansuu 3 Nen - Keisan Game (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8571,22 +8571,22 @@
       "version": "v125"
     },
     "SD Gundam Gaiden - Knight Gundam Monogatari (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "SD Gundam Gaiden - Knight Gundam Monogatari 2 - Hikari no Knight (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "SD Gundam Gaiden - Knight Gundam Monogatari 3 - Densetsu no Kishi Dan (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8621,7 +8621,7 @@
       "version": "v125"
     },
     "Seicross (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8656,7 +8656,7 @@
       "version": "v125"
     },
     "Senjou no Ookami (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -8741,7 +8741,7 @@
       "version": "v125"
     },
     "Shanghai (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -9071,12 +9071,12 @@
       "version": "v125"
     },
     "Solar Jetman - Hunt for the Golden Warpship (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Solar Jetman - Hunt for the Golden Warpship (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -9106,17 +9106,17 @@
       "version": "v125"
     },
     "Solstice (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Solstice - The Quest for the Staff of Demnos (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Solstice - The Quest for the Staff of Demnos (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -9156,8 +9156,8 @@
       "version": "v125"
     },
     "Space Shadow (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Bandai Hyper Shot",
       "version": "v125"
     },
     "Space Shuttle Project (USA)": {
@@ -9231,7 +9231,7 @@
       "version": "v125"
     },
     "Spy vs Spy (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -9341,7 +9341,7 @@
       "version": "v125"
     },
     "Star Wars (Japan) (Namco)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -9521,13 +9521,13 @@
       "version": "v125"
     },
     "Super Mario Bros. + Duck Hunt (Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Zapper",
       "version": "v125"
     },
     "Super Mario Bros. + Duck Hunt (USA)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Required peripheral: Zapper",
       "version": "v125"
     },
     "Super Mario Bros. + Duck Hunt + World Class Track Meet (USA)": {
@@ -9821,7 +9821,7 @@
       "version": "v125"
     },
     "Takahashi Meijin no Bugutte Honey (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -9901,7 +9901,7 @@
       "version": "v125"
     },
     "Tatakae!! Rahmen Man - Sakuretsu Choujin 102 Gei (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -10071,7 +10071,7 @@
       "version": "v125"
     },
     "Tenka no Goikenban - Mito Koumon (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -10206,7 +10206,7 @@
       "version": "v125"
     },
     "Thunder & Lightning (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -10246,12 +10246,12 @@
       "version": "v125"
     },
     "Time Lord (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Time Lord (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -10756,7 +10756,7 @@
       "version": "v125"
     },
     "Videomation (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -10866,27 +10866,27 @@
       "version": "v125"
     },
     "Wheel of Fortune (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Wheel of Fortune (USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Wheel of Fortune - Family Edition (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Wheel of Fortune - Junior Edition (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Wheel of Fortune Featuring Vanna White (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -10906,7 +10906,7 @@
       "version": "v125"
     },
     "Who Framed Roger Rabbit (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -10996,27 +10996,27 @@
       "version": "v125"
     },
     "Wizards & Warriors (Europe)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Not Working",
+      "notes": "Graphicals glitches on HUD, severe slowdowns. PAL timing related?",
       "version": "v125"
     },
     "Wizards & Warriors (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Wizards & Warriors (USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Wizards & Warriors III - Kuros...Visions of Power (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "Wizards & Warriors III - Kuros...Visions of Power (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -11056,7 +11056,7 @@
       "version": "v125"
     },
     "World Games (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -11106,12 +11106,12 @@
       "version": "v125"
     },
     "WWF Wrestlemania (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
     "WWF Wrestlemania (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
@@ -11236,8 +11236,8 @@
       "version": "v125"
     },
     "Youkai Douchuuki (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Missing sounds: Namco163 sound not emulated",
       "version": "v125"
     },
     "Young Indiana Jones Chronicles, The (USA)": {
@@ -11261,7 +11261,7 @@
       "version": "v125"
     },
     "Ys III - Wanderers from Ys (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v125"
     },
