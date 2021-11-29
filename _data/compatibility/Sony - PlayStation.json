@@ -3891,9 +3891,9 @@
       "version": "v125"
     },
     "Bomberman - Party Edition (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bomberman Fantasy Race (Europe) (En,Fr,De,Es)": {
       "status": "Unknown",
@@ -6481,9 +6481,9 @@
       "version": "v125"
     },
     "Crash Bandicoot - Warped (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "input not working",
+      "version": "v126"
     },
     "Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan)": {
       "status": "Unknown",
@@ -6531,9 +6531,9 @@
       "version": "v125"
     },
     "Crash Bash (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "freezes on first \"Sony Computer Entertainment America Presents\" screen",
+      "version": "v126"
     },
     "Crazy Climber 2000 (Japan)": {
       "status": "Unknown",
@@ -6831,9 +6831,9 @@
       "version": "v125"
     },
     "CTR - Crash Team Racing (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "freezes on first \"Sony Computer Entertainment America Presents\" screen and random audio lines start playing",
+      "version": "v126"
     },
     "Cu-On-Pa (Japan)": {
       "status": "Unknown",
@@ -8231,9 +8231,9 @@
       "version": "v125"
     },
     "Destruction Derby Raw (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "shows first two intro screens with audio glitches, then restarts the game",
+      "version": "v126"
     },
     "Destructo 2 (Europe)": {
       "status": "Unknown",
@@ -8336,9 +8336,9 @@
       "version": "v125"
     },
     "Diablo (USA) (En,Fr,De,Sv)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "shows first intro screen and then only black without audio",
+      "version": "v126"
     },
     "Dice de Chocobo (Japan)": {
       "status": "Unknown",
@@ -14406,9 +14406,9 @@
       "version": "v125"
     },
     "FoxKids.com - Micro Maniacs Racing (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Working",
+      "notes": "some audio glitches during intro screens",
+      "version": "v126"
     },
     "Frank Thomas Big Hurt Baseball (Europe)": {
       "status": "Unknown",
@@ -23441,9 +23441,9 @@
       "version": "v125"
     },
     "Micro Machines V3 (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "freezes when going into a race, playing glitched audio lines",
+      "version": "v126"
     },
     "Micro Maniacs (Europe) (En,Fr,De,Es,It)": {
       "status": "Unknown",
@@ -30271,9 +30271,9 @@
       "version": "v125"
     },
     "Poy Poy (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Poy Poy 2 (Europe)": {
       "status": "Unknown",
@@ -32276,9 +32276,9 @@
       "version": "v125"
     },
     "Road Rash - Jailbreak (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "shows only black screen",
+      "version": "v126"
     },
     "Road Rash 3D (Europe)": {
       "status": "Unknown",
@@ -35836,9 +35836,9 @@
       "version": "v125"
     },
     "South Park - Chef's Luv Shack (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Working",
+      "notes": "visual glitches while loading",
+      "version": "v126"
     },
     "South Park Rally (Europe)": {
       "status": "Unknown",
@@ -36411,9 +36411,9 @@
       "version": "v125"
     },
     "Spyro the Dragon (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "inputs not working",
+      "version": "v126"
     },
     "Spyro the Dragon Speciale (France)": {
       "status": "Unknown",
@@ -39196,9 +39196,9 @@
       "version": "v125"
     },
     "Tekken 3 (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "inputs not working",
+      "version": "v126"
     },
     "Tekkyuu - True Pinball (Japan)": {
       "status": "Unknown",
@@ -40831,9 +40831,9 @@
       "version": "v125"
     },
     "Tony Hawk's Pro Skater (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Working",
+      "notes": "some audio glitches during intro screens",
+      "version": "v126"
     },
     "Tony Hawk's Pro Skater 2 (Europe, Australia)": {
       "status": "Unknown",
@@ -43796,9 +43796,9 @@
       "version": "v125"
     },
     "Worms World Party (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "freezes immediately",
+      "version": "v126"
     },
     "Worms World Party (USA) (En,Fr,De,Es,It,Nl,Sv,Da)": {
       "status": "Unknown",
@@ -43891,9 +43891,9 @@
       "version": "v125"
     },
     "Wu-Tang - Shaolin Style (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "shows black screen after going into a fight",
+      "version": "v126"
     },
     "Wu-Tang - Taste the Pain (Europe)": {
       "status": "Unknown",
