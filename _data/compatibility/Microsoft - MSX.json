@@ -1,9 +1,9 @@
 {
   "games": {
     "10-Yard Fight (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "10-Yard Fight (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -21,9 +21,9 @@
       "version": "v125"
     },
     "3-D Golf Simulation (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "3-D Golf Simulation (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -36,9 +36,9 @@
       "version": "v125"
     },
     "3D Tennis (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "A.E. (Japan)": {
       "status": "Unknown",
@@ -61,9 +61,9 @@
       "version": "v125"
     },
     "Adven' Chuta! (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "boots to corrupted text",
+      "version": "v126"
     },
     "Albatros (Japan)": {
       "status": "Not Working",
@@ -76,9 +76,9 @@
       "version": "v125"
     },
     "Alcazar - The Forgotten Fortress (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Requires keyboard",
+      "version": "v126"
     },
     "Alcazar - The Forgotten Fortress (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -86,9 +86,9 @@
       "version": "v125"
     },
     "Alibaba and 40 Thieves (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Alibaba and 40 Thieves (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -112,7 +112,7 @@
     },
     "Aliens - Alien 2 (Japan)": {
       "status": "Unknown",
-      "notes": "",
+      "notes": "Reports 'No cartridge found'",
       "version": "v125"
     },
     "Aliens - Alien 2 (Japan) (Alt 1)": {
@@ -491,9 +491,9 @@
       "version": "v125"
     },
     "Bomberman (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bomberman Special (Japan)": {
       "status": "Unknown",
@@ -1441,9 +1441,9 @@
       "version": "v125"
     },
     "Fantasy Zone (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Farm Kit (Europe) (Program)": {
       "status": "Unknown",
@@ -2201,9 +2201,9 @@
       "version": "v127"
     },
     "Jet Set Willy (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Jet Set Willy (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -2306,9 +2306,9 @@
       "version": "v127"
     },
     "Keystone Kapers (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Keystone Kapers (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -2931,9 +2931,9 @@
       "version": "v125"
     },
     "Moon Patrol (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Moonsweeper (Japan)": {
       "status": "Unknown",
@@ -3236,9 +3236,9 @@
       "version": "v125"
     },
     "Pac-Man (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pac-Man (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -3406,9 +3406,9 @@
       "version": "v125"
     },
     "Pitfall II - Lost Caverns (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pitfall II - Lost Caverns (Japan) (Alt 1)": {
       "status": "Unknown",
@@ -3416,9 +3416,9 @@
       "version": "v125"
     },
     "Pitfall! (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Pitfall! (Japan) (Alt 1)": {
       "status": "Unknown",
