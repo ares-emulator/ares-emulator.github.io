@@ -18,6 +18,14 @@ $ignoredStrings = [
         'Mini)',                                                        // Mini consoles
         'Sega Ages)', 'Sega Channel)', 'SegaNet)',                      // SEGA Compilations
     ],
+    'Bandai - Wonderswan' => [
+        'BANDAI Default Splash Screen (Japan) (Program)',               // Firmware
+        'WonderWitch (Japan)',                                          // Development Software
+    ],
+    'Bandai - Wonderswan Color' => [
+        'mama Mitte (Japan)',                                           // Requires special hardware (baby weighing scales, etc
+        'NAVI GET 400',                                                 // Non-game Lottery Device
+    ],
     'Nintendo - Super Nintendo Entertainment System' => [
         '(Wii)',                                                        // Wii re-releases
     ],
@@ -37,6 +45,12 @@ $ignoredStrings = [
     ],
     'Nintendo - Nintendo 64' => [
         '(iQue)',                                                       // iQue Player is not 100% n64 compatible
+    ],
+    'Nintendo - Game Boy' => [
+      ' ROM Pack ',                                                     // Prototype software for Minolta camera
+    ],
+    'Nintendo - Nintendo Entertainment System' => [
+        'Wide Boy (World)', 'Demo Vision (USA) (Program)',              // Wide-Boy device type firmware
     ]
 ];
 

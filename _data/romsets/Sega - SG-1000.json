@@ -28,18 +28,6 @@
             "description": "Bank Panic (Taiwan)"
         },
         {
-            "name": "BASIC Level II (Japan) (SC-3000) (Program)",
-            "description": "BASIC Level II (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "BASIC Level III (Europe, Australia) (SC-3000) (Program)",
-            "description": "BASIC Level III (Europe, Australia) (SC-3000) (Program)"
-        },
-        {
-            "name": "BASIC Level III (Japan) (SC-3000) (Program)",
-            "description": "BASIC Level III (Japan) (SC-3000) (Program)"
-        },
-        {
             "name": "Black Onyx, The (Japan)",
             "description": "Black Onyx, The (Japan)"
         },
@@ -192,42 +180,6 @@
             "description": "Choplifter (Taiwan) (No Logo)"
         },
         {
-            "name": "Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (Alt 1) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (Alt 1) (SC-3000) (Program)"
-        },
-        {
-            "name": "Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)",
-            "description": "Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program)"
-        },
-        {
             "name": "Circus Charlie (Taiwan)",
             "description": "Circus Charlie (Taiwan)"
         },
@@ -368,10 +320,6 @@
             "description": "Hang-On II (Taiwan) (English Logo)"
         },
         {
-            "name": "Home BASIC (Japan) (SC-3000) (Program)",
-            "description": "Home BASIC (Japan) (SC-3000) (Program)"
-        },
-        {
             "name": "Home Mahjong (Japan)",
             "description": "Home Mahjong (Japan)"
         },
@@ -402,10 +350,6 @@
         {
             "name": "Hyper Sports 2 (Taiwan)",
             "description": "Hyper Sports 2 (Taiwan)"
-        },
-        {
-            "name": "Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program)",
-            "description": "Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program)"
         },
         {
             "name": "King's Valley (Taiwan)",
@@ -464,14 +408,6 @@
             "description": "Monaco GP (Taiwan) (Rev 1)"
         },
         {
-            "name": "Music (Europe, Australia, New Zealand) (SC-3000) (Program)",
-            "description": "Music (Europe, Australia, New Zealand) (SC-3000) (Program)"
-        },
-        {
-            "name": "Music (Japan) (SC-3000) (Program)",
-            "description": "Music (Japan) (SC-3000) (Program)"
-        },
-        {
             "name": "N-Sub (Japan) (Alt 1)",
             "description": "N-Sub (Japan) (Alt 1)"
         },
@@ -482,10 +418,6 @@
         {
             "name": "N-Sub (Taiwan)",
             "description": "N-Sub (Taiwan)"
-        },
-        {
-            "name": "Nihonshi Nenpyou (Japan) (SC-3000) (Program)",
-            "description": "Nihonshi Nenpyou (Japan) (SC-3000) (Program)"
         },
         {
             "name": "Ninja Princess (Japan, Australia)",
@@ -660,10 +592,6 @@
             "description": "Sega-Galaga (Taiwan)"
         },
         {
-            "name": "Sekaishi Nenpyou (Japan) (SC-3000) (Program)",
-            "description": "Sekaishi Nenpyou (Japan) (SC-3000) (Program)"
-        },
-        {
             "name": "Serizawa Hachidan no Tsumeshougi (Japan)",
             "description": "Serizawa Hachidan no Tsumeshougi (Japan)"
         },
@@ -768,44 +696,12 @@
             "description": "Tank Battalion (Taiwan)"
         },
         {
-            "name": "Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)",
-            "description": "Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program)",
-            "description": "Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (Alt 1) (SC-3000) (Program)"
-        },
-        {
-            "name": "Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)",
-            "description": "Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)",
-            "description": "Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program)",
-            "description": "Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program)",
-            "description": "Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program)"
-        },
-        {
-            "name": "Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program)",
-            "description": "Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program)"
-        },
-        {
             "name": "Terebi Oekaki (Japan, Taiwan) (Program)",
             "description": "Terebi Oekaki (Japan, Taiwan) (Program)"
         },
         {
             "name": "TwinBee (Taiwan)",
             "description": "TwinBee (Taiwan)"
-        },
-        {
-            "name": "Uranai Angel Cutie (Japan) (SC-3000) (Program)",
-            "description": "Uranai Angel Cutie (Japan) (SC-3000) (Program)"
         },
         {
             "name": "Wonder Boy (Japan)",
