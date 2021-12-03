@@ -18,11 +18,11 @@ $ignoredStrings = [
         'Mini)',                                                        // Mini consoles
         'Sega Ages)', 'Sega Channel)', 'SegaNet)',                      // SEGA Compilations
     ],
-    'Bandai - Wonderswan' => [
+    'Bandai - WonderSwan' => [
         'BANDAI Default Splash Screen (Japan) (Program)',               // Firmware
         'WonderWitch (Japan)',                                          // Development Software
     ],
-    'Bandai - Wonderswan Color' => [
+    'Bandai - WonderSwan Color' => [
         'mama Mitte (Japan)',                                           // Requires special hardware (baby weighing scales, etc
         'NAVI GET 400',                                                 // Non-game Lottery Device
     ],

@@ -2120,6 +2120,11 @@
       "notes": "",
       "version": "v124"
     },
+    "Flux (Europe) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Foreman for Real (World)": {
       "status": "Working",
       "notes": "",
@@ -2224,6 +2229,21 @@
       "status": "Unknown",
       "notes": "",
       "version": "v124"
+    },
+    "Game Genie (USA, Europe) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Game Genie (USA, Europe) (Rev A) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Game Toshokan (Japan) (Rev A) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Garfield - Caught in the Act (USA, Europe)": {
       "status": "Unknown",
@@ -3475,6 +3495,11 @@
       "notes": "",
       "version": "v124"
     },
+    "Mega Anser (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Mega Bomberman (Europe, Korea)": {
       "status": "Unknown",
       "notes": "",
@@ -3544,6 +3569,11 @@
       "status": "Unknown",
       "notes": "",
       "version": "v124"
+    },
+    "MegaNet (Brazil) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "MegaPanel (Japan)": {
       "status": "Unknown",
@@ -5140,6 +5170,41 @@
       "notes": "",
       "version": "v124"
     },
+    "Sega Art Tool (Japan) (En) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Sega Channel (Japan) (v2.11) (Earlier) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Sega Channel (Japan) (v2.11) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Sega Channel (USA) (General Instrument) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Sega Channel (USA) (Scientific Atlanta) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Sega Channel Demo (USA) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Sega Sound Tool (USA) (v2.2) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Sega Sports 1 (Europe)": {
       "status": "Unknown",
       "notes": "",
@@ -6270,6 +6335,11 @@
       "notes": "",
       "version": "v124"
     },
+    "Telebradesco Residencia (Brazil) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Terminator, The (Europe)": {
       "status": "Unknown",
       "notes": "",
@@ -6944,6 +7014,11 @@
       "status": "Not Working",
       "notes": "Hangs after title screen. (Uses EEPROM)",
       "version": "v124"
+    },
+    "Wonder Library (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "World Championship Soccer II (Europe)": {
       "status": "Unknown",

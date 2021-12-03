@@ -220,11 +220,6 @@
       "notes": "",
       "version": "v124"
     },
-    "Complete Arcade Pack Collection, The (New Zealand) (SF-7000)": {
-      "status": "Not Working",
-      "notes": "SF-7000 is not supported",
-      "version": "v124"
-    },
     "Congo Bongo (Japan)": {
       "status": "Working",
       "notes": "",
@@ -435,11 +430,6 @@
       "notes": "",
       "version": "v124"
     },
-    "Kamikaze (France) (SF-7000)": {
-      "status": "Not Working",
-      "notes": "SF-7000 is not supported",
-      "version": "v124"
-    },
     "King's Valley (Taiwan)": {
       "status": "Working",
       "notes": "",
@@ -633,11 +623,6 @@
     "Pop Flamer (Taiwan)": {
       "status": "Working",
       "notes": "",
-      "version": "v124"
-    },
-    "Poseidon Wars + Space Panic + Rambo (France) (SF-7000)": {
-      "status": "Not Working",
-      "notes": "SF-7000 is not supported",
       "version": "v124"
     },
     "Q-bert (Japan) (Othello Multivision)": {
@@ -874,6 +859,11 @@
       "status": "Working",
       "notes": "",
       "version": "v124"
+    },
+    "Terebi Oekaki (Japan, Taiwan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "TwinBee (Taiwan)": {
       "status": "Working",

@@ -327,7 +327,7 @@
     },
     "Biohazard 2 (Japan)": {
       "status": "Partially Working",
-      "notes": "Audio crackling. Hangs if you choose \"Load game\" in main menu.",
+      "notes": "Audio crackling. Hangs if you choose ",
       "version": "v126"
     },
     "Blast Corps (Europe) (En,De)": {
@@ -669,6 +669,11 @@
       "status": "Working",
       "notes": "",
       "version": "v124"
+    },
+    "Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Cruis'n Exotica (USA)": {
       "status": "Working",

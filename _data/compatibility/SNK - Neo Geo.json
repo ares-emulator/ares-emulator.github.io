@@ -415,11 +415,6 @@
       "notes": "Doesn't boot properly - blue screen",
       "version": "v125"
     },
-    "Kof'98 Mix (2011-10-01)": {
-      "status": "Unknown",
-      "notes": "Is this a hack?",
-      "version": "v125"
-    },
     "The King of Fighters '99 - Millennium Battle (NGM-2510)": {
       "status": "Not Working",
       "notes": "Doesn't boot properly - blue screen",
@@ -1053,11 +1048,6 @@
     "Top Hunter - Roddy & Cathy (NGH-046)": {
       "status": "Partially Working",
       "notes": "No sound; AES Only; Major Graphics Issues",
-      "version": "v125"
-    },
-    "Treasure of the Caribbean": {
-      "status": "Unknown",
-      "notes": "Unreleased Neo Geo CD game - shouldn't be in list - REMOVE ME",
       "version": "v125"
     },
     "Top Player's Golf (NGM-003)(NGH-003)": {

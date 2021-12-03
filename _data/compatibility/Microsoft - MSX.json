@@ -257,7 +257,7 @@
     },
     "B.C.'s Quest (Japan)": {
       "status": "Not Working",
-      "notes": "\"No cartridge found\" error message",
+      "notes": "",
       "version": "v125"
     },
     "B.C.'s Quest (Japan) (Alt 1)": {
@@ -342,7 +342,7 @@
     },
     "Batman (Japan)": {
       "status": "Not Working",
-      "notes": "\"No cartridge found\" error message",
+      "notes": "",
       "version": "v125"
     },
     "Batten Tanuki no Daibouken (Japan) (Alt 1)": {
@@ -795,6 +795,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Cheese (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Chess (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -1135,6 +1140,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Designer's Pencil, The (Europe) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Devil's Heaven (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -1237,7 +1247,7 @@
     },
     "Drainer (Japan)": {
       "status": "Not Working",
-      "notes": "\"No cartridge found\" error message",
+      "notes": "",
       "version": "v125"
     },
     "Druaga no Tou (Japan)": {
@@ -1265,6 +1275,11 @@
       "notes": "",
       "version": "v125"
     },
+    "DX7 Voicing Program (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Dynamite Bowl (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -1280,10 +1295,25 @@
       "notes": "",
       "version": "v125"
     },
+    "Eddy 2 (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Eddy 2 (Japan) (Program) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Eggerland Mystery (Japan)": {
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Eiwa Jiten - English Japanese (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Elevator Action (Japan)": {
       "status": "Unknown",
@@ -1390,6 +1420,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Family Automation Language Community (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Fandom Library #1 (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -1410,10 +1445,20 @@
       "notes": "",
       "version": "v125"
     },
+    "Farm Kit (Europe) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Fathom (Japan)": {
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "FB-01 Voicing Program (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Final Justice (Japan)": {
       "status": "Unknown",
@@ -1504,6 +1549,31 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "FM Music Composer (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "FM Music Composer II (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "FM Music Macro (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "FM Pana Amusement Cartridge (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "FM Voicing Program (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Formation Z (Japan)": {
       "status": "Unknown",
@@ -1940,6 +2010,16 @@
       "notes": "",
       "version": "v125"
     },
+    "Home Calc (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Home Writer (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Honkball (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -2115,6 +2195,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Japanese MSX-Write (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Jet Set Willy (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -2134,6 +2219,16 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Jisyo Data (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Joytelop (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Jump (Japan)": {
       "status": "Unknown",
@@ -2190,6 +2285,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Kakikukekon (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Karamaru (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -2199,6 +2299,11 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Keiba, The (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Keystone Kapers (Japan)": {
       "status": "Unknown",
@@ -2425,6 +2530,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Konami's Synthesizer (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Konami's Tennis (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -2509,6 +2619,21 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Links, The (Japan) (NGA II) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Links, The (Japan) (NGA II) (Program) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Links, The (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Lode Runner (Japan)": {
       "status": "Unknown",
@@ -2684,6 +2809,11 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "MIDI Macro (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Midnight Brothers (Japan)": {
       "status": "Unknown",
@@ -2870,6 +3000,16 @@
       "notes": "",
       "version": "v125"
     },
+    "MSX Audio (Japan) (FS-CA1) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "MSX Audio (Japan) (HX-MU900) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "MSX Baseball (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -2884,6 +3024,21 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "MSX Basic-kun (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "MSX Basic-kun Plus (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "MSX Bunsetsu Henkan Jisyo (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "MSX Derby (Japan)": {
       "status": "Unknown",
@@ -2905,10 +3060,40 @@
       "notes": "",
       "version": "v125"
     },
+    "MSX-Aid (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "MSX-Logo (Netherlands) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Mugen Senshi Valis - The Fantasm Soldier (Japan)": {
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Music Editor (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Music Harmonizer 3 (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Music Studio G7 (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Musiwriter (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Nausicaa (Japan)": {
       "status": "Unknown",
@@ -2955,10 +3140,20 @@
       "notes": "",
       "version": "v125"
     },
+    "New Horizon - English Course 1 (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Night Shade (Japan)": {
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Nihon-Shi Nenpyou (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Ninja Jajamaru-kun (Japan)": {
       "status": "Unknown",
@@ -3089,6 +3284,11 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Pasokon Sakkyokuka (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Pass Ball (Japan)": {
       "status": "Unknown",
@@ -3279,6 +3479,11 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Psychedelia (Europe) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Psychic War - Cosmic Soldier 2 (Japan)": {
       "status": "Unknown",
@@ -3580,6 +3785,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Simple ASM 1.0 (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Sinbad (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -3699,6 +3909,11 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Spread Sheet (Europe) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Spy vs Spy II - The Island Caper (Europe)": {
       "status": "Unknown",
@@ -3845,6 +4060,16 @@
       "notes": "",
       "version": "v125"
     },
+    "Super Monitor (Japan) (v1.1) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Super Monitor (Japan) (v1.2) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Super Pachinko (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -3874,6 +4099,16 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Super Synth (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
+    "Super Synth (Japan) (Program) (Alt 1)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Super Tennis (Japan)": {
       "status": "Unknown",
@@ -4225,6 +4460,11 @@
       "notes": "",
       "version": "v125"
     },
+    "Yamaha Play Card System (Japan) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
+    },
     "Yellow Submarine (Japan)": {
       "status": "Unknown",
       "notes": "",
@@ -4304,6 +4544,11 @@
       "status": "Unknown",
       "notes": "",
       "version": "v125"
+    },
+    "Zen (Europe) (Program)": {
+      "status": "Unknown",
+      "notes": "",
+      "version": "v127"
     },
     "Zenji (Japan)": {
       "status": "Unknown",
