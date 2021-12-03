@@ -19,24 +19,24 @@ $ignoredStrings = [
         'Sega Ages)', 'Sega Channel)', 'SegaNet)',                      // SEGA Compilations
     ],
     'Nintendo - Super Nintendo Entertainment System' => [
-      '(Wii)',                                                          // Wii re-releases
+        '(Wii)',                                                        // Wii re-releases
     ],
     'Sega - Mega Drive - Genesis' => [
-      '(PC Rerelease)',                                                 // PC Versions
+        '(PC Rerelease)',                                               // PC Versions
     ],
     'Sega - SG-1000' => [
-      'SC-3000',                                                        // SC-3000 software
-      'SF-7000',                                                        // SC-3000 add-on
+        'SC-3000',                                                      // SC-3000 software
+        'SF-7000',                                                      // SC-3000 add-on
     ],
     'SNK - Neo Geo' => [
-      '[Homebrew', '[Bootleg', 'bootleg)', '(bootleg',                  // Unofficial Software
-      'Hack)', 'hack)', '[hack', 'Hack]', 'EEZEZY)',                    // Hacks
-      'conversion)',                                                    // CD Conversion hacks
-      'Treasure of the Caribbean',                                      // Unreleased NeoCD game
-      'Kof\'98 Mix (2011-10-01)',                                       // Unmarked hack
+        '[Homebrew', '[Bootleg', 'bootleg)', '(bootleg',                // Unofficial Software
+        'Hack)', 'hack)', '[hack', 'Hack]', 'EEZEZY)',                  // Hacks
+        'conversion)',                                                  // CD Conversion hacks
+        'Treasure of the Caribbean',                                    // Unreleased NeoCD game
+        'Kof\'98 Mix (2011-10-01)',                                     // Unmarked hack
     ],
     'Nintendo - Nintendo 64' => [
-      '(iQue)',                                                         // iQue Player is not 100% n64 compatible
+        '(iQue)',                                                       // iQue Player is not 100% n64 compatible
     ]
 ];
 
