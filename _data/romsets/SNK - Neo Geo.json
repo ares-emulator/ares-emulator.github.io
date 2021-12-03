@@ -340,10 +340,6 @@
             "description": "The King of Fighters '98 - The Slugfest \/ King of Fighters '98 - dream match never ends (Korean board, set 2)"
         },
         {
-            "name": "kof98mix",
-            "description": "Kof'98 Mix (2011-10-01)"
-        },
-        {
             "name": "kof99",
             "description": "The King of Fighters '99 - Millennium Battle (NGM-2510)"
         },
@@ -850,10 +846,6 @@
         {
             "name": "tophuntrh",
             "description": "Top Hunter - Roddy & Cathy (NGH-046)"
-        },
-        {
-            "name": "totc",
-            "description": "Treasure of the Caribbean"
         },
         {
             "name": "tpgolf",

@@ -644,6 +644,10 @@
             "description": "Checkers in Tantan Tanuki (Japan)"
         },
         {
+            "name": "Cheese (Japan) (Program)",
+            "description": "Cheese (Japan) (Program)"
+        },
+        {
             "name": "Chess (Japan)",
             "description": "Chess (Japan)"
         },
@@ -916,6 +920,10 @@
             "description": "Demonia I (Europe)"
         },
         {
+            "name": "Designer's Pencil, The (Europe) (Program)",
+            "description": "Designer's Pencil, The (Europe) (Program)"
+        },
+        {
             "name": "Devil's Heaven (Japan)",
             "description": "Devil's Heaven (Japan)"
         },
@@ -1020,6 +1028,10 @@
             "description": "Dunk Shot (Japan) (Alt 1)"
         },
         {
+            "name": "DX7 Voicing Program (Japan) (Program)",
+            "description": "DX7 Voicing Program (Japan) (Program)"
+        },
+        {
             "name": "Dynamite Bowl (Japan)",
             "description": "Dynamite Bowl (Japan)"
         },
@@ -1032,8 +1044,20 @@
             "description": "Eagle Fighter (Japan) (Alt 1)"
         },
         {
+            "name": "Eddy 2 (Japan) (Program)",
+            "description": "Eddy 2 (Japan) (Program)"
+        },
+        {
+            "name": "Eddy 2 (Japan) (Program) (Alt 1)",
+            "description": "Eddy 2 (Japan) (Program) (Alt 1)"
+        },
+        {
             "name": "Eggerland Mystery (Japan)",
             "description": "Eggerland Mystery (Japan)"
+        },
+        {
+            "name": "Eiwa Jiten - English Japanese (Japan) (Program)",
+            "description": "Eiwa Jiten - English Japanese (Japan) (Program)"
         },
         {
             "name": "Elevator Action (Japan)",
@@ -1120,6 +1144,10 @@
             "description": "Fairy Land Story, The (Japan) (Alt 1)"
         },
         {
+            "name": "Family Automation Language Community (Japan) (Program)",
+            "description": "Family Automation Language Community (Japan) (Program)"
+        },
+        {
             "name": "Fandom Library #1 (Japan)",
             "description": "Fandom Library #1 (Japan)"
         },
@@ -1136,8 +1164,16 @@
             "description": "Fantasy Zone (Japan)"
         },
         {
+            "name": "Farm Kit (Europe) (Program)",
+            "description": "Farm Kit (Europe) (Program)"
+        },
+        {
             "name": "Fathom (Japan)",
             "description": "Fathom (Japan)"
+        },
+        {
+            "name": "FB-01 Voicing Program (Japan) (Program)",
+            "description": "FB-01 Voicing Program (Japan) (Program)"
         },
         {
             "name": "Final Justice (Japan)",
@@ -1210,6 +1246,26 @@
         {
             "name": "Flipper Slipper (Japan) (Alt 1)",
             "description": "Flipper Slipper (Japan) (Alt 1)"
+        },
+        {
+            "name": "FM Music Composer (Japan) (Program)",
+            "description": "FM Music Composer (Japan) (Program)"
+        },
+        {
+            "name": "FM Music Composer II (Japan) (Program)",
+            "description": "FM Music Composer II (Japan) (Program)"
+        },
+        {
+            "name": "FM Music Macro (Japan) (Program)",
+            "description": "FM Music Macro (Japan) (Program)"
+        },
+        {
+            "name": "FM Pana Amusement Cartridge (Japan) (Program)",
+            "description": "FM Pana Amusement Cartridge (Japan) (Program)"
+        },
+        {
+            "name": "FM Voicing Program (Japan) (Program)",
+            "description": "FM Voicing Program (Japan) (Program)"
         },
         {
             "name": "Formation Z (Japan)",
@@ -1560,6 +1616,14 @@
             "description": "Hole in One Professional (Japan) (Alt 1)"
         },
         {
+            "name": "Home Calc (Japan) (Program)",
+            "description": "Home Calc (Japan) (Program)"
+        },
+        {
+            "name": "Home Writer (Japan) (Program)",
+            "description": "Home Writer (Japan) (Program)"
+        },
+        {
             "name": "Honkball (Japan)",
             "description": "Honkball (Japan)"
         },
@@ -1700,6 +1764,10 @@
             "description": "Janka (Japan)"
         },
         {
+            "name": "Japanese MSX-Write (Japan) (Program)",
+            "description": "Japanese MSX-Write (Japan) (Program)"
+        },
+        {
             "name": "Jet Set Willy (Japan)",
             "description": "Jet Set Willy (Japan)"
         },
@@ -1714,6 +1782,14 @@
         {
             "name": "Jissen - 4-nin Mahjong (Japan)",
             "description": "Jissen - 4-nin Mahjong (Japan)"
+        },
+        {
+            "name": "Jisyo Data (Japan) (Program)",
+            "description": "Jisyo Data (Japan) (Program)"
+        },
+        {
+            "name": "Joytelop (Japan) (Program)",
+            "description": "Joytelop (Japan) (Program)"
         },
         {
             "name": "Jump (Japan)",
@@ -1760,12 +1836,20 @@
             "description": "Kage no Densetsu - Legend of Kage, The (Japan) (Alt 1)"
         },
         {
+            "name": "Kakikukekon (Japan) (Program)",
+            "description": "Kakikukekon (Japan) (Program)"
+        },
+        {
             "name": "Karamaru (Japan)",
             "description": "Karamaru (Japan)"
         },
         {
             "name": "Karuizawa (Japan)",
             "description": "Karuizawa (Japan)"
+        },
+        {
+            "name": "Keiba, The (Japan) (Program)",
+            "description": "Keiba, The (Japan) (Program)"
         },
         {
             "name": "Keystone Kapers (Japan)",
@@ -1948,6 +2032,10 @@
             "description": "Konami's Soccer (Japan) (Alt 3)"
         },
         {
+            "name": "Konami's Synthesizer (Japan) (Program)",
+            "description": "Konami's Synthesizer (Japan) (Program)"
+        },
+        {
             "name": "Konami's Tennis (Japan)",
             "description": "Konami's Tennis (Japan)"
         },
@@ -2014,6 +2102,18 @@
         {
             "name": "Light Corridor, The (Europe)",
             "description": "Light Corridor, The (Europe)"
+        },
+        {
+            "name": "Links, The (Japan) (NGA II) (Program)",
+            "description": "Links, The (Japan) (NGA II) (Program)"
+        },
+        {
+            "name": "Links, The (Japan) (NGA II) (Program) (Alt 1)",
+            "description": "Links, The (Japan) (NGA II) (Program) (Alt 1)"
+        },
+        {
+            "name": "Links, The (Japan) (Program)",
+            "description": "Links, The (Japan) (Program)"
         },
         {
             "name": "Lode Runner (Japan)",
@@ -2154,6 +2254,10 @@
         {
             "name": "Meikyuu Shinwa (Japan) (Alt 1)",
             "description": "Meikyuu Shinwa (Japan) (Alt 1)"
+        },
+        {
+            "name": "MIDI Macro (Japan) (Program)",
+            "description": "MIDI Macro (Japan) (Program)"
         },
         {
             "name": "Midnight Brothers (Japan)",
@@ -2304,6 +2408,14 @@
             "description": "MSX 21 (Japan)"
         },
         {
+            "name": "MSX Audio (Japan) (FS-CA1) (Program)",
+            "description": "MSX Audio (Japan) (FS-CA1) (Program)"
+        },
+        {
+            "name": "MSX Audio (Japan) (HX-MU900) (Program)",
+            "description": "MSX Audio (Japan) (HX-MU900) (Program)"
+        },
+        {
             "name": "MSX Baseball (Japan)",
             "description": "MSX Baseball (Japan)"
         },
@@ -2314,6 +2426,18 @@
         {
             "name": "MSX Baseball II National (Japan)",
             "description": "MSX Baseball II National (Japan)"
+        },
+        {
+            "name": "MSX Basic-kun (Japan) (Program)",
+            "description": "MSX Basic-kun (Japan) (Program)"
+        },
+        {
+            "name": "MSX Basic-kun Plus (Japan) (Program)",
+            "description": "MSX Basic-kun Plus (Japan) (Program)"
+        },
+        {
+            "name": "MSX Bunsetsu Henkan Jisyo (Japan) (Program)",
+            "description": "MSX Bunsetsu Henkan Jisyo (Japan) (Program)"
         },
         {
             "name": "MSX Derby (Japan)",
@@ -2332,8 +2456,32 @@
             "description": "MSX Soccer (Japan) (Alt 1)"
         },
         {
+            "name": "MSX-Aid (Japan) (Program)",
+            "description": "MSX-Aid (Japan) (Program)"
+        },
+        {
+            "name": "MSX-Logo (Netherlands) (Program)",
+            "description": "MSX-Logo (Netherlands) (Program)"
+        },
+        {
             "name": "Mugen Senshi Valis - The Fantasm Soldier (Japan)",
             "description": "Mugen Senshi Valis - The Fantasm Soldier (Japan)"
+        },
+        {
+            "name": "Music Editor (Japan) (Program)",
+            "description": "Music Editor (Japan) (Program)"
+        },
+        {
+            "name": "Music Harmonizer 3 (Japan) (Program)",
+            "description": "Music Harmonizer 3 (Japan) (Program)"
+        },
+        {
+            "name": "Music Studio G7 (Japan) (Program)",
+            "description": "Music Studio G7 (Japan) (Program)"
+        },
+        {
+            "name": "Musiwriter (Japan) (Program)",
+            "description": "Musiwriter (Japan) (Program)"
         },
         {
             "name": "Nausicaa (Japan)",
@@ -2372,8 +2520,16 @@
             "description": "Nessen Koushiyen (Japan)"
         },
         {
+            "name": "New Horizon - English Course 1 (Japan) (Program)",
+            "description": "New Horizon - English Course 1 (Japan) (Program)"
+        },
+        {
             "name": "Night Shade (Japan)",
             "description": "Night Shade (Japan)"
+        },
+        {
+            "name": "Nihon-Shi Nenpyou (Japan) (Program)",
+            "description": "Nihon-Shi Nenpyou (Japan) (Program)"
         },
         {
             "name": "Ninja Jajamaru-kun (Japan)",
@@ -2478,6 +2634,10 @@
         {
             "name": "Parodius (Japan) (Alt 1)",
             "description": "Parodius (Japan) (Alt 1)"
+        },
+        {
+            "name": "Pasokon Sakkyokuka (Japan) (Program)",
+            "description": "Pasokon Sakkyokuka (Japan) (Program)"
         },
         {
             "name": "Pass Ball (Japan)",
@@ -2630,6 +2790,10 @@
         {
             "name": "Protector, The (Japan)",
             "description": "Protector, The (Japan)"
+        },
+        {
+            "name": "Psychedelia (Europe) (Program)",
+            "description": "Psychedelia (Europe) (Program)"
         },
         {
             "name": "Psychic War - Cosmic Soldier 2 (Japan)",
@@ -2872,6 +3036,10 @@
             "description": "Shout Match (Japan)"
         },
         {
+            "name": "Simple ASM 1.0 (Japan) (Program)",
+            "description": "Simple ASM 1.0 (Japan) (Program)"
+        },
+        {
             "name": "Sinbad (Japan)",
             "description": "Sinbad (Japan)"
         },
@@ -2966,6 +3134,10 @@
         {
             "name": "Spider, The (Japan)",
             "description": "Spider, The (Japan)"
+        },
+        {
+            "name": "Spread Sheet (Europe) (Program)",
+            "description": "Spread Sheet (Europe) (Program)"
         },
         {
             "name": "Spy vs Spy II - The Island Caper (Europe)",
@@ -3084,6 +3256,14 @@
             "description": "Super Laydock - Mission Striker (Japan)"
         },
         {
+            "name": "Super Monitor (Japan) (v1.1) (Program)",
+            "description": "Super Monitor (Japan) (v1.1) (Program)"
+        },
+        {
+            "name": "Super Monitor (Japan) (v1.2) (Program)",
+            "description": "Super Monitor (Japan) (v1.2) (Program)"
+        },
+        {
             "name": "Super Pachinko (Japan)",
             "description": "Super Pachinko (Japan)"
         },
@@ -3106,6 +3286,14 @@
         {
             "name": "Super Soccer (Japan)",
             "description": "Super Soccer (Japan)"
+        },
+        {
+            "name": "Super Synth (Japan) (Program)",
+            "description": "Super Synth (Japan) (Program)"
+        },
+        {
+            "name": "Super Synth (Japan) (Program) (Alt 1)",
+            "description": "Super Synth (Japan) (Program) (Alt 1)"
         },
         {
             "name": "Super Tennis (Japan)",
@@ -3388,6 +3576,10 @@
             "description": "Yab Yum (Netherlands)"
         },
         {
+            "name": "Yamaha Play Card System (Japan) (Program)",
+            "description": "Yamaha Play Card System (Japan) (Program)"
+        },
+        {
             "name": "Yellow Submarine (Japan)",
             "description": "Yellow Submarine (Japan)"
         },
@@ -3450,6 +3642,10 @@
         {
             "name": "Zaxxon (Japan) (Alt 1)",
             "description": "Zaxxon (Japan) (Alt 1)"
+        },
+        {
+            "name": "Zen (Europe) (Program)",
+            "description": "Zen (Europe) (Program)"
         },
         {
             "name": "Zenji (Japan)",

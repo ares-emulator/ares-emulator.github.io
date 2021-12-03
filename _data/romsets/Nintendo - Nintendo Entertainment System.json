@@ -1768,6 +1768,10 @@
             "description": "Deja Vu - A Nightmare Comes True!! (Japan)"
         },
         {
+            "name": "Demo Vision (USA) (Program)",
+            "description": "Demo Vision (USA) (Program)"
+        },
+        {
             "name": "Demon Sword (USA)",
             "description": "Demon Sword (USA)"
         },
@@ -3602,6 +3606,10 @@
         {
             "name": "Hunt for Red October, The (USA) (Rev 1)",
             "description": "Hunt for Red October, The (USA) (Rev 1)"
+        },
+        {
+            "name": "HVC Kensa Cassette Controller Test (Japan) (Test Program)",
+            "description": "HVC Kensa Cassette Controller Test (Japan) (Test Program)"
         },
         {
             "name": "Hyakkiyagyou (Japan)",
@@ -5692,12 +5700,36 @@
             "description": "Ninjara Hoi! (Japan)"
         },
         {
+            "name": "Nintendo - NTF2 System Cartridge (USA) (Test Program)",
+            "description": "Nintendo - NTF2 System Cartridge (USA) (Test Program)"
+        },
+        {
+            "name": "Nintendo - NTF2 Test Cartridge (USA) (Test Program)",
+            "description": "Nintendo - NTF2 Test Cartridge (USA) (Test Program)"
+        },
+        {
             "name": "Nintendo Campus Challenge 1991 (USA) (Competition Cart)",
             "description": "Nintendo Campus Challenge 1991 (USA) (Competition Cart)"
         },
         {
             "name": "Nintendo World Championships 1990 (USA) (Competition Cart)",
             "description": "Nintendo World Championships 1990 (USA) (Competition Cart)"
+        },
+        {
+            "name": "Nintendo World Class Service - Control Deck Test Cartridge (USA) (Test Program)",
+            "description": "Nintendo World Class Service - Control Deck Test Cartridge (USA) (Test Program)"
+        },
+        {
+            "name": "Nintendo World Class Service - Joystick Test Cartridge (USA) (Test Program)",
+            "description": "Nintendo World Class Service - Joystick Test Cartridge (USA) (Test Program)"
+        },
+        {
+            "name": "Nintendo World Class Service - Port Test Cartridge (USA) (Test Program)",
+            "description": "Nintendo World Class Service - Port Test Cartridge (USA) (Test Program)"
+        },
+        {
+            "name": "Nintendo World Class Service - Power Pad Test Cartridge (USA) (Test Program)",
+            "description": "Nintendo World Class Service - Power Pad Test Cartridge (USA) (Test Program)"
         },
         {
             "name": "Nintendo World Cup (Europe)",
@@ -8484,6 +8516,10 @@
             "description": "TwinBee 3 - Poko Poko Daimaou (Japan)"
         },
         {
+            "name": "U-Force Test (USA) (Test Program)",
+            "description": "U-Force Test (USA) (Test Program)"
+        },
+        {
             "name": "U.S. Championship V'Ball (Japan)",
             "description": "U.S. Championship V'Ball (Japan)"
         },
@@ -8738,6 +8774,10 @@
         {
             "name": "Whomp 'Em (USA)",
             "description": "Whomp 'Em (USA)"
+        },
+        {
+            "name": "Wide Boy (World) (Rev 1) (Program)",
+            "description": "Wide Boy (World) (Rev 1) (Program)"
         },
         {
             "name": "Widget (USA)",

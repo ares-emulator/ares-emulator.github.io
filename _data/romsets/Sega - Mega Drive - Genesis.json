@@ -1704,6 +1704,10 @@
             "description": "Flintstones, The (USA) (Taito)"
         },
         {
+            "name": "Flux (Europe) (Program)",
+            "description": "Flux (Europe) (Program)"
+        },
+        {
             "name": "Foreman for Real (World)",
             "description": "Foreman for Real (World)"
         },
@@ -1786,6 +1790,18 @@
         {
             "name": "Gambler Jiko Chuushinha - Katayama Masayuki no Mahjong Doujou (Japan)",
             "description": "Gambler Jiko Chuushinha - Katayama Masayuki no Mahjong Doujou (Japan)"
+        },
+        {
+            "name": "Game Genie (USA, Europe) (Program)",
+            "description": "Game Genie (USA, Europe) (Program)"
+        },
+        {
+            "name": "Game Genie (USA, Europe) (Rev A) (Program)",
+            "description": "Game Genie (USA, Europe) (Rev A) (Program)"
+        },
+        {
+            "name": "Game Toshokan (Japan) (Rev A) (Program)",
+            "description": "Game Toshokan (Japan) (Rev A) (Program)"
         },
         {
             "name": "Garfield - Caught in the Act (USA, Europe)",
@@ -2788,6 +2804,10 @@
             "description": "Mega 6 Vol. 3 (Europe)"
         },
         {
+            "name": "Mega Anser (Japan) (Program)",
+            "description": "Mega Anser (Japan) (Program)"
+        },
+        {
             "name": "Mega Bomberman (Europe, Korea)",
             "description": "Mega Bomberman (Europe, Korea)"
         },
@@ -2842,6 +2862,10 @@
         {
             "name": "Mega-lo-Mania (France)",
             "description": "Mega-lo-Mania (France)"
+        },
+        {
+            "name": "MegaNet (Brazil) (Program)",
+            "description": "MegaNet (Brazil) (Program)"
         },
         {
             "name": "MegaPanel (Japan)",
@@ -4120,6 +4144,34 @@
             "description": "Second Samurai (Europe)"
         },
         {
+            "name": "Sega Art Tool (Japan) (En) (Program)",
+            "description": "Sega Art Tool (Japan) (En) (Program)"
+        },
+        {
+            "name": "Sega Channel (Japan) (v2.11) (Earlier) (Program)",
+            "description": "Sega Channel (Japan) (v2.11) (Earlier) (Program)"
+        },
+        {
+            "name": "Sega Channel (Japan) (v2.11) (Program)",
+            "description": "Sega Channel (Japan) (v2.11) (Program)"
+        },
+        {
+            "name": "Sega Channel (USA) (General Instrument) (Program)",
+            "description": "Sega Channel (USA) (General Instrument) (Program)"
+        },
+        {
+            "name": "Sega Channel (USA) (Scientific Atlanta) (Program)",
+            "description": "Sega Channel (USA) (Scientific Atlanta) (Program)"
+        },
+        {
+            "name": "Sega Channel Demo (USA) (Program)",
+            "description": "Sega Channel Demo (USA) (Program)"
+        },
+        {
+            "name": "Sega Sound Tool (USA) (v2.2) (Program)",
+            "description": "Sega Sound Tool (USA) (v2.2) (Program)"
+        },
+        {
             "name": "Sega Sports 1 (Europe)",
             "description": "Sega Sports 1 (Europe)"
         },
@@ -5024,6 +5076,10 @@
             "description": "Tel-Tel Stadium (Japan)"
         },
         {
+            "name": "Telebradesco Residencia (Brazil) (Program)",
+            "description": "Telebradesco Residencia (Brazil) (Program)"
+        },
+        {
             "name": "Terminator, The (Europe)",
             "description": "Terminator, The (Europe)"
         },
@@ -5562,6 +5618,10 @@
         {
             "name": "Wonder Boy V - Monster World III (Japan, Korea)",
             "description": "Wonder Boy V - Monster World III (Japan, Korea)"
+        },
+        {
+            "name": "Wonder Library (Japan) (Program)",
+            "description": "Wonder Library (Japan) (Program)"
         },
         {
             "name": "World Championship Soccer II (Europe)",

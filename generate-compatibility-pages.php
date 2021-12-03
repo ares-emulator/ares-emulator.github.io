@@ -7,6 +7,40 @@
  *
  */
 
+$ignoredStrings = [
+    'global' => [
+        '[BIOS]',                                                       // Bios/Firmware
+        '[b]',                                                          // Bad Dumps
+        '(Beta', 'Beta)', '(Proto', '[Proto',                           // Prototypes
+        '(Unl)', '(Pirate)',                                            // Unlicensed Software
+        '(Demo', '(Sample', '[Demo',                                    // Demos
+        'Virtual Console)', 'Collection)', 'Switch Online)',            // Modern Digital Re-Releases
+        'Mini)',                                                        // Mini consoles
+        'Sega Ages)', 'Sega Channel)', 'SegaNet)',                      // SEGA Compilations
+    ],
+    'Nintendo - Super Nintendo Entertainment System' => [
+      '(Wii)',                                                          // Wii re-releases
+    ],
+    'Sega - Mega Drive - Genesis' => [
+      '(PC Rerelease)',                                                 // PC Versions
+    ],
+    'Sega - SG-1000' => [
+      'SC-3000',                                                        // SC-3000 software
+      'SF-7000',                                                        // SC-3000 add-on
+    ],
+    'SNK - Neo Geo' => [
+      '[Homebrew', '[Bootleg', 'bootleg)', '(bootleg',                  // Unofficial Software
+      'Hack)', 'hack)', '[hack', 'Hack]', 'EEZEZY)',                    // Hacks
+      'conversion)',                                                    // CD Conversion hacks
+      'Treasure of the Caribbean',                                      // Unreleased NeoCD game
+      'Kof\'98 Mix (2011-10-01)',                                       // Unmarked hack
+    ],
+    'Nintendo - Nintendo 64' => [
+      '(iQue)',                                                         // iQue Player is not 100% n64 compatible
+    ]
+];
+
+
 function progressBar($done, $total) {
     $perc = floor(($done / $total) * 100);
     $left = 100 - $perc;
@@ -54,62 +88,9 @@ foreach ($dir as $fileinfo) {
         foreach($xml->game as $game) {
             $completed++;
 
-            // Attempt to skip bios files and other non-game content
-            $ignoredStrings = [
-                '[BIOS]',       // Bios/Firmware
-                '[Prototype', // Neo Geo
-                '[Homebrew', // Neo Geo
-                '[Demo', // Neo Geo
-                '[Bootleg', // Neo Geo
-                '[Hack', // Neo Geo
-                '(Demo',
-                '(Sample',
-                '(Beta',
-                '(beta', // Neo Geo
-                'Beta)',
-                '(Proto',
-                '(Program)',
-                '(Pirate)',
-                '(bootleg', // Neo Geo
-                '[hack', // Neo Geo
-                '(hack', // Neo Geo
-                'hack)', // Neo Geo
-                'Hack)', // Neo Geo
-                'EEZEZY)', // Neo Geo
-                '(Unl)',
-                '(Test Program)',
-                // Exclude emulated re-release roms
-                '(Sega Channel)',
-                '(SegaNet)',
-                '(Sega Ages)',
-                '(PC Rerelease)',
-                '(Wii',
-                'Wii)',
-                '(Virtual Console',
-                'Virtual Console)',
-                '(iQue)',
-                'Switch Online)',
-                'Collection)',
-                'Mini)',
-                // TOSEC
-                '[a',       // 'alternate' sets
-                '[b',       // known bad dumps
-                '[f',       // fixed (modified)
-                '[h',       // hacks
-                '[m',       // modified
-                '[cr',      // cracked copies
-                '[t',       // Trainer applied and/or translation [tr]
-                '[u',       // Under-dumped
-                '[o',       // Over-dumped
-                '[v',       // infected with virus
-                '[p',       // remove private copies
-                '[re-release]',
-                // Atari,
-                '(Atari Anthology)',
-                'Atari 7800 Development Card (USA)'
-            ];
+            $combinedIgnoreList = array_merge($ignoredStrings['global'], $ignoredStrings[$info['header']['name']] ?? [], $ignoredStrings[$info['header']['homepage']] ?? []);
 
-            foreach($ignoredStrings as $string) {
+            foreach($combinedIgnoreList as $string) {
                 if (str_contains($game['name'], $string)) { continue 2; }
                 if (str_contains($game['description'], $string)) continue 2;
                 if (str_contains($game->description, $string)) continue 2;

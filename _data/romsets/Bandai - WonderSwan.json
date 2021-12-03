@@ -20,6 +20,10 @@
             "description": "Bakusou Dekotora Densetsu for WonderSwan (Japan)"
         },
         {
+            "name": "BANDAI Default Splash Screen (Japan) (Program)",
+            "description": "BANDAI Default Splash Screen (Japan) (Program)"
+        },
+        {
             "name": "beat mania for WonderSwan (Japan)",
             "description": "beat mania for WonderSwan (Japan)"
         },
@@ -506,6 +510,46 @@
         {
             "name": "WonderSwan Handy Sonar (Japan) (Rev 2)",
             "description": "WonderSwan Handy Sonar (Japan) (Rev 2)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.0.0) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.0.0) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.0.2) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.0.2) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.0.3) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.0.3) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.1.1) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.1.1) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.1.2) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.1.2) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.1.3) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.1.3) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.1.4) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.1.4) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.1.5) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.1.5) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.1.6b1) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.1.6b1) (Program)"
+        },
+        {
+            "name": "WonderWitch (Japan) (FreyaOS 1.2.0) (Program)",
+            "description": "WonderWitch (Japan) (FreyaOS 1.2.0) (Program)"
         }
     ]
 }
