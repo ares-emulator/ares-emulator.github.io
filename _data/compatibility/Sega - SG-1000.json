@@ -861,9 +861,9 @@
       "version": "v124"
     },
     "Terebi Oekaki (Japan, Taiwan) (Program)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v127"
+      "status": "Partially Working",
+      "notes": "Requires \"Sega graphics board\"",
+      "version": "v126"
     },
     "TwinBee (Taiwan)": {
       "status": "Working",
