@@ -1801,7 +1801,7 @@
       "version": "v126"
     },
     "Kirby 64 - The Crystal Shards (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
@@ -1851,52 +1851,52 @@
       "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
       "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
       "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
       "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
       "version": "v126"
     },
     "Legend of Zelda, The - Majora's Mask (USA)": {
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
+      "version": "v126"
+    },
+    "Legend of Zelda, The - Majora's Mask (USA) (GameCube)": {
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
+      "version": "v126"
+    },
+    "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)": {
+      "status": "Not Working",
+      "notes": "Black screen",
+      "version": "v126"
+    },
+    "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)": {
       "status": "Working",
       "notes": "",
       "version": "v126"
     },
-    "Legend of Zelda, The - Majora's Mask (USA) (GameCube)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
-    },
-    "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
-    },
-    "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
-    },
     "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
@@ -1906,12 +1906,12 @@
       "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
@@ -1921,17 +1921,17 @@
       "version": "v124"
     },
     "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug) (GameCube)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Not Working",
+      "notes": "Black screen",
       "version": "v126"
     },
     "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
@@ -4521,42 +4521,42 @@
       "version": "v126"
     },
     "Zelda no Densetsu - Mujura no Kamen (Japan)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
       "version": "v126"
     },
     "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
       "version": "v126"
     },
     "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)": {
-      "status": "Unknown",
-      "notes": "",
+      "status": "Partially Working",
+      "notes": "Savedata doesn't persist",
       "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },

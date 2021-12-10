@@ -2191,29 +2191,29 @@
       "version": "v124"
     },
     "Gadget Twins (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gaiares (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gain Ground (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gain Ground (Japan) (En)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gain Ground (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Galaxy Force II (Japan) (En)": {
       "status": "Unknown",
@@ -2231,19 +2231,19 @@
       "version": "v124"
     },
     "Game Genie (USA, Europe) (Program)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v127"
+      "status": "Partially Working",
+      "notes": "Doesn't allow booting a game",
+      "version": "v126"
     },
     "Game Genie (USA, Europe) (Rev A) (Program)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v127"
+      "status": "Partially Working",
+      "notes": "Doesn't allow booting a game",
+      "version": "v126"
     },
     "Game Toshokan (Japan) (Rev A) (Program)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v127"
+      "version": "v124"
     },
     "Garfield - Caught in the Act (USA, Europe)": {
       "status": "Unknown",
@@ -2351,9 +2351,9 @@
       "version": "v124"
     },
     "Golden Axe (World)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Golden Axe (World) (Rev A)": {
       "status": "Unknown",
@@ -2436,9 +2436,9 @@
       "version": "v124"
     },
     "Greendog - The Beached Surfer Dude! (USA, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Grind Stormer (USA)": {
       "status": "Unknown",
@@ -2456,19 +2456,19 @@
       "version": "v124"
     },
     "Gunstar Heroes (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gunstar Heroes (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gunstar Heroes (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gynoug (Europe)": {
       "status": "Unknown",
@@ -2481,9 +2481,9 @@
       "version": "v124"
     },
     "Hard Drivin' (World)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "HardBall '94 (USA, Europe)": {
       "status": "Unknown",
@@ -3061,14 +3061,14 @@
       "version": "v124"
     },
     "Krusty's Super Fun House (USA, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Krusty's Super Fun House (USA, Europe) (Rev A)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Kujaku Ou 2 - Geneijou (Japan)": {
       "status": "Unknown",
@@ -3261,9 +3261,9 @@
       "version": "v124"
     },
     "Lion King, The (World)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Lion King, The (World) (Disney Classic Games)": {
       "status": "Unknown",
@@ -3501,14 +3501,14 @@
       "version": "v127"
     },
     "Mega Bomberman (Europe, Korea)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Mega Bomberman (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Mega Games 2 (Europe)": {
       "status": "Unknown",
@@ -3596,14 +3596,14 @@
       "version": "v124"
     },
     "Michael Jackson's Moonwalker (Japan, USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Michael Jackson's Moonwalker (World) (Rev A)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Mick & Mack as the Global Gladiators (USA)": {
       "status": "Unknown",
@@ -4906,14 +4906,14 @@
       "version": "v124"
     },
     "Ristar (USA, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ristar - The Shooting Star (Japan, Korea)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Road Rash (Japan)": {
       "status": "Unknown",
@@ -4986,19 +4986,19 @@
       "version": "v124"
     },
     "Rocket Knight Adventures (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Rocket Knight Adventures (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Rocket Knight Adventures (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Rockman - Mega World (Japan)": {
       "status": "Unknown",
@@ -5316,9 +5316,9 @@
       "version": "v124"
     },
     "Shining Force (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Shining Force - Kamigami no Isan (Japan)": {
       "status": "Unknown",
@@ -5331,9 +5331,9 @@
       "version": "v124"
     },
     "Shining Force II (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Shining Force II - Inishie no Fuuin (Japan)": {
       "status": "Unknown",
