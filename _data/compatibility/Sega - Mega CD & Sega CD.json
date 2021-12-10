@@ -1531,9 +1531,9 @@
       "version": "v125"
     },
     "Sega Classics Arcade Collection (USA) (5-in-1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Sega Classics Arcade Collection - Limited Edition (Europe) (Rev A)": {
       "status": "Unknown",
@@ -1666,9 +1666,9 @@
       "version": "v125"
     },
     "Silpheed (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "SimEarth (Japan)": {
       "status": "Unknown",
@@ -1826,14 +1826,14 @@
       "version": "v125"
     },
     "Sonic CD (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Sonic CD (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Sonic CD (USA) (RE125)": {
       "status": "Unknown",
@@ -1846,9 +1846,9 @@
       "version": "v125"
     },
     "Sonic The Hedgehog CD (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "SoulStar (Europe) (En,Fr,De)": {
       "status": "Unknown",
@@ -1906,9 +1906,9 @@
       "version": "v125"
     },
     "Starblade (Japan)": {
-      "status": "Not Working",
-      "notes": "ares cannot get past this initial boot screen. at all. https://files.catbox.moe/btm653.png ",
-      "version": "v125"
+      "status": "Working",
+      "notes": "",
+      "version": "v126"
     },
     "Starblade (USA)": {
       "status": "Unknown",
