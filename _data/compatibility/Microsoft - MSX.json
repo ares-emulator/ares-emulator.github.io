@@ -6,9 +6,9 @@
       "version": "v126"
     },
     "10-Yard Fight (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "1942 (Japan)": {
       "status": "Working",
@@ -16,9 +16,9 @@
       "version": "v125"
     },
     "1942 (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "3-D Golf Simulation (Japan)": {
       "status": "Not Working",
@@ -26,14 +26,14 @@
       "version": "v126"
     },
     "3-D Golf Simulation (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "3-D Golf Simulation (Japan) (High Speed)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "3D Tennis (Japan)": {
       "status": "Not Working",
@@ -41,14 +41,14 @@
       "version": "v126"
     },
     "A.E. (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "A1 Spirit - The Way to Formula-1 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Major graphical corruption",
+      "version": "v126"
     },
     "Actman (Japan)": {
       "status": "Working",
@@ -56,9 +56,9 @@
       "version": "v125"
     },
     "Actman (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Adven' Chuta! (Japan)": {
       "status": "Not Working",
@@ -71,9 +71,9 @@
       "version": "v125"
     },
     "Albatros (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Alcazar - The Forgotten Fortress (Japan)": {
       "status": "Partially Working",
@@ -81,9 +81,9 @@
       "version": "v126"
     },
     "Alcazar - The Forgotten Fortress (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Requires keyboard",
+      "version": "v126"
     },
     "Alibaba and 40 Thieves (Japan)": {
       "status": "Working",
@@ -91,14 +91,14 @@
       "version": "v126"
     },
     "Alibaba and 40 Thieves (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Alibaba and 40 Thieves (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Alien 8 (Japan)": {
       "status": "Not Working",
@@ -106,59 +106,59 @@
       "version": "v125"
     },
     "Alien 8 (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Aliens - Alien 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "Reports 'No cartridge found'",
-      "version": "v125"
+      "version": "v126"
     },
     "Aliens - Alien 2 (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "Aliens - Alien 2 (Japan) (Alt 2)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "Alpha Roid (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "Alpha Roid (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Reports 'No cartridge found'",
+      "version": "v126"
     },
     "Alpha Squadron (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "American Truck (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "American Truck (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "American Truck (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Anaza - Kaleidoscope Special (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Angelo (Japan)": {
       "status": "Working",
@@ -166,24 +166,24 @@
       "version": "v125"
     },
     "Angelo (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Animal Land (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Broken text, requires keyboard",
+      "version": "v126"
     },
     "Antarctic Adventure (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Antarctic Adventure (Europe) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Antarctic Adventure (Japan)": {
       "status": "Working",
@@ -191,69 +191,69 @@
       "version": "v125"
     },
     "Anty (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Anty (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Aqua Polis SOS (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Aquattack (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Aramo (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Arkanoid (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Arkanoid (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Arkanoid (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Arkanoid (Japan) (Alt 3)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Athletic Ball (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Athletic Land (Japan)": {
       "status": "Partially Working",
-      "notes": "Hangs in main menu as keyboard isn't supported",
+      "notes": "Requires keyboard to start",
       "version": "v125"
     },
     "Athletic Land (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Requires keyboard to start",
+      "version": "v126"
     },
     "Attack Four Volley Ball (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "B.C.'s Quest (Japan)": {
       "status": "Not Working",
@@ -261,84 +261,84 @@
       "version": "v125"
     },
     "B.C.'s Quest (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Back Gammon (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Back Gammon (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Back to the Future (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Back to the Future (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Backgammon (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Balance (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Balance (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Balance (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Balance (Japan) (Alt 3)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Balance (Japan) (Alt 4)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Banana (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Not Working",
+      "notes": "Requires keyboard to start",
+      "version": "v126"
     },
     "Bank Panic (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bank Panic (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Basic Lessons 1 (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Basic Lessons 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Batman (Japan)": {
       "status": "Not Working",
@@ -346,144 +346,144 @@
       "version": "v125"
     },
     "Batten Tanuki no Daibouken (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Batten Tanuki no Daibouken (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Batten Tanuki no Daibouken (Japan) (v1.03)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Battle Cross (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Battleship Clapton II (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Battleship Clapton II (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Beach-Head (Europe)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Beam Rider (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Unable to start",
+      "version": "v126"
     },
     "Beam Rider (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Unable to start",
+      "version": "v126"
     },
     "Becky (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Corrupted Text",
+      "version": "v126"
     },
     "Becky (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Corrupted Text",
+      "version": "v126"
     },
     "Becky (Japan) (Alt 2)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Corrupted Text",
+      "version": "v126"
     },
     "Bee & Flower (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bee & Flower (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bee & Flower (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bifamu (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bifamu (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Binary Land (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Black Onyx II, The - Search for the Fire Crystal (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Black Onyx, The (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Blagger MSX (Europe) (Converted from Tape)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Blockade Runner (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boggy '84 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boggy '84 (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boggy '84 (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boing Boing (Spain)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bokosuka Wars (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bokosuka Wars (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bomber King (Japan)": {
       "status": "Unknown",
@@ -496,124 +496,124 @@
       "version": "v126"
     },
     "Bomberman Special (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boogie Woogi Jungle (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boogie Woogi Jungle (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boogie Woogi Jungle (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boomerang (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boomerang (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Borfesu (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bosconian (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bosconian (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bosconian (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bouken Roman - Dota (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bouken Roman - Dota (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Boulder Dash (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bouncing Block (Spain)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Unable to start",
+      "version": "v126"
     },
     "Bouncing Block (Spain) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v125"
+      "status": "Partially Working",
+      "notes": "Unable to start",
+      "version": "v126"
     },
     "Brain, The (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Break In (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Break Out (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Bruce Lee (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Burgertime (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Buru To Marty Kikiippatsu - Inspecteur Z (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Butam Pants (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Butam Pants (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "Butam Pants (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v125"
+      "version": "v126"
     },
     "C-So! (Japan)": {
       "status": "Unknown",
