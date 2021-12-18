@@ -46,9 +46,9 @@
       "version": "v126"
     },
     "Arctic - Active Rail Playing (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'No Cartridge Found'",
+      "version": "v126"
     },
     "Arkanoid II - Revenge of Doh (Japan)": {
       "status": "Partially Working",
@@ -76,14 +76,14 @@
       "version": "v126"
     },
     "Bubble Bobble (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'No Cartridge Found'",
+      "version": "v126"
     },
     "Cheese 2 (Japan) (Program)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v127"
+      "status": "Not Working",
+      "notes": "Reports 'No Cartridge Found'",
+      "version": "v126"
     },
     "Cockpit, The (Japan)": {
       "status": "Not Working",
@@ -101,439 +101,439 @@
       "version": "v126"
     },
     "Daikoukai Jidai (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Black Screen",
+      "version": "v126"
     },
     "Daisenryaku MSX2 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'No Cartridge Found'",
+      "version": "v126"
     },
     "Darwin 4078 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Heavy graphics corruption",
+      "version": "v126"
     },
     "Darwin 4078 (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Heavy graphics corruption",
+      "version": "v126"
     },
     "Darwin 4078 (Japan) (Alt 2)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Heavy graphics corruption",
+      "version": "v126"
     },
     "Deep Forest (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Deep Forest (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Dires - Giger Loop (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Black screen",
+      "version": "v126"
     },
     "Double Vision (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Doesn't boot",
+      "version": "v126"
     },
     "Dragon Buster (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted Graphics",
+      "version": "v126"
     },
     "Dragon Quest (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted Graphics",
+      "version": "v126"
     },
     "Dragon Quest II (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Dragon Quest II (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Dragon Slayer IV - Drasle Family (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted Graphics",
+      "version": "v126"
     },
     "Dragon Slayer IV - Drasle Family (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted Graphics",
+      "version": "v126"
     },
     "Dragon Slayer Jr. - Romancia (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'no cartridge found'",
+      "version": "v126"
     },
     "Druid (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Druid (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Dynamite Bowl (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'no cartridge found'",
+      "version": "v126"
     },
     "Dynamite Bowl (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'no cartridge found'",
+      "version": "v126"
     },
     "Eidolon, The (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'no cartridge found'",
+      "version": "v126"
     },
     "Elthlead (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Reports 'SRAM IS BROKEN' graphical glitches",
+      "version": "v126"
     },
     "Empereur, L' (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Black Screen",
+      "version": "v126"
     },
     "Europe Sensen (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Black Screen",
+      "version": "v126"
     },
     "F-15 Strike Eagle (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Requires keyboard support",
+      "version": "v126"
     },
     "Famicle Parodic (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Lots of missing graphics",
+      "version": "v126"
     },
     "Family Billiards (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Reports 'no cartridge found'",
+      "version": "v126"
     },
     "Family Boxing - MSX Title Match (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Fantasy Zone II - The Tears of Opa-Opa (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Final Mystery Murder Club - Satsujin Club (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Fire Ball (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Fleet Commander II - Koukon no Kaiiki (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gakuen Monogatari - High School Story (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ganbare Goemon! - Karakuri Douchuu (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Garakuta (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Garyuu Ou (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted Graphics",
+      "version": "v126"
     },
     "Garyuu Ou (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted Graphics",
+      "version": "v126"
     },
     "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gekitotsu Pennant Race 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Gekitotsu Pennant Race 2 (Japan) (English Menu)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Girly Block (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Hacker (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Hai no Majutsushi (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Hal Note (Japan) (Program)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v127"
+      "version": "v126"
     },
     "Han Seimei Senki Andorogynus (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Han Seimei Senki Andorogynus (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Hard Ball (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Requires keyboard",
+      "version": "v126"
     },
     "Heroes of the Lance (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Requires keyboard",
+      "version": "v126"
     },
     "Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "High School! Kimengumi (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Hinotori - Houou Hen (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Broken scrolling",
+      "version": "v126"
     },
     "Hinotori - Houou Hen (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Broken scrolling",
+      "version": "v126"
     },
     "Hinotori - Houou Hen (Japan) (Alt 2)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Broken scrolling",
+      "version": "v126"
     },
     "Hole in One Special (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Hole in One Special (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Hydlide 3 - The Space Memories (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Not Working",
+      "notes": "Black screen",
+      "version": "v126"
     },
     "Ide Yousuke Meijin no Jissen Mahjong (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ikari (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ikari (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Inindou - Datou Nobunaga (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ishin no Arashi (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Jansei (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Jansei (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Japanese MSX-Write II (Japan) (Program)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v127"
+      "version": "v126"
     },
     "Kempelen Chess (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Kiki Kaikai (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "King Kong 2 - Yomigaeru Densetsu (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Kisei (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Kitahei (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Koronis Rift (Europe)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Labyrinth (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted text/broken graphics",
+      "version": "v126"
     },
     "Labyrinth (Japan) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Corrupted text/broken graphics",
+      "version": "v126"
     },
     "Lupin Sansei - Babylon no Ougon Densetsu (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Lupin Sansei - Cagliostro no Shiro (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Mad Rider (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Mad Rider (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Maison Ikkoku - Omoide no Photograph (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Malaya no Hibou (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Metal Gear (Europe)": {
       "status": "Partially Working",
@@ -541,9 +541,9 @@
       "version": "v126"
     },
     "Metal Gear (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Metal Gear 2 - Solid Snake (Japan)": {
       "status": "Partially Working",
@@ -551,419 +551,419 @@
       "version": "v126"
     },
     "Mirai (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Mississippi Satsujinjiken (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Moero!! Nettou Yakyuu '88 (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Monmon Kaibutsu (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Nekketsu Juudou (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Nekketsu Juudou (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ninja-kun - Asura no Shou (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Nobunaga no Yabou - Bushou Fuuun Roku (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Nobunaga no Yabou - Sengoku Gunyuuden (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Nobunaga no Yabou - Zenkoku Ban (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ogre (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ogre (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ouke no Tani - El Giza no Fuuin (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan)": {
-      "status": "Unknown",
+      "status": "Partially Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Out Run (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Pac-Mania (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Graphical Glitches",
+      "version": "v126"
     },
     "Pachi Pro Densetsu (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Broken Graphics",
+      "version": "v126"
     },
     "Penguin-kun Wars 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Penguin-kun Wars 2 (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Predator (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Pro Yakyuu Family Stadium - Pennant Race (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Pro Yakyuu Fan - Telenet Stadium (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Professional Mahjong Gokuu (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Project A2 - Shijousaidai no Hyouteki (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Quarth (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Quarth (Korea)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Quinpl (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Rastan Saga (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Relics (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Replicart (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Return of Ishtar, The (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Return of Jelda (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Rick to Mick no Daibouken (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Royal Blood (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Sangokushi (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Sangokushi II (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Scramble Formation (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Seikima II Special - Akuma no Gyakushuu (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Shanghai (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Shiryou Sensen - War of the Dead (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Space Manbow (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Star Virgin (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Star Virgin (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Strategic Mars (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Suikoden - Tenmei no Chikai (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Super Daisenryaku (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Super Load Runner (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Super Rambo Special (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Super Runner (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Super Tritorn (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Synthe Saurus (Japan) (Program)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v127"
+      "version": "v126"
     },
     "Taiyou no Shinden - Asteka II (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Tanikawa Hiroshi no Shougi Shinan 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Teitoku no Ketsudan (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Tengoku Yoitoko (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Tetris (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Topple Zip (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Treasure of Usas, The (Japan, Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Working",
+      "notes": "Minor graphical glitches",
+      "version": "v126"
     },
     "Treasure of Usas, The (Japan, Europe) (Alt 1)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Working",
+      "notes": "Minor graphical glitches",
+      "version": "v126"
     },
     "Tsurikichi Sanpei - Blue Marine Hen (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Tsurikichi Sanpei - Tsuri Sennin Hen (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Ultima Exodus (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Urusei Yatsura - Koi no Survival Birthday (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Vampire Killer (Japan, Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Vampire Killer (Japan, Europe) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Vampire Killer (Japan, Europe) (Alt 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Vampire Killer (Japan, Europe) (Alt 3)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Victorious Nine II - Koukou Yakyuu Hen (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Wizardry (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Woody Poco (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Woody Poco (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Xevious - Fardraut Saga (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Xevious - Fardraut Saga (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Yaksa (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Yuurei-kun (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v124"
+      "status": "Partially Working",
+      "notes": "Graphical Glitches",
+      "version": "v126"
     },
     "Zanac Ex (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Zanac Ex (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Zoids - Chuuou Tairiku no Tatakai (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Zombie Hunter (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Zukkoke Yajikita Onmitsu Douchuu (Japan)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     },
     "Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1)": {
-      "status": "Unknown",
+      "status": "Not Working",
       "notes": "",
-      "version": "v124"
+      "version": "v126"
     }
   }
 }
