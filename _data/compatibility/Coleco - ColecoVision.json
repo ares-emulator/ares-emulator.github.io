@@ -656,9 +656,9 @@
       "version": "v124"
     },
     "Super Sketch - Sketch Master (USA) (Program)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v127"
+      "status": "Not Working",
+      "notes": "Drawing board not emulated. ",
+      "version": "v126"
     },
     "Tank Wars (Europe)": {
       "status": "Working",
