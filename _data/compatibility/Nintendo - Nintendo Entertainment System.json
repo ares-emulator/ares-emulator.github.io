@@ -346,8 +346,8 @@
       "version": "v127"
     },
     "Akira (Japan)": {
-      "status": "Not Working",
-      "notes": "Hangs after starting game",
+      "status": "Working",
+      "notes": "",
       "version": "v127"
     },
     "Akuma no Shoutaijou (Japan)": {
@@ -2831,8 +2831,8 @@
       "version": "v127"
     },
     "Dusty Diamond's All-Star Softball (USA)": {
-      "status": "Not Working",
-      "notes": "hangs after field select",
+      "status": "Working",
+      "notes": "",
       "version": "v127"
     },
     "Dynablaster (Europe)": {
@@ -4476,8 +4476,8 @@
       "version": "v127"
     },
     "Hudson Hawk (USA)": {
-      "status": "Partially Working",
-      "notes": "sprite gfx corruption ingame",
+      "status": "Working",
+      "notes": "",
       "version": "v127"
     },
     "Hunt for Red October, The (Europe)": {
@@ -8581,8 +8581,8 @@
       "version": "v127"
     },
     "SD Battle Oozumou - Heisei Hero Basho (Japan)": {
-      "status": "Partially Working",
-      "notes": "gfx sprite corruption",
+      "status": "Working",
+      "notes": "",
       "version": "v127"
     },
     "SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan)": {
@@ -9101,8 +9101,8 @@
       "version": "v127"
     },
     "Softball Tengoku (Japan)": {
-      "status": "Not Working",
-      "notes": "hangs after stadium select",
+      "status": "Working",
+      "notes": "",
       "version": "v127"
     },
     "Solar Jetman - Hunt for the Golden Warpship (Europe)": {
