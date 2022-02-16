@@ -5,6 +5,11 @@ title: ares
 
 <ol><li><a href='index.html'><span>ares</span></a></li></ol>
 
+## New Website
+The ares website is now located at https://ares-emu.net. Please update your bookmarks.
+
+These pages will remain hosted on GitHub for historical archiving, but are no longer being maintained.
+
 ## ares
 **ares** is a multi-system emulator that began development on October 14th, 2004.
 
