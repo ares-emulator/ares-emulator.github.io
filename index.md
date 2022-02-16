@@ -6,7 +6,7 @@ title: ares
 <ol><li><a href='index.html'><span>ares</span></a></li></ol>
 
 ## New Website
-The ares website is now located at https://ares-emu.net. Please update your bookmarks.
+The ares website is now located at [https://ares-emu.net](https://ares-emu.net). Please update your bookmarks.
 
 These pages will remain hosted on GitHub for historical archiving, but are no longer being maintained.
 
