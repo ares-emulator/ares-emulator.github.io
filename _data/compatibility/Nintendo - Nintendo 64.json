@@ -566,14 +566,14 @@
       "version": "v124"
     },
     "Chameleon Twist 2 (Europe)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
+      "status": "Working",
+      "notes": "Controller pack unavailable",
+      "version": "v127"
     },
     "Chameleon Twist 2 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
+      "status": "Working",
+      "notes": "Controller pack unavailable",
+      "version": "v127"
     },
     "Chameleon Twist 2 (USA)": {
       "status": "Working",
@@ -581,9 +581,9 @@
       "version": "v124"
     },
     "Charlie Blast's Territory (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Charlie Blast's Territory (USA)": {
       "status": "Working",
@@ -591,9 +591,9 @@
       "version": "v124"
     },
     "Chopper Attack (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Chopper Attack (USA)": {
       "status": "Working",
@@ -601,59 +601,59 @@
       "version": "v124"
     },
     "Choro Q 64 (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
+      "status": "Working",
+      "notes": "Controller pack unavailable",
+      "version": "v127"
     },
     "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Chou Kuukan Nighter Pro Yakyuu King (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Chou Snobo Kids (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "City-Tour GP - Zen-Nihon GT Senshuken (Japan)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
+      "status": "Not Working",
+      "notes": "Black screen",
+      "version": "v127"
     },
     "Clay Fighter - Sculptor's Cut (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Clay Fighter 63 1-3 (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Clay Fighter 63 1-3 (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Command & Conquer (Europe) (En,Fr)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Command & Conquer (Germany)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Command & Conquer (USA)": {
       "status": "Working",
@@ -661,7 +661,7 @@
       "version": "v124"
     },
     "Conker's Bad Fur Day (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
@@ -681,54 +681,54 @@
       "version": "v124"
     },
     "Cruis'n USA (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Cruis'n USA (USA)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Cruis'n USA (USA) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Cruis'n USA (USA) (Rev 2)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Cruis'n World (Europe)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Cruis'n World (Europe) (Rev 1)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "Cruis'n World (USA)": {
       "status": "Working",
       "notes": "",
-      "version": "v124"
+      "version": "v127"
     },
     "Custom Robo (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "Custom Robo V2 (Japan)": {
-      "status": "Unknown",
+      "status": "Working",
       "notes": "",
       "version": "v126"
     },
     "CyberTiger (Europe)": {
       "status": "Unknown",
       "notes": "",
-      "version": "v126"
+      "version": "v127"
     },
     "CyberTiger (USA)": {
       "status": "Working",
@@ -3576,9 +3576,9 @@
       "version": "v126"
     },
     "Star Wars - Rogue Squadron (USA)": {
-      "status": "Unknown",
-      "notes": "",
-      "version": "v126"
+      "status": "Not Working",
+      "notes": "Crashes in the Factor 5 logo",
+      "version": "v127"
     },
     "Star Wars - Rogue Squadron (USA) (Rev 1)": {
       "status": "Not Working",
